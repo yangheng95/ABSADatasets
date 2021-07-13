@@ -13,6 +13,8 @@ Chinese: https://www.sciencedirect.com/science/article/abs/pii/S0950705118300972
 
 Twitter: https://dl.acm.org/doi/10.5555/2832415.2832437
 
+Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
+
 # Notice
 
 All datasets provided are for research only, we do not hold any Copyright of any datasets.

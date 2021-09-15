@@ -11797,7 +11797,7 @@ but O -999
 design B-ASP 2
 is O -999
 very O -999
-impressive😘. O -999
+impressive. O -999
 
 cloth B-ASP 0
 material I-ASP 0
@@ -12468,13 +12468,8 @@ length O -999
 i O -999
 never O -999
 expected O -999
-th O -999
-a B-ASP 2
-t O -999
 the O -999
-qu O -999
-a O -999
-lity O -999
+quality B-ASP 2
 of O -999
 this O -999
 product O -999
@@ -12482,20 +12477,13 @@ would O -999
 be O -999
 so O -999
 superior O -999
-a O -999
-nd O -999
-th O -999
-a O -999
-t O -999
+and O -999
+that O -999
 too O -999
 in O -999
 so O -999
-che O -999
-a O -999
-per O -999
-r O -999
-a O -999
-te. O -999
+cheaper O -999
+rate. O -999
 
 superb O -999
 material B-ASP 2
@@ -13523,15 +13511,9 @@ so O -999
 soft. O -999
 
 awesome O -999
-t O -999
-shi O -999
-r B-ASP 2
-t O -999
-g O -999
-r O -999
-eat O -999
-p O -999
-r O -999
+tshirt B-ASP 2
+great O -999
+pr O -999
 int O -999
 n O -999
 stuff. O -999
@@ -15810,8 +15792,7 @@ price. B-ASP 2
 the O -999
 priting B-ASP 0
 of I-ASP 0
-blac I-ASP 0
-k O -999
+black I-ASP 0
 t O -999
 is O -999
 not O -999
@@ -17128,21 +17109,13 @@ fabric O -999
 thank O -999
 you. O -999
 
-qual O -999
-i B-ASP 0
-ty O -999
-i O -999
-s O -999
+quality B-ASP 0
+is O -999
 good O -999
 but O -999
-s O -999
-i O -999
-ze O -999
-i O -999
-s O -999
-l O -999
-i O -999
-ttle O -999
+size O -999
+is O -999
+little O -999
 small. O -999
 
 as O -999
@@ -18281,8 +18254,7 @@ ordinary. O -999
 
 perfect O -999
 size B-ASP 2
-( O -999
-m) O -999
+(m) O -999
 , O -999
 delivery O -999
 was O -999
@@ -19825,7 +19797,7 @@ earlierly. O -999
 
 worst O -999
 service B-ASP 0
-that’s O -999
+that's O -999
 why O -999
 it O -999
 is O -999
@@ -19842,7 +19814,7 @@ arrived. O -999
 
 worst O -999
 service B-ASP -999
-that’s O -999
+that's O -999
 why O -999
 it O -999
 is O -999
@@ -19858,7 +19830,7 @@ not O -999
 arrived. O -999
 
 nice O -999
-shirt,, O -999
+shirt, O -999
 good O -999
 fabric B-ASP 2
 , O -999
@@ -19870,7 +19842,7 @@ not O -999
 good. O -999
 
 nice O -999
-shirt,, O -999
+shirt, O -999
 good O -999
 fabric B-ASP -999
 , O -999
@@ -19994,8 +19966,7 @@ and O -999
 fit B-ASP 2
 to O -999
 my O -999
-body O -999
-😎😎😎😎. O -999
+body. O -999
 
 one O -999
 star O -999

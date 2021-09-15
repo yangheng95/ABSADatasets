@@ -883,9 +883,8 @@ pixelation. O -999
 display B-ASP 2
 clarity I-ASP 2
 is O -999
-nice,, O -999
+nice, O -999
 sound B-ASP -999
-🔊 O -999
 is O -999
 good O -999
 till O -999
@@ -903,9 +902,8 @@ noise. O -999
 display B-ASP -999
 clarity I-ASP -999
 is O -999
-nice,, O -999
+nice, O -999
 sound B-ASP 1
-🔊 O -999
 is O -999
 good O -999
 till O -999
@@ -4056,7 +4054,7 @@ reflection. O -999
 wi-fi B-ASP 2
 is O -999
 good O -999
-👋. O -999
+. O -999
 
 service B-ASP 2
 of I-ASP 2
@@ -5831,7 +5829,7 @@ money O -999
 product, O -999
 thumbs O -999
 up O -999
-👍. O -999
+. O -999
 
 in O -999
 first O -999
@@ -5916,7 +5914,7 @@ money O -999
 product, O -999
 thumbs O -999
 up O -999
-👍. O -999
+. O -999
 
 in O -999
 first O -999
@@ -6001,7 +5999,7 @@ money O -999
 product, O -999
 thumbs O -999
 up O -999
-👍. O -999
+. O -999
 
 in O -999
 first O -999
@@ -6086,7 +6084,7 @@ money O -999
 product, O -999
 thumbs O -999
 up O -999
-👍. O -999
+. O -999
 
 in O -999
 first O -999
@@ -6171,7 +6169,7 @@ money O -999
 product, O -999
 thumbs O -999
 up O -999
-👍. O -999
+. O -999
 
 great O -999
 buy O -999
@@ -8931,9 +8929,7 @@ with O -999
 cheap O -999
 plastic. O -999
 
-🔊 O -999
 sound B-ASP 1
-🆗 O -999
 mode O -999
 only. O -999
 . O -999
@@ -10898,7 +10894,6 @@ clear. O -999
 
 picture B-ASP 2
 resolution I-ASP 2
-_ O -999
 4.8/5 O -999
 sound O -999
 system O -999
@@ -11698,14 +11693,14 @@ in O -999
 automation. O -999
 
 screen B-ASP 2
-/picture O -999
-is B-ASP -999
+picture B-ASP -999
+is O -999
 good. O -999
 . O -999
 
 screen B-ASP -999
-/picture O -999
-is B-ASP 2
+picture B-ASP 2
+is O -999
 good. O -999
 . O -999
 
@@ -12576,20 +12571,18 @@ good. O -999
 
 great O -999
 picture B-ASP 2
-qualit I-ASP 2
-y O -999
-good B-ASP -999
+quality I-ASP 2
+good O -999
 sound O -999
 for O -999
 a O -999
 room. O -999
 
 great O -999
-picture B-ASP -999
-qualit I-ASP -999
-y O -999
-good B-ASP 2
-sound O -999
+picture O -999
+quality O -999
+good O -999
+sound B-ASP 2
 for O -999
 a O -999
 room. O -999
@@ -13204,8 +13197,7 @@ all O -999
 the O -999
 quality B-ASP 1
 of I-ASP 1
-produc I-ASP 1
-t O -999
+product I-ASP 1
 is O -999
 average O -999
 and O -999
@@ -13604,8 +13596,7 @@ is O -999
 good O -999
 but O -999
 installation B-ASP 0
-servic I-ASP 0
-e O -999
+service I-ASP 0
 very O -999
 poor. O -999
 
@@ -13698,8 +13689,7 @@ seems O -999
 the O -999
 said O -999
 demo B-ASP 0
-persona I-ASP 0
-l O -999
+personal I-ASP 0
 does O -999
 not O -999
 have O -999
@@ -13725,8 +13715,7 @@ seems O -999
 the O -999
 said O -999
 demo B-ASP 0
-persona I-ASP -999
-l O -999
+personal I-ASP -999
 does O -999
 not O -999
 have O -999
@@ -13799,7 +13788,8 @@ Miracast O -999
 mirror O -999
 cast,) O -999
 image B-ASP 0
-/video B-ASP -999
+/ O -999
+video B-ASP -999
 quality I-ASP -999
 not O -999
 great O -999
@@ -13821,7 +13811,8 @@ Miracast O -999
 mirror O -999
 cast,) O -999
 image B-ASP -999
-/video B-ASP 0
+/ O -999
+video B-ASP 0
 quality I-ASP 0
 not O -999
 great O -999
@@ -15320,8 +15311,7 @@ any O -999
 stick O -999
 into O -999
 hdmi B-ASP 1
-por I-ASP 1
-t O -999
+port I-ASP 1
 and O -999
 your O -999
 tv O -999
@@ -19674,8 +19664,7 @@ of O -999
 delivery O -999
 he O -999
 was O -999
-awesome O -999
-👌, O -999
+awesome, O -999
 but O -999
 after O -999
 that O -999
@@ -19723,8 +19712,7 @@ of O -999
 delivery O -999
 he O -999
 was O -999
-awesome O -999
-👌, O -999
+awesome, O -999
 but O -999
 after O -999
 that O -999
@@ -30025,8 +30013,7 @@ to O -999
 time. O -999
 
 tv B-ASP 2
-displa I-ASP 2
-y O -999
+display I-ASP 2
 is O -999
 ultimate O -999
 in O -999
@@ -34149,8 +34136,8 @@ good. O -999
 
 the O -999
 picture B-ASP 2
-qualit I-ASP 2
-y, O -999
+quality I-ASP 2
+, O -999
 the O -999
 sound, O -999
 the O -999
@@ -35853,7 +35840,6 @@ audio I-ASP 0
 is O -999
 not O -999
 supported. O -999
-. O -999
 
 but O -999
 it's O -999
@@ -36378,7 +36364,7 @@ it O -999
 picture B-ASP 2
 quality I-ASP 2
 is O -999
-awesone😍😍😍😍😍. O -999
+awesone. O -999
 
 good O -999
 service, O -999
@@ -36405,7 +36391,7 @@ quality I-ASP 2
 very O -999
 good B-ASP -999
 sound I-ASP -999
-system,. O -999
+system. O -999
 
 Micromax O -999
 led O -999
@@ -36424,7 +36410,7 @@ quality I-ASP -999
 very O -999
 good B-ASP 2
 sound I-ASP 2
-system,. O -999
+system. O -999
 
 the O -999
 installation B-ASP 2
@@ -40498,8 +40484,7 @@ for O -999
 another O -999
 option O -999
 sound B-ASP 0
-qualit I-ASP 0
-y O -999
+quality I-ASP 0
 is O -999
 not O -999
 up O -999
@@ -40837,8 +40822,8 @@ satisfied O -999
 with O -999
 product O -999
 and O -999
-deliver B-ASP 2
-y. O -999
+delivery B-ASP 2
+. O -999
 
 tv O -999
 works O -999
@@ -42724,20 +42709,18 @@ less. O -999
 very O -999
 nice O -999
 picture B-ASP 2
-qlit I-ASP 2
-y O -999
-and B-ASP -999
-sound I-ASP -999
+qlity I-ASP 2
+and O -999
+sound O -999
 qlity O -999
 
 very O -999
 nice O -999
-picture B-ASP -999
-qlit I-ASP -999
-y O -999
-and B-ASP 2
-sound I-ASP 2
+picture O -999
 qlity O -999
+and O -999
+sound B-ASP 2
+qlity I-ASP 2
 
 very O -999
 nice O -999
@@ -43756,30 +43739,28 @@ mark. O -999
 
 # O -999
 sound B-ASP 2
-qualit I-ASP 2
-y O -999
+quality I-ASP 2
 is O -999
 really O -999
 great O -999
 as O -999
 well O -999
-# B-ASP -999
-wi-fi O -999
+# O -999
+wi-fi B-ASP -999
 connects O -999
 very O -999
 well. O -999
 
 # O -999
 sound B-ASP -999
-qualit I-ASP -999
-y O -999
+quality I-ASP -999
 is O -999
 really O -999
 great O -999
 as O -999
 well O -999
-# B-ASP 2
-wi-fi O -999
+# O -999
+wi-fi B-ASP 2
 connects O -999
 very O -999
 well. O -999
@@ -45425,8 +45406,8 @@ bad. O -999
 pros: O -999
 great O -999
 3d B-ASP 2
-experienc I-ASP 2
-e, O -999
+experience I-ASP 2
+, O -999
 almost O -999
 as O -999
 good O -999
@@ -45440,8 +45421,8 @@ amazing. O -999
 pros: O -999
 great O -999
 3d B-ASP -999
-experienc I-ASP -999
-e, O -999
+experience I-ASP -999
+, O -999
 almost O -999
 as O -999
 good O -999
@@ -45900,14 +45881,14 @@ picture B-ASP 1
 sound O -999
 mode O -999
 is O -999
-🆗. O -999
+. O -999
 
 picture O -999
 & O -999
 sound B-ASP 1
 mode I-ASP 1
 is O -999
-🆗. O -999
+. O -999
 
 tv B-ASP 1
 is O -999
@@ -47276,8 +47257,7 @@ one O -999
 drawback O -999
 usb B-ASP 0
 output I-ASP 0
-soun I-ASP 0
-d O -999
+sound I-ASP 0
 is O -999
 low. O -999
 
@@ -48944,7 +48924,6 @@ features I-ASP 2
 are O -999
 awesome. O -999
 
-🔊 O -999
 sound B-ASP 0
 may O -999
 be O -999
@@ -49869,8 +49848,7 @@ price O -999
 point. O -999
 
 display B-ASP 2
-qualit I-ASP 2
-y O -999
+quality I-ASP 2
 is O -999
 very O -999
 good, O -999
@@ -50126,8 +50104,8 @@ has O -999
 4 O -999
 small O -999
 speakers B-ASP 1
-( B-ASP -999
-quality O -999
+( O -999
+quality B-ASP -999
 is O -999
 ok). O -999
 
@@ -50136,8 +50114,8 @@ has O -999
 4 O -999
 small O -999
 speakers B-ASP -999
-( B-ASP 1
-quality O -999
+( O -999
+quality B-ASP 1
 is O -999
 ok). O -999
 
@@ -51389,8 +51367,7 @@ was O -999
 not O -999
 came O -999
 for O -999
-installatio B-ASP 0
-n O -999
+installation B-ASP 0
 and O -999
 didn't O -999
 get O -999
@@ -51398,8 +51375,8 @@ a O -999
 any O -999
 inf O -999
 about O -999
-installatio O -999
-n. O -999
+installation O -999
+. O -999
 
 tv B-ASP 0
 sound I-ASP 0
@@ -52882,8 +52859,7 @@ is O -999
 ok. O -999
 
 viewing B-ASP 0
-experienc I-ASP 0
-e O -999
+experience I-ASP 0
 is O -999
 very O -999
 bad. O -999
@@ -55077,35 +55053,24 @@ not O -999
 have O -999
 bluetooth O -999
 and O -999
-Mi B-ASP -999
-r B-ASP 2
-acast O -999
+Miracast B-ASP -999
 videos O -999
 get O -999
-st O -999
-r O -999
-uk O -999
+struk O -999
 at O -999
 times, O -999
 but O -999
-fo O -999
-r O -999
+for O -999
 this O -999
-p O -999
-r O -999
-ice O -999
+price B-ASP 2
 i O -999
 can O -999
 say O -999
 it O -999
 is O -999
-mo O -999
-r O -999
-e O -999
+more O -999
 than O -999
-wo O -999
-r O -999
-th. O -999
+worth. O -999
 
 coming O -999
 to O -999
@@ -55122,35 +55087,24 @@ not O -999
 have O -999
 bluetooth O -999
 and O -999
-Mi B-ASP 0
-r B-ASP -999
-acast O -999
+Miracast B-ASP 0
 videos O -999
 get O -999
-st O -999
-r O -999
-uk O -999
+struk O -999
 at O -999
 times, O -999
 but O -999
-fo O -999
-r O -999
+for O -999
 this O -999
-p O -999
-r O -999
-ice O -999
+price B-ASP -999
 i O -999
 can O -999
 say O -999
 it O -999
 is O -999
-mo O -999
-r O -999
-e O -999
+more O -999
 than O -999
-wo O -999
-r O -999
-th. O -999
+worth. O -999
 
 my O -999
 drawback O -999

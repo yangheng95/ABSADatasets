@@ -69,8 +69,7 @@ in O -999
 picture. O -999
 
 color B-ASP 2
-combinatio I-ASP 2
-n O -999
+combination I-ASP 2
 is O -999
 very O -999
 good. O -999
@@ -2121,7 +2120,7 @@ fabric B-ASP 2
 is O -999
 really O -999
 very O -999
-nice.👍🏻. O -999
+nice. O -999
 
 quality B-ASP 0
 is O -999
@@ -2167,57 +2166,33 @@ excellent O -999
 worth O -999
 of O -999
 the O -999
-price O -999
+price B-ASP -999
 ?. O -999
 
-imp O -999
-r B-ASP 2
-essive O -999
-se O -999
-r O -999
-vice O -999
+impressive O -999
+service B-ASP 2
 by O -999
-Flipka O -999
-r O -999
-t, O -999
-p B-ASP -999
-r O -999
-oduct O -999
+Flipkart, O -999
+product O -999
 is O -999
 excellent O -999
-wo O -999
-r O -999
-th O -999
+worth O -999
 of O -999
 the O -999
-p O -999
-r O -999
-ice O -999
+price B-ASP -999
 ?. O -999
 
-imp O -999
-r B-ASP -999
-essive O -999
-se O -999
-r O -999
-vice O -999
+impressive O -999
+service B-ASP -999
 by O -999
-Flipka O -999
-r O -999
-t, O -999
-p B-ASP 2
-r O -999
-oduct O -999
+Flipkart, O -999
+product O -999
 is O -999
 excellent O -999
-wo O -999
-r O -999
-th O -999
+worth O -999
 of O -999
 the O -999
-p O -999
-r O -999
-ice O -999
+price B-ASP 2
 ?. O -999
 
 so O -999
@@ -2589,8 +2564,7 @@ fitting B-ASP 2
 , O -999
 a O -999
 must O -999
-buy O -999
-😊. O -999
+buy. O -999
 
 colour B-ASP 0
 is O -999
@@ -3579,14 +3553,14 @@ fade. O -999
 
 the O -999
 fabric B-ASP 2
-/clothmaterial B-ASP -999
+clothmaterial B-ASP -999
 is O -999
 very O -999
 good. O -999
 
 the O -999
 fabric B-ASP -999
-/clothmaterial B-ASP 2
+clothmaterial B-ASP 2
 is O -999
 very O -999
 good. O -999
@@ -3854,21 +3828,14 @@ price B-ASP 2
 good O -999
 material B-ASP 2
 nice O -999
-cloth O -999
+cloth B-ASP -999
 soft. O -999
 
-g O -999
-o B-ASP 2
-o O -999
-d O -999
-material O -999
+good O -999
+material B-ASP -999
 nice O -999
-cl O -999
-o O -999
-th O -999
-s O -999
-o O -999
-ft. O -999
+cloth B-ASP 2
+soft. O -999
 
 color B-ASP 2
 looks O -999
@@ -4643,8 +4610,7 @@ not O -999
 good O -999
 the O -999
 cloth B-ASP 0
-materia I-ASP 0
-l O -999
+material I-ASP 0
 used O -999
 is O -999
 very O -999
@@ -4660,8 +4626,7 @@ and O -999
 good O -999
 quality B-ASP 2
 of I-ASP 2
-fabri I-ASP 2
-c O -999
+fabric I-ASP 2
 value O -999
 for O -999
 money. O -999

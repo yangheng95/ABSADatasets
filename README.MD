@@ -3,6 +3,8 @@ ATE, APC, Inference sets included
 
 ## Datasets source:
 
+MAMS https://github.com/siat-nlp/MAMS-for-ABSA
+
 SemEval 2014: https://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools
 
 SemEval 2015: https://alt.qcri.org/semeval2015/task12/index.php?id=data-and-tools

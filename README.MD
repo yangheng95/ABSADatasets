@@ -17,6 +17,12 @@ Twitter: https://dl.acm.org/doi/10.5555/2832415.2832437
 
 Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
 
+# Calling for dataset contribution
+We hope you can share your custom dataset or public dataset. If you want to, please contact me and we will help you.
+
+## Additional Note for ATEPC dataset
+Each data item can have mutiple aspects, but it can only have one polarity label. If a review does have mutiple aspects, please duplicate the review coresponding to a target aspect and cancel the polarity labels of other aspects.
+
 # Notice
 
 All datasets provided are for research only, we do not hold any Copyright of any datasets.

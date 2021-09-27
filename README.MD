@@ -13,6 +13,8 @@ SemEval 2016: https://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
 
 Chinese: https://www.sciencedirect.com/science/article/abs/pii/S0950705118300972?via%3Dihub
 
+Shampoo: brightgems@github
+
 Twitter: https://dl.acm.org/doi/10.5555/2832415.2832437
 
 Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility

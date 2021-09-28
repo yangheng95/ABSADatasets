@@ -1,19 +1,18 @@
-# ABSA datasets processed for [PyABSA](https://github.com/yangheng95/PyABSA)
-ATE, APC, Inference sets included
+# ABSA datasets for [PyABSA](https://github.com/yangheng95/PyABSA)
 
-# Dataset contribution
-We hope you can share your custom dataset or a availabel public dataset. If you want to, follow the contribution process:
-- Format your APC dataset according to our dataset format. (**Recommended. Once you did this, we can help you to finish other steps**)
-- Generate the inference dataset for APC / ATEPC task (**Optional**. The example is available at [here](https://github.com/yangheng95/PyABSA/blob/release/examples/aspect_polarity_classification/generate_inference_set.py))
-- Convert the APC dataset to ATEPC dataset, and move the transformed ATEPC datasets from apc_dataset to corresponding atepc_datasets. (**Optional**. The example is available at [here](https://github.com/yangheng95/PyABSA/blob/release/examples/aspect_term_extraction/convert_apc_set_to_atepc_set.py) )
-- Register your dataset in PyABSA. (**Optional**. Register at [here](https://github.com/yangheng95/PyABSA/blob/3238f319f6ee4938d728ed6ae61eb98b4753311a/pyabsa/functional/dataset/dataset_manager.py#L32))
+## Dataset contribution
 
-## Additional note for ATEPC dataset
-Each data item can have mutiple aspects, but it can only have one polarity label. If a review does have mutiple aspects, please duplicate the review coresponding to a target aspect and cancel the polarity labels of other aspects.
+We hope you can share your custom dataset or a available public dataset. If you want to, follow these steps:
 
-# Notice
+- Format your APC dataset according to our dataset format. (**Recommended. Once you finoshed this step, we can help you to finish other steps**)
+- Generate the inference dataset for APC / ATEPC task (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/examples/aspect_polarity_classification/generate_inference_set.py))
+- Convert the APC dataset to ATEPC dataset, and move the transformed ATEPC datasets from apc_dataset to corresponding atepc_datasets. (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/examples/aspect_term_extraction/convert_apc_set_to_atepc_set.py) )
+- Register your dataset in PyABSA. (**Optional**. Register [here](https://github.com/yangheng95/PyABSA/blob/3238f319f6ee4938d728ed6ae61eb98b4753311a/pyabsa/functional/dataset/dataset_manager.py#L32))
 
-All datasets provided are for research only, we do not hold any Copyright of any datasets.
+
+## Notice
+
+All datasets provided are for research only, we do not hold any Copyright of any datasets. These datasets follow their original licenses (if any).
 
 ## Datasets source:
 

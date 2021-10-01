@@ -2,8 +2,8 @@
 不 O -999
 错 O -999
 的 O -999
-课 B-ASP Postive
-程 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
 可 O -999
 惜 O -999
 课 O -999
@@ -69,9 +69,9 @@ PPT O -999
 课 O -999
 程 O -999
 的 O -999
-连 B-ASP Postive
-贯 I-ASP Postive
-性 I-ASP Postive
+连 B-ASP Positive
+贯 I-ASP Positive
+性 I-ASP Positive
 非 O -999
 常 O -999
 好 O -999
@@ -117,8 +117,8 @@ PPT O -999
 朱 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 的 O -999
 非 O -999
 常 O -999
@@ -168,8 +168,8 @@ PPT O -999
 啊 O -999
 每 O -999
 次 O -999
-考 B-ASP Postive
-试 I-ASP Postive
+考 B-ASP Positive
+试 I-ASP Positive
 都 O -999
 是 O -999
 考 O -999
@@ -307,8 +307,8 @@ ppt O -999
 你 O -999
 全 O -999
 面 O -999
-了 B-ASP Postive
-解 I-ASP Postive
+了 B-ASP Positive
+解 I-ASP Positive
 和 O -999
 认 O -999
 识 O -999
@@ -430,8 +430,8 @@ ppt O -999
 过 O -999
 程 O -999
 很 O -999
-实 B-ASP Postive
-用 I-ASP Postive
+实 B-ASP Positive
+用 I-ASP Positive
 很 O -999
 赞 O -999
 喜 O -999
@@ -441,8 +441,8 @@ ppt O -999
 课 O -999
 程 O -999
 
-常 B-ASP Postive
-识 I-ASP Postive
+常 B-ASP Positive
+识 I-ASP Positive
 通 O -999
 俗 O -999
 性 O -999
@@ -483,8 +483,8 @@ ppt O -999
 区 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 清 O -999
 楚 O -999
 深 O -999
@@ -508,10 +508,10 @@ ppt O -999
 烈 O -999
 推 O -999
 荐 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 理 O -999
 清 O -999
 人 O -999
@@ -950,10 +950,10 @@ ppt O -999
 嘻 O -999
 
 尹 O -999
-老 B-ASP Postive
-师 I-ASP Postive
-上 I-ASP Postive
-课 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
+上 I-ASP Positive
+课 I-ASP Positive
 认 O -999
 真 O -999
 负 O -999
@@ -1160,8 +1160,8 @@ pdf O -999
 的 O -999
 生 O -999
 动 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 中 O -999
 学 O -999
 习 O -999
@@ -1292,10 +1292,10 @@ pdf O -999
 的 O -999
 兴 O -999
 趣 O -999
-视 B-ASP Postive
-频 I-ASP Postive
-时 I-ASP Postive
-间 I-ASP Postive
+视 B-ASP Positive
+频 I-ASP Positive
+时 I-ASP Positive
+间 I-ASP Positive
 大 O -999
 概 O -999
 在 O -999
@@ -1405,8 +1405,8 @@ pdf O -999
 课 O -999
 程 O -999
 很 O -999
-轻 B-ASP Postive
-松 I-ASP Postive
+轻 B-ASP Positive
+松 I-ASP Positive
 
 少 O -999
 了 O -999
@@ -1417,10 +1417,10 @@ pdf O -999
 主 O -999
 完 O -999
 成 O -999
-作 B-ASP Postive
-业 I-ASP Postive
-时 I-ASP Postive
-限 I-ASP Postive
+作 B-ASP Positive
+业 I-ASP Positive
+时 I-ASP Positive
+限 I-ASP Positive
 长 O -999
 真 O -999
 的 O -999
@@ -1506,8 +1506,8 @@ pdf O -999
 音 I-ASP -999
 清 O -999
 晰 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 事 B-ASP -999
@@ -1615,10 +1615,10 @@ pdf O -999
 例 I-ASP -999
 生 O -999
 动 O -999
-层 B-ASP Postive
-次 I-ASP Postive
-分 I-ASP Postive
-明 I-ASP Postive
+层 B-ASP Positive
+次 I-ASP Positive
+分 I-ASP Positive
+明 I-ASP Positive
 通 O -999
 俗 O -999
 易 O -999
@@ -1704,8 +1704,8 @@ pdf O -999
 正 I-ASP -999
 腔 I-ASP -999
 圆 I-ASP -999
-语 B-ASP Postive
-音 I-ASP Postive
+语 B-ASP Positive
+音 I-ASP Positive
 清 O -999
 晰 O -999
 内 B-ASP -999
@@ -1813,8 +1813,8 @@ pdf O -999
 容 I-ASP -999
 丰 O -999
 富 O -999
-事 B-ASP Postive
-例 I-ASP Postive
+事 B-ASP Positive
+例 I-ASP Positive
 生 O -999
 动 O -999
 层 B-ASP -999
@@ -1902,10 +1902,10 @@ pdf O -999
 来 O -999
 讲 O -999
 是 O -999
-字 B-ASP Postive
-正 I-ASP Postive
-腔 I-ASP Postive
-圆 I-ASP Postive
+字 B-ASP Positive
+正 I-ASP Positive
+腔 I-ASP Positive
+圆 I-ASP Positive
 语 B-ASP -999
 音 I-ASP -999
 清 O -999
@@ -1999,10 +1999,10 @@ pdf O -999
 老 O -999
 师 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
-形 I-ASP Postive
-式 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
+形 I-ASP Positive
+式 I-ASP Positive
 唯 O -999
 美 O -999
 听 O -999
@@ -2068,8 +2068,8 @@ pdf O -999
 老 O -999
 师 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 受 O -999
 益 O -999
 匪 O -999
@@ -2183,10 +2183,10 @@ pdf O -999
 欢 O -999
 这 O -999
 种 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 
 对 O -999
 于 O -999
@@ -2219,8 +2219,8 @@ pdf O -999
 中 O -999
 说 O -999
 明 O -999
-难 B-ASP Postive
-度 I-ASP Postive
+难 B-ASP Positive
+度 I-ASP Positive
 不 O -999
 大 O -999
 无 O -999
@@ -2239,10 +2239,10 @@ pdf O -999
 且 O -999
 充 O -999
 实 O -999
-邮 B-ASP Postive
-票 I-ASP Postive
-绘 I-ASP Postive
-图 I-ASP Postive
+邮 B-ASP Positive
+票 I-ASP Positive
+绘 I-ASP Positive
+图 I-ASP Positive
 精 O -999
 美 O -999
 可 O -999
@@ -2328,9 +2328,9 @@ pdf O -999
 颖 O -999
 很 O -999
 有 O -999
-知 B-ASP Postive
-识 I-ASP Postive
-量 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
+量 I-ASP Positive
 推 O -999
 荐 O -999
 
@@ -2342,8 +2342,8 @@ pdf O -999
 识 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 很 O -999
 好 O -999
 而 O -999
@@ -2385,10 +2385,10 @@ pdf O -999
 常 O -999
 喜 O -999
 欢 O -999
-倍 B-ASP Postive
-速 I-ASP Postive
-播 I-ASP Postive
-放 I-ASP Postive
+倍 B-ASP Positive
+速 I-ASP Positive
+播 I-ASP Positive
+放 I-ASP Positive
 因 O -999
 为 O -999
 可 O -999
@@ -2428,10 +2428,10 @@ pdf O -999
 呢 O -999
 课 O -999
 程 O -999
-系 B-ASP Postive
-统 I-ASP Postive
-全 I-ASP Postive
-面 I-ASP Postive
+系 B-ASP Positive
+统 I-ASP Positive
+全 I-ASP Positive
+面 I-ASP Positive
 学 O -999
 生 O -999
 可 O -999
@@ -2461,8 +2461,8 @@ pdf O -999
 满 O -999
 意 O -999
 且 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 认 O -999
 真 O -999
 负 O -999
@@ -2474,10 +2474,10 @@ pdf O -999
 多 O -999
 中 O -999
 医 O -999
-实 B-ASP Postive
-用 I-ASP Postive
-知 I-ASP Postive
-识 I-ASP Postive
+实 B-ASP Positive
+用 I-ASP Positive
+知 I-ASP Positive
+识 I-ASP Positive
 非 O -999
 常 O -999
 满 O -999
@@ -2497,9 +2497,9 @@ pdf O -999
 多 O -999
 东 O -999
 西 O -999
-知 B-ASP Postive
-识 I-ASP Postive
-点 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
+点 I-ASP Positive
 真 O -999
 的 O -999
 很 O -999
@@ -2596,8 +2596,8 @@ pdf O -999
 专 O -999
 业 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 受 O -999
 益 O -999
 匪 O -999
@@ -2626,10 +2626,10 @@ pdf O -999
 助 O -999
 老 O -999
 师 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-安 I-ASP Postive
-排 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+安 I-ASP Positive
+排 I-ASP Positive
 得 O -999
 很 O -999
 不 O -999
@@ -2685,8 +2685,8 @@ pdf O -999
 课 O -999
 程 O -999
 很 O -999
-有 B-ASP Postive
-趣 I-ASP Postive
+有 B-ASP Positive
+趣 I-ASP Positive
 
 学 O -999
 习 O -999
@@ -2696,8 +2696,8 @@ pdf O -999
 程 O -999
 非 O -999
 常 O -999
-实 B-ASP Postive
-用 I-ASP Postive
+实 B-ASP Positive
+用 I-ASP Positive
 在 O -999
 生 O -999
 活 O -999
@@ -2725,8 +2725,8 @@ pdf O -999
 资 O -999
 源 O -999
 多 O -999
-下 B-ASP Postive
-载 I-ASP Postive
+下 B-ASP Positive
+载 I-ASP Positive
 很 O -999
 方 O -999
 便 O -999
@@ -2738,8 +2738,8 @@ pdf O -999
 很 O -999
 方 O -999
 便 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 资 O -999
@@ -2756,8 +2756,8 @@ pdf O -999
 的 O -999
 这 O -999
 些 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 完 O -999
 全 O -999
 可 O -999
@@ -2795,8 +2795,8 @@ pdf O -999
 学 O -999
 习 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 实 O -999
 用 O -999
@@ -2857,10 +2857,10 @@ pdf O -999
 界 O -999
 同 O -999
 时 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 也 O -999
 比 O -999
 较 O -999
@@ -2883,8 +2883,8 @@ pdf O -999
 习 O -999
 方 O -999
 便 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 权 O -999
 威 O -999
 适 O -999
@@ -2916,8 +2916,8 @@ pdf O -999
 多 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 很 O -999
 清 O -999
 楚 O -999
@@ -2933,8 +2933,8 @@ pdf O -999
 不 O -999
 会 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 对 O -999
 专 O -999
 业 O -999
@@ -2980,10 +2980,10 @@ pdf O -999
 解 O -999
 决 O -999
 
-学 B-ASP Postive
-习 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+学 B-ASP Positive
+习 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 很 O -999
 充 O -999
 实 O -999
@@ -3089,7 +3089,7 @@ pdf O -999
 实 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 也 O -999
 很 O -999
@@ -3188,8 +3188,8 @@ pdf O -999
 识 I-ASP -999
 渊 O -999
 博 O -999
-教 B-ASP Postive
-学 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
 非 O -999
 常 O -999
 负 O -999
@@ -3223,8 +3223,8 @@ pdf O -999
 立 O -999
 老 O -999
 师 O -999
-知 B-ASP Postive
-识 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
 渊 O -999
 博 O -999
 教 B-ASP -999
@@ -3266,10 +3266,10 @@ pdf O -999
 课 O -999
 程 O -999
 很 O -999
-细 B-ASP Postive
-致 I-ASP Postive
-完 I-ASP Postive
-善 I-ASP Postive
+细 B-ASP Positive
+致 I-ASP Positive
+完 I-ASP Positive
+善 I-ASP Positive
 学 O -999
 以 O -999
 致 O -999
@@ -3349,8 +3349,8 @@ pdf O -999
 及 O -999
 时 O -999
 地 O -999
-回 B-ASP Postive
-答 I-ASP Postive
+回 B-ASP Positive
+答 I-ASP Positive
 了 O -999
 论 O -999
 坛 O -999
@@ -3361,7 +3361,7 @@ pdf O -999
 孙 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 细 O -999
@@ -3464,8 +3464,8 @@ pdf O -999
 增 O -999
 加 O -999
 了 O -999
-答 B-ASP Postive
-疑 I-ASP Postive
+答 B-ASP Positive
+疑 I-ASP Positive
 认 O -999
 真 O -999
 负 O -999
@@ -3476,7 +3476,7 @@ pdf O -999
 孙 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 好 O -999
@@ -3522,8 +3522,8 @@ pdf O -999
 说 O -999
 三 O -999
 遍 O -999
-视 B-ASP Postive
-频 I-ASP Postive
+视 B-ASP Positive
+频 I-ASP Positive
 做 O -999
 地 O -999
 很 O -999
@@ -3557,7 +3557,7 @@ ppt O -999
 孙 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 好 O -999
@@ -3603,7 +3603,7 @@ ppt O -999
 孙 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 仔 O -999
@@ -3626,8 +3626,8 @@ ppt O -999
 师 O -999
 的 O -999
 课 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 非 O -999
 常 O -999
 好 O -999
@@ -3701,8 +3701,8 @@ ppt O -999
 是 O -999
 积 O -999
 极 O -999
-回 B-ASP Postive
-复 I-ASP Postive
+回 B-ASP Positive
+复 I-ASP Positive
 其 O -999
 中 O -999
 也 O -999
@@ -3784,8 +3784,8 @@ ppt O -999
 老 O -999
 师 O -999
 的 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 由 O -999
 浅 O -999
 入 O -999
@@ -3893,8 +3893,8 @@ ppt O -999
 老 O -999
 师 O -999
 的 O -999
-授 B-ASP Postive
-课 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
 能 O -999
 深 O -999
 入 O -999
@@ -3984,8 +3984,8 @@ ppt O -999
 言 O -999
 流 O -999
 畅 O -999
-表 B-ASP Postive
-述 I-ASP Postive
+表 B-ASP Positive
+述 I-ASP Positive
 明 O -999
 白 O -999
 讲 O -999
@@ -3997,10 +3997,10 @@ ppt O -999
 孙 O -999
 老 O -999
 师 O -999
-条 B-ASP Postive
-理 I-ASP Postive
-清 I-ASP Postive
-晰 I-ASP Postive
+条 B-ASP Positive
+理 I-ASP Positive
+清 I-ASP Positive
+晰 I-ASP Positive
 语 O -999
 言 O -999
 流 O -999
@@ -4047,8 +4047,8 @@ ppt O -999
 不 O -999
 到 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 让 O -999
 我 O -999
 对 O -999
@@ -4079,8 +4079,8 @@ ppt O -999
 真 O -999
 的 O -999
 很 O -999
-用 B-ASP Postive
-心 I-ASP Postive
+用 B-ASP Positive
+心 I-ASP Positive
 让 O -999
 我 O -999
 学 O -999
@@ -4126,8 +4126,8 @@ ppt O -999
 亲 B-ASP -999
 切 I-ASP -999
 很 O -999
-细 B-ASP Postive
-心 I-ASP Postive
+细 B-ASP Positive
+心 I-ASP Positive
 很 O -999
 专 B-ASP -999
 业 I-ASP -999
@@ -4160,8 +4160,8 @@ ppt O -999
 细 B-ASP -999
 心 I-ASP -999
 很 O -999
-专 B-ASP Postive
-业 I-ASP Postive
+专 B-ASP Positive
+业 I-ASP Positive
 希 O -999
 望 O -999
 系 O -999
@@ -4185,8 +4185,8 @@ ppt O -999
 老 O -999
 师 O -999
 很 O -999
-亲 B-ASP Postive
-切 I-ASP Postive
+亲 B-ASP Positive
+切 I-ASP Positive
 很 O -999
 细 B-ASP -999
 心 I-ASP -999
@@ -4216,8 +4216,8 @@ ppt O -999
 教 O -999
 授 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 条 O -999
 理 O -999
 清 O -999
@@ -4242,8 +4242,8 @@ ppt O -999
 优 O -999
 秀 O -999
 的 O -999
-课 B-ASP Postive
-件 I-ASP Postive
+课 B-ASP Positive
+件 I-ASP Positive
 就 O -999
 是 O -999
 时 B-ASP -999
@@ -4898,8 +4898,8 @@ PPT O -999
 医 O -999
 内 O -999
 容 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 一 O -999
 气 O -999
 呵 O -999
@@ -4921,8 +4921,8 @@ PPT O -999
 理 O -999
 老 O -999
 师 O -999
-学 B-ASP Postive
-问 I-ASP Postive
+学 B-ASP Positive
+问 I-ASP Positive
 博 O -999
 大 O -999
 精 O -999
@@ -4991,8 +4991,8 @@ PPT O -999
 识 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 浅 O -999
 显 O -999
 易 O -999
@@ -5020,8 +5020,8 @@ PPT O -999
 师 O -999
 讲 O -999
 课 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 也 O -999
 很 O -999
 丰 O -999
@@ -5080,10 +5080,10 @@ PPT O -999
 来 O -999
 立 O -999
 体 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 感 O -999
 觉 O -999
 很 O -999
@@ -5223,8 +5223,8 @@ MOOC O -999
 师 O -999
 能 O -999
 够 O -999
-互 B-ASP Postive
-动 I-ASP Postive
+互 B-ASP Positive
+动 I-ASP Positive
 弥 O -999
 补 O -999
 了 O -999
@@ -5342,8 +5342,8 @@ MOOC O -999
 是 O -999
 教 B-ASP -999
 学 I-ASP -999
-课 I-ASP Postive
-件 I-ASP Postive
+课 I-ASP Positive
+件 I-ASP Positive
 还 O -999
 是 O -999
 直 O -999
@@ -5645,10 +5645,10 @@ MOOC O -999
 老 O -999
 师 O -999
 的 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-态 I-ASP Postive
-度 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+态 I-ASP Positive
+度 I-ASP Positive
 认 O -999
 真 O -999
 负 O -999
@@ -5710,10 +5710,10 @@ MOOC O -999
 无 O -999
 论 O -999
 是 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-课 I-ASP Postive
-件 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+课 I-ASP Positive
+件 I-ASP Positive
 还 O -999
 是 O -999
 直 O -999
@@ -5886,10 +5886,10 @@ MOOC O -999
 老 O -999
 师 O -999
 的 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-模 I-ASP Postive
-式 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 很 O -999
 好 O -999
 无 O -999
@@ -6045,8 +6045,8 @@ MOOC O -999
 很 O -999
 有 O -999
 趣 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 们 O -999
 很 O -999
 亲 O -999
@@ -6090,12 +6090,12 @@ MOOC O -999
 易 O -999
 做 O -999
 到 O -999
-理 B-ASP Postive
-论 I-ASP Postive
-结 I-ASP Postive
-合 I-ASP Postive
-实 I-ASP Postive
-践 I-ASP Postive
+理 B-ASP Positive
+论 I-ASP Positive
+结 I-ASP Positive
+合 I-ASP Positive
+实 I-ASP Positive
+践 I-ASP Positive
 对 O -999
 手 O -999
 
@@ -6183,8 +6183,8 @@ MOOC O -999
 老 O -999
 师 O -999
 的 O -999
-课 B-ASP Postive
-件 I-ASP Postive
+课 B-ASP Positive
+件 I-ASP Positive
 很 O -999
 用 O -999
 心 O -999
@@ -6312,8 +6312,8 @@ MOOC O -999
 很 O -999
 用 O -999
 心 O -999
-容 B-ASP Postive
-量 I-ASP Postive
+容 B-ASP Positive
+量 I-ASP Positive
 丰 O -999
 富 O -999
 听 O -999
@@ -6359,8 +6359,8 @@ MOOC O -999
 老 O -999
 师 O -999
 课 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 很 O -999
 好 O -999
 喜 O -999
@@ -6414,8 +6414,8 @@ MOOC O -999
 的 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 好 O -999
 深 O -999
 入 O -999
@@ -6480,10 +6480,10 @@ MOOC O -999
 时 O -999
 候 O -999
 有 O -999
-零 B-ASP Postive
-碎 I-ASP Postive
-时 I-ASP Postive
-间 I-ASP Postive
+零 B-ASP Positive
+碎 I-ASP Positive
+时 I-ASP Positive
+间 I-ASP Positive
 在 O -999
 外 O -999
 面 O -999
@@ -6554,10 +6554,10 @@ MOOC O -999
 制 O -999
 作 O -999
 的 O -999
-视 B-ASP Postive
-频 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+视 B-ASP Positive
+频 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 很 O -999
 充 O -999
 实 O -999
@@ -6636,8 +6636,8 @@ MOOC O -999
 叽 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 很 O -999
 有 O -999
 意 O -999
@@ -6673,11 +6673,11 @@ MOOC O -999
 意 O -999
 思 O -999
 鸭 O -999
-课 B-ASP Postive
-后 I-ASP Postive
-的 I-ASP Postive
-习 I-ASP Postive
-题 I-ASP Postive
+课 B-ASP Positive
+后 I-ASP Positive
+的 I-ASP Positive
+习 I-ASP Positive
+题 I-ASP Positive
 很 O -999
 有 O -999
 用 O -999
@@ -6706,8 +6706,8 @@ MOOC O -999
 同 O -999
 学 O -999
 的 O -999
-交 B-ASP Postive
-流 I-ASP Postive
+交 B-ASP Positive
+流 I-ASP Positive
 中 O -999
 受 O -999
 益 O -999
@@ -6746,8 +6746,8 @@ MOOC O -999
 位 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 非 O -999
 常 O -999
 好 O -999
@@ -6767,7 +6767,7 @@ MOOC O -999
 位 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 非 O -999
 常 O -999
@@ -6820,10 +6820,10 @@ MOOC O -999
 乏 O -999
 趣 O -999
 味 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 重 O -999
 点 O -999
 突 O -999
@@ -6859,10 +6859,10 @@ MOOC O -999
 切 O -999
 真 O -999
 诚 O -999
-认 B-ASP Postive
-真 I-ASP Postive
-负 I-ASP Postive
-责 I-ASP Postive
+认 B-ASP Positive
+真 I-ASP Positive
+负 I-ASP Positive
+责 I-ASP Positive
 授 B-ASP -999
 课 I-ASP -999
 严 O -999
@@ -6929,8 +6929,8 @@ MOOC O -999
 真 I-ASP -999
 负 I-ASP -999
 责 I-ASP -999
-授 B-ASP Postive
-课 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
 严 O -999
 谨 O -999
 而 O -999
@@ -6984,10 +6984,10 @@ MOOC O -999
 能 O -999
 有 O -999
 的 O -999
-专 B-ASP Postive
-业 I-ASP Postive
-知 I-ASP Postive
-识 I-ASP Postive
+专 B-ASP Positive
+业 I-ASP Positive
+知 I-ASP Positive
+识 I-ASP Positive
 比 O -999
 较 O -999
 强 O -999
@@ -7016,8 +7016,8 @@ MOOC O -999
 了 O -999
 很 O -999
 多 O -999
-心 B-ASP Postive
-血 I-ASP Postive
+心 B-ASP Positive
+血 I-ASP Positive
 制 O -999
 作 O -999
 教 O -999
@@ -7066,8 +7066,8 @@ MOOC O -999
 富 O -999
 生 O -999
 动 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 清 O -999
 楚 O -999
 细 O -999
@@ -7098,8 +7098,8 @@ MOOC O -999
 作 O -999
 教 O -999
 案 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 生 O -999
@@ -7217,10 +7217,10 @@ MOOC O -999
 助 O -999
 学 O -999
 生 O -999
-课 B-ASP Postive
-前 I-ASP Postive
-预 I-ASP Postive
-习 I-ASP Postive
+课 B-ASP Positive
+前 I-ASP Positive
+预 I-ASP Positive
+习 I-ASP Positive
 请 O -999
 问 O -999
 能 O -999
@@ -7334,10 +7334,10 @@ MOOC O -999
 合 O -999
 学 O -999
 习 O -999
-查 B-ASP Postive
-缺 I-ASP Postive
-补 I-ASP Postive
-漏 I-ASP Postive
+查 B-ASP Positive
+缺 I-ASP Positive
+补 I-ASP Positive
+漏 I-ASP Positive
 很 O -999
 好 O -999
 
@@ -7356,8 +7356,8 @@ MOOC O -999
 习 O -999
 每 O -999
 次 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 的 O -999
 知 O -999
 识 O -999
@@ -7370,11 +7370,11 @@ MOOC O -999
 以 O -999
 利 O -999
 用 O -999
-零 B-ASP Postive
-散 I-ASP Postive
-的 I-ASP Postive
-时 I-ASP Postive
-间 I-ASP Postive
+零 B-ASP Positive
+散 I-ASP Positive
+的 I-ASP Positive
+时 I-ASP Positive
+间 I-ASP Positive
 进 O -999
 行 O -999
 学 O -999
@@ -7452,10 +7452,10 @@ MOOC O -999
 的 O -999
 形 O -999
 体 O -999
-肢 B-ASP Postive
-体 I-ASP Postive
-语 I-ASP Postive
-言 I-ASP Postive
+肢 B-ASP Positive
+体 I-ASP Positive
+语 I-ASP Positive
+言 I-ASP Positive
 很 O -999
 美 O -999
 对 O -999
@@ -7482,8 +7482,8 @@ MOOC O -999
 趣 I-ASP -999
 幽 I-ASP -999
 默 I-ASP -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 大 O -999
 气 O -999
 自 O -999
@@ -7537,10 +7537,10 @@ MOOC O -999
 浅 O -999
 老 O -999
 师 O -999
-风 B-ASP Postive
-趣 I-ASP Postive
-幽 I-ASP Postive
-默 I-ASP Postive
+风 B-ASP Positive
+趣 I-ASP Positive
+幽 I-ASP Positive
+默 I-ASP Positive
 讲 B-ASP -999
 解 I-ASP -999
 大 O -999
@@ -7606,8 +7606,8 @@ MOOC O -999
 老 O -999
 师 O -999
 们 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 真 O -999
 好 O -999
 
@@ -7624,8 +7624,8 @@ MOOC O -999
 深 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 深 O -999
 入 O -999
 浅 O -999
@@ -7733,7 +7733,7 @@ MOOC O -999
 典 O -999
 课 O -999
 程 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 好 O -999
@@ -7758,8 +7758,8 @@ MOOC O -999
 的 O -999
 很 O -999
 棒 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 可 O -999
 以 O -999
 再 O -999
@@ -7854,8 +7854,8 @@ MOOC O -999
 的 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 的 O -999
 真 O -999
 好 O -999
@@ -7990,8 +7990,8 @@ MOOC O -999
 面 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 很 O -999
 好 O -999
 后 O -999
@@ -8151,9 +8151,9 @@ MOOC O -999
 于 O -999
 回 O -999
 顾 O -999
-框 B-ASP Postive
-架 I-ASP Postive
-图 I-ASP Postive
+框 B-ASP Positive
+架 I-ASP Positive
+图 I-ASP Positive
 也 O -999
 起 O -999
 到 O -999
@@ -8221,8 +8221,8 @@ MOOC O -999
 且 O -999
 还 O -999
 是 O -999
-免 B-ASP Postive
-费 I-ASP Postive
+免 B-ASP Positive
+费 I-ASP Positive
 的 O -999
 谢 O -999
 
@@ -8239,8 +8239,8 @@ MOOC O -999
 到 O -999
 这 O -999
 样 O -999
-专 B-ASP Postive
-业 I-ASP Postive
+专 B-ASP Positive
+业 I-ASP Positive
 的 O -999
 课 O -999
 程 O -999
@@ -8300,10 +8300,10 @@ MOOC O -999
 储 O -999
 备 O -999
 的 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 属 O -999
 于 O -999
 学 O -999
@@ -8380,8 +8380,8 @@ MOOC O -999
 相 O -999
 当 O -999
 的 O -999
-知 B-ASP Postive
-识 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
 储 O -999
 备 O -999
 的 O -999
@@ -8444,8 +8444,8 @@ MOOC O -999
 学 O -999
 课 O -999
 程 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 谈 O -999
@@ -8523,10 +8523,10 @@ MOOC O -999
 学 O -999
 了 O -999
 有 O -999
-免 B-ASP Postive
-费 I-ASP Postive
-课 I-ASP Postive
-程 I-ASP Postive
+免 B-ASP Positive
+费 I-ASP Positive
+课 I-ASP Positive
+程 I-ASP Positive
 可 O -999
 以 O -999
 学 O -999
@@ -8620,8 +8620,8 @@ MOOC O -999
 很 O -999
 清 O -999
 晰 O -999
-示 B-ASP Postive
-例 I-ASP Postive
+示 B-ASP Positive
+例 I-ASP Positive
 丰 O -999
 富 O -999
 开 O -999
@@ -8777,8 +8777,8 @@ PPT O -999
 的 O -999
 知 O -999
 识 O -999
-讲 B-ASP Postive
-出 I-ASP Postive
+讲 B-ASP Positive
+出 I-ASP Positive
 了 O -999
 趣 O -999
 味 O -999
@@ -8949,8 +8949,8 @@ PPT O -999
 了 O -999
 趣 O -999
 味 O -999
-课 B-ASP Postive
-件 I-ASP Postive
+课 B-ASP Positive
+件 I-ASP Positive
 很 O -999
 清 O -999
 晰 O -999
@@ -9048,8 +9048,8 @@ PPT O -999
 收 O -999
 获 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 非 O -999
 常 O -999
 丰 O -999
@@ -9077,8 +9077,8 @@ PPT O -999
 兴 O -999
 趣 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 非 O -999
 常 O -999
 丰 O -999
@@ -9169,8 +9169,8 @@ PPT O -999
 进 O -999
 赞 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 较 O -999
 丰 O -999
 富 O -999
@@ -9195,8 +9195,8 @@ PPT O -999
 进 O -999
 赞 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 详 O -999
 实 O -999
 通 O -999
@@ -9223,10 +9223,10 @@ PPT O -999
 逻 O -999
 辑 O -999
 性 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 很 O -999
 吸 O -999
 引 O -999
@@ -9243,10 +9243,10 @@ PPT O -999
 物 O -999
 学 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
-组 I-ASP Postive
-织 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
+组 I-ASP Positive
+织 I-ASP Positive
 很 O -999
 有 O -999
 逻 O -999
@@ -9278,10 +9278,10 @@ PPT O -999
 织 O -999
 很 O -999
 好 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-角 I-ASP Postive
-度 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+角 I-ASP Positive
+度 I-ASP Positive
 也 O -999
 很 O -999
 好 O -999
@@ -9296,8 +9296,8 @@ PPT O -999
 理 O -999
 解 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 组 O -999
 织 O -999
 很 O -999
@@ -9326,7 +9326,7 @@ PPT O -999
 致 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 耐 O -999
 心 O -999
@@ -9350,8 +9350,8 @@ PPT O -999
 匪 O -999
 浅 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 精 O -999
 致 O -999
 老 O -999
@@ -9395,15 +9395,15 @@ PPT O -999
 老 O -999
 师 O -999
 很 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 耐 O -999
 心 O -999
 细 O -999
 致 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 知 O -999
 识 O -999
 性 O -999
@@ -9432,8 +9432,8 @@ PPT O -999
 文 O -999
 丰 O -999
 富 O -999
-授 B-ASP Postive
-课 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
 生 O -999
 动 O -999
 让 O -999
@@ -9459,8 +9459,8 @@ PPT O -999
 提 O -999
 高 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 独 O -999
 特 O -999
 图 O -999
@@ -9564,8 +9564,8 @@ PPT O -999
 提 O -999
 高 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 清 O -999
 晰 O -999
 而 O -999
@@ -9589,8 +9589,8 @@ PPT O -999
 知 O -999
 识 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 清 O -999
 晰 O -999
 有 O -999
@@ -9617,8 +9617,8 @@ PPT O -999
 有 O -999
 条 O -999
 理 O -999
-难 B-ASP Postive
-易 I-ASP Postive
+难 B-ASP Positive
+易 I-ASP Positive
 适 O -999
 中 O -999
 易 O -999
@@ -9631,8 +9631,8 @@ PPT O -999
 知 O -999
 识 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 深 O -999
 入 O -999
 浅 O -999
@@ -9663,10 +9663,10 @@ PPT O -999
 单 O -999
 易 O -999
 懂 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-模 I-ASP Postive
-式 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 很 O -999
 新 O -999
 颖 O -999
@@ -9682,8 +9682,8 @@ PPT O -999
 气 O -999
 氛 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 比 O -999
 较 O -999
 概 O -999
@@ -9714,8 +9714,8 @@ PPT O -999
 气 O -999
 氛 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 条 O -999
 例 O -999
 清 O -999
@@ -9750,18 +9750,18 @@ PPT O -999
 我 O -999
 来 O -999
 说 O -999
-难 B-ASP Postive
-度 I-ASP Postive
-适 I-ASP Postive
-中 I-ASP Postive
+难 B-ASP Positive
+度 I-ASP Positive
+适 I-ASP Positive
+中 I-ASP Positive
 学 O -999
 到 O -999
 了 O -999
 许 O -999
 多 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 新 O -999
 颖 O -999
 讲 B-ASP -999
@@ -9790,8 +9790,8 @@ PPT O -999
 容 I-ASP -999
 新 O -999
 颖 O -999
-讲 B-ASP Postive
-授 I-ASP Postive
+讲 B-ASP Positive
+授 I-ASP Positive
 生 O -999
 动 O -999
 有 O -999
@@ -9812,8 +9812,8 @@ PPT O -999
 成 O -999
 绩 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 新 O -999
 奇 O -999
 有 O -999
@@ -9861,8 +9861,8 @@ PPT O -999
 趣 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 生 O -999
 动 O -999
 清 O -999
@@ -9894,8 +9894,8 @@ PPT O -999
 神 O -999
 奇 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 挺 O -999
 不 O -999
 错 O -999
@@ -9942,8 +9942,8 @@ PPT O -999
 好 O -999
 了 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 棒 O -999
 可 O -999
@@ -9973,8 +9973,8 @@ PPT O -999
 诊 O -999
 断 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 细 O -999
 致 O -999
@@ -10011,7 +10011,7 @@ PPT O -999
 用 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 详 O -999
@@ -10032,8 +10032,8 @@ PPT O -999
 知 O -999
 识 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 实 O -999
 用 O -999
@@ -10079,10 +10079,10 @@ PPT O -999
 点 I-ASP -999
 突 O -999
 出 O -999
-课 B-ASP Postive
-后 I-ASP Postive
-测 B-ASP Postive
-验 I-ASP Postive
+课 B-ASP Positive
+后 I-ASP Positive
+测 B-ASP Positive
+验 I-ASP Positive
 覆 O -999
 盖 O -999
 知 O -999
@@ -10100,8 +10100,8 @@ PPT O -999
 面 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 都 O -999
 很 O -999
 细 O -999
@@ -10139,10 +10139,10 @@ PPT O -999
 很 O -999
 细 O -999
 致 O -999
-重 B-ASP Postive
-点 I-ASP Postive
-难 I-ASP Postive
-点 I-ASP Postive
+重 B-ASP Positive
+点 I-ASP Positive
+难 I-ASP Positive
+点 I-ASP Positive
 突 O -999
 出 O -999
 课 B-ASP -999
@@ -10159,8 +10159,8 @@ PPT O -999
 全 O -999
 面 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 全 O -999
 面 O -999
@@ -10213,8 +10213,8 @@ PPT O -999
 出 O -999
 课 B-ASP -999
 后 I-ASP -999
-测 B-ASP Postive
-验 I-ASP Postive
+测 B-ASP Positive
+验 I-ASP Positive
 覆 O -999
 盖 O -999
 知 O -999
@@ -10251,8 +10251,8 @@ PPT O -999
 做 O -999
 完 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 丰 O -999
 富 O -999
@@ -10272,8 +10272,8 @@ PPT O -999
 东 O -999
 西 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 丰 O -999
 富 O -999
@@ -10365,8 +10365,8 @@ PPT O -999
 世 O -999
 界 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 丰 O -999
 富 O -999
@@ -10417,8 +10417,8 @@ PPT O -999
 助 O -999
 的 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 专 O -999
 业 O -999
@@ -10573,8 +10573,8 @@ PPT O -999
 很 O -999
 方 O -999
 便 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 也 O -999
 很 O -999
 认 O -999
@@ -10598,8 +10598,8 @@ PPT O -999
 有 O -999
 趣 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 不 O -999
 错 O -999
@@ -10652,8 +10652,8 @@ PPT O -999
 一 O -999
 点 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 广 O -999
 泛 O -999
 学 O -999
@@ -10671,8 +10671,8 @@ PPT O -999
 一 O -999
 点 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 和 O -999
 实 O -999
 际 O -999
@@ -10703,8 +10703,8 @@ PPT O -999
 间 O -999
 情 O -999
 况 O -999
-结 B-ASP Postive
-合 I-ASP Postive
+结 B-ASP Positive
+合 I-ASP Positive
 紧 O -999
 密 O -999
 有 O -999
@@ -10719,8 +10719,8 @@ PPT O -999
 容 O -999
 前 O -999
 沿 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 深 O -999
 入 O -999
 浅 O -999
@@ -10785,8 +10785,8 @@ PPT O -999
 难 O -999
 度 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 全 O -999
 面 O -999
 易 O -999
@@ -10805,8 +10805,8 @@ PPT O -999
 很 O -999
 棒 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 全 O -999
 面 O -999
 详 O -999
@@ -10826,8 +10826,8 @@ PPT O -999
 匪 O -999
 浅 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 充 O -999
 实 O -999
 讲 B-ASP -999
@@ -10849,8 +10849,8 @@ PPT O -999
 容 I-ASP -999
 充 O -999
 实 O -999
-讲 B-ASP Postive
-师 I-ASP Postive
+讲 B-ASP Positive
+师 I-ASP Positive
 仪 O -999
 态 O -999
 端 O -999
@@ -10870,8 +10870,8 @@ PPT O -999
 实 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 语 O -999
 言 O -999
 幽 O -999
@@ -10895,8 +10895,8 @@ PPT O -999
 匪 O -999
 浅 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 充 O -999
 实 O -999
 老 O -999
@@ -10946,10 +10946,10 @@ PPT O -999
 与 O -999
 度 O -999
 高 O -999
-课 B-ASP Postive
-堂 I-ASP Postive
-讨 I-ASP Postive
-论 I-ASP Postive
+课 B-ASP Positive
+堂 I-ASP Positive
+讨 I-ASP Positive
+论 I-ASP Positive
 激 O -999
 烈 O -999
 受 O -999
@@ -10978,8 +10978,8 @@ PPT O -999
 面 O -999
 概 O -999
 括 O -999
-介 B-ASP Postive
-绍 I-ASP Postive
+介 B-ASP Positive
+绍 I-ASP Positive
 了 O -999
 中 O -999
 医 O -999
@@ -11154,8 +11154,8 @@ MOOC O -999
 更 O -999
 多 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 充 O -999
 实 O -999
 有 O -999
@@ -11351,8 +11351,8 @@ MOOC O -999
 更 O -999
 多 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 充 O -999
 实 O -999
 制 O -999
@@ -11385,8 +11385,8 @@ MOOC O -999
 良 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 很 O -999
 棒 O -999
 很 O -999
@@ -11411,8 +11411,8 @@ MOOC O -999
 步 O -999
 一 O -999
 步 O -999
-教 B-ASP Postive
-导 I-ASP Postive
+教 B-ASP Positive
+导 I-ASP Positive
 十 O -999
 分 O -999
 到 O -999
@@ -11432,8 +11432,8 @@ MOOC O -999
 知 O -999
 识 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 充 O -999
 实 O -999
 有 O -999
@@ -11473,10 +11473,10 @@ MOOC O -999
 种 O -999
 网 O -999
 上 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 也 O -999
 让 O -999
 人 O -999
@@ -11504,8 +11504,8 @@ MOOC O -999
 技 O -999
 艺 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 这 O -999
@@ -11547,8 +11547,8 @@ MOOC O -999
 容 I-ASP -999
 丰 O -999
 富 O -999
-角 B-ASP Postive
-度 I-ASP Postive
+角 B-ASP Positive
+度 I-ASP Positive
 多 O -999
 样 O -999
 干 O -999
@@ -11576,8 +11576,8 @@ MOOC O -999
 喜 O -999
 欢 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 角 B-ASP -999
@@ -11609,8 +11609,8 @@ MOOC O -999
 喜 O -999
 欢 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 老 O -999
@@ -11683,8 +11683,8 @@ MOOC O -999
 富 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-述 I-ASP Postive
+讲 B-ASP Positive
+述 I-ASP Positive
 详 O -999
 细 O -999
 总 O -999
@@ -11717,7 +11717,7 @@ MOOC O -999
 富 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 详 O -999
 细 O -999
@@ -11734,8 +11734,8 @@ MOOC O -999
 东 O -999
 西 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 老 O -999
@@ -11777,11 +11777,11 @@ MOOC O -999
 的 O -999
 用 O -999
 心 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 条 O -999
@@ -11803,8 +11803,8 @@ MOOC O -999
 讲 B-ASP -999
 解 I-ASP -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 提 O -999
@@ -11825,8 +11825,8 @@ MOOC O -999
 兴 O -999
 趣 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 有 O -999
@@ -11856,8 +11856,8 @@ MOOC O -999
 富 O -999
 易 O -999
 懂 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 生 O -999
 动 O -999
 学 O -999
@@ -11871,8 +11871,8 @@ MOOC O -999
 推 O -999
 荐 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 易 O -999
@@ -11900,8 +11900,8 @@ MOOC O -999
 谨 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 非 O -999
 常 O -999
 清 O -999
@@ -11924,8 +11924,8 @@ MOOC O -999
 知 O -999
 识 O -999
 
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 严 O -999
@@ -12043,8 +12043,8 @@ MOOC O -999
 通 O -999
 俗 O -999
 性 O -999
-图 B-ASP Postive
-片 I-ASP Postive
+图 B-ASP Positive
+片 I-ASP Positive
 较 O -999
 多 O -999
 帮 O -999
@@ -12092,8 +12092,8 @@ MOOC O -999
 老 O -999
 师 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 非 O -999
 常 O -999
 生 O -999
@@ -12138,10 +12138,10 @@ MOOC O -999
 动 O -999
 配 O -999
 以 O -999
-视 B-ASP Postive
-频 I-ASP Postive
-实 I-ASP Postive
-例 I-ASP Postive
+视 B-ASP Positive
+频 I-ASP Positive
+实 I-ASP Positive
+例 I-ASP Positive
 更 O -999
 加 O -999
 容 O -999
@@ -12174,10 +12174,10 @@ MOOC O -999
 主 O -999
 任 O -999
 的 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
-逻 I-ASP Postive
-辑 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
+逻 I-ASP Positive
+辑 I-ASP Positive
 特 O -999
 别 O -999
 清 O -999
@@ -12245,8 +12245,8 @@ MOOC O -999
 别 O -999
 清 O -999
 晰 O -999
-声 B-ASP Postive
-音 I-ASP Postive
+声 B-ASP Positive
+音 I-ASP Positive
 非 O -999
 常 O -999
 好 O -999
@@ -12349,8 +12349,8 @@ MOOC O -999
 MOOC O -999
 这 O -999
 个 O -999
-公 B-ASP Postive
-益 I-ASP Postive
+公 B-ASP Positive
+益 I-ASP Positive
 的 O -999
 学 O -999
 习 O -999
@@ -12427,8 +12427,8 @@ app O -999
 缩 O -999
 小 O -999
 
-免 B-ASP Postive
-费 I-ASP Postive
+免 B-ASP Positive
+费 I-ASP Positive
 学 O -999
 到 O -999
 知 O -999
@@ -12827,8 +12827,8 @@ MOOC O -999
 有 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 真 O -999
 的 O -999
 很 O -999
@@ -12966,8 +12966,8 @@ MOOC O -999
 用 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 非 O -999
 常 O -999
 干 O -999
@@ -13002,10 +13002,10 @@ MOOC O -999
 专 O -999
 业 O -999
 的 O -999
-基 B-ASP Postive
-础 I-ASP Postive
-入 I-ASP Postive
-门 I-ASP Postive
+基 B-ASP Positive
+础 I-ASP Positive
+入 I-ASP Positive
+门 I-ASP Positive
 课 O -999
 程 O -999
 是 O -999
@@ -13362,10 +13362,10 @@ MOOC O -999
 门 O -999
 课 O -999
 的 O -999
-学 B-ASP Postive
-习 I-ASP Postive
-模 I-ASP Postive
-式 I-ASP Postive
+学 B-ASP Positive
+习 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 也 O -999
 很 O -999
 好 O -999
@@ -13434,10 +13434,10 @@ PPT O -999
 地 O -999
 理 O -999
 解 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 与 O -999
 生 O -999
 活 O -999
@@ -13499,8 +13499,8 @@ PPT O -999
 程 O -999
 而 O -999
 言 O -999
-结 B-ASP Postive
-构 I-ASP Postive
+结 B-ASP Positive
+构 I-ASP Positive
 设 O -999
 置 O -999
 合 O -999
@@ -13762,10 +13762,10 @@ PPT O -999
 有 O -999
 据 O -999
 就 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 节 O -999
 奏 O -999
 舒 O -999
@@ -13850,8 +13850,8 @@ PPT O -999
 程 O -999
 而 O -999
 言 O -999
-结 B-ASP Postive
-构 I-ASP Postive
+结 B-ASP Positive
+构 I-ASP Positive
 设 O -999
 置 O -999
 合 O -999
@@ -13984,10 +13984,10 @@ PPT O -999
 师 O -999
 总 O -999
 是 O -999
-不 B-ASP Postive
-厌 I-ASP Postive
-其 I-ASP Postive
-烦 I-ASP Postive
+不 B-ASP Positive
+厌 I-ASP Positive
+其 I-ASP Positive
+烦 I-ASP Positive
 地 O -999
 解 O -999
 答 O -999
@@ -14012,8 +14012,8 @@ PPT O -999
 础 O -999
 科 O -999
 目 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 已 O -999
 经 O -999
 非 O -999
@@ -14087,10 +14087,10 @@ PPT O -999
 人 O -999
 觉 O -999
 得 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 紧 O -999
 贴 O -999
 行 O -999
@@ -14210,8 +14210,8 @@ PPT O -999
 师 O -999
 非 O -999
 常 O -999
-专 B-ASP Postive
-业 I-ASP Postive
+专 B-ASP Positive
+业 I-ASP Positive
 让 O -999
 在 O -999
 职 O -999
@@ -14237,8 +14237,8 @@ PPT O -999
 入 O -999
 浅 O -999
 出 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 又 O -999
 联 O -999
 系 O -999
@@ -14268,8 +14268,8 @@ PPT O -999
 仵 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 深 O -999
 入 O -999
 浅 O -999
@@ -14327,8 +14327,8 @@ PPT O -999
 趣 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-的 I-ASP Postive
+讲 B-ASP Positive
+的 I-ASP Positive
 也 O -999
 非 O -999
 常 O -999
@@ -14377,10 +14377,10 @@ PPT O -999
 都 O -999
 很 O -999
 好 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-设 I-ASP Postive
-置 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+设 I-ASP Positive
+置 I-ASP Positive
 科 O -999
 学 O -999
 系 O -999
@@ -14427,8 +14427,8 @@ PPT O -999
 与 O -999
 文 O -999
 化 O -999
-融 B-ASP Postive
-合 I-ASP Postive
+融 B-ASP Positive
+合 I-ASP Positive
 性 O -999
 课 O -999
 程 O -999
@@ -14442,8 +14442,8 @@ PPT O -999
 际 O -999
 应 O -999
 用 O -999
-案 B-ASP Postive
-例 I-ASP Postive
+案 B-ASP Positive
+例 I-ASP Positive
 讲 O -999
 授 O -999
 科 O -999
@@ -14492,10 +14492,10 @@ mooc O -999
 充 O -999
 实 O -999
 的 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-计 I-ASP Postive
-划 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+计 I-ASP Positive
+划 I-ASP Positive
 让 O -999
 我 O -999
 感 O -999
@@ -14527,10 +14527,10 @@ mooc O -999
 俱 O -999
 进 O -999
 的 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-模 I-ASP Postive
-式 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 与 O -999
 内 O -999
 容 O -999
@@ -14577,8 +14577,8 @@ mooc O -999
 学 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 易 O -999
 懂 O -999
 有 O -999
@@ -14642,10 +14642,10 @@ mooc O -999
 老 O -999
 师 O -999
 的 O -999
-举 B-ASP Postive
-手 I-ASP Postive
-投 I-ASP Postive
-足 I-ASP Postive
+举 B-ASP Positive
+手 I-ASP Positive
+投 I-ASP Positive
+足 I-ASP Positive
 处 O -999
 都 O -999
 是 O -999
@@ -14657,8 +14657,8 @@ mooc O -999
 从 O -999
 课 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 上 O -999
 内 O -999
 容 O -999
@@ -14731,10 +14731,10 @@ mooc O -999
 师 O -999
 的 O -999
 课 O -999
-通 B-ASP Postive
-俗 I-ASP Postive
-易 I-ASP Postive
-懂 I-ASP Postive
+通 B-ASP Positive
+俗 I-ASP Positive
+易 I-ASP Positive
+懂 I-ASP Positive
 很 O -999
 不 O -999
 错 O -999
@@ -14796,8 +14796,8 @@ mooc O -999
 太 O -999
 棒 O -999
 了 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 也 O -999
 很 O -999
 积 O -999
@@ -14829,8 +14829,8 @@ mooc O -999
 各 O -999
 方 O -999
 面 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 通 O -999
@@ -14886,8 +14886,8 @@ mooc O -999
 计 I-ASP -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 教 O -999
 学 O -999
 环 O -999
@@ -14947,10 +14947,10 @@ mooc O -999
 啦 O -999
 
 从 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-设 I-ASP Postive
-计 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 老 O -999
 师 O -999
 讲 B-ASP -999
@@ -15014,8 +15014,8 @@ mooc O -999
 啦 O -999
 
 从 O -999
-课 B-ASP Postive
-程 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
 中 O -999
 能 O -999
 学 O -999
@@ -15061,8 +15061,8 @@ mooc O -999
 趣 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-述 I-ASP Postive
+讲 B-ASP Positive
+述 I-ASP Positive
 的 O -999
 也 O -999
 比 O -999
@@ -15094,8 +15094,8 @@ mooc O -999
 医 O -999
 药 O -999
 的 O -999
-常 B-ASP Postive
-识 I-ASP Postive
+常 B-ASP Positive
+识 I-ASP Positive
 也 O -999
 阐 O -999
 释 O -999
@@ -15141,8 +15141,8 @@ mooc O -999
 用 O -999
 药 O -999
 的 O -999
-要 B-ASP Postive
-点 I-ASP Postive
+要 B-ASP Positive
+点 I-ASP Positive
 
 从 O -999
 中 O -999
@@ -15190,8 +15190,8 @@ mooc O -999
 语 O -999
 言 O -999
 来 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 使 O -999
 我 O -999
 们 O -999
@@ -15247,8 +15247,8 @@ mooc O -999
 完 O -999
 善 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 感 O -999
 谢 O -999
 老 O -999
@@ -15274,8 +15274,8 @@ mooc O -999
 识 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 生 O -999
 动 O -999
 精 O -999
@@ -15294,8 +15294,8 @@ mooc O -999
 的 O -999
 相 O -999
 关 O -999
-知 B-ASP Postive
-识 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
 什 O -999
 么 O -999
 种 O -999
@@ -15502,8 +15502,8 @@ mooc O -999
 的 O -999
 精 O -999
 彩 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 
 之 O -999
 前 O -999
@@ -15556,8 +15556,8 @@ mooc O -999
 自 O -999
 己 O -999
 的 O -999
-风 B-ASP Postive
-格 I-ASP Postive
+风 B-ASP Positive
+格 I-ASP Positive
 讲 O -999
 得 O -999
 非 O -999
@@ -15580,8 +15580,8 @@ mooc O -999
 视 O -999
 频 O -999
 课 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 很 O -999
 好 O -999
 这 O -999
@@ -15658,8 +15658,8 @@ mooc O -999
 视 O -999
 频 O -999
 课 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 更 O -999
 加 O -999
 丰 O -999
@@ -15690,10 +15690,10 @@ mooc O -999
 真 O -999
 负 O -999
 责 O -999
-课 B-ASP Postive
-后 I-ASP Postive
-习 I-ASP Postive
-题 I-ASP Postive
+课 B-ASP Positive
+后 I-ASP Positive
+习 I-ASP Positive
+题 I-ASP Positive
 也 O -999
 切 O -999
 实 O -999
@@ -15718,8 +15718,8 @@ mooc O -999
 建 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 娓 O -999
 娓 O -999
 道 O -999
@@ -16029,10 +16029,10 @@ ppt O -999
 丰 O -999
 富 O -999
 的 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 拓 O -999
 展 O -999
 了 O -999
@@ -16234,8 +16234,8 @@ ppt O -999
 识 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 非 O -999
 常 O -999
 到 O -999
@@ -16264,8 +16264,8 @@ ppt O -999
 程 O -999
 非 O -999
 常 O -999
-实 B-ASP Postive
-用 I-ASP Postive
+实 B-ASP Positive
+用 I-ASP Positive
 讲 B-ASP -999
 解 I-ASP -999
 生 O -999
@@ -16294,8 +16294,8 @@ ppt O -999
 常 O -999
 实 B-ASP -999
 用 I-ASP -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 生 O -999
 动 O -999
 具 O -999
@@ -16318,8 +16318,8 @@ ppt O -999
 全 O -999
 面 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 了 O -999
 茶 O -999
 的 O -999
@@ -16388,10 +16388,10 @@ ppt O -999
 道 O -999
 精 O -999
 心 O -999
-拍 B-ASP Postive
-摄 I-ASP Postive
-制 I-ASP Postive
-作 I-ASP Postive
+拍 B-ASP Positive
+摄 I-ASP Positive
+制 I-ASP Positive
+作 I-ASP Positive
 的 O -999
 视 O -999
 频 O -999
@@ -16438,9 +16438,9 @@ ppt O -999
 的 O -999
 文 B-ASP -999
 案 I-ASP -999
-测 B-ASP Postive
-试 I-ASP Postive
-题 I-ASP Postive
+测 B-ASP Positive
+试 I-ASP Positive
+题 I-ASP Positive
 都 O -999
 凝 O -999
 聚 O -999
@@ -16473,8 +16473,8 @@ ppt O -999
 老 O -999
 师 O -999
 的 O -999
-文 B-ASP Postive
-案 I-ASP Postive
+文 B-ASP Positive
+案 I-ASP Positive
 测 B-ASP -999
 试 I-ASP -999
 题 I-ASP -999
@@ -16506,8 +16506,8 @@ ppt O -999
 老 O -999
 师 O -999
 们 O -999
-知 B-ASP Postive
-识 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
 渊 O -999
 博 O -999
 学 O -999
@@ -16548,8 +16548,8 @@ ppt O -999
 我 O -999
 们 O -999
 的 O -999
-免 B-ASP Postive
-费 I-ASP Postive
+免 B-ASP Positive
+费 I-ASP Positive
 学 O -999
 习 O -999
 机 O -999
@@ -16602,8 +16602,8 @@ ppt O -999
 教 O -999
 授 O -999
 的 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 很 O -999
 有 O -999
 内 O -999
@@ -16624,8 +16624,8 @@ ppt O -999
 师 O -999
 讲 O -999
 授 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 非 O -999
 常 O -999
 适 O -999
@@ -16690,10 +16690,10 @@ ppt O -999
 人 O -999
 认 O -999
 为 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 很 O -999
 丰 O -999
 富 O -999
@@ -16726,8 +16726,8 @@ ppt O -999
 老 O -999
 师 O -999
 的 O -999
-授 B-ASP Postive
-课 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
 方 O -999
 式 O -999
 很 O -999
@@ -16765,8 +16765,8 @@ ppt O -999
 向 O -999
 老 O -999
 师 O -999
-提 B-ASP Postive
-问 I-ASP Postive
+提 B-ASP Positive
+问 I-ASP Positive
 等 O -999
 收 O -999
 获 O -999
@@ -16801,8 +16801,8 @@ ppt O -999
 面 O -999
 进 O -999
 行 O -999
-阐 B-ASP Postive
-述 I-ASP Postive
+阐 B-ASP Positive
+述 I-ASP Positive
 深 O -999
 入 O -999
 浅 O -999
@@ -16833,8 +16833,8 @@ ppt O -999
 立 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 太 O -999
 好 O -999
 了 O -999
@@ -16863,10 +16863,10 @@ ppt O -999
 一 O -999
 些 O -999
 
-专 B-ASP Postive
-业 I-ASP Postive
-系 I-ASP Postive
-统 I-ASP Postive
+专 B-ASP Positive
+业 I-ASP Positive
+系 I-ASP Positive
+统 I-ASP Positive
 介 O -999
 绍 O -999
 茶 O -999
@@ -16954,8 +16954,8 @@ ppt O -999
 
 不 O -999
 错 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 们 O -999
 都 O -999
 很 O -999
@@ -16990,8 +16990,8 @@ ppt O -999
 授 I-ASP -999
 还 O -999
 是 O -999
-画 B-ASP Postive
-面 I-ASP Postive
+画 B-ASP Positive
+面 I-ASP Positive
 配 B-ASP -999
 乐 I-ASP -999
 堪 O -999
@@ -17013,8 +17013,8 @@ ppt O -999
 是 O -999
 内 B-ASP -999
 容 I-ASP -999
-讲 B-ASP Postive
-授 I-ASP Postive
+讲 B-ASP Positive
+授 I-ASP Positive
 还 O -999
 是 O -999
 画 B-ASP -999
@@ -17038,8 +17038,8 @@ ppt O -999
 无 O -999
 论 O -999
 是 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 讲 B-ASP -999
 授 I-ASP -999
 还 O -999
@@ -17073,8 +17073,8 @@ ppt O -999
 是 O -999
 画 B-ASP -999
 面 I-ASP -999
-配 B-ASP Postive
-乐 I-ASP Postive
+配 B-ASP Positive
+乐 I-ASP Positive
 堪 O -999
 称 O -999
 清 O -999
@@ -17084,7 +17084,7 @@ ppt O -999
 
 上 O -999
 课 O -999
-讲 B-ASP Postive
+讲 B-ASP Positive
 的 O -999
 很 O -999
 清 O -999
@@ -17114,10 +17114,10 @@ ppt O -999
 很 O -999
 清 O -999
 楚 O -999
-作 B-ASP Postive
-业 I-ASP Postive
-难 I-ASP Postive
-度 I-ASP Postive
+作 B-ASP Positive
+业 I-ASP Positive
+难 I-ASP Positive
+度 I-ASP Positive
 适 O -999
 中 O -999
 激 O -999
@@ -17164,8 +17164,8 @@ ppt O -999
 很 O -999
 清 O -999
 晰 O -999
-逻 B-ASP Postive
-辑 I-ASP Postive
+逻 B-ASP Positive
+辑 I-ASP Positive
 清 O -999
 楚 O -999
 棒 O -999
@@ -17198,8 +17198,8 @@ ppt O -999
 们 O -999
 理 O -999
 解 O -999
-思 B-ASP Postive
-路 I-ASP Postive
+思 B-ASP Positive
+路 I-ASP Positive
 也 O -999
 很 O -999
 清 O -999
@@ -17215,8 +17215,8 @@ ppt O -999
 上 O -999
 课 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 好 O -999
 而 O -999
@@ -17257,8 +17257,8 @@ ppt O -999
 学 O -999
 习 O -999
 很 O -999
-自 B-ASP Postive
-由 I-ASP Postive
+自 B-ASP Positive
+由 I-ASP Positive
 啦 O -999
 一 O -999
 个 O -999
@@ -17334,10 +17334,10 @@ ppt O -999
 面 O -999
 讲 O -999
 的 O -999
-知 B-ASP Postive
-识 I-ASP Postive
-概 I-ASP Postive
-念 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
+概 I-ASP Positive
+念 I-ASP Positive
 都 O -999
 挺 O -999
 全 O -999
@@ -17355,8 +17355,8 @@ ppt O -999
 课 O -999
 感 O -999
 觉 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 很 O -999
 详 O -999
 细 O -999
@@ -17389,8 +17389,8 @@ ppt O -999
 很 O -999
 详 O -999
 细 O -999
-节 B-ASP Postive
-奏 I-ASP Postive
+节 B-ASP Positive
+奏 I-ASP Positive
 很 O -999
 好 O -999
 期 O -999
@@ -17444,9 +17444,9 @@ ppt O -999
 来 O -999
 更 O -999
 有 O -999
-系 B-ASP Postive
-统 I-ASP Postive
-性 I-ASP Postive
+系 B-ASP Positive
+统 I-ASP Positive
+性 I-ASP Positive
 也 O -999
 更 O -999
 加 O -999
@@ -17475,8 +17475,8 @@ ppt O -999
 是 O -999
 拓 O -999
 展 O -999
-知 B-ASP Postive
-识 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
 
 植 O -999
 物 O -999
@@ -17541,11 +17541,11 @@ ppt O -999
 在 O -999
 课 O -999
 堂 O -999
-答 B-ASP Postive
-疑 I-ASP Postive
-讨 I-ASP Postive
-论 I-ASP Postive
-区 I-ASP Postive
+答 B-ASP Positive
+疑 I-ASP Positive
+讨 I-ASP Positive
+论 I-ASP Positive
+区 I-ASP Positive
 也 O -999
 及 O -999
 时 O -999
@@ -17644,10 +17644,10 @@ ppt O -999
 老 O -999
 师 O -999
 的 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 也 O -999
 适 O -999
 合 O -999
@@ -17725,9 +17725,9 @@ ppt O -999
 所 O -999
 涵 O -999
 盖 O -999
-知 B-ASP Postive
-识 I-ASP Postive
-量 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
+量 I-ASP Positive
 范 O -999
 围 O -999
 广 O -999
@@ -17843,10 +17843,10 @@ ppt O -999
 力 O -999
 雄 O -999
 厚 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 丰 O -999
 富 O -999
 组 B-ASP -999
@@ -17862,10 +17862,10 @@ ppt O -999
 生 O -999
 虫 O -999
 学 O -999
-教 B-ASP Postive
-学 I-ASP Postive
-团 I-ASP Postive
-队 I-ASP Postive
+教 B-ASP Positive
+学 I-ASP Positive
+团 I-ASP Positive
+队 I-ASP Positive
 实 O -999
 力 O -999
 雄 O -999
@@ -17903,8 +17903,8 @@ ppt O -999
 容 I-ASP -999
 丰 O -999
 富 O -999
-组 B-ASP Postive
-织 I-ASP Postive
+组 B-ASP Positive
+织 I-ASP Positive
 结 O -999
 构 O -999
 合 O -999
@@ -17967,8 +17967,8 @@ ppt O -999
 老 O -999
 师 O -999
 所 O -999
-讲 B-ASP Postive
-授 I-ASP Postive
+讲 B-ASP Positive
+授 I-ASP Positive
 的 O -999
 课 O -999
 件 O -999
@@ -18090,8 +18090,8 @@ ppt O -999
 内 O -999
 科 O -999
 学 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 组 O -999
 织 O -999
 翔 O -999
@@ -18149,10 +18149,10 @@ ppt O -999
 实 O -999
 丰 O -999
 富 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-设 I-ASP Postive
-置 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+设 I-ASP Positive
+置 I-ASP Positive
 合 O -999
 理 O -999
 老 B-ASP -999
@@ -18206,8 +18206,8 @@ ppt O -999
 置 I-ASP -999
 合 O -999
 理 O -999
-老 B-ASP Postive
-师 I-ASP Postive
+老 B-ASP Positive
+师 I-ASP Positive
 经 O -999
 验 O -999
 丰 O -999
@@ -18272,10 +18272,10 @@ ppt O -999
 特 O -999
 别 O -999
 是 O -999
-结 B-ASP Postive
-合 I-ASP Postive
-案 I-ASP Postive
-例 I-ASP Postive
+结 B-ASP Positive
+合 I-ASP Positive
+案 I-ASP Positive
+例 I-ASP Positive
 讲 O -999
 解 O -999
 透 O -999
@@ -18333,9 +18333,9 @@ ppt O -999
 心 O -999
 答 B-ASP -999
 疑 I-ASP -999
-讨 B-ASP Postive
-论 I-ASP Postive
-区 I-ASP Postive
+讨 B-ASP Positive
+论 I-ASP Positive
+区 I-ASP Positive
 也 O -999
 很 O -999
 活 O -999
@@ -18461,8 +18461,8 @@ ppt O -999
 也 O -999
 热 O -999
 心 O -999
-答 B-ASP Postive
-疑 I-ASP Postive
+答 B-ASP Positive
+疑 I-ASP Positive
 讨 B-ASP -999
 论 I-ASP -999
 区 I-ASP -999
@@ -18500,8 +18500,8 @@ pt O -999
 的 O -999
 悉 O -999
 心 O -999
-讲 B-ASP Postive
-述 I-ASP Postive
+讲 B-ASP Positive
+述 I-ASP Positive
 使 O -999
 知 O -999
 识 O -999
@@ -18512,12 +18512,12 @@ pt O -999
 握 O -999
 了 O -999
 
-pt B-ASP Postive
-和 I-ASP Postive
-视 I-ASP Postive
-频 I-ASP Postive
-结 I-ASP Postive
-合 I-ASP Postive
+pt B-ASP Positive
+和 I-ASP Positive
+视 I-ASP Positive
+频 I-ASP Positive
+结 I-ASP Positive
+合 I-ASP Positive
 在 O -999
 一 O -999
 起 O -999
@@ -18575,8 +18575,8 @@ PT O -999
 
 老 O -999
 师 O -999
-讲 B-ASP Postive
-得 I-ASP Postive
+讲 B-ASP Positive
+得 I-ASP Positive
 通 O -999
 俗 O -999
 易 O -999
@@ -18657,8 +18657,8 @@ QQ O -999
 件 O -999
 中 O -999
 的 O -999
-内 B-ASP Postive
-容 I-ASP Postive
+内 B-ASP Positive
+容 I-ASP Positive
 很 O -999
 好 O -999
 已 O -999
@@ -18731,10 +18731,10 @@ QQ O -999
 支 O -999
 配 O -999
 课 O -999
-课 B-ASP Postive
-程 I-ASP Postive
-内 I-ASP Postive
-容 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
+内 I-ASP Positive
+容 I-ASP Positive
 上 O -999
 视 O -999
 频 O -999
@@ -18827,10 +18827,10 @@ QQ O -999
 程 O -999
 
 从 O -999
-授 B-ASP Postive
-课 I-ASP Postive
-方 I-ASP Postive
-式 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 上 O -999
 本 O -999
 课 O -999
@@ -19083,10 +19083,10 @@ qq O -999
 极 O -999
 强 O -999
 的 O -999
-时 B-ASP Postive
-间 I-ASP Postive
-弹 I-ASP Postive
-性 I-ASP Postive
+时 B-ASP Positive
+间 I-ASP Positive
+弹 I-ASP Positive
+性 I-ASP Positive
 随 O -999
 时 O -999
 随 O -999
@@ -19118,9 +19118,9 @@ qq O -999
 程 O -999
 涵 O -999
 盖 O -999
-知 B-ASP Postive
-识 I-ASP Postive
-量 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
+量 I-ASP Positive
 大 O -999
 极 O -999
 大 O -999
@@ -19295,9 +19295,9 @@ qq O -999
 过 O -999
 程 O -999
 中 O -999
-参 B-ASP Postive
-与 I-ASP Postive
-度 I-ASP Postive
+参 B-ASP Positive
+与 I-ASP Positive
+度 I-ASP Positive
 高 O -999
 qq O -999
 群 O -999
@@ -19402,9 +19402,9 @@ qq O -999
 课 O -999
 程 O -999
 的 O -999
-趣 B-ASP Postive
-味 I-ASP Postive
-性 I-ASP Postive
+趣 B-ASP Positive
+味 I-ASP Positive
+性 I-ASP Positive
 极 O -999
 强 O -999
 十 O -999
@@ -19507,9 +19507,9 @@ qq O -999
 点 O -999
 赞 O -999
 
-知 B-ASP Postive
-识 I-ASP Postive
-量 I-ASP Postive
+知 B-ASP Positive
+识 I-ASP Positive
+量 I-ASP Positive
 很 O -999
 大 O -999
 请 O -999
@@ -19581,9 +19581,9 @@ qq O -999
 笔 O -999
 记 O -999
 本 O -999
-信 B-ASP Postive
-息 I-ASP Postive
-量 I-ASP Postive
+信 B-ASP Positive
+息 I-ASP Positive
+量 I-ASP Positive
 很 O -999
 大 O -999
 基 O -999
@@ -19811,8 +19811,8 @@ qq O -999
 容 I-ASP -999
 精 O -999
 炼 O -999
-授 B-ASP Postive
-课 I-ASP Postive
+授 B-ASP Positive
+课 I-ASP Positive
 生 O -999
 动 O -999
 PPT O -999
@@ -19850,8 +19850,8 @@ PPT O -999
 
 课 O -999
 程 O -999
-组 B-ASP Postive
-织 I-ASP Postive
+组 B-ASP Positive
+织 I-ASP Positive
 内 B-ASP -999
 容 I-ASP -999
 精 O -999
@@ -19938,8 +19938,8 @@ PPT O -999
 医 O -999
 案 O -999
 
-课 B-ASP Postive
-程 I-ASP Postive
+课 B-ASP Positive
+程 I-ASP Positive
 才 O -999
 能 O -999
 讲 O -999
@@ -20024,10 +20024,10 @@ PPT O -999
 楚 O -999
 还 O -999
 有 O -999
-课 B-ASP Postive
-后 I-ASP Postive
-题 I-ASP Postive
-目 I-ASP Postive
+课 B-ASP Positive
+后 I-ASP Positive
+题 I-ASP Positive
+目 I-ASP Positive
 可 O -999
 以 O -999
 巩 O -999
@@ -20039,8 +20039,8 @@ PPT O -999
 
 老 O -999
 师 O -999
-讲 B-ASP Postive
-解 I-ASP Postive
+讲 B-ASP Positive
+解 I-ASP Positive
 清 O -999
 楚 O -999
 还 O -999
@@ -20098,8 +20098,8 @@ PPT O -999
 满 O -999
 老 O -999
 师 O -999
-讲 B-ASP Postive
-课 I-ASP Postive
+讲 B-ASP Positive
+课 I-ASP Positive
 很 O -999
 棒 O -999
 很 O -999
@@ -20141,8 +20141,8 @@ PPT O -999
 很 O -999
 用 O -999
 心 O -999
-课 B-ASP Postive
-件 I-ASP Postive
+课 B-ASP Positive
+件 I-ASP Positive
 也 O -999
 很 O -999
 精 O -999

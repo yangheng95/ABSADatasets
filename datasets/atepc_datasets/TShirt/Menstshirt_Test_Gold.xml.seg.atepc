@@ -8,13 +8,13 @@ clean O -999
 the O -999
 tshirt O -999
 then O -999
-colored B-ASP 0
+colored B-ASP Negative
 are O -999
 released. O -999
 
 really O -999
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 colour B-ASP -999
 is O -999
@@ -25,7 +25,7 @@ really O -999
 good O -999
 fitting B-ASP -999
 and O -999
-colour B-ASP 2
+colour B-ASP Positive
 is O -999
 just O -999
 right. O -999
@@ -33,11 +33,11 @@ right. O -999
 stylish O -999
 sober O -999
 and O -999
-fits B-ASP 2
+fits B-ASP Positive
 very O -999
 well. O -999
 
-material B-ASP 0
+material B-ASP Negative
 is O -999
 not O -999
 too O -999
@@ -47,7 +47,7 @@ product O -999
 is O -999
 good O -999
 but O -999
-price B-ASP 0
+price B-ASP Negative
 is O -999
 to O -999
 long O -999
@@ -59,7 +59,7 @@ something O -999
 rs O -999
 200. O -999
 
-colors B-ASP 0
+colors B-ASP Negative
 are O -999
 not O -999
 bright O -999
@@ -68,14 +68,14 @@ shown O -999
 in O -999
 picture. O -999
 
-color B-ASP 2
-combination I-ASP 2
+color B-ASP Positive
+combination I-ASP Positive
 is O -999
 very O -999
 good. O -999
 
 the O -999
-sleeves B-ASP 2
+sleeves B-ASP Positive
 are O -999
 a O -999
 little O -999
@@ -89,18 +89,18 @@ awesome O -999
 product O -999
 in O -999
 cheap O -999
-price B-ASP 0
+price B-ASP Negative
 . O -999
 
 the O -999
-tshirt B-ASP 0
-size I-ASP 0
+tshirt B-ASP Negative
+size I-ASP Negative
 is O -999
 not O -999
 actual. O -999
 
-fabric B-ASP 2
-quality I-ASP 2
+fabric B-ASP Positive
+quality I-ASP Positive
 is O -999
 great,colour O -999
 is B-ASP -999
@@ -116,7 +116,7 @@ fabric B-ASP -999
 quality I-ASP -999
 is O -999
 great,colour O -999
-is B-ASP 2
+is B-ASP Positive
 bright O -999
 and O -999
 also O -999
@@ -134,7 +134,7 @@ bright O -999
 and O -999
 also O -999
 the O -999
-print B-ASP 2
+print B-ASP Positive
 is O -999
 good. O -999
 
@@ -143,7 +143,7 @@ is O -999
 of O -999
 a O -999
 good O -999
-material B-ASP 2
+material B-ASP Positive
 and O -999
 fits B-ASP -999
 well. O -999
@@ -155,14 +155,14 @@ a O -999
 good O -999
 material B-ASP -999
 and O -999
-fits B-ASP 2
+fits B-ASP Positive
 well. O -999
 
 very O -999
 comfortable O -999
 with O -999
 nice O -999
-color B-ASP 2
+color B-ASP Positive
 & O -999
 cheap O -999
 price. O -999
@@ -174,20 +174,20 @@ nice O -999
 color O -999
 & O -999
 cheap O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 good O -999
 product O -999
 is O -999
 less O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 very O -999
 bad O -999
 product O -999
-color B-ASP 0
+color B-ASP Negative
 fades O -999
 and O -999
 cloth B-ASP -999
@@ -201,14 +201,14 @@ product O -999
 color B-ASP -999
 fades O -999
 and O -999
-cloth B-ASP 0
+cloth B-ASP Negative
 is O -999
 not O -999
 good. O -999
 
 the O -999
-product B-ASP 2
-looks I-ASP 2
+product B-ASP Positive
+looks I-ASP Positive
 as O -999
 it O -999
 is O -999
@@ -220,7 +220,7 @@ Flipkart. O -999
 
 product O -999
 super O -999
-fit B-ASP 2
+fit B-ASP Positive
 my O -999
 body O -999
 thanks O -999
@@ -228,14 +228,14 @@ thanks O -999
 poor O -999
 quality O -999
 and O -999
-size B-ASP 0
+size B-ASP Negative
 doesn't O -999
 seem O -999
 perfect. O -999
 
 nice O -999
-fabric B-ASP 2
-quality I-ASP 2
+fabric B-ASP Positive
+quality I-ASP Positive
 . O -999
 looks O -999
 brilliant. O -999
@@ -243,11 +243,11 @@ brilliant. O -999
 ozam O -999
 product,fast O -999
 delivery,gud O -999
-material B-ASP 2
+material B-ASP Positive
 . O -999
 
 good O -999
-quality B-ASP 2
+quality B-ASP Positive
 tshirt O -999
 and O -999
 excellent O -999
@@ -258,12 +258,12 @@ quality O -999
 tshirt O -999
 and O -999
 excellent O -999
-fit B-ASP 2
+fit B-ASP Positive
 . O -999
 
 bad O -999
 quality O -999
-size B-ASP 0
+size B-ASP Negative
 was O -999
 smaller O -999
 than O -999
@@ -274,7 +274,7 @@ buy. O -999
 
 quality O -999
 and O -999
-fitting B-ASP 0
+fitting B-ASP Negative
 could O -999
 have O -999
 been O -999
@@ -284,13 +284,13 @@ product O -999
 is O -999
 good O -999
 but O -999
-sizz B-ASP 0
+sizz B-ASP Negative
 is O -999
 big. O -999
 
 the O -999
-fabric B-ASP 1
-material I-ASP 1
+fabric B-ASP Neutral
+material I-ASP Neutral
 of O -999
 1 O -999
 t O -999
@@ -298,7 +298,7 @@ shirt O -999
 was O -999
 polyester. O -999
 
-color B-ASP 0
+color B-ASP Negative
 is O -999
 not O -999
 good O -999
@@ -312,7 +312,7 @@ great O -999
 product, O -999
 100% O -999
 cotton O -999
-material B-ASP 2
+material B-ASP Positive
 , O -999
 thanks O -999
 Flipkart. O -999
@@ -320,7 +320,7 @@ Flipkart. O -999
 bit O -999
 expensive O -999
 but O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 is O -999
 awesome O -999
 fit B-ASP -999
@@ -334,13 +334,13 @@ but O -999
 fabric B-ASP -999
 is O -999
 awesome O -999
-fit B-ASP 2
+fit B-ASP Positive
 is O -999
 awesome O -999
 ! O -999
 
 nice O -999
-colours B-ASP 2
+colours B-ASP Positive
 and O -999
 best O -999
 of O -999
@@ -351,19 +351,19 @@ colours O -999
 and O -999
 best O -999
 of O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 good, O -999
 but O -999
-colour B-ASP 0
+colour B-ASP Negative
 fade. O -999
 
 good O -999
 product O -999
 n O -999
 comfortable O -999
-material B-ASP 2
+material B-ASP Positive
 n O -999
 blk B-ASP -999
 color I-ASP -999
@@ -377,14 +377,14 @@ n O -999
 comfortable O -999
 material B-ASP -999
 n O -999
-blk B-ASP 2
-color I-ASP 2
+blk B-ASP Positive
+color I-ASP Positive
 is O -999
 also O -999
 good. O -999
 
 the O -999
-sizes B-ASP 0
+sizes B-ASP Negative
 ain't O -999
 appropriate O -999
 , O -999
@@ -422,7 +422,7 @@ shrinking O -999
 and O -999
 fading O -999
 of O -999
-design B-ASP 0
+design B-ASP Negative
 is O -999
 quite O -999
 prominent. O -999
@@ -433,7 +433,7 @@ is O -999
 thin O -999
 and O -999
 the O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 is O -999
 so O -999
 gentle O -999
@@ -444,11 +444,11 @@ looking O -999
 tshirt O -999
 and O -999
 nice O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
-fabric B-ASP 2
-quality I-ASP 2
+fabric B-ASP Positive
+quality I-ASP Positive
 is O -999
 superb O -999
 and O -999
@@ -465,7 +465,7 @@ quality I-ASP -999
 is O -999
 superb O -999
 and O -999
-colour B-ASP 2
+colour B-ASP Positive
 is O -999
 as O -999
 good O -999
@@ -474,7 +474,7 @@ in O -999
 picture. O -999
 
 catchy O -999
-price B-ASP 2
+price B-ASP Positive
 , O -999
 perfect B-ASP -999
 fit. O -999
@@ -482,14 +482,14 @@ fit. O -999
 catchy O -999
 price B-ASP -999
 , O -999
-perfect B-ASP 2
+perfect B-ASP Positive
 fit. O -999
 
 very O -999
 soft O -999
 and O -999
 comfortable O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 i O -999
@@ -499,9 +499,9 @@ interested O -999
 in O -999
 these O -999
 sexy O -999
-full B-ASP 2
-hand I-ASP 2
-shirts I-ASP 2
+full B-ASP Positive
+hand I-ASP Positive
+shirts I-ASP Positive
 which O -999
 give O -999
 a O -999
@@ -529,7 +529,7 @@ the O -999
 third O -999
 purchase O -999
 
-fabric B-ASP 0
+fabric B-ASP Negative
 can O -999
 be O -999
 better O -999
@@ -542,8 +542,8 @@ at O -999
 all. O -999
 
 best O -999
-cloth B-ASP 2
-quality I-ASP 2
+cloth B-ASP Positive
+quality I-ASP Positive
 and O -999
 colour O -999
 very O -999
@@ -554,13 +554,13 @@ best O -999
 cloth O -999
 quality O -999
 and O -999
-colour B-ASP 2
+colour B-ASP Positive
 very O -999
 well O -999
 fit. O -999
 
 it's O -999
-colour B-ASP 0
+colour B-ASP Negative
 get O -999
 deem. O -999
 
@@ -568,13 +568,13 @@ nice O -999
 product O -999
 with O -999
 good O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 nice O -999
 but O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 doesn't O -999
 fit O -999
 for O -999
@@ -592,26 +592,26 @@ size O -999
 
 #suprb# O -999
 look O -999
-colour B-ASP 2
+colour B-ASP Positive
 fabric B-ASP -999
 fitting. O -999
 
 #suprb# O -999
 look O -999
 colour B-ASP -999
-fabric B-ASP 2
+fabric B-ASP Positive
 fitting. O -999
 
 #suprb# O -999
 look O -999
 colour O -999
 fabric O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 . O -999
 
 the O -999
-print B-ASP 2
-quality I-ASP 2
+print B-ASP Positive
+quality I-ASP Positive
 stands O -999
 out O -999
 along O -999
@@ -633,7 +633,7 @@ the O -999
 feel O -999
 of O -999
 the O -999
-material B-ASP 2
+material B-ASP Positive
 . O -999
 
 best O -999
@@ -642,10 +642,10 @@ best O -999
 quality O -999
 at O -999
 best O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
-images B-ASP 0
+images B-ASP Negative
 u O -999
 are O -999
 seeing O -999
@@ -675,7 +675,7 @@ looks O -999
 very O -999
 stylish O -999
 and O -999
-material B-ASP 2
+material B-ASP Positive
 is O -999
 also O -999
 very O -999
@@ -684,12 +684,12 @@ good. O -999
 good O -999
 product O -999
 but O -999
-fitting B-ASP 0
+fitting B-ASP Negative
 not O -999
 proper. O -999
 
 nice O -999
-frabric B-ASP 2
+frabric B-ASP Positive
 and O -999
 colour. O -999
 looks O -999
@@ -698,7 +698,7 @@ premium. O -999
 nice O -999
 frabric O -999
 and O -999
-colour B-ASP 2
+colour B-ASP Positive
 . O -999
 looks O -999
 premium. O -999
@@ -708,25 +708,25 @@ good O -999
 product O -999
 at O -999
 low O -999
-cost B-ASP 0
+cost B-ASP Negative
 . O -999
 
 good O -999
 quality O -999
 with O -999
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 . O -999
 
 very O -999
 dull O -999
-colour B-ASP 0
+colour B-ASP Negative
 , O -999
 not O -999
 worth O -999
 
 good O -999
-stitch B-ASP 2
+stitch B-ASP Positive
 , O -999
 comfortable B-ASP -999
 fabric. O -999
@@ -734,17 +734,17 @@ fabric. O -999
 good O -999
 stitch B-ASP -999
 , O -999
-comfortable B-ASP 2
+comfortable B-ASP Positive
 fabric. O -999
 
-feel B-ASP 2
-of I-ASP 2
-fabric I-ASP 2
+feel B-ASP Positive
+of I-ASP Positive
+fabric I-ASP Positive
 is O -999
 pleasing. O -999
 
 perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 genuine O -999
 quality. O -999
@@ -754,10 +754,10 @@ good O -999
 for O -999
 quality O -999
 and O -999
-colour B-ASP 2
+colour B-ASP Positive
 . O -999
 
-colour B-ASP 2
+colour B-ASP Positive
 is O -999
 really O -999
 good O -999
@@ -772,7 +772,7 @@ quality O -999
 product O -999
 in O -999
 low O -999
-price B-ASP 2
+price B-ASP Positive
 , O -999
 i O -999
 like O -999
@@ -781,7 +781,7 @@ it. O -999
 awesome O -999
 product O -999
 nice O -999
-material B-ASP 2
+material B-ASP Positive
 nice O -999
 color B-ASP -999
 excellent O -999
@@ -792,7 +792,7 @@ product O -999
 nice O -999
 material B-ASP -999
 nice O -999
-color B-ASP 2
+color B-ASP Positive
 excellent O -999
 fitting. O -999
 
@@ -803,7 +803,7 @@ material O -999
 nice O -999
 color O -999
 excellent O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 . O -999
 
 very O -999
@@ -815,13 +815,13 @@ was O -999
 very O -999
 nice O -999
 and O -999
-print B-ASP 2
+print B-ASP Positive
 was O -999
 also O -999
 good. O -999
 
 nice O -999
-design B-ASP 2
+design B-ASP Positive
 as O -999
 well O -999
 printing B-ASP -999
@@ -838,8 +838,8 @@ nice O -999
 design B-ASP -999
 as O -999
 well O -999
-printing B-ASP 2
-cloth I-ASP 2
+printing B-ASP Positive
+cloth I-ASP Positive
 also O -999
 too O -999
 good O -999
@@ -849,8 +849,8 @@ the O -999
 product. O -999
 
 nice O -999
-cloth B-ASP 2
-quality I-ASP 2
+cloth B-ASP Positive
+quality I-ASP Positive
 and O -999
 looking O -999
 superb O -999
@@ -859,7 +859,7 @@ me.:) O -999
 ;). O -999
 
 the O -999
-colour B-ASP 2
+colour B-ASP Positive
 is O -999
 awesome O -999
 but O -999
@@ -874,11 +874,11 @@ awesome O -999
 but O -999
 short O -999
 in O -999
-aize B-ASP 0
+aize B-ASP Negative
 . O -999
 
-clothe B-ASP 2
-quality I-ASP 2
+clothe B-ASP Positive
+quality I-ASP Positive
 good, O -999
 bright O -999
 colour. O -999
@@ -887,12 +887,12 @@ clothe O -999
 quality O -999
 good, O -999
 bright O -999
-colour B-ASP 2
+colour B-ASP Positive
 . O -999
 
 worst O -999
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 . O -999
 :( O -999
 . O -999
@@ -900,7 +900,7 @@ quality I-ASP 0
 after O -999
 one O -999
 wash O -999
-colour B-ASP 0
+colour B-ASP Negative
 will O -999
 start O -999
 to O -999
@@ -924,14 +924,14 @@ to O -999
 wash O -999
 out O -999
 and O -999
-quality B-ASP 0
-of I-ASP 0
-cloth I-ASP 0
+quality B-ASP Negative
+of I-ASP Negative
+cloth I-ASP Negative
 is O -999
 too O -999
 worst. O -999
 
-color B-ASP 0
+color B-ASP Negative
 looks O -999
 ugly O -999
 to O -999
@@ -941,7 +941,7 @@ core. O -999
 nice O -999
 tshirt O -999
 perfiect O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 matching. O -999
 
@@ -950,7 +950,7 @@ tshirt O -999
 perfiect O -999
 fitting O -999
 and O -999
-matching B-ASP 2
+matching B-ASP Positive
 . O -999
 
 using O -999
@@ -961,7 +961,7 @@ last O -999
 days, O -999
 loved O -999
 the O -999
-texture B-ASP 2
+texture B-ASP Positive
 , B-ASP -999
 fittings O -999
 and O -999
@@ -977,7 +977,7 @@ days, O -999
 loved O -999
 the O -999
 texture B-ASP -999
-, B-ASP 2
+, B-ASP Positive
 fittings O -999
 and O -999
 the B-ASP -999
@@ -995,13 +995,13 @@ texture B-ASP -999
 , B-ASP -999
 fittings O -999
 and O -999
-the B-ASP 2
+the B-ASP Positive
 colour. O -999
 
 good O -999
 product O -999
 but O -999
-print B-ASP 0
+print B-ASP Negative
 is O -999
 not O -999
 pretty O -999
@@ -1009,7 +1009,7 @@ good. O -999
 
 average O -999
 quality O -999
-color B-ASP 0
+color B-ASP Negative
 fades O -999
 away O -999
 in O -999
@@ -1017,7 +1017,7 @@ single O -999
 wash. O -999
 
 good O -999
-material B-ASP 2
+material B-ASP Positive
 n O -999
 comfortable O -999
 to O -999
@@ -1035,11 +1035,11 @@ to O -999
 wear,but O -999
 there O -999
 was O -999
-size B-ASP 0
+size B-ASP Negative
 variation. O -999
 
 the O -999
-color B-ASP 1
+color B-ASP Neutral
 and O -999
 tecture B-ASP -999
 is O -999
@@ -1053,7 +1053,7 @@ picture. O -999
 the O -999
 color B-ASP -999
 and O -999
-tecture B-ASP 1
+tecture B-ASP Neutral
 is O -999
 same O -999
 as O -999
@@ -1064,7 +1064,7 @@ picture. O -999
 
 nice O -999
 product, O -999
-fits B-ASP 2
+fits B-ASP Positive
 well O -999
 and O -999
 looks O -999
@@ -1072,7 +1072,7 @@ quite O -999
 impressive. O -999
 
 great O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 and O -999
 very O -999
 good O -999
@@ -1082,12 +1082,12 @@ quality O -999
 not O -999
 good O -999
 and O -999
-colour B-ASP 0
+colour B-ASP Negative
 looks O -999
 diff. O -999
 
-color B-ASP 2
-contrast I-ASP 2
+color B-ASP Positive
+contrast I-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -1107,7 +1107,7 @@ contrast I-ASP -999
 is O -999
 good O -999
 and O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 is O -999
 comfortable O -999
 yet O -999
@@ -1127,7 +1127,7 @@ fabric B-ASP -999
 is O -999
 comfortable O -999
 yet O -999
-looks B-ASP 2
+looks B-ASP Positive
 great O -999
 and O -999
 feels B-ASP -999
@@ -1146,13 +1146,13 @@ yet O -999
 looks B-ASP -999
 great O -999
 and O -999
-feels B-ASP 2
+feels B-ASP Positive
 premium O -999
 . O -999
 
 medium O -999
 size O -999
-fits B-ASP 2
+fits B-ASP Positive
 perfectly O -999
 for O -999
 me O -999
@@ -1160,7 +1160,7 @@ me O -999
 
 very O -999
 good O -999
-quality B-ASP 2
+quality B-ASP Positive
 and O -999
 fitting B-ASP -999
 of O -999
@@ -1170,7 +1170,7 @@ very O -999
 good O -999
 quality B-ASP -999
 and O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 of O -999
 tshirts. O -999
 
@@ -1180,7 +1180,7 @@ is O -999
 good O -999
 however O -999
 the O -999
-price B-ASP 0
+price B-ASP Negative
 is O -999
 little O -999
 bit O -999
@@ -1224,8 +1224,8 @@ but O -999
 thanks O -999
 indeed O -999
 the O -999
-delivery B-ASP 2
-boy I-ASP 2
+delivery B-ASP Positive
+boy I-ASP Positive
 was O -999
 also O -999
 so O -999
@@ -1244,7 +1244,7 @@ delivery O -999
 too O -999
 thanks O -999
 
-size B-ASP 0
+size B-ASP Negative
 and O -999
 fit B-ASP -999
 is O -999
@@ -1255,14 +1255,14 @@ expected. O -999
 
 size B-ASP -999
 and O -999
-fit B-ASP 0
+fit B-ASP Negative
 is O -999
 not O -999
 good O -999
 as O -999
 expected. O -999
 
-fitting B-ASP 0
+fitting B-ASP Negative
 is O -999
 pathetic O -999
 n O -999
@@ -1275,8 +1275,8 @@ fitting O -999
 is O -999
 pathetic O -999
 n O -999
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 is O -999
 worst. O -999
 
@@ -1286,8 +1286,8 @@ is O -999
 good O -999
 but O -999
 the O -999
-stitching B-ASP 0
-pattern I-ASP 0
+stitching B-ASP Negative
+pattern I-ASP Negative
 is O -999
 very O -999
 bad O -999
@@ -1299,13 +1299,13 @@ is O -999
 okay O -999
 but O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 is O -999
 horrible. O -999
 
-quality B-ASP 0
-of I-ASP 0
-fabric I-ASP 0
+quality B-ASP Negative
+of I-ASP Negative
+fabric I-ASP Negative
 is O -999
 not O -999
 good O -999
@@ -1318,7 +1318,7 @@ picture. O -999
 very O -999
 poor O -999
 looking O -999
-stitching B-ASP 0
+stitching B-ASP Negative
 . O -999
 
 it's O -999
@@ -1326,7 +1326,7 @@ a O -999
 great O -999
 tshirt, O -999
 the O -999
-colour B-ASP 2
+colour B-ASP Positive
 is O -999
 just O -999
 so O -999
@@ -1335,14 +1335,14 @@ and O -999
 beautiful. O -999
 
 this O -999
-seller B-ASP 0
+seller B-ASP Negative
 is O -999
 a O -999
 fraud. O -999
 
 poor O -999
-fabric B-ASP 0
-quality I-ASP 0
+fabric B-ASP Negative
+quality I-ASP Negative
 colours B-ASP -999
 faded O -999
 and O -999
@@ -1357,7 +1357,7 @@ wash. O -999
 poor O -999
 fabric B-ASP -999
 quality I-ASP -999
-colours B-ASP 0
+colours B-ASP Negative
 faded O -999
 and O -999
 theory O -999
@@ -1375,7 +1375,7 @@ colours B-ASP -999
 faded O -999
 and O -999
 theory O -999
-shape B-ASP 0
+shape B-ASP Negative
 dostort O -999
 d O -999
 in O -999
@@ -1388,7 +1388,7 @@ first O -999
 wash, O -999
 complete O -999
 red O -999
-colour B-ASP 0
+colour B-ASP Negative
 started O -999
 dripping O -999
 out O -999
@@ -1400,8 +1400,8 @@ picture O -999
 shown O -999
 in O -999
 image O -999
-real B-ASP 0
-color I-ASP 0
+real B-ASP Negative
+color I-ASP Negative
 is O -999
 not O -999
 good. O -999
@@ -1409,7 +1409,7 @@ good. O -999
 very O -999
 bad O -999
 product O -999
-cloth B-ASP 0
+cloth B-ASP Negative
 was O -999
 not O -999
 good. O -999
@@ -1420,13 +1420,13 @@ product O -999
 with O -999
 high O -999
 quality O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 it O -999
 looks O -999
 and O -999
-fits B-ASP 2
+fits B-ASP Positive
 good O -999
 but O -999
 the O -999
@@ -1445,7 +1445,7 @@ fits B-ASP -999
 good O -999
 but O -999
 the O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 could O -999
 have O -999
 been O -999
@@ -1458,7 +1458,7 @@ is O -999
 a O -999
 best O -999
 but O -999
-colour B-ASP 0
+colour B-ASP Negative
 issue. O -999
 
 good O -999
@@ -1470,7 +1470,7 @@ it O -999
 a O -999
 very O -999
 cheap O -999
-price B-ASP 2
+price B-ASP Positive
 
 if O -999
 u O -999
@@ -1479,10 +1479,10 @@ large O -999
 order O -999
 for O -999
 medim. O -999
-fits B-ASP 2
+fits B-ASP Positive
 well. O -999
 
-colour B-ASP 0
+colour B-ASP Negative
 is O -999
 not O -999
 same O -999
@@ -1494,14 +1494,14 @@ picture. O -999
 very O -999
 nice O -999
 product, O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 is O -999
 very O -999
 soft. O -999
 
 hope O -999
 the O -999
-color B-ASP 1
+color B-ASP Neutral
 wont O -999
 fade O -999
 away. O -999
@@ -1516,21 +1516,21 @@ and O -999
 it O -999
 has O -999
 a O -999
-hood B-ASP 2
+hood B-ASP Positive
 quality. O -999
 
 nice O -999
 quality O -999
 at O -999
 cheap O -999
-rate B-ASP 2
+rate B-ASP Positive
 . O -999
 
 good O -999
 service O -999
 and O -999
 nice O -999
-material B-ASP 2
+material B-ASP Positive
 . O -999
 
 its O -999
@@ -1540,29 +1540,29 @@ awesome O -999
 and O -999
 fair O -999
 to O -999
-use B-ASP 2
+use B-ASP Positive
 . O -999
 
 very O -999
 good O -999
-fabric B-ASP 2
-material I-ASP 2
+fabric B-ASP Positive
+material I-ASP Positive
 . O -999
 
 product O -999
 is O -999
 average O -999
 but O -999
-colour B-ASP 0
+colour B-ASP Negative
 fades O -999
 after O -999
 1st O -999
 watch O -999
 only. O -999
 
-quality B-ASP 2
-of I-ASP 2
-cloth I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+cloth I-ASP Positive
 and O -999
 fitting O -999
 is O -999
@@ -1573,7 +1573,7 @@ quality O -999
 of O -999
 cloth O -999
 and O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 is O -999
 also O -999
 good. O -999
@@ -1582,10 +1582,10 @@ but O -999
 a O -999
 little O -999
 transparent O -999
-material B-ASP 0
+material B-ASP Negative
 . O -999
 
-cloth B-ASP 2
+cloth B-ASP Positive
 is O -999
 fine O -999
 quality O -999
@@ -1597,12 +1597,12 @@ nice O -999
 product O -999
 but O -999
 the O -999
-color B-ASP 0
+color B-ASP Negative
 is O -999
 light. O -999
 
-fabric B-ASP 0
-quality I-ASP 0
+fabric B-ASP Negative
+quality I-ASP Negative
 and O -999
 finishing B-ASP -999
 not O -999
@@ -1626,7 +1626,7 @@ this. O -999
 fabric B-ASP -999
 quality I-ASP -999
 and O -999
-finishing B-ASP 0
+finishing B-ASP Negative
 not O -999
 so O -999
 good O -999
@@ -1655,7 +1655,7 @@ good O -999
 for O -999
 the O -999
 price O -999
-stitching B-ASP 0
+stitching B-ASP Negative
 also O -999
 not O -999
 clean, O -999
@@ -1676,16 +1676,16 @@ it O -999
 because O -999
 of O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 issue. O -999
 
-color B-ASP 0
+color B-ASP Negative
 faded O -999
 after O -999
 one O -999
 wash. O -999
 
-graphic B-ASP 0
+graphic B-ASP Negative
 should O -999
 be O -999
 more O -999
@@ -1693,10 +1693,10 @@ visible O -999
 . O -999
 
 the O -999
-material B-ASP 1
-of I-ASP 1
-the I-ASP 1
-tshirt I-ASP 1
+material B-ASP Neutral
+of I-ASP Neutral
+the I-ASP Neutral
+tshirt I-ASP Neutral
 was O -999
 just O -999
 ok. O -999
@@ -1709,7 +1709,7 @@ the O -999
 one O -999
 at O -999
 ausoum O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 best O -999
@@ -1719,15 +1719,15 @@ all O -999
 bruce O -999
 lee O -999
 fan, O -999
-t B-ASP 2
-shirt I-ASP 2
-material I-ASP 2
+t B-ASP Positive
+shirt I-ASP Positive
+material I-ASP Positive
 is O -999
 good. O -999
 
 good O -999
-clothing B-ASP 2
-material I-ASP 2
+clothing B-ASP Positive
+material I-ASP Positive
 , O -999
 and O -999
 a O -999
@@ -1742,7 +1742,7 @@ no O -999
 color O -999
 deformity. O -999
 
-material B-ASP 2
+material B-ASP Positive
 is O -999
 good O -999
 in O -999
@@ -1750,7 +1750,7 @@ the O -999
 given O -999
 price. O -999
 
-color B-ASP 0
+color B-ASP Negative
 faded O -999
 after O -999
 few O -999
@@ -1766,20 +1766,20 @@ almost O -999
 days O -999
 to O -999
 get O -999
-delivered B-ASP 0
+delivered B-ASP Negative
 . O -999
 
 nice O -999
 tshirt O -999
 but O -999
-material B-ASP 0
+material B-ASP Negative
 is O -999
 very O -999
 thin. O -999
 
 on O -999
 time O -999
-deliver B-ASP 2
+deliver B-ASP Positive
 and O -999
 good O -999
 quality O -999
@@ -1803,7 +1803,7 @@ and O -999
 good O -999
 quality O -999
 and O -999
-size B-ASP 2
+size B-ASP Positive
 wise O -999
 good O -999
 , O -999
@@ -1826,7 +1826,7 @@ size B-ASP -999
 wise O -999
 good O -999
 , O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 well O -999
 conditions O -999
 best O -999
@@ -1834,7 +1834,7 @@ for O -999
 this O -999
 budget. O -999
 
-color B-ASP 0
+color B-ASP Negative
 are O -999
 not O -999
 as O -999
@@ -1854,7 +1854,7 @@ is O -999
 worth O -999
 it. O -999
 
-fitting B-ASP 2
+fitting B-ASP Positive
 is O -999
 good, O -999
 fabric B-ASP -999
@@ -1874,7 +1874,7 @@ acceptable. O -999
 fitting B-ASP -999
 is O -999
 good, O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 is O -999
 a O -999
 bit O -999
@@ -1892,7 +1892,7 @@ but O -999
 i O -999
 love O -999
 this O -999
-design B-ASP 2
+design B-ASP Positive
 from O -999
 starting O -999
 
@@ -1903,10 +1903,10 @@ about O -999
 material O -999
 of O -999
 cloth, O -999
-material B-ASP 0
-of I-ASP 0
-this I-ASP 0
-cloth I-ASP 0
+material B-ASP Negative
+of I-ASP Negative
+this I-ASP Negative
+cloth I-ASP Negative
 is O -999
 not O -999
 so O -999
@@ -1918,7 +1918,7 @@ to O -999
 giving O -999
 me O -999
 some O -999
-discount B-ASP 2
+discount B-ASP Positive
 via O -999
 mobile O -999
 app O -999
@@ -1940,11 +1940,11 @@ app O -999
 and O -999
 before O -999
 time O -999
-delivery. B-ASP 2
+delivery. B-ASP Positive
 
 the O -999
-fabric B-ASP 0
-colour I-ASP 0
+fabric B-ASP Negative
+colour I-ASP Negative
 is O -999
 getting O -999
 torn O -999
@@ -1960,7 +1960,7 @@ look O -999
 at. O -999
 
 nice O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 quality O -999
 is O -999
@@ -1981,7 +1981,7 @@ changed O -999
 its O -999
 shape O -999
 now O -999
-neck B-ASP 1
+neck B-ASP Neutral
 is O -999
 bigger O -999
 and O -999
@@ -2008,14 +2008,14 @@ neck B-ASP -999
 is O -999
 bigger O -999
 and O -999
-length B-ASP 1
+length B-ASP Neutral
 got O -999
 increased O -999
 too. O -999
 
 the O -999
-black B-ASP 0
-print I-ASP 0
+black B-ASP Negative
+print I-ASP Negative
 of O -999
 hand O -999
 and O -999
@@ -2025,7 +2025,7 @@ match. O -999
 
 very O -999
 good O -999
-material B-ASP 2
+material B-ASP Positive
 and O -999
 print. O -999
 
@@ -2033,10 +2033,10 @@ very O -999
 good O -999
 material O -999
 and O -999
-print B-ASP 2
+print B-ASP Positive
 . O -999
 
-price B-ASP 0
+price B-ASP Negative
 is O -999
 higher O -999
 compared O -999
@@ -2045,7 +2045,7 @@ quality O -999
 . O -999
 
 poor O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 like O -999
 cheap O -999
 product. O -999
@@ -2056,30 +2056,30 @@ quality O -999
 at O -999
 with O -999
 amazing O -999
-discount B-ASP 2
+discount B-ASP Positive
 . O -999
 
-printed B-ASP 0
-color I-ASP 0
+printed B-ASP Negative
+color I-ASP Negative
 is I-ASP -999
 very O -999
 dull. O -999
 
-printed B-ASP 0
-color I-ASP 0
-is I-ASP 0
+printed B-ASP Negative
+color I-ASP Negative
+is I-ASP Negative
 very O -999
 dull. O -999
 
-quality B-ASP 2
-of I-ASP 2
-the I-ASP 2
-material I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+the I-ASP Positive
+material I-ASP Positive
 was O -999
 good. O -999
 
 reasonable O -999
-price B-ASP 2
+price B-ASP Positive
 compare O -999
 to O -999
 shops. O -999
@@ -2090,7 +2090,7 @@ is O -999
 good O -999
 but O -999
 the O -999
-colour B-ASP 0
+colour B-ASP Negative
 fades O -999
 after O -999
 two O -999
@@ -2098,13 +2098,13 @@ or O -999
 more O -999
 washes. O -999
 
-print B-ASP 0
-quality I-ASP 0
+print B-ASP Negative
+quality I-ASP Negative
 is O -999
 very O -999
 bad. O -999
 
-size B-ASP 0
+size B-ASP Negative
 too O -999
 large O -999
 as O -999
@@ -2116,13 +2116,13 @@ ordered. O -999
 comfortable O -999
 and O -999
 the O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 is O -999
 really O -999
 very O -999
 nice. O -999
 
-quality B-ASP 0
+quality B-ASP Negative
 is O -999
 not O -999
 so O -999
@@ -2142,8 +2142,8 @@ awesome O -999
 t O -999
 shirt O -999
 an O -999
-fabric B-ASP 2
-colour I-ASP 2
+fabric B-ASP Positive
+colour I-ASP Positive
 also. O -999
 
 this O -999
@@ -2153,11 +2153,11 @@ good O -999
 product O -999
 on O -999
 low O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 impressive O -999
-service B-ASP 2
+service B-ASP Positive
 by O -999
 Flipkart, O -999
 product O -999
@@ -2170,7 +2170,7 @@ price B-ASP -999
 ?. O -999
 
 impressive O -999
-service B-ASP 2
+service B-ASP Positive
 by O -999
 Flipkart, O -999
 product O -999
@@ -2192,7 +2192,7 @@ excellent O -999
 worth O -999
 of O -999
 the O -999
-price B-ASP 2
+price B-ASP Positive
 ?. O -999
 
 so O -999
@@ -2205,21 +2205,21 @@ buy O -999
 products O -999
 from O -999
 this O -999
-seller B-ASP 0
+seller B-ASP Negative
 it's O -999
 fake O -999
 seller O -999
 . O -999
 
 the O -999
-delivery B-ASP 2
-guy I-ASP 2
+delivery B-ASP Positive
+guy I-ASP Positive
 was O -999
 friendly O -999
 . O -999
 
 nice O -999
-print B-ASP 2
+print B-ASP Positive
 and O -999
 nice O -999
 fabric. O -999
@@ -2228,14 +2228,14 @@ nice O -999
 print O -999
 and O -999
 nice O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 product O -999
 is O -999
 good O -999
 but O -999
-colour B-ASP 0
+colour B-ASP Negative
 is O -999
 not O -999
 good O -999
@@ -2244,7 +2244,7 @@ i O -999
 expected. O -999
 
 only O -999
-design B-ASP 2
+design B-ASP Positive
 best O -999
 but O -999
 material B-ASP -999
@@ -2258,8 +2258,8 @@ only O -999
 design B-ASP -999
 best O -999
 but O -999
-material B-ASP 0
-quality I-ASP 0
+material B-ASP Negative
+quality I-ASP Negative
 and O -999
 fitting B-ASP -999
 third O -999
@@ -2272,22 +2272,22 @@ but O -999
 material B-ASP -999
 quality I-ASP -999
 and O -999
-fitting B-ASP 0
+fitting B-ASP Negative
 third O -999
 class. O -999
 
 good O -999
-colour B-ASP 2
+colour B-ASP Positive
 &good O -999
 materials. O -999
 
 good O -999
 colour O -999
 &good O -999
-materials B-ASP 2
+materials B-ASP Positive
 . O -999
 
-print B-ASP 0
+print B-ASP Negative
 got O -999
 washed O -999
 away O -999
@@ -2296,7 +2296,7 @@ the O -999
 first O -999
 time. O -999
 
-logo B-ASP 0
+logo B-ASP Negative
 is O -999
 also O -999
 not O -999
@@ -2304,7 +2304,7 @@ that O -999
 clear. O -999
 
 perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 quality O -999
 is O -999
@@ -2312,7 +2312,7 @@ also O -999
 good.!. O -999
 
 good O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 and O -999
 good O -999
 fitting. O -999
@@ -2321,10 +2321,10 @@ good O -999
 fabric O -999
 and O -999
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 . O -999
 
-quality B-ASP 2
+quality B-ASP Positive
 good O -999
 but O -999
 size B-ASP -999
@@ -2334,17 +2334,17 @@ perfect. O -999
 quality B-ASP -999
 good O -999
 but O -999
-size B-ASP 0
+size B-ASP Negative
 not O -999
 perfect. O -999
 
 nice, O -999
 but O -999
-price B-ASP 0
+price B-ASP Negative
 to O -999
 much. O -999
 
-color B-ASP 2
+color B-ASP Positive
 of O -999
 the O -999
 tshirt O -999
@@ -2360,7 +2360,7 @@ of O -999
 the O -999
 tshirt O -999
 and O -999
-print B-ASP 2
+print B-ASP Positive
 on O -999
 it O -999
 is O -999
@@ -2369,8 +2369,8 @@ amazing. O -999
 not O -999
 completely O -999
 satisfied, O -999
-tshirt B-ASP 2
-design I-ASP 2
+tshirt B-ASP Positive
+design I-ASP Positive
 and O -999
 fitting B-ASP -999
 is O -999
@@ -2397,7 +2397,7 @@ satisfied, O -999
 tshirt B-ASP -999
 design I-ASP -999
 and O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 is O -999
 good O -999
 but O -999
@@ -2436,7 +2436,7 @@ mark, O -999
 little O -999
 thickness O -999
 in O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 should O -999
 be O -999
 given O -999
@@ -2447,7 +2447,7 @@ a O -999
 very O -999
 poor O -999
 quality O -999
-material B-ASP 0
+material B-ASP Negative
 product, O -999
 after O -999
 one O -999
@@ -2467,19 +2467,19 @@ product, O -999
 after O -999
 one O -999
 wash O -999
-color B-ASP 0
+color B-ASP Negative
 is O -999
 faded. O -999
 
 better O -999
 tshirt O -999
 and O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 are O -999
 very O -999
 soft. O -999
 
-stitching B-ASP 0
+stitching B-ASP Negative
 is O -999
 not O -999
 good O -999
@@ -2488,7 +2488,7 @@ bad O -999
 stitching O -999
 . O -999
 
-fit B-ASP 2
+fit B-ASP Positive
 n O -999
 size B-ASP -999
 appear O -999
@@ -2499,15 +2499,15 @@ body. O -999
 
 fit B-ASP -999
 n O -999
-size B-ASP 2
+size B-ASP Positive
 appear O -999
 good O -999
 for O -999
 in-shape O -999
 body. O -999
 
-fabric B-ASP 2
-quality I-ASP 2
+fabric B-ASP Positive
+quality I-ASP Positive
 is O -999
 good O -999
 delivered O -999
@@ -2515,7 +2515,7 @@ in O -999
 time. O -999
 
 the O -999
-colour B-ASP 0
+colour B-ASP Negative
 as O -999
 well O -999
 as O -999
@@ -2536,8 +2536,8 @@ colour B-ASP -999
 as O -999
 well O -999
 as O -999
-front B-ASP 0
-printing I-ASP 0
+front B-ASP Negative
+printing I-ASP Negative
 is O -999
 very O -999
 different O -999
@@ -2548,9 +2548,9 @@ in O -999
 the O -999
 picture. O -999
 
-quality B-ASP 0
-of I-ASP 0
-stuff I-ASP 0
+quality B-ASP Negative
+of I-ASP Negative
+stuff I-ASP Negative
 is O -999
 poor O -999
 or O -999
@@ -2560,13 +2560,13 @@ bad. O -999
 good O -999
 quality, O -999
 perfect O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 , O -999
 a O -999
 must O -999
 buy. O -999
 
-colour B-ASP 0
+colour B-ASP Negative
 is O -999
 faded O -999
 and O -999
@@ -2585,7 +2585,7 @@ colour B-ASP -999
 is O -999
 faded O -999
 and O -999
-delivery B-ASP 0
+delivery B-ASP Negative
 is O -999
 late O -999
 plus O -999
@@ -2600,10 +2600,10 @@ nice O -999
 product O -999
 with O -999
 awesome O -999
-cost B-ASP 2
+cost B-ASP Positive
 . O -999
 
-cloth B-ASP 0
+cloth B-ASP Negative
 is O -999
 very O -999
 thick O -999
@@ -2614,13 +2614,13 @@ item O -999
 is O -999
 good, O -999
 but O -999
-price B-ASP 0
+price B-ASP Negative
 is O -999
 high. O -999
 
 though O -999
 the O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 is O -999
 comfort O -999
 to O -999
@@ -2651,7 +2651,7 @@ wear O -999
 buthe O -999
 th O -999
 e O -999
-color B-ASP 0
+color B-ASP Negative
 does O -999
 not O -999
 match O -999
@@ -2665,13 +2665,13 @@ order O -999
 given. O -999
 
 nice O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 quality O -999
 is O -999
 good. O -999
 
-size B-ASP 0
+size B-ASP Negative
 is O -999
 too O -999
 small O -999
@@ -2697,10 +2697,10 @@ too O -999
 small O -999
 and O -999
 the O -999
-quality B-ASP 0
-of I-ASP 0
-the I-ASP 0
-fabric I-ASP 0
+quality B-ASP Negative
+of I-ASP Negative
+the I-ASP Negative
+fabric I-ASP Negative
 is O -999
 worse O -999
 than O -999
@@ -2711,7 +2711,7 @@ worth O -999
 rs O -999
 100. O -999
 
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 quality O -999
 is O -999
@@ -2719,7 +2719,7 @@ very O -999
 nice. O -999
 
 it's O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 and O -999
 manufacture O -999
 is O -999
@@ -2730,14 +2730,14 @@ very O -999
 bad O -999
 and O -999
 cheap O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 . O -999
 
 worthless, O -999
 very O -999
 low O -999
 quality O -999
-cloth B-ASP 0
+cloth B-ASP Negative
 , O -999
 don't O -999
 waste O -999
@@ -2749,7 +2749,7 @@ this O -999
 quote. O -999
 
 the O -999
-material B-ASP 2
+material B-ASP Positive
 and O -999
 product O -999
 was O -999
@@ -2772,7 +2772,7 @@ was O -999
 good O -999
 but O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 did O -999
 not O -999
 fit O -999
@@ -2783,7 +2783,7 @@ it. O -999
 nice O -999
 good O -999
 quality O -999
-cotton B-ASP 2
+cotton B-ASP Positive
 proper O -999
 fitted. O -999
 
@@ -2792,7 +2792,7 @@ good O -999
 quality O -999
 cotton O -999
 proper O -999
-fitted B-ASP 2
+fitted B-ASP Positive
 . O -999
 
 within O -999
@@ -2800,14 +2800,14 @@ a O -999
 single O -999
 wash O -999
 the O -999
-colour B-ASP 0
+colour B-ASP Negative
 got O -999
 faded. O -999
 
 awesome O -999
 shirts, O -999
 perfect O -999
-size B-ASP 2
+size B-ASP Positive
 perfect O -999
 colour. O -999
 
@@ -2816,7 +2816,7 @@ shirts, O -999
 perfect O -999
 size O -999
 perfect O -999
-colour B-ASP 2
+colour B-ASP Positive
 . O -999
 
 poor O -999
@@ -2825,11 +2825,11 @@ of O -999
 product O -999
 and O -999
 late O -999
-delivery B-ASP 0
+delivery B-ASP Negative
 . O -999
 
 great O -999
-fit B-ASP 2
+fit B-ASP Positive
 , O -999
 just O -999
 like O -999
@@ -2847,8 +2847,8 @@ wear O -999
 must O -999
 buy. O -999
 
-fabric B-ASP 0
-quality I-ASP 0
+fabric B-ASP Negative
+quality I-ASP Negative
 was O -999
 worst, O -999
 t O -999
@@ -2860,7 +2860,7 @@ already. O -999
 not O -999
 good O -999
 product, O -999
-colour B-ASP 0
+colour B-ASP Negative
 fade O -999
 after O -999
 first O -999
@@ -2872,14 +2872,14 @@ nice O -999
 tshirt O -999
 but O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 was O -999
 large. O -999
 
 very O -999
 comfortable O -999
 in O -999
-wearing B-ASP 2
+wearing B-ASP Positive
 but O -999
 the O -999
 cloth B-ASP -999
@@ -2899,11 +2899,11 @@ in O -999
 wearing B-ASP -999
 but O -999
 the O -999
-cloth B-ASP 0
-of I-ASP 0
-the I-ASP 0
-t I-ASP 0
-shirt I-ASP 0
+cloth B-ASP Negative
+of I-ASP Negative
+the I-ASP Negative
+t I-ASP Negative
+shirt I-ASP Negative
 is O -999
 too O -999
 light O -999
@@ -2917,10 +2917,10 @@ little O -999
 bit O -999
 difference O -999
 in O -999
-colour B-ASP 0
+colour B-ASP Negative
 . O -999
 
-fit B-ASP 2
+fit B-ASP Positive
 is O -999
 perfect O -999
 and O -999
@@ -2941,10 +2941,10 @@ that O -999
 much O -999
 cool O -999
 in O -999
-fitting B-ASP 0
+fitting B-ASP Negative
 
 excellent O -999
-fitted B-ASP 2
+fitted B-ASP Positive
 for O -999
 me O -999
 looking O -999
@@ -2955,11 +2955,11 @@ shirt O -999
 and O -999
 good O -999
 quality O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 very O -999
 very O -999
@@ -2970,7 +2970,7 @@ i O -999
 feel O -999
 that O -999
 the O -999
-neck B-ASP 1
+neck B-ASP Neutral
 is O -999
 bit O -999
 bigger O -999
@@ -2997,14 +2997,14 @@ a O -999
 single O -999
 wash O -999
 and O -999
-color B-ASP 0
+color B-ASP Negative
 also O -999
 got O -999
 faded. O -999
 
 good O -999
 quality O -999
-clothing B-ASP 2
+clothing B-ASP Positive
 , O -999
 perfect B-ASP -999
 fitting, O -999
@@ -3018,7 +3018,7 @@ good O -999
 quality O -999
 clothing B-ASP -999
 , O -999
-perfect B-ASP 2
+perfect B-ASP Positive
 fitting, O -999
 great B-ASP -999
 designs O -999
@@ -3032,7 +3032,7 @@ clothing B-ASP -999
 , O -999
 perfect B-ASP -999
 fitting, O -999
-great B-ASP 2
+great B-ASP Positive
 designs O -999
 at O -999
 reasonable B-ASP -999
@@ -3047,7 +3047,7 @@ fitting, O -999
 great B-ASP -999
 designs O -999
 at O -999
-reasonable B-ASP 2
+reasonable B-ASP Positive
 price. O -999
 
 this O -999
@@ -3055,14 +3055,14 @@ is O -999
 good O -999
 and O -999
 the O -999
-material B-ASP 2
+material B-ASP Positive
 is O -999
 good. O -999
 
 very O -999
 bad O -999
 over O -999
-size B-ASP 0
+size B-ASP Negative
 and O -999
 very O -999
 bad O -999
@@ -3075,14 +3075,14 @@ size O -999
 and O -999
 very O -999
 bad O -999
-quality B-ASP 0
+quality B-ASP Negative
 . O -999
 
 nice O -999
 product,so O -999
 comfortable O -999
 to O -999
-wear B-ASP 2
+wear B-ASP Positive
 . O -999
 
 cheap O -999
@@ -3092,7 +3092,7 @@ logo I-ASP -999
 looks O -999
 really O -999
 bad O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 is O -999
 good O -999
 but O -999
@@ -3104,8 +3104,8 @@ different O -999
 
 cheap O -999
 quality O -999
-product B-ASP 0
-logo I-ASP 0
+product B-ASP Negative
+logo I-ASP Negative
 looks O -999
 really O -999
 bad O -999
@@ -3130,7 +3130,7 @@ cloth B-ASP -999
 is O -999
 good O -999
 but O -999
-colour B-ASP 0
+colour B-ASP Negative
 is O -999
 also O -999
 different O -999
@@ -3139,12 +3139,12 @@ different O -999
 no O -999
 problem O -999
 with O -999
-print B-ASP 0
+print B-ASP Negative
 after O -999
 you O -999
 wash. O -999
 
-color B-ASP 0
+color B-ASP Negative
 get O -999
 fade O -999
 after O -999
@@ -3168,7 +3168,7 @@ totally O -999
 satisfied O -999
 with O -999
 the O -999
-color B-ASP 1
+color B-ASP Neutral
 and O -999
 fitting. O -999
 
@@ -3178,7 +3178,7 @@ with O -999
 the O -999
 color O -999
 and O -999
-fitting B-ASP 1
+fitting B-ASP Neutral
 . O -999
 
 good O -999
@@ -3192,12 +3192,12 @@ the O -999
 picture O -999
 and O -999
 good O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 good O -999
 quality, O -999
-colour B-ASP 1
+colour B-ASP Neutral
 same O -999
 as O -999
 seen O -999
@@ -3210,7 +3210,7 @@ fabric B-ASP -999
 . O -999
 
 the O -999
-design B-ASP 2
+design B-ASP Positive
 is O -999
 beautiful O -999
 with O -999
@@ -3226,17 +3226,17 @@ beautiful O -999
 with O -999
 a O -999
 great O -999
-color B-ASP 2
+color B-ASP Positive
 carnation. O -999
 
 comfortable O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 nice O -999
 to O -999
 wear. O -999
 
-size B-ASP 2
+size B-ASP Positive
 fits O -999
 perfect O -999
 as O -999
@@ -3254,19 +3254,19 @@ as O -999
 well O -999
 and O -999
 the O -999
-colour B-ASP 2
+colour B-ASP Positive
 looks O -999
 good. O -999
 
 perfect O -999
-fittings B-ASP 2
+fittings B-ASP Positive
 , O -999
 less O -999
 colour O -999
 options. O -999
 
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 n O -999
 much O -999
 more O -999
@@ -3283,10 +3283,10 @@ quality O -999
 and O -999
 not O -999
 adjust O -999
-size B-ASP 0
+size B-ASP Negative
 . O -999
 
-writing B-ASP 0
+writing B-ASP Negative
 is O -999
 not O -999
 visible. O -999
@@ -3295,7 +3295,7 @@ visible. O -999
 good O -999
 product O -999
 but O -999
-price B-ASP 0
+price B-ASP Negative
 is O -999
 just O -999
 high. O -999
@@ -3303,12 +3303,12 @@ high. O -999
 comfortable O -999
 with O -999
 the O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 very O -999
 nice O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 good O -999
 material, B-ASP -999
@@ -3324,7 +3324,7 @@ nice O -999
 fit B-ASP -999
 and O -999
 good O -999
-material, B-ASP 2
+material, B-ASP Positive
 got O -999
 in O -999
 a O -999
@@ -3342,7 +3342,7 @@ got O -999
 in O -999
 a O -999
 good O -999
-deal B-ASP 2
+deal B-ASP Positive
 too. O -999
 
 product O -999
@@ -3356,11 +3356,11 @@ made O -999
 by O -999
 good O -999
 attractive O -999
-fabrics B-ASP 2
+fabrics B-ASP Positive
 . O -999
 
 awesome O -999
-material B-ASP 2
+material B-ASP Positive
 lovely O -999
 t O -999
 shirt O -999
@@ -3375,19 +3375,19 @@ t O -999
 shirt O -999
 worth O -999
 the O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 looks O -999
 too O -999
 good O -999
 but O -999
-price B-ASP 0
+price B-ASP Negative
 is O -999
 too O -999
 high. O -999
 
-color B-ASP 0
+color B-ASP Negative
 is O -999
 slightly O -999
 dull, O -999
@@ -3398,13 +3398,13 @@ was O -999
 good O -999
 but O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 issue. O -999
 
 try O -999
 the O -999
 lower O -999
-size B-ASP 0
+size B-ASP Negative
 which O -999
 u O -999
 normally O -999
@@ -3413,11 +3413,11 @@ use. O -999
 only O -999
 onewash O -999
 after O -999
-colour B-ASP 0
+colour B-ASP Negative
 gone. O -999
 
 good O -999
-pattern B-ASP 2
+pattern B-ASP Positive
 but O -999
 shirt B-ASP -999
 material I-ASP -999
@@ -3433,8 +3433,8 @@ expected. O -999
 good O -999
 pattern B-ASP -999
 but O -999
-shirt B-ASP 0
-material I-ASP 0
+shirt B-ASP Negative
+material I-ASP Negative
 and O -999
 print B-ASP -999
 quality I-ASP -999
@@ -3450,8 +3450,8 @@ but O -999
 shirt B-ASP -999
 material I-ASP -999
 and O -999
-print B-ASP 0
-quality I-ASP 0
+print B-ASP Negative
+quality I-ASP Negative
 not O -999
 as O -999
 good O -999
@@ -3465,11 +3465,11 @@ with O -999
 the O -999
 quality O -999
 or O -999
-stitching B-ASP 0
+stitching B-ASP Negative
 . O -999
 
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 comfortable O -999
 fabric. O -999
@@ -3478,10 +3478,10 @@ good O -999
 fitting O -999
 and O -999
 comfortable O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
-material B-ASP 2
+material B-ASP Positive
 and O -999
 size B-ASP -999
 is O -999
@@ -3489,18 +3489,18 @@ good. O -999
 
 material B-ASP -999
 and O -999
-size B-ASP 2
+size B-ASP Positive
 is O -999
 good. O -999
 
-fitting B-ASP 0
+fitting B-ASP Negative
 is O -999
 not O -999
 good O -999
 near O -999
 waist. O -999
 
-design B-ASP 2
+design B-ASP Positive
 and O -999
 color B-ASP -999
 as O -999
@@ -3508,7 +3508,7 @@ shown. O -999
 
 design B-ASP -999
 and O -999
-color B-ASP 2
+color B-ASP Positive
 as O -999
 shown. O -999
 
@@ -3517,7 +3517,7 @@ issue O -999
 was O -999
 that O -999
 the O -999
-size B-ASP 0
+size B-ASP Negative
 was O -999
 a O -999
 bit O -999
@@ -3525,8 +3525,8 @@ larger. O -999
 
 and O -999
 the O -999
-color B-ASP 2
-combination I-ASP 2
+color B-ASP Positive
+combination I-ASP Positive
 is O -999
 great. O -999
 
@@ -3534,7 +3534,7 @@ very O -999
 bad O -999
 quality O -999
 and O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 is O -999
 so O -999
 bad. O -999
@@ -3548,11 +3548,11 @@ use O -999
 without O -999
 fear O -999
 of O -999
-colour B-ASP 0
+colour B-ASP Negative
 fade. O -999
 
 the O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 clothmaterial B-ASP -999
 is O -999
 very O -999
@@ -3560,7 +3560,7 @@ good. O -999
 
 the O -999
 fabric B-ASP -999
-clothmaterial B-ASP 2
+clothmaterial B-ASP Positive
 is O -999
 very O -999
 good. O -999
@@ -3569,10 +3569,10 @@ the O -999
 product O -999
 looks O -999
 and O -999
-fits B-ASP 2
+fits B-ASP Positive
 perfectly. O -999
 
-material B-ASP 2
+material B-ASP Positive
 is O -999
 good O -999
 but O -999
@@ -3592,13 +3592,13 @@ but O -999
 after O -999
 2 O -999
 month O -999
-colour B-ASP 0
+colour B-ASP Negative
 going O -999
 to O -999
 fad O -999
 almost. O -999
 
-stitching B-ASP 0
+stitching B-ASP Negative
 is O -999
 not O -999
 securely O -999
@@ -3610,7 +3610,7 @@ at O -999
 such O -999
 a O -999
 low O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 very O -999
@@ -3618,11 +3618,11 @@ nice O -999
 product O -999
 quality O -999
 and O -999
-fit B-ASP 2
+fit B-ASP Positive
 . O -999
 
 perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 to O -999
 the O -999
 body O -999
@@ -3630,8 +3630,8 @@ nice O -999
 cloth. O -999
 
 but O -999
-tshirt B-ASP 1
-material I-ASP 1
+tshirt B-ASP Neutral
+material I-ASP Neutral
 is O -999
 average. O -999
 
@@ -3639,19 +3639,19 @@ stuff O -999
 is O -999
 good O -999
 but O -999
-fitting B-ASP 0
+fitting B-ASP Negative
 issue O -999
 little O -999
 bit. O -999
 
-cloth B-ASP 0
-material I-ASP 0
+cloth B-ASP Negative
+material I-ASP Negative
 is O -999
 very O -999
 thin. O -999
 
-cloth B-ASP 2
-material I-ASP 2
+cloth B-ASP Positive
+material I-ASP Positive
 is O -999
 very O -999
 thin. O -999
@@ -3664,11 +3664,11 @@ need O -999
 some O -999
 improvement O -999
 in O -999
-size B-ASP 2
+size B-ASP Positive
 . O -999
 
 nice O -999
-colours B-ASP 2
+colours B-ASP Positive
 and O -999
 good O -999
 fitting B-ASP -999
@@ -3680,7 +3680,7 @@ nice O -999
 colours B-ASP -999
 and O -999
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 a O -999
 rememberable O -999
 product. O -999
@@ -3688,7 +3688,7 @@ product. O -999
 simply O -999
 awesome, O -999
 good O -999
-material B-ASP 2
+material B-ASP Positive
 , O -999
 nice B-ASP -999
 fitting, O -999
@@ -3703,7 +3703,7 @@ awesome, O -999
 good O -999
 material B-ASP -999
 , O -999
-nice B-ASP 2
+nice B-ASP Positive
 fitting, O -999
 good B-ASP -999
 finishing, O -999
@@ -3718,7 +3718,7 @@ material B-ASP -999
 , O -999
 nice B-ASP -999
 fitting, O -999
-good B-ASP 2
+good B-ASP Positive
 finishing, O -999
 complete O -999
 package O -999
@@ -3726,7 +3726,7 @@ package O -999
 
 very O -999
 poor O -999
-quality B-ASP 0
+quality B-ASP Negative
 and O -999
 the O -999
 graphics B-ASP -999
@@ -3739,7 +3739,7 @@ poor O -999
 quality B-ASP -999
 and O -999
 the O -999
-graphics B-ASP 0
+graphics B-ASP Negative
 is O -999
 easily O -999
 scratchable. O -999
@@ -3750,12 +3750,12 @@ is O -999
 good O -999
 and O -999
 the O -999
-print B-ASP 2
+print B-ASP Positive
 is O -999
 good O -999
 too. O -999
 
-stitches B-ASP 0
+stitches B-ASP Negative
 are O -999
 worse O -999
 & O -999
@@ -3769,31 +3769,31 @@ are O -999
 worse O -999
 & O -999
 the O -999
-material B-ASP 0
+material B-ASP Negative
 is O -999
 bad. O -999
 
-puma B-ASP 2
-men I-ASP 2
-tshirt I-ASP 2
+puma B-ASP Positive
+men I-ASP Positive
+tshirt I-ASP Positive
 is O -999
 more O -999
 comfortable. O -999
 
 nice O -999
-packaging B-ASP 2
+packaging B-ASP Positive
 , O -999
 very O -999
 satisfied. O -999
 
 but O -999
 product O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 is O -999
 poor O -999
 quality. O -999
 
-material B-ASP 2
+material B-ASP Positive
 is O -999
 good, O -999
 fit B-ASP -999
@@ -3803,7 +3803,7 @@ perfect. O -999
 material B-ASP -999
 is O -999
 good, O -999
-fit B-ASP 2
+fit B-ASP Positive
 is O -999
 perfect. O -999
 
@@ -3812,7 +3812,7 @@ love O -999
 this O -999
 shirt O -999
 and O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 is O -999
 also O -999
 very O -999
@@ -3822,11 +3822,11 @@ nice O -999
 tshirt O -999
 in O -999
 less O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
 good O -999
-material B-ASP 2
+material B-ASP Positive
 nice O -999
 cloth B-ASP -999
 soft. O -999
@@ -3834,10 +3834,10 @@ soft. O -999
 good O -999
 material B-ASP -999
 nice O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 soft. O -999
 
-color B-ASP 2
+color B-ASP Positive
 looks O -999
 more O -999
 decent O -999
@@ -3851,27 +3851,27 @@ look O -999
 wise O -999
 good O -999
 but O -999
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 is O -999
 very O -999
 poor. O -999
 
-fitting B-ASP 0
+fitting B-ASP Negative
 is O -999
 also O -999
 not O -999
 good. O -999
 
-color B-ASP 0
-of I-ASP 0
-tshirt I-ASP 0
+color B-ASP Negative
+of I-ASP Negative
+tshirt I-ASP Negative
 is O -999
 already O -999
 fade. O -999
 
 best O -999
-color B-ASP 2
+color B-ASP Positive
 , O -999
 fits O -999
 right O -999
@@ -3901,7 +3901,7 @@ made O -999
 with O -999
 good O -999
 stretchable O -999
-material B-ASP 2
+material B-ASP Positive
 . O -999
 
 after O -999
@@ -3912,7 +3912,7 @@ use O -999
 i O -999
 found O -999
 its O -999
-colour B-ASP 0
+colour B-ASP Negative
 too O -999
 much O -999
 fading O -999
@@ -3925,7 +3925,7 @@ excellent O -999
 product O -999
 and O -999
 good O -999
-color B-ASP 2
+color B-ASP Positive
 as O -999
 give O -999
 in O -999
@@ -3936,14 +3936,14 @@ great O -999
 product O -999
 and O -999
 soft O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 . O -999
 
 little O -999
 bit O -999
 execuse O -999
 with O -999
-color B-ASP 0
+color B-ASP Negative
 otherwise O -999
 great O -999
 . O -999
@@ -3956,14 +3956,14 @@ it O -999
 started O -999
 losing O -999
 its O -999
-colour B-ASP 0
+colour B-ASP Negative
 after O -999
 a O -999
 wash!!. O -999
 
 very O -999
 nice O -999
-cloth B-ASP 2
+cloth B-ASP Positive
 but O -999
 little O -999
 longer O -999
@@ -3975,10 +3975,10 @@ cloth O -999
 but O -999
 little O -999
 longer O -999
-length B-ASP 0
+length B-ASP Negative
 . O -999
 
-colour B-ASP 0
+colour B-ASP Negative
 is O -999
 fading O -999
 out O -999
@@ -3992,14 +3992,14 @@ good O -999
 t O -999
 shirt O -999
 and O -999
-colour B-ASP 2
+colour B-ASP Positive
 also O -999
 very O -999
 good. O -999
 
 got O -999
 different O -999
-colour B-ASP 0
+colour B-ASP Negative
 but O -999
 quality O -999
 is O -999
@@ -4009,7 +4009,7 @@ good O -999
 quality O -999
 at O -999
 reasonable O -999
-price B-ASP 1
+price B-ASP Neutral
 . O -999
 
 got O -999
@@ -4017,19 +4017,19 @@ defective O -999
 product O -999
 & O -999
 it's O -999
-color B-ASP 0
+color B-ASP Negative
 fades. O -999
 
 not O -999
 bad,especially O -999
-packaging B-ASP 2
+packaging B-ASP Positive
 was O -999
 nice. O -999
 
-quality B-ASP 2
-of I-ASP 2
-the I-ASP 2
-cloth I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+the I-ASP Positive
+cloth I-ASP Positive
 is O -999
 good O -999
 as O -999
@@ -4058,7 +4058,7 @@ looks O -999
 like O -999
 new. O -999
 
-colour B-ASP 0
+colour B-ASP Negative
 faded O -999
 in O -999
 two O -999
@@ -4076,7 +4076,7 @@ all O -999
 UCB O -999
 products. O -999
 
-colour B-ASP 2
+colour B-ASP Positive
 is O -999
 a O -999
 bit O -999
@@ -4089,13 +4089,13 @@ that's O -999
 good O -999
 too. O -999
 
-fabric B-ASP 2
-quality I-ASP 2
+fabric B-ASP Positive
+quality I-ASP Positive
 is O -999
 awesome. O -999
 
 good O -999
-material B-ASP 2
+material B-ASP Positive
 to O -999
 be O -999
 used. O -999
@@ -4105,7 +4105,7 @@ product O -999
 received O -999
 at O -999
 lowest O -999
-price B-ASP 2
+price B-ASP Positive
 thanks O -999
 to O -999
 Flipkart. O -999
@@ -4116,10 +4116,10 @@ very O -999
 poor O -999
 and O -999
 thardclass O -999
-metrail B-ASP 0
+metrail B-ASP Negative
 . O -999
 
-material B-ASP 2
+material B-ASP Positive
 8s O -999
 good O -999
 but O -999
@@ -4132,13 +4132,13 @@ material B-ASP -999
 8s O -999
 good O -999
 but O -999
-size B-ASP 0
+size B-ASP Negative
 are O -999
 not O -999
 perfect. O -999
 
 perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 good O -999
 quality B-ASP -999
@@ -4151,7 +4151,7 @@ perfect O -999
 fit B-ASP -999
 and O -999
 good O -999
-quality B-ASP 2
+quality B-ASP Positive
 at O -999
 an O -999
 affordable O -999
@@ -4165,10 +4165,10 @@ quality B-ASP -999
 at O -999
 an O -999
 affordable O -999
-price. B-ASP 2
+price. B-ASP Positive
 
 excellent O -999
-material B-ASP 2
+material B-ASP Positive
 and O -999
 comfortable O -999
 slim O -999
@@ -4179,8 +4179,8 @@ excellent O -999
 material O -999
 and O -999
 comfortable O -999
-slim B-ASP 2
-fit I-ASP 2
+slim B-ASP Positive
+fit I-ASP Positive
 .!! O -999
 
 nice O -999
@@ -4189,11 +4189,11 @@ excellent O -999
 quality O -999
 n O -999
 nice O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 loved O -999
 it. O -999
 
-size B-ASP 2
+size B-ASP Positive
 is O -999
 perfect O -999
 but O -999
@@ -4206,19 +4206,19 @@ size B-ASP -999
 is O -999
 perfect O -999
 but O -999
-color B-ASP 0
+color B-ASP Negative
 is O -999
 so O -999
 dull. O -999
 
 superb O -999
-quality B-ASP 2
+quality B-ASP Positive
 within O -999
 the O -999
 budget. O -999
 
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 is O -999
 too O -999
 poor, O -999
@@ -4233,7 +4233,7 @@ thrown O -999
 it. O -999
 
 the O -999
-colour B-ASP 0
+colour B-ASP Negative
 contrast O -999
 varies O -999
 from O -999
@@ -4245,30 +4245,30 @@ quite O -999
 awesome O -999
 and O -999
 its O -999
-design B-ASP 2
+design B-ASP Positive
 was O -999
 very O -999
 nice. O -999
 
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 is O -999
 not O -999
 good. O -999
 
 awesome O -999
-fabrics B-ASP 2
+fabrics B-ASP Positive
 n O -999
 good O -999
 quality. O -999
 
-front B-ASP 0
-length I-ASP 0
+front B-ASP Negative
+length I-ASP Negative
 was O -999
 not O -999
 satisfied. O -999
 
-fabric B-ASP 2
+fabric B-ASP Positive
 and O -999
 finishing B-ASP -999
 is O -999
@@ -4277,12 +4277,12 @@ good. O -999
 
 fabric B-ASP -999
 and O -999
-finishing B-ASP 2
+finishing B-ASP Positive
 is O -999
 also O -999
 good. O -999
 
-delivery B-ASP 2
+delivery B-ASP Positive
 ,quality B-ASP -999
 and O -999
 everything O -999
@@ -4295,7 +4295,7 @@ just O -999
 awesome. O -999
 
 delivery B-ASP -999
-,quality B-ASP 2
+,quality B-ASP Positive
 and O -999
 everything O -999
 related O -999
@@ -4309,7 +4309,7 @@ awesome. O -999
 nice O -999
 but O -999
 the O -999
-material B-ASP 0
+material B-ASP Negative
 is O -999
 so O -999
 thin. O -999
@@ -4328,12 +4328,12 @@ thin. O -999
 doubt O -999
 about O -999
 its O -999
-longitivity. B-ASP 0
+longitivity. B-ASP Negative
 
 good O -999
 product O -999
 but O -999
-colour B-ASP 0
+colour B-ASP Negative
 mismatch. O -999
 
 product O -999
@@ -4345,7 +4345,7 @@ money O -999
 little O -999
 issue O -999
 is O -999
-size B-ASP 0
+size B-ASP Negative
 not O -999
 matched O -999
 have O -999
@@ -4356,7 +4356,7 @@ and O -999
 received O -999
 xl. O -999
 
-material B-ASP 2
+material B-ASP Positive
 is O -999
 good,same O -999
 as O -999
@@ -4364,23 +4364,23 @@ shown O -999
 on O -999
 picture. O -999
 
-materials B-ASP 2
-of I-ASP 2
-the I-ASP 2
-cloth I-ASP 2
+materials B-ASP Positive
+of I-ASP Positive
+the I-ASP Positive
+cloth I-ASP Positive
 is O -999
 not O -999
 so O -999
 good. O -999
 
 bad O -999
-quality B-ASP 2
+quality B-ASP Positive
 for O -999
 this O -999
 price. O -999
 
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 but O -999
 color B-ASP -999
 very O -999
@@ -4391,13 +4391,13 @@ tshirt. O -999
 good O -999
 fitting B-ASP -999
 but O -999
-color B-ASP 0
+color B-ASP Negative
 very O -999
 light O -999
 average O -999
 tshirt. O -999
 
-material B-ASP 2
+material B-ASP Positive
 is O -999
 very O -999
 nice O -999
@@ -4410,9 +4410,9 @@ best O -999
 in O -999
 this O -999
 price,,,the O -999
-quality B-ASP 2
-of I-ASP 2
-cloth I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+cloth I-ASP Positive
 is O -999
 very O -999
 excellent,,,,i O -999
@@ -4428,11 +4428,11 @@ to O -999
 wear O -999
 and O -999
 perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 . O -999
 
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 is O -999
 not O -999
 so O -999
@@ -4441,13 +4441,13 @@ good. O -999
 very O -999
 comfortable O -999
 and O -999
-size B-ASP 2
+size B-ASP Positive
 is O -999
 perfect O -999
 . O -999
 
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 was O -999
 not O -999
 so O -999
@@ -4459,7 +4459,7 @@ of O -999
 ? O -999
 money. O -999
 
-color B-ASP 0
+color B-ASP Negative
 is O -999
 faded O -999
 and O -999
@@ -4468,7 +4468,7 @@ off O -999
 light O -999
 texture. O -999
 
-fits B-ASP 2
+fits B-ASP Positive
 me O -999
 well O -999
 nice O -999
@@ -4479,10 +4479,10 @@ fits B-ASP -999
 me O -999
 well O -999
 nice O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 good. O -999
 
-size B-ASP 1
+size B-ASP Neutral
 , B-ASP -999
 colour O -999
 and O -999
@@ -4506,7 +4506,7 @@ are O -999
 pinching. O -999
 
 size B-ASP -999
-, B-ASP 1
+, B-ASP Neutral
 colour O -999
 and O -999
 quality O -999
@@ -4536,7 +4536,7 @@ product O -999
 is O -999
 ok O -999
 but O -999
-fitting B-ASP 0
+fitting B-ASP Negative
 is O -999
 not O -999
 up O -999
@@ -4544,8 +4544,8 @@ to O -999
 the O -999
 mark. O -999
 
-dress B-ASP 2
-colour I-ASP 2
+dress B-ASP Positive
+colour I-ASP Positive
 is O -999
 awesome O -999
 and O -999
@@ -4560,13 +4560,13 @@ colour I-ASP -999
 is O -999
 awesome O -999
 and O -999
-quality B-ASP 2
+quality B-ASP Positive
 is O -999
 also O -999
 good O -999
 . O -999
 
-material B-ASP 0
+material B-ASP Negative
 r O -999
 very O -999
 bad O -999
@@ -4578,13 +4578,13 @@ t O -999
 shirt O -999
 with O -999
 quality O -999
-fabric B-ASP 2
+fabric B-ASP Positive
 . O -999
 
 very O -999
 nice O -999
 product, O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 so O -999
 good, O -999
 and O -999
@@ -4594,8 +4594,8 @@ so O -999
 rich. O -999
 
 this O -999
-product B-ASP 2
-quality I-ASP 2
+product B-ASP Positive
+quality I-ASP Positive
 is O -999
 very O -999
 soft O -999
@@ -4609,8 +4609,8 @@ is O -999
 not O -999
 good O -999
 the O -999
-cloth B-ASP 0
-material I-ASP 0
+cloth B-ASP Negative
+material I-ASP Negative
 used O -999
 is O -999
 very O -999
@@ -4624,9 +4624,9 @@ wear. O -999
 super O -999
 and O -999
 good O -999
-quality B-ASP 2
-of I-ASP 2
-fabric I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+fabric I-ASP Positive
 value O -999
 for O -999
 money. O -999
@@ -4635,10 +4635,10 @@ this O -999
 tshirt O -999
 is O -999
 not O -999
-fit B-ASP 0
+fit B-ASP Negative
 . O -999
 
-cloth B-ASP 1
+cloth B-ASP Neutral
 looks O -999
 just O -999
 ordinary, O -999
@@ -4648,7 +4648,7 @@ this O -999
 track O -999
 shirt. O -999
 
-fabric B-ASP 0
+fabric B-ASP Negative
 is O -999
 stretchable O -999
 and O -999
@@ -4659,8 +4659,8 @@ always O -999
 be O -999
 therw. O -999
 
-v B-ASP 0
-neck I-ASP 0
+v B-ASP Negative
+neck I-ASP Negative
 is O -999
 not O -999
 fit O -999
@@ -4670,7 +4670,7 @@ body. O -999
 
 very O -999
 nice O -999
-design B-ASP 2
+design B-ASP Positive
 and O -999
 color B-ASP -999
 but O -999
@@ -4692,7 +4692,7 @@ very O -999
 nice O -999
 design B-ASP -999
 and O -999
-color B-ASP 0
+color B-ASP Negative
 but O -999
 poor O -999
 quality B-ASP -999
@@ -4715,7 +4715,7 @@ and O -999
 color B-ASP -999
 but O -999
 poor O -999
-quality B-ASP 0
+quality B-ASP Negative
 color O -999
 fades O -999
 and O -999
@@ -4729,10 +4729,10 @@ to O -999
 washes. O -999
 
 the O -999
-print B-ASP 0
-of I-ASP 0
-bruce I-ASP 0
-lee I-ASP 0
+print B-ASP Negative
+of I-ASP Negative
+bruce I-ASP Negative
+lee I-ASP Negative
 is O -999
 not O -999
 that O -999
@@ -4751,14 +4751,14 @@ fantastic O -999
 but O -999
 very O -999
 poor O -999
-design B-ASP 0
+design B-ASP Negative
 . O -999
 
 awesome O -999
 tshirt, O -999
 i O -999
 like O -999
-colour B-ASP 2
+colour B-ASP Positive
 and O -999
 design. O -999
 
@@ -4768,13 +4768,13 @@ i O -999
 like O -999
 colour O -999
 and O -999
-design B-ASP 2
+design B-ASP Positive
 . O -999
 
 product O -999
 ws O -999
 good O -999
-material B-ASP 2
+material B-ASP Positive
 also O -999
 good O -999
 but O -999
@@ -4791,8 +4791,8 @@ material B-ASP -999
 also O -999
 good O -999
 but O -999
-medium B-ASP 0
-size I-ASP 0
+medium B-ASP Negative
+size I-ASP Negative
 is O -999
 too O -999
 big. O -999
@@ -4800,11 +4800,11 @@ big. O -999
 after O -999
 first O -999
 wash O -999
-color B-ASP 0
+color B-ASP Negative
 fading. O -999
 
 this O -999
-material B-ASP 2
+material B-ASP Positive
 is O -999
 too O -999
 good O -999
@@ -4820,11 +4820,11 @@ product O -999
 but O -999
 low O -999
 quality O -999
-fabric B-ASP 0
+fabric B-ASP Negative
 . O -999
 
-clothe B-ASP 2
-quality I-ASP 2
+clothe B-ASP Positive
+quality I-ASP Positive
 is O -999
 so O -999
 nice O -999
@@ -4838,13 +4838,13 @@ quality O -999
 is O -999
 so O -999
 nice O -999
-batman B-ASP 2
-print I-ASP 2
+batman B-ASP Positive
+print I-ASP Positive
 is O -999
 nice. O -999
 
 perfect O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 , O -999
 good O -999
 quality. O -999
@@ -4852,14 +4852,14 @@ quality. O -999
 good O -999
 product O -999
 but O -999
-length B-ASP 0
+length B-ASP Negative
 is O -999
 too O -999
 short. O -999
 
 loved O -999
 the O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 and O -999
 the O -999
 quality. O -999
@@ -4868,15 +4868,15 @@ very O -999
 cheap O -999
 quality O -999
 of O -999
-material B-ASP 0
+material B-ASP Negative
 . O -999
 
 nice O -999
 t O -999
 shirt, O -999
-quality B-ASP 2
-of I-ASP 2
-cloth I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+cloth I-ASP Positive
 is O -999
 very O -999
 good, O -999
@@ -4900,16 +4900,16 @@ and O -999
 superb O -999
 for O -999
 chip O -999
-price B-ASP 2
+price B-ASP Positive
 . O -999
 
-quality B-ASP 2
-of I-ASP 2
-material I-ASP 2
+quality B-ASP Positive
+of I-ASP Positive
+material I-ASP Positive
 is O -999
 good. O -999
 
-material B-ASP 0
+material B-ASP Negative
 is O -999
 so O -999
 thin O -999
@@ -4920,8 +4920,8 @@ to O -999
 picture. O -999
 
 the O -999
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 was O -999
 not O -999
 so O -999
@@ -4932,7 +4932,7 @@ is O -999
 good, O -999
 fabric O -999
 s O -999
-excellent B-ASP 2
+excellent B-ASP Positive
 . O -999
 
 same O -999
@@ -4947,20 +4947,20 @@ shirt O -999
 is O -999
 big O -999
 and O -999
-cloth B-ASP 0
-quality I-ASP 0
+cloth B-ASP Negative
+quality I-ASP Negative
 is O -999
 very O -999
 bad. O -999
 
-materials B-ASP 0
+materials B-ASP Negative
 are O -999
 also O -999
 not O -999
 good. O -999
 
 good O -999
-color B-ASP 2
+color B-ASP Positive
 and O -999
 comfortable O -999
 to O -999
@@ -4982,7 +4982,7 @@ all O -999
 with O -999
 quality O -999
 and O -999
-price B-ASP 2
+price B-ASP Positive
 it O -999
 made O -999
 of O -999
@@ -5021,7 +5021,7 @@ am O -999
 5.6 O -999
 tall O -999
 and O -999
-size B-ASP 2
+size B-ASP Positive
 m O -999
 is O -999
 very O -999
@@ -5030,7 +5030,7 @@ comfortable. O -999
 good O -999
 one O -999
 ,perfect O -999
-fit B-ASP 2
+fit B-ASP Positive
 and O -999
 good O -999
 quality O -999
@@ -5044,7 +5044,7 @@ its O -999
 quality. O -999
 
 nice O -999
-material B-ASP 2
+material B-ASP Positive
 and O -999
 good O -999
 fitting B-ASP -999
@@ -5063,7 +5063,7 @@ nice O -999
 material B-ASP -999
 and O -999
 good O -999
-fitting B-ASP 2
+fitting B-ASP Positive
 , O -999
 finishing B-ASP -999
 is O -999
@@ -5081,7 +5081,7 @@ and O -999
 good O -999
 fitting B-ASP -999
 , O -999
-finishing B-ASP 0
+finishing B-ASP Negative
 is O -999
 not O -999
 that O -999

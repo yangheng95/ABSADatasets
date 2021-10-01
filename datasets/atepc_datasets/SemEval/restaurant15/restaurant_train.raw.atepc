@@ -8,7 +8,7 @@ to O -999
 be O -999
 a O -999
 good O -999
-place B-ASP 0
+place B-ASP Negative
 , O -999
 but O -999
 not O -999
@@ -35,7 +35,7 @@ empty O -999
 - O -999
 and O -999
 the O -999
-staff B-ASP 0
+staff B-ASP Negative
 acted O -999
 like O -999
 we O -999
@@ -51,7 +51,7 @@ rude O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 lousy O -999
 - O -999
@@ -78,13 +78,13 @@ too O -999
 salty O -999
 and O -999
 the O -999
-portions B-ASP 0
+portions B-ASP Negative
 tiny O -999
 . O -999
 
 avoid O -999
 this O -999
-place B-ASP 0
+place B-ASP Negative
 ! O -999
 
 i O -999
@@ -97,7 +97,7 @@ many O -999
 times O -999
 , O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 always O -999
 consistently O -999
@@ -106,7 +106,7 @@ outrageously O -999
 good O -999
 . O -999
 
-saul B-ASP 2
+saul B-ASP Positive
 is O -999
 the O -999
 best O -999
@@ -127,11 +127,11 @@ always O -999
 amazing O -999
 and O -999
 the O -999
-foie B-ASP 2
-gras I-ASP 2
-terrine I-ASP 2
-with I-ASP 2
-figs I-ASP 2
+foie B-ASP Positive
+gras I-ASP Positive
+terrine I-ASP Positive
+with I-ASP Positive
+figs I-ASP Positive
 was O -999
 out O -999
 of O -999
@@ -140,8 +140,8 @@ world O -999
 . O -999
 
 the O -999
-duck B-ASP 2
-confit I-ASP 2
+duck B-ASP Positive
+confit I-ASP Positive
 is O -999
 always O -999
 amazing O -999
@@ -160,8 +160,8 @@ world O -999
 . O -999
 
 the O -999
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 is O -999
 interesting O -999
 and O -999
@@ -177,15 +177,15 @@ very O -999
 disappointed O -999
 with O -999
 this O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 . O -999
 
 i O -999
 ve O -999
 asked O -999
 a O -999
-cart B-ASP 0
-attendant I-ASP 0
+cart B-ASP Negative
+attendant I-ASP Negative
 for O -999
 a O -999
 lotus O -999
@@ -203,7 +203,7 @@ walked O -999
 away O -999
 . O -999
 
-food B-ASP 1
+food B-ASP Neutral
 was O -999
 okay O -999
 , O -999
@@ -211,8 +211,8 @@ nothing O -999
 great O -999
 . O -999
 
-chow B-ASP 0
-fun I-ASP 0
+chow B-ASP Negative
+fun I-ASP Negative
 was O -999
 dry O -999
 ; O -999
@@ -242,9 +242,9 @@ fun I-ASP -999
 was O -999
 dry O -999
 ; O -999
-pork B-ASP 0
-shu I-ASP 0
-mai I-ASP 0
+pork B-ASP Negative
+shu I-ASP Negative
+mai I-ASP Negative
 was O -999
 more O -999
 than O -999
@@ -272,7 +272,7 @@ go O -999
 back O -999
 to O -999
 this O -999
-place B-ASP 0
+place B-ASP Negative
 again O -999
 . O -999
 
@@ -285,7 +285,7 @@ oyster O -999
 binge O -999
 , O -999
 with O -999
-fish B-ASP 2
+fish B-ASP Positive
 bringing O -999
 up O -999
 the O -999
@@ -312,7 +312,7 @@ so O -999
 great O -999
 ! O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 devine O -999
 , O -999
@@ -339,7 +339,7 @@ service B-ASP -999
 was O -999
 devine O -999
 , O -999
-oysters B-ASP 2
+oysters B-ASP Positive
 where O -999
 a O -999
 sensual O -999
@@ -370,8 +370,8 @@ a O -999
 point O -999
 to O -999
 visit O -999
-restaurant B-ASP 2
-saul I-ASP 2
+restaurant B-ASP Positive
+saul I-ASP Positive
 on O -999
 smith O -999
 street O -999
@@ -385,7 +385,7 @@ to O -999
 perfection O -999
 , O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 excellent O -999
 , O -999
@@ -409,7 +409,7 @@ is O -999
 excellent O -999
 , O -999
 the O -999
-decor B-ASP 2
+decor B-ASP Positive
 cool O -999
 and O -999
 understated O -999
@@ -418,9 +418,9 @@ understated O -999
 i O -999
 had O -999
 the O -999
-duck B-ASP 2
-breast I-ASP 2
-special I-ASP 2
+duck B-ASP Positive
+breast I-ASP Positive
+special I-ASP Positive
 on O -999
 my O -999
 last O -999
@@ -432,7 +432,7 @@ incredible O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 is O -999
 very O -999
 average O -999
@@ -464,9 +464,9 @@ very O -999
 average O -999
 ... O -999
 the O -999
-thai B-ASP 0
-fusion I-ASP 0
-stuff I-ASP 0
+thai B-ASP Negative
+fusion I-ASP Negative
+stuff I-ASP Negative
 is O -999
 a O -999
 bit O -999
@@ -491,20 +491,20 @@ moderately O -999
 enjoyed O -999
 was O -999
 their O -999
-grilled B-ASP 2
-chicken I-ASP 2
-special I-ASP 2
-with I-ASP 2
-edamame I-ASP 2
-puree I-ASP 2
+grilled B-ASP Positive
+chicken I-ASP Positive
+special I-ASP Positive
+with I-ASP Positive
+edamame I-ASP Positive
+puree I-ASP Positive
 . O -999
 
 i O -999
 had O -999
 never O -999
 had O -999
-edamame B-ASP 2
-pureed I-ASP 2
+edamame B-ASP Positive
+pureed I-ASP Positive
 before O -999
 but O -999
 i O -999
@@ -556,7 +556,7 @@ effort O -999
 to O -999
 make O -999
 this O -999
-place B-ASP 0
+place B-ASP Negative
 look O -999
 sleek O -999
 and O -999
@@ -564,7 +564,7 @@ modern O -999
 . O -999
 
 the O -999
-decor B-ASP 2
+decor B-ASP Positive
 is O -999
 night O -999
 tho O -999
@@ -614,7 +614,7 @@ need O -999
 to O -999
 clean O -999
 that O -999
-vent B-ASP 0
+vent B-ASP Negative
 in O -999
 the O -999
 ceiling O -999
@@ -640,8 +640,8 @@ modern O -999
 . O -999
 
 their O -999
-sake B-ASP 2
-list I-ASP 2
+sake B-ASP Positive
+list I-ASP Positive
 was O -999
 extensive O -999
 , O -999
@@ -666,9 +666,9 @@ request O -999
 ! O -999
 
 the O -999
-spicy B-ASP 2
-tuna I-ASP 2
-roll I-ASP 2
+spicy B-ASP Positive
+tuna I-ASP Positive
+roll I-ASP Positive
 was O -999
 unusually O -999
 good O -999
@@ -695,9 +695,9 @@ unusually O -999
 good O -999
 and O -999
 the O -999
-rock B-ASP 2
-shrimp I-ASP 2
-tempura I-ASP 2
+rock B-ASP Positive
+shrimp I-ASP Positive
+tempura I-ASP Positive
 was O -999
 awesome O -999
 , O -999
@@ -725,7 +725,7 @@ by O -999
 then O -999
 so O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 great O -999
 ! O -999
@@ -733,27 +733,27 @@ great O -999
 we O -999
 love O -999
 th O -999
-pink B-ASP 2
-pony I-ASP 2
+pink B-ASP Positive
+pony I-ASP Positive
 . O -999
 
 the O -999
 perfect O -999
-spot B-ASP 2
+spot B-ASP Positive
 . O -999
 
-food B-ASP 2
+food B-ASP Positive
 -awesome O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 - O -999
 friendly O -999
 and O -999
 attentive O -999
 . O -999
 
-ambiance B-ASP 2
+ambiance B-ASP Positive
 - O -999
 relaxed O -999
 and O -999
@@ -764,7 +764,7 @@ do O -999
 n't O -999
 judge O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 prima O -999
 facie O -999
 , O -999
@@ -789,7 +789,7 @@ heart O -999
 . O -999
 
 the O -999
-food B-ASP 1
+food B-ASP Neutral
 is O -999
 decent O -999
 . O -999
@@ -799,7 +799,7 @@ however O -999
 it O -999
 's O -999
 the O -999
-service B-ASP 0
+service B-ASP Negative
 that O -999
 leaves O -999
 a O -999
@@ -833,7 +833,7 @@ includes O -999
 not O -999
 letting O -999
 a O -999
-waiter B-ASP 0
+waiter B-ASP Negative
 intimidate O -999
 me O -999
 , O -999
@@ -854,7 +854,7 @@ check O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 has O -999
 got O -999
 to O -999
@@ -870,12 +870,12 @@ york O -999
 area O -999
 . O -999
 
-food B-ASP 2
+food B-ASP Positive
 is O -999
 great O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 is O -999
 top O -999
 notch O -999
@@ -890,8 +890,8 @@ sushi O -999
 restaurant O -999
 by O -999
 its O -999
-sea B-ASP 2
-urchin I-ASP 2
+sea B-ASP Positive
+urchin I-ASP Positive
 , O -999
 which O -999
 was O -999
@@ -902,7 +902,7 @@ rose O -999
 . O -999
 
 the O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 seemed O -999
 pretty O -999
 fresh O -999
@@ -913,10 +913,10 @@ proportioned O -999
 . O -999
 
 the O -999
-rice B-ASP 2
-to I-ASP 2
-fish I-ASP 2
-ration I-ASP 2
+rice B-ASP Positive
+to I-ASP Positive
+fish I-ASP Positive
+ration I-ASP Positive
 was O -999
 also O -999
 good O -999
@@ -936,10 +936,10 @@ took O -999
 advanatage O -999
 of O -999
 the O -999
-half B-ASP 2
-price I-ASP 2
-sushi I-ASP 2
-deal I-ASP 2
+half B-ASP Positive
+price I-ASP Positive
+sushi I-ASP Positive
+deal I-ASP Positive
 on O -999
 saturday O -999
 so O -999
@@ -965,11 +965,11 @@ with O -999
 it O -999
 , O -999
 ny O -999
-crowd B-ASP 2
+crowd B-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 well O -999
 prepared O -999
@@ -986,14 +986,14 @@ well O -999
 prepared O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 impecable O -999
 . O -999
 
 the O -999
-prix B-ASP 2
-fixe I-ASP 2
-menu I-ASP 2
+prix B-ASP Positive
+fixe I-ASP Positive
+menu I-ASP Positive
 is O -999
 worth O -999
 every O -999
@@ -1020,7 +1020,7 @@ there O -999
 is O -999
 much O -999
 tasty O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 all O -999
 of O -999
@@ -1041,13 +1041,13 @@ but O -999
 almost O -999
 all O -999
 the O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 were O -999
 great O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 here O -999
 is O -999
 rather O -999
@@ -1067,7 +1067,7 @@ it O -999
 i O -999
 like O -999
 the O -999
-somosas B-ASP 2
+somosas B-ASP Positive
 , O -999
 chai B-ASP -999
 , O -999
@@ -1090,7 +1090,7 @@ like O -999
 the O -999
 somosas B-ASP -999
 , O -999
-chai B-ASP 2
+chai B-ASP Positive
 , O -999
 and O -999
 the O -999
@@ -1115,7 +1115,7 @@ chai B-ASP -999
 , O -999
 and O -999
 the O -999
-chole B-ASP 2
+chole B-ASP Positive
 , O -999
 but O -999
 the O -999
@@ -1140,7 +1140,7 @@ chole B-ASP -999
 , O -999
 but O -999
 the O -999
-dhosas B-ASP 0
+dhosas B-ASP Negative
 and O -999
 dhal B-ASP -999
 were O -999
@@ -1163,14 +1163,14 @@ but O -999
 the O -999
 dhosas B-ASP -999
 and O -999
-dhal B-ASP 0
+dhal B-ASP Negative
 were O -999
 kinda O -999
 dissapointing O -999
 . O -999
 
 the O -999
-service B-ASP 0
+service B-ASP Negative
 varys O -999
 from O -999
 day O -999
@@ -1188,7 +1188,7 @@ not O -999
 . O -999
 
 the O -999
-kitchen B-ASP 0
+kitchen B-ASP Negative
 however O -999
 , O -999
 is O -999
@@ -1204,7 +1204,7 @@ if O -999
 you O -999
 like O -999
 your O -999
-food B-ASP 0
+food B-ASP Negative
 spicy- O -999
 its O -999
 rather O -999
@@ -1216,7 +1216,7 @@ n't O -999
 . O -999
 
 the O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 is O -999
 pretty O -999
 and O -999
@@ -1253,7 +1253,7 @@ of O -999
 the O -999
 top O -999
 of O -999
-view B-ASP 2
+view B-ASP Positive
 the O -999
 chart O -999
 house O -999
@@ -1266,7 +1266,7 @@ add O -999
 to O -999
 that O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 great O -999
 food B-ASP -999
@@ -1293,7 +1293,7 @@ great O -999
 service B-ASP -999
 and O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 at O -999
 a O -999
 reasonable O -999
@@ -1311,9 +1311,9 @@ evening O -999
 . O -999
 
 the O -999
-lava B-ASP 2
-cake I-ASP 2
-dessert I-ASP 2
+lava B-ASP Positive
+cake I-ASP Positive
+dessert I-ASP Positive
 was O -999
 incredible O -999
 and O -999
@@ -1326,7 +1326,7 @@ once O -999
 you O -999
 step O -999
 into O -999
-cosette B-ASP 2
+cosette B-ASP Positive
 , O -999
 you O -999
 're O -999
@@ -1347,7 +1347,7 @@ bistro O -999
 
 this O -999
 tiny O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 is O -999
 as O -999
 cozy O -999
@@ -1363,7 +1363,7 @@ flair O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 average O -999
 to O -999
@@ -1401,9 +1401,9 @@ above O -999
 average O -999
 ; O -999
 the O -999
-french B-ASP 0
-onion I-ASP 0
-soup I-ASP 0
+french B-ASP Negative
+onion I-ASP Negative
+soup I-ASP Negative
 filling O -999
 yet O -999
 not O -999
@@ -1441,7 +1441,7 @@ impressive O -999
 , O -999
 and O -999
 the O -999
-desserts B-ASP 0
+desserts B-ASP Negative
 not O -999
 brilliant O -999
 in O -999
@@ -1454,7 +1454,7 @@ however O -999
 go O -999
 for O -999
 the O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 , O -999
 and O -999
 consider O -999
@@ -1481,7 +1481,7 @@ ambience B-ASP -999
 and O -999
 consider O -999
 the O -999
-food B-ASP 1
+food B-ASP Neutral
 just O -999
 a O -999
 companion O -999
@@ -1494,7 +1494,7 @@ world O -999
 ! O -999
 
 the O -999
-pizza B-ASP 0
+pizza B-ASP Negative
 was O -999
 delivered O -999
 cold O -999
@@ -1515,7 +1515,7 @@ delivered O -999
 cold O -999
 and O -999
 the O -999
-cheese B-ASP 0
+cheese B-ASP Negative
 was O -999
 n't O -999
 even O -999
@@ -1524,7 +1524,7 @@ melted O -999
 ! O -999
 
 the O -999
-pizza B-ASP 0
+pizza B-ASP Negative
 is O -999
 overpriced O -999
 and O -999
@@ -1536,7 +1536,7 @@ yes O -999
 they O -999
 use O -999
 fancy O -999
-ingredients B-ASP 2
+ingredients B-ASP Positive
 , O -999
 but O -999
 even O -999
@@ -1575,7 +1575,7 @@ n't O -999
 make O -999
 for O -999
 good O -999
-pizza B-ASP 0
+pizza B-ASP Negative
 unless O -999
 someone O -999
 knows O -999
@@ -1611,7 +1611,7 @@ how O -999
 to O -999
 get O -999
 the O -999
-crust B-ASP 0
+crust B-ASP Negative
 right O -999
 . O -999
 
@@ -1623,7 +1623,7 @@ had O -999
 some O -999
 the O -999
 best O -999
-meals B-ASP 2
+meals B-ASP Positive
 of O -999
 my O -999
 life O -999
@@ -1632,7 +1632,7 @@ minnow O -999
 . O -999
 
 the O -999
-seafood B-ASP 2
+seafood B-ASP Positive
 is O -999
 amazing O -999
 , O -999
@@ -1665,8 +1665,8 @@ there O -999
 's O -999
 a O -999
 good O -999
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 , O -999
 and O -999
 the O -999
@@ -1698,7 +1698,7 @@ the O -999
 ever O -999
 - O -999
 changing O -999
-menu B-ASP 2
+menu B-ASP Positive
 always O -999
 offers O -999
 some O -999
@@ -1712,7 +1712,7 @@ of O -999
 super O -999
 - O -999
 fresh O -999
-ingredients B-ASP 2
+ingredients B-ASP Positive
 in O -999
 the O -999
 dishes O -999
@@ -1724,7 +1724,7 @@ delicious O -999
 . O -999
 
 best O -999
-pastrami B-ASP 2
+pastrami B-ASP Positive
 i O -999
 ever O -999
 had O -999
@@ -1743,7 +1743,7 @@ ever O -999
 had O -999
 and O -999
 great O -999
-portion B-ASP 2
+portion B-ASP Positive
 without O -999
 being O -999
 ridiculous O -999
@@ -1753,8 +1753,8 @@ my O -999
 wife O -999
 had O -999
 the O -999
-fried B-ASP 2
-shrimp I-ASP 2
+fried B-ASP Positive
+shrimp I-ASP Positive
 which O -999
 are O -999
 huge O -999
@@ -1788,11 +1788,11 @@ so O -999
 amazed O -999
 at O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 the O -999
 most O -999
@@ -1804,7 +1804,7 @@ get O -999
 . O -999
 
 the O -999
-signs B-ASP 2
+signs B-ASP Positive
 , O -999
 the O -999
 specials B-ASP -999
@@ -1827,8 +1827,8 @@ the O -999
 signs B-ASP -999
 , O -999
 the O -999
-specials B-ASP 2
-menus I-ASP 2
+specials B-ASP Positive
+menus I-ASP Positive
 , O -999
 food B-ASP -999
 , O -999
@@ -1850,7 +1850,7 @@ the O -999
 specials B-ASP -999
 menus I-ASP -999
 , O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 and O -999
 even O -999
@@ -1876,7 +1876,7 @@ and O -999
 even O -999
 all O -999
 the O -999
-waitstaff B-ASP 2
+waitstaff B-ASP Positive
 are O -999
 all O -999
 totally O -999
@@ -1884,7 +1884,7 @@ japanese O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 worth O -999
 an O -999
@@ -1894,7 +1894,7 @@ hour O -999
 drive O -999
 . O -999
 
-leon B-ASP 2
+leon B-ASP Positive
 is O -999
 an O -999
 east O -999
@@ -1943,7 +1943,7 @@ bistro I-ASP -999
 fare I-ASP -999
 , O -999
 good O -999
-specials B-ASP 2
+specials B-ASP Positive
 , O -999
 a O -999
 warm O -999
@@ -1978,7 +1978,7 @@ a O -999
 warm O -999
 and O -999
 lively O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 . O -999
 
 leon B-ASP -999
@@ -1996,9 +1996,9 @@ with O -999
 well O -999
 prepared O -999
 basic O -999
-french B-ASP 2
-bistro I-ASP 2
-fare I-ASP 2
+french B-ASP Positive
+bistro I-ASP Positive
+fare I-ASP Positive
 , O -999
 good O -999
 specials B-ASP -999
@@ -2027,7 +2027,7 @@ but O -999
 nevertheless O -999
 friendly O -999
 , O -999
-staff B-ASP 2
+staff B-ASP Positive
 , O -999
 all O -999
 of O -999
@@ -2038,7 +2038,7 @@ story O -999
 . O -999
 
 decent O -999
-wine B-ASP 1
+wine B-ASP Neutral
 at O -999
 reasonable O -999
 prices O -999
@@ -2065,8 +2065,8 @@ n't O -999
 just O -999
 go O -999
 to O -999
-zucchero B-ASP 2
-pomodori I-ASP 2
+zucchero B-ASP Positive
+pomodori I-ASP Positive
 . O -999
 
 this O -999
@@ -2075,14 +2075,14 @@ by O -999
 far O -999
 my O -999
 favorite O -999
-place B-ASP 2
+place B-ASP Positive
 in O -999
 the O -999
 neighborhood O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 excellent O -999
 , O -999
@@ -2109,7 +2109,7 @@ is O -999
 excellent O -999
 , O -999
 the O -999
-decor B-ASP 2
+decor B-ASP Positive
 is O -999
 great O -999
 , O -999
@@ -2137,7 +2137,7 @@ great O -999
 , O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 delicious O -999
 and O -999
@@ -2166,7 +2166,7 @@ and O -999
 comes O -999
 in O -999
 large O -999
-portions B-ASP 2
+portions B-ASP Positive
 . O -999
 
 i O -999
@@ -2174,18 +2174,18 @@ i O -999
 partial O -999
 to O -999
 the O -999
-gnocchi B-ASP 2
+gnocchi B-ASP Positive
 . O -999
 
 this O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 incredibly O -999
 tiny O -999
 . O -999
 
 the O -999
-hostess B-ASP 0
+hostess B-ASP Negative
 is O -999
 rude O -999
 to O -999
@@ -2197,7 +2197,7 @@ offensive O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 bland O -999
 oily O -999
@@ -2216,7 +2216,7 @@ and O -999
 always O -999
 have O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 wine B-ASP -999
 , O -999
@@ -2239,7 +2239,7 @@ have O -999
 great O -999
 food B-ASP -999
 , O -999
-wine B-ASP 2
+wine B-ASP Positive
 , O -999
 and O -999
 service B-ASP -999
@@ -2263,7 +2263,7 @@ food B-ASP -999
 wine B-ASP -999
 , O -999
 and O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 we O -999
@@ -2283,7 +2283,7 @@ to O -999
 have O -999
 a O -999
 short O -999
-wait B-ASP 2
+wait B-ASP Positive
 . O -999
 
 as O -999
@@ -2292,9 +2292,9 @@ we O -999
 had O -999
 a O -999
 great O -999
-glass B-ASP 2
-of I-ASP 2
-wine I-ASP 2
+glass B-ASP Positive
+of I-ASP Positive
+wine I-ASP Positive
 while O -999
 we O -999
 waited O -999
@@ -2309,11 +2309,11 @@ got O -999
 great O -999
 and O -999
 fast O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 the O -999
-people B-ASP 2
+people B-ASP Positive
 that O -999
 work O -999
 there O -999
@@ -2336,7 +2336,7 @@ sure O -999
 you O -999
 try O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 as O -999
 often O -999
 as O -999
@@ -2348,14 +2348,14 @@ this O -999
 is O -999
 a O -999
 fun O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 to O -999
 go O -999
 to O -999
 . O -999
 
 the O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 is O -999
 yummy O -999
 and O -999
@@ -2373,12 +2373,12 @@ and O -999
 i O -999
 like O -999
 the O -999
-atmoshpere B-ASP 2
+atmoshpere B-ASP Positive
 . O -999
 
 but O -999
 the O -999
-pizza B-ASP 0
+pizza B-ASP Negative
 is O -999
 way O -999
 to O -999
@@ -2389,7 +2389,7 @@ i O -999
 went O -999
 there O -999
 for O -999
-lunch B-ASP 0
+lunch B-ASP Negative
 and O -999
 it O -999
 was O -999
@@ -2406,7 +2406,7 @@ i O -999
 read O -999
 . O -999
 
-sauce B-ASP 0
+sauce B-ASP Negative
 was O -999
 watery O -999
 and O -999
@@ -2424,7 +2424,7 @@ was O -999
 watery O -999
 and O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 did O -999
 n't O -999
 have O -999
@@ -2433,13 +2433,13 @@ flavor O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 great O -999
 . O -999
 
 the O -999
-waitress B-ASP 2
+waitress B-ASP Positive
 was O -999
 very O -999
 patient O -999
@@ -2461,12 +2461,12 @@ with O -999
 us O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 phenomenal O -999
 ! O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 prompt O -999
 , O -999
@@ -2476,7 +2476,7 @@ great O -999
 . O -999
 
 great O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 and O -999
 fantastic O -999
 service B-ASP -999
@@ -2486,14 +2486,14 @@ great O -999
 pizza B-ASP -999
 and O -999
 fantastic O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 there O -999
 was O -999
 a O -999
 small O -999
-wait B-ASP 2
+wait B-ASP Positive
 , O -999
 but O -999
 shorter O -999
@@ -2506,7 +2506,7 @@ this O -999
 is O -999
 the O -999
 best O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 in O -999
 new O -999
 york O -999
@@ -2517,7 +2517,7 @@ down O -999
 . O -999
 
 the O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 small O -999
 and O -999
@@ -2537,16 +2537,16 @@ and O -999
 cramped O -999
 but O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 fantastic O -999
 . O -999
 
 get O -999
 the O -999
-tuna B-ASP 2
-of I-ASP 2
-gari I-ASP 2
+tuna B-ASP Positive
+of I-ASP Positive
+gari I-ASP Positive
 . O -999
 
 planet B-ASP -999
@@ -2565,7 +2565,7 @@ there O -999
 usually O -999
 for O -999
 the O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 , O -999
 which O -999
 is O -999
@@ -2602,15 +2602,15 @@ is O -999
 great O -999
 , O -999
 the O -999
-thai B-ASP 2
-food I-ASP 2
+thai B-ASP Positive
+food I-ASP Positive
 is O -999
 excellent O -999
 too O -999
 . O -999
 
-planet B-ASP 2
-thailand I-ASP 2
+planet B-ASP Positive
+thailand I-ASP Positive
 has O -999
 always O -999
 been O -999
@@ -2645,7 +2645,7 @@ great O -999
 variety O -999
 on O -999
 the O -999
-menu B-ASP 2
+menu B-ASP Positive
 , O -999
 i O -999
 eat O -999
@@ -2658,7 +2658,7 @@ bored O -999
 . O -999
 
 the O -999
-atmosphere B-ASP 0
+atmosphere B-ASP Negative
 is O -999
 n't O -999
 the O -999
@@ -2682,7 +2682,7 @@ it O -999
 all O -999
 about O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 ! O -999
 ! O -999
 
@@ -2696,7 +2696,7 @@ time O -999
 to O -999
 find O -999
 the O -999
-place B-ASP 0
+place B-ASP Negative
 . O -999
 
 but O -999
@@ -2705,7 +2705,7 @@ we O -999
 looked O -999
 at O -999
 the O -999
-menu B-ASP 0
+menu B-ASP Negative
 , O -999
 there O -999
 were O -999
@@ -2727,7 +2727,7 @@ section O -999
 . O -999
 
 those O -999
-rolls B-ASP 1
+rolls B-ASP Neutral
 were O -999
 big O -999
 , O -999
@@ -2750,7 +2750,7 @@ but O -999
 not O -999
 good O -999
 and O -999
-sashimi B-ASP 0
+sashimi B-ASP Negative
 was O -999
 n't O -999
 fresh O -999
@@ -2758,8 +2758,8 @@ fresh O -999
 
 try O -999
 the O -999
-crunchy B-ASP 2
-tuna I-ASP 2
+crunchy B-ASP Positive
+tuna I-ASP Positive
 , O -999
 it O -999
 is O -999
@@ -2774,12 +2774,12 @@ here O -999
 to O -999
 enjoy O -999
 their O -999
-garden B-ASP 2
-terrace I-ASP 2
+garden B-ASP Positive
+terrace I-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 amazing O -999
 , O -999
@@ -2807,7 +2807,7 @@ amazing O -999
 , O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 prompt O -999
 and O -999
@@ -2823,8 +2823,8 @@ rushed O -999
 . O -999
 
 the O -999
-steak B-ASP 2
-tartare I-ASP 2
+steak B-ASP Positive
+tartare I-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -2852,8 +2852,8 @@ warm O -999
 , O -999
 but O -999
 the O -999
-open B-ASP 2
-kitchen I-ASP 2
+open B-ASP Positive
+kitchen I-ASP Positive
 is O -999
 part O -999
 of O -999
@@ -2866,7 +2866,7 @@ some O -999
 nights O -999
 inside O -999
 the O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 were O -999
 rather O -999
 warm O -999
@@ -2883,8 +2883,8 @@ charm O -999
 . O -999
 
 great O -999
-wine B-ASP 2
-selection I-ASP 2
+wine B-ASP Positive
+selection I-ASP Positive
 , O -999
 gigondas B-ASP -999
 is O -999
@@ -2906,7 +2906,7 @@ great O -999
 wine B-ASP -999
 selection I-ASP -999
 , O -999
-gigondas B-ASP 2
+gigondas B-ASP Positive
 is O -999
 worth O -999
 the O -999
@@ -2934,8 +2934,8 @@ price O -999
 , O -999
 and O -999
 the O -999
-house B-ASP 2
-champagne I-ASP 2
+house B-ASP Positive
+champagne I-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -2953,7 +2953,7 @@ weekends O -999
 , O -999
 but O -999
 the O -999
-vibe B-ASP 2
+vibe B-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -2990,8 +2990,8 @@ it O -999
 is O -999
 the O -999
 best O -999
-french B-ASP 2
-food I-ASP 2
+french B-ASP Positive
+food I-ASP Positive
 you O -999
 will O -999
 find O -999
@@ -3003,7 +3003,7 @@ area O -999
 have O -999
 recommended O -999
 the O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 friends O -999
 , O -999
@@ -3028,7 +3028,7 @@ additional O -999
 toppings O -999
 - O -999
 the O -999
-crust B-ASP 2
+crust B-ASP Positive
 tastes O -999
 like O -999
 the O -999
@@ -3043,7 +3043,7 @@ pizza O -999
 - O -999
 the O -999
 only O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 in O -999
 nyc O -999
 that O -999
@@ -3072,8 +3072,8 @@ my O -999
 nyc O -999
 guests O -999
 to O -999
-vt B-ASP 2
-'s I-ASP 2
+vt B-ASP Positive
+'s I-ASP Positive
 . O -999
 
 not O -999
@@ -3093,7 +3093,7 @@ is O -999
 in O -999
 a O -999
 great O -999
-neighborhood B-ASP 2
+neighborhood B-ASP Positive
 and O -999
 has O -999
 great O -999
@@ -3121,7 +3121,7 @@ neighborhood B-ASP -999
 and O -999
 has O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 ! O -999
 
 i O -999
@@ -3138,7 +3138,7 @@ it O -999
 provides O -999
 and O -999
 intimate O -999
-setting B-ASP 2
+setting B-ASP Positive
 and O -999
 nice O -999
 service B-ASP -999
@@ -3161,7 +3161,7 @@ intimate O -999
 setting B-ASP -999
 and O -999
 nice O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 i O -999
@@ -3190,7 +3190,7 @@ and O -999
 i O -999
 all O -999
 enjoy O -999
-mizu B-ASP 2
+mizu B-ASP Positive
 very O -999
 much O -999
 ... O -999
@@ -3206,13 +3206,13 @@ sure O -999
 you O -999
 have O -999
 the O -999
-spicy B-ASP 2
-scallop I-ASP 2
-roll I-ASP 2
+spicy B-ASP Positive
+scallop I-ASP Positive
+roll I-ASP Positive
 .. O -999
 . O -999
 
-moules B-ASP 2
+moules B-ASP Positive
 were O -999
 excellent O -999
 , O -999
@@ -3227,8 +3227,8 @@ moules B-ASP -999
 were O -999
 excellent O -999
 , O -999
-lobster B-ASP 0
-ravioli I-ASP 0
+lobster B-ASP Negative
+ravioli I-ASP Negative
 was O -999
 very O -999
 salty O -999
@@ -3244,16 +3244,16 @@ day O -999
 , O -999
 and O -999
 the O -999
-maitre B-ASP 0
-d I-ASP 0
-' I-ASP 0
+maitre B-ASP Negative
+d I-ASP Negative
+' I-ASP Negative
 was O -999
 pretty O -999
 rude O -999
 . O -999
 
 tiny O -999
-dessert B-ASP 0
+dessert B-ASP Negative
 was O -999
 $ O -999
 8.00 O -999
@@ -3268,7 +3268,7 @@ is O -999
 . O -999
 
 the O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 are O -999
 always O -999
 welll O -999
@@ -3288,8 +3288,8 @@ always O -999
 welll O -999
 made O -999
 and O -999
-wine B-ASP 2
-selection I-ASP 2
+wine B-ASP Positive
+selection I-ASP Positive
 is O -999
 fairly O -999
 priced O -999
@@ -3297,9 +3297,9 @@ priced O -999
 
 try O -999
 their O -999
-chef B-ASP 2
-'s I-ASP 2
-specials I-ASP 2
+chef B-ASP Positive
+'s I-ASP Positive
+specials I-ASP Positive
 -- O -999
 they O -999
 are O -999
@@ -3308,7 +3308,7 @@ die O -999
 for O -999
 . O -999
 
-service B-ASP 1
+service B-ASP Neutral
 is O -999
 not O -999
 exactly O -999
@@ -3325,16 +3325,16 @@ big O -999
 deal O -999
 . O -999
 
-downstairs B-ASP 2
-lounge I-ASP 2
+downstairs B-ASP Positive
+lounge I-ASP Positive
 is O -999
 always O -999
 a O -999
 good O -999
 attraction O -999
 
-raga B-ASP 2
-'s I-ASP 2
+raga B-ASP Positive
+'s I-ASP Positive
 is O -999
 a O -999
 romantic O -999
@@ -3344,8 +3344,8 @@ restaurant O -999
 . O -999
 
 the O -999
-exotic B-ASP 2
-food I-ASP 2
+exotic B-ASP Positive
+food I-ASP Positive
 is O -999
 beautifully O -999
 presented O -999
@@ -3359,7 +3359,7 @@ combinations O -999
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 is O -999
 incredibly O -999
 helpful O -999
@@ -3368,7 +3368,7 @@ attentive O -999
 . O -999
 
 the O -999
-bar B-ASP 2
+bar B-ASP Positive
 is O -999
 very O -999
 well O -999
@@ -3390,7 +3390,7 @@ well O -999
 stocked O -999
 with O -999
 interesting O -999
-beers B-ASP 2
+beers B-ASP Positive
 and O -999
 well O -999
 priced O -999
@@ -3409,14 +3409,14 @@ beers B-ASP -999
 and O -999
 well O -999
 priced O -999
-wines B-ASP 2
+wines B-ASP Positive
 . O -999
 
 when O -999
 we O -999
 stumbled O -999
 on O -999
-leon B-ASP 0
+leon B-ASP Negative
 , O -999
 we O -999
 thought O -999
@@ -3436,7 +3436,7 @@ wrong O -999
 . O -999
 
 the O -999
-waitress B-ASP 0
+waitress B-ASP Negative
 moved O -999
 our O -999
 table O -999
@@ -3472,7 +3472,7 @@ no O -999
 ... O -999
 
 rude O -999
-service B-ASP 0
+service B-ASP Negative
 , O -999
 medicore O -999
 food B-ASP -999
@@ -3495,7 +3495,7 @@ rude O -999
 service B-ASP -999
 , O -999
 medicore O -999
-food B-ASP 1
+food B-ASP Neutral
 ... O -999
 there O -999
 are O -999
@@ -3517,9 +3517,9 @@ a O -999
 grat O -999
 time O -999
 at O -999
-jekyll B-ASP 2
-and I-ASP 2
-hyde I-ASP 2
+jekyll B-ASP Positive
+and I-ASP Positive
+hyde I-ASP Positive
 ! O -999
 
 i O -999
@@ -3530,7 +3530,7 @@ it O -999
 - O -999
 especially O -999
 the O -999
-shows B-ASP 2
+shows B-ASP Positive
 and O -999
 actors B-ASP -999
 . O -999
@@ -3545,11 +3545,11 @@ especially O -999
 the O -999
 shows B-ASP -999
 and O -999
-actors B-ASP 2
+actors B-ASP Positive
 . O -999
 
 our O -999
-server B-ASP 2
+server B-ASP Positive
 was O -999
 very O -999
 helpful O -999
@@ -3558,14 +3558,14 @@ friendly O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 good O -999
 too O -999
 . O -999
 
 the O -999
-tuna B-ASP 2
+tuna B-ASP Positive
 and O -999
 wasabe O -999
 potatoes O -999
@@ -3576,15 +3576,15 @@ excellent O -999
 the O -999
 tuna O -999
 and O -999
-wasabe B-ASP 2
-potatoes I-ASP 2
+wasabe B-ASP Positive
+potatoes I-ASP Positive
 are O -999
 excellent O -999
 . O -999
 
 the O -999
-outdoor B-ASP 2
-atmosphere I-ASP 2
+outdoor B-ASP Positive
+atmosphere I-ASP Positive
 of O -999
 sitting O -999
 on O -999
@@ -3609,7 +3609,7 @@ was O -999
 wonderful O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 prompt O -999
 and O -999
@@ -3617,7 +3617,7 @@ courteous O -999
 . O -999
 
 great O -999
-service B-ASP 2
+service B-ASP Positive
 , O -999
 great O -999
 food B-ASP -999
@@ -3627,11 +3627,11 @@ great O -999
 service B-ASP -999
 , O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 the O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 is O -999
 delicious O -999
 - O -999
@@ -3662,8 +3662,8 @@ delicious O -999
 - O -999
 they O -999
 use O -999
-fresh B-ASP 2
-mozzarella I-ASP 2
+fresh B-ASP Positive
+mozzarella I-ASP Positive
 instead O -999
 of O -999
 the O -999
@@ -3683,8 +3683,8 @@ pizzaria O -999
 two O -999
 complaints- O -999
 their O -999
-appetizer B-ASP 0
-selection I-ASP 0
+appetizer B-ASP Negative
+selection I-ASP Negative
 stinks O -999
 , O -999
 it O -999
@@ -3701,8 +3701,8 @@ the O -999
 menu O -999
 . O -999
 
-wait B-ASP 0
-staff I-ASP 0
+wait B-ASP Negative
+staff I-ASP Negative
 is O -999
 blantently O -999
 unappreciative O -999
@@ -3731,7 +3731,7 @@ but O -999
 its O -999
 the O -999
 best O -999
-pie B-ASP 2
+pie B-ASP Positive
 on O -999
 the O -999
 uws O -999
@@ -3741,7 +3741,7 @@ by O -999
 far O -999
 the O -999
 best O -999
-salad B-ASP 2
+salad B-ASP Positive
 i O -999
 have O -999
 had O -999
@@ -3753,7 +3753,7 @@ restaurant O -999
 . O -999
 
 fine O -999
-dining B-ASP 2
+dining B-ASP Positive
 restaurant O -999
 quality O -999
 . O -999
@@ -3772,7 +3772,7 @@ accidently O -999
 found O -999
 this O -999
 great O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 on O -999
 our O -999
 way O -999
@@ -3787,9 +3787,9 @@ doubt O -999
 . O -999
 
 the O -999
-chicken B-ASP 2
-pot I-ASP 2
-pie I-ASP 2
+chicken B-ASP Positive
+pot I-ASP Positive
+pie I-ASP Positive
 is O -999
 excpetiona O -999
 , O -999
@@ -3815,7 +3815,7 @@ is O -999
 excpetiona O -999
 , O -999
 the O -999
-cheeseburger B-ASP 2
+cheeseburger B-ASP Positive
 huge O -999
 and O -999
 delictable O -999
@@ -3843,21 +3843,21 @@ delictable O -999
 , O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 professional O -999
 wan O -999
 warm O -999
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 is O -999
 no O -999
 nonsense O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 options O -999
 rule O -999
 . O -999
@@ -3874,7 +3874,7 @@ would O -999
 buy O -999
 freeze O -999
 the O -999
-bagels B-ASP 2
+bagels B-ASP Positive
 and O -999
 they O -999
 would O -999
@@ -3889,9 +3889,9 @@ else O -999
 worth O -999
 visiting O -999
 the O -999
-1st B-ASP 2
-ave I-ASP 2
-spot I-ASP 2
+1st B-ASP Positive
+ave I-ASP Positive
+spot I-ASP Positive
 because O -999
 it O -999
 is O -999
@@ -3904,9 +3904,9 @@ he O -999
 served O -999
 me O -999
 an O -999
-uni B-ASP 2
-hand I-ASP 2
-roll I-ASP 2
+uni B-ASP Positive
+hand I-ASP Positive
+roll I-ASP Positive
 , O -999
 which O -999
 i O -999
@@ -3926,8 +3926,8 @@ heaven O -999
 ! O -999
 
 the O -999
-sake B-ASP 2
-menu I-ASP 2
+sake B-ASP Positive
+menu I-ASP Positive
 should O -999
 not O -999
 be O -999
@@ -3936,8 +3936,8 @@ overlooked O -999
 
 try O -999
 the O -999
-lobster B-ASP 2
-teriyaki I-ASP 2
+lobster B-ASP Positive
+teriyaki I-ASP Positive
 and O -999
 the O -999
 rose O -999
@@ -3951,12 +3951,12 @@ lobster O -999
 teriyaki O -999
 and O -999
 the O -999
-rose B-ASP 2
-special I-ASP 2
-roll I-ASP 2
+rose B-ASP Positive
+special I-ASP Positive
+roll I-ASP Positive
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 very O -999
 good O -999
@@ -3970,7 +3970,7 @@ non O -999
 intrusive O -999
 . O -999
 
-food B-ASP 2
+food B-ASP Positive
 was O -999
 very O -999
 good O -999
@@ -4037,8 +4037,8 @@ though O -999
 i O -999
 wish O -999
 the O -999
-pork B-ASP 0
-belly I-ASP 0
+pork B-ASP Negative
+belly I-ASP Negative
 that O -999
 i O -999
 ordered O -999
@@ -4066,9 +4066,9 @@ experience O -999
 ) O -999
 . O -999
 
-wine B-ASP 2
-list I-ASP 2
-selection I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
+selection I-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -4093,13 +4093,13 @@ selection O -999
 is O -999
 good O -999
 and O -999
-wine B-ASP 2
-- I-ASP 2
-by I-ASP 2
-- I-ASP 2
-the I-ASP 2
-- I-ASP 2
-glass I-ASP 2
+wine B-ASP Positive
+- I-ASP Positive
+by I-ASP Positive
+- I-ASP Positive
+the I-ASP Positive
+- I-ASP Positive
+glass I-ASP Positive
 was O -999
 generously O -999
 filled O -999
@@ -4108,9 +4108,9 @@ the O -999
 top O -999
 . O -999
 
-traditional B-ASP 2
-french I-ASP 2
-decour I-ASP 2
+traditional B-ASP Positive
+french I-ASP Positive
+decour I-ASP Positive
 was O -999
 pleasant O -999
 though O -999
@@ -4147,7 +4147,7 @@ was O -999
 pleasant O -999
 though O -999
 the O -999
-hall B-ASP 0
+hall B-ASP Negative
 was O -999
 rather O -999
 noisy O -999
@@ -4177,8 +4177,8 @@ i O -999
 been O -999
 to O -999
 at O -999
-cafe B-ASP 2
-spice I-ASP 2
+cafe B-ASP Positive
+spice I-ASP Positive
 probably O -999
 5 O -999
 - O -999
@@ -4203,7 +4203,7 @@ sum O -999
 it O -999
 up O -999
 : O -999
-service B-ASP 1
+service B-ASP Neutral
 varies O -999
 from O -999
 good O -999
@@ -4225,7 +4225,7 @@ average O -999
 ok O -999
 . O -999
 
-seating B-ASP 2
+seating B-ASP Positive
 is O -999
 always O -999
 prompt O -999
@@ -4241,7 +4241,7 @@ the O -999
 evening O -999
 . O -999
 
-food B-ASP 2
+food B-ASP Positive
 is O -999
 usually O -999
 very O -999
@@ -4274,15 +4274,15 @@ wondered O -999
 about O -999
 freshmess O -999
 of O -999
-raw B-ASP 0
-vegatables I-ASP 0
-in I-ASP 0
-side I-ASP 0
-orders I-ASP 0
+raw B-ASP Negative
+vegatables I-ASP Negative
+in I-ASP Negative
+side I-ASP Negative
+orders I-ASP Negative
 . O -999
 
 the O -999
-decor B-ASP 2
+decor B-ASP Positive
 is O -999
 vibrant O -999
 and O -999
@@ -4322,10 +4322,10 @@ eye O -999
 pleasing O -999
 with O -999
 several O -999
-semi B-ASP 2
-- I-ASP 2
-private I-ASP 2
-boths I-ASP 2
+semi B-ASP Positive
+- I-ASP Positive
+private I-ASP Positive
+boths I-ASP Positive
 on O -999
 the O -999
 right O -999
@@ -4350,8 +4350,8 @@ been O -999
 disappointed O -999
 in O -999
 the O -999
-red B-ASP 2
-eye I-ASP 2
+red B-ASP Positive
+eye I-ASP Positive
 . O -999
 
 the O -999
@@ -4366,9 +4366,9 @@ completely O -999
 taken O -999
 by O -999
 the O -999
-live B-ASP 2
-jazz I-ASP 2
-band I-ASP 2
+live B-ASP Positive
+jazz I-ASP Positive
+band I-ASP Positive
 and O -999
 atmosphere B-ASP -999
 , O -999
@@ -4396,7 +4396,7 @@ live B-ASP -999
 jazz I-ASP -999
 band I-ASP -999
 and O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 , O -999
 i O -999
 ordered O -999
@@ -4411,7 +4411,7 @@ it O -999
 simply O -999
 the O -999
 best O -999
-meal B-ASP 2
+meal B-ASP Positive
 in O -999
 nyc O -999
 . O -999
@@ -4423,9 +4423,9 @@ go O -999
 wrong O -999
 at O -999
 the O -999
-red B-ASP 2
-eye I-ASP 2
-grill I-ASP 2
+red B-ASP Positive
+eye I-ASP Positive
+grill I-ASP Positive
 . O -999
 
 if O -999
@@ -4444,11 +4444,11 @@ would O -999
 genuinely O -999
 miss O -999
 this O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 . O -999
 
 the O -999
-restaurant B-ASP 1
+restaurant B-ASP Neutral
 is O -999
 cute O -999
 but O -999
@@ -4457,7 +4457,7 @@ upscale O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 a O -999
 diamond O -999
@@ -4497,11 +4497,11 @@ homemade O -999
 with O -999
 the O -999
 perfect O -999
-balance B-ASP 2
-of I-ASP 2
-herbs I-ASP 2
-and I-ASP 2
-tomatoes I-ASP 2
+balance B-ASP Positive
+of I-ASP Positive
+herbs I-ASP Positive
+and I-ASP Positive
+tomatoes I-ASP Positive
 . O -999
 
 we O -999
@@ -4511,10 +4511,10 @@ great O -999
 time O -999
 at O -999
 the O -999
-jekyll B-ASP 2
-and I-ASP 2
-hyde I-ASP 2
-pub I-ASP 2
+jekyll B-ASP Positive
+and I-ASP Positive
+hyde I-ASP Positive
+pub I-ASP Positive
 last O -999
 night O -999
 . O -999
@@ -4525,7 +4525,7 @@ enjoying O -999
 ourselves O -999
 at O -999
 the O -999
-bar B-ASP 2
+bar B-ASP Positive
 we O -999
 sat O -999
 down O -999
@@ -4538,7 +4538,7 @@ dinner O -999
 . O -999
 
 the O -999
-server B-ASP 2
+server B-ASP Positive
 was O -999
 really O -999
 cool O -999
@@ -4557,7 +4557,7 @@ smile O -999
 the O -999
 place O -999
 's O -999
-decor B-ASP 2
+decor B-ASP Positive
 and O -999
 hidden B-ASP -999
 bathrooms I-ASP -999
@@ -4573,8 +4573,8 @@ place O -999
 's O -999
 decor B-ASP -999
 and O -999
-hidden B-ASP 2
-bathrooms I-ASP 2
+hidden B-ASP Positive
+bathrooms I-ASP Positive
 made O -999
 for O -999
 a O -999
@@ -4587,7 +4587,7 @@ highly O -999
 recommend O -999
 visiting O -999
 this O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 and O -999
 having O -999
 dinner O -999
@@ -4613,7 +4613,7 @@ this O -999
 is O -999
 a O -999
 great O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 go O -999
 and O -999
@@ -4633,10 +4633,10 @@ to O -999
 go O -999
 to O -999
 the O -999
-jekyll B-ASP 2
-and I-ASP 2
-hyde I-ASP 2
-pub I-ASP 2
+jekyll B-ASP Positive
+and I-ASP Positive
+hyde I-ASP Positive
+pub I-ASP Positive
 for O -999
 our O -999
 anniversary O -999
@@ -4655,7 +4655,7 @@ have O -999
 over O -999
 100 O -999
 different O -999
-beers B-ASP 2
+beers B-ASP Positive
 to O -999
 offer O -999
 thier O -999
@@ -4706,7 +4706,7 @@ very O -999
 happy O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 delicious O -999
 , O -999
@@ -4757,12 +4757,12 @@ it O -999
 must O -999
 be O -999
 the O -999
-pumkin B-ASP 2
-tortelini I-ASP 2
+pumkin B-ASP Positive
+tortelini I-ASP Positive
 . O -999
 
 the O -999
-entertainment B-ASP 2
+entertainment B-ASP Positive
 was O -999
 great O -999
 they O -999
@@ -4786,11 +4786,11 @@ go O -999
 and O -999
 try O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 the O -999
-bagel B-ASP 2
+bagel B-ASP Positive
 was O -999
 huge O -999
 . O -999
@@ -4802,7 +4802,7 @@ also O -999
 absolutely O -999
 load O -999
 the O -999
-bagel B-ASP 0
+bagel B-ASP Negative
 with O -999
 cream O -999
 cheese O -999
@@ -4831,7 +4831,7 @@ say O -999
 how O -999
 delicous O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 the O -999
 service B-ASP -999
@@ -4858,7 +4858,7 @@ the O -999
 food B-ASP -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 . O -999
 
@@ -4868,8 +4868,8 @@ to O -999
 highly O -999
 recommend O -999
 the O -999
-lobster B-ASP 2
-roll I-ASP 2
+lobster B-ASP Positive
+roll I-ASP Positive
 - O -999
 not O -999
 to O -999
@@ -4892,7 +4892,7 @@ to O -999
 highly O -999
 recommend O -999
 the O -999
-lobster B-ASP 2
+lobster B-ASP Positive
 roll I-ASP -999
 - O -999
 not O -999
@@ -4913,7 +4913,7 @@ lobster O -999
 other O -999
 guests O -999
 enjoyed O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 , O -999
 santa O -999
 fe O -999
@@ -4930,10 +4930,10 @@ guests O -999
 enjoyed O -999
 pizza O -999
 , O -999
-santa B-ASP 2
-fe I-ASP 2
-chopped I-ASP 2
-salad I-ASP 2
+santa B-ASP Positive
+fe I-ASP Positive
+chopped I-ASP Positive
+salad I-ASP Positive
 and O -999
 fish O -999
 and O -999
@@ -4950,9 +4950,9 @@ fe O -999
 chopped O -999
 salad O -999
 and O -999
-fish B-ASP 2
-and I-ASP 2
-chips I-ASP 2
+fish B-ASP Positive
+and I-ASP Positive
+chips I-ASP Positive
 . O -999
 
 i O -999
@@ -4964,7 +4964,7 @@ bart O -999
 's O -999
 for O -999
 their O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 the O -999
 ambience B-ASP -999
@@ -4985,7 +4985,7 @@ their O -999
 food B-ASP -999
 , O -999
 the O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 and O -999
 wonderful O -999
 service B-ASP -999
@@ -5006,12 +5006,12 @@ the O -999
 ambience B-ASP -999
 and O -999
 wonderful O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 all O -999
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 is O -999
 absolutely O -999
 professional O -999
@@ -5019,18 +5019,18 @@ professional O -999
 ! O -999
 
 this O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 was O -999
 way O -999
 overhyped O -999
 . O -999
 
 my O -999
-chow B-ASP 0
-fun I-ASP 0
-and I-ASP 0
-chow I-ASP 0
-see I-ASP 0
+chow B-ASP Negative
+fun I-ASP Negative
+and I-ASP Negative
+chow I-ASP Negative
+see I-ASP Negative
 was O -999
 really O -999
 bland O -999
@@ -5039,8 +5039,8 @@ oily O -999
 . O -999
 
 the O -999
-scallion B-ASP 1
-pancakes I-ASP 1
+scallion B-ASP Neutral
+pancakes I-ASP Neutral
 and O -999
 fried B-ASP -999
 dumplings I-ASP -999
@@ -5056,8 +5056,8 @@ the O -999
 scallion B-ASP -999
 pancakes I-ASP -999
 and O -999
-fried B-ASP 1
-dumplings I-ASP 1
+fried B-ASP Neutral
+dumplings I-ASP Neutral
 were O -999
 nothing O -999
 out O -999
@@ -5067,7 +5067,7 @@ ordinary O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 the O -999
 only O -999
@@ -5087,7 +5087,7 @@ thing O -999
 good O -999
 about O -999
 this O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 . O -999
 
 it O -999
@@ -5099,7 +5099,7 @@ inside O -999
 , O -999
 and O -999
 our O -999
-sushi B-ASP 0
+sushi B-ASP Negative
 was O -999
 pretty O -999
 below O -999
@@ -5134,7 +5134,7 @@ below O -999
 average O -999
 ... O -999
 the O -999
-tuna B-ASP 0
+tuna B-ASP Negative
 was O -999
 soggy O -999
 and O -999
@@ -5168,15 +5168,15 @@ soggy O -999
 and O -999
 the O -999
 other O -999
-rolls B-ASP 0
+rolls B-ASP Negative
 had O -999
 no O -999
 flavor O -999
 . O -999
 
 their O -999
-pad B-ASP 2
-penang I-ASP 2
+pad B-ASP Positive
+penang I-ASP Positive
 is O -999
 delicious O -999
 and O -999
@@ -5192,13 +5192,13 @@ is O -999
 reasonable O -999
 although O -999
 the O -999
-service B-ASP 0
+service B-ASP Negative
 is O -999
 poor O -999
 . O -999
 
-fresh B-ASP 2
-restaurant I-ASP 2
+fresh B-ASP Positive
+restaurant I-ASP Positive
 was O -999
 amazing O -999
 ........ O -999
@@ -5216,7 +5216,7 @@ restaurant I-ASP -999
 was O -999
 amazing O -999
 ........ O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 delicious O -999
 and O -999
@@ -5229,11 +5229,11 @@ hats O -999
 off O -999
 to O -999
 the O -999
-chef B-ASP 2
+chef B-ASP Positive
 . O -999
 
 the O -999
-salads B-ASP 2
+salads B-ASP Positive
 are O -999
 delicious O -999
 , O -999
@@ -5246,11 +5246,11 @@ spicy O -999
 
 we O -999
 had O -999
-pam B-ASP 2
-'s I-ASP 2
-special I-ASP 2
-fried I-ASP 2
-fish I-ASP 2
+pam B-ASP Positive
+'s I-ASP Positive
+special I-ASP Positive
+fried I-ASP Positive
+fish I-ASP Positive
 and O -999
 it O -999
 was O -999
@@ -5258,7 +5258,7 @@ amazing O -999
 . O -999
 
 great O -999
-vibe B-ASP 2
+vibe B-ASP Positive
 , O -999
 lots O -999
 of O -999
@@ -5273,12 +5273,12 @@ complain O -999
 i O -999
 liked O -999
 the O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 so O -999
 much O -999
 . O -999
 
-ambience B-ASP 2
+ambience B-ASP Positive
 is O -999
 so O -999
 cute O -999
@@ -5296,7 +5296,7 @@ on O -999
 vacation O -999
 . O -999
 
-salads B-ASP 2
+salads B-ASP Positive
 were O -999
 fantastic O -999
 . O -999
@@ -5312,14 +5312,14 @@ and O -999
 some O -999
 walnuts O -999
 the O -999
-salads B-ASP 2
+salads B-ASP Positive
 we O -999
 got O -999
 were O -999
 great O -999
 . O -999
 
-ingredients B-ASP 2
+ingredients B-ASP Positive
 are O -999
 organic O -999
 which O -999
@@ -5338,13 +5338,13 @@ really O -999
 good O -999
 , O -999
 inexpensive O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 . O -999
 
 the O -999
-spicy B-ASP 2
-tuna I-ASP 2
-roll I-ASP 2
+spicy B-ASP Positive
+tuna I-ASP Positive
+roll I-ASP Positive
 is O -999
 huge O -999
 and O -999
@@ -5362,7 +5362,7 @@ range O -999
 . O -999
 
 the O -999
-yellowtail B-ASP 2
+yellowtail B-ASP Positive
 was O -999
 particularly O -999
 good O -999
@@ -5375,11 +5375,11 @@ have O -999
 reservations O -999
 about O -999
 the O -999
-all B-ASP 0
-you I-ASP 0
-can I-ASP 0
-eat I-ASP 0
-deal I-ASP 0
+all B-ASP Negative
+you I-ASP Negative
+can I-ASP Negative
+eat I-ASP Negative
+deal I-ASP Negative
 , O -999
 however O -999
 -- O -999
@@ -5419,7 +5419,7 @@ event O -999
 this O -999
 is O -999
 a O -999
-place B-ASP 2
+place B-ASP Positive
 i O -999
 'll O -999
 be O -999
@@ -5438,8 +5438,8 @@ of O -999
 town O -999
 . O -999
 
-big B-ASP 2
-wong I-ASP 2
+big B-ASP Positive
+wong I-ASP Positive
 gets O -999
 big O -999
 ups O -999
@@ -5457,7 +5457,7 @@ all O -999
 great O -999
 price O -999
 , O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 and O -999
 service B-ASP -999
@@ -5474,11 +5474,11 @@ price O -999
 food B-ASP -999
 , O -999
 and O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 the O -999
-atmosphere B-ASP 0
+atmosphere B-ASP Negative
 is O -999
 noisy O -999
 and O -999
@@ -5503,7 +5503,7 @@ is O -999
 noisy O -999
 and O -999
 the O -999
-waiters B-ASP 2
+waiters B-ASP Positive
 are O -999
 literally O -999
 walking O -999
@@ -5527,7 +5527,7 @@ very O -999
 reasonable O -999
 price O -999
 ( O -999
-congee B-ASP 2
+congee B-ASP Positive
 , O -999
 noodles B-ASP -999
 , O -999
@@ -5558,7 +5558,7 @@ price O -999
 ( O -999
 congee B-ASP -999
 , O -999
-noodles B-ASP 2
+noodles B-ASP Positive
 , O -999
 and O -999
 rice B-ASP -999
@@ -5590,8 +5590,8 @@ congee B-ASP -999
 noodles B-ASP -999
 , O -999
 and O -999
-rice B-ASP 2
-dishes I-ASP 2
+rice B-ASP Positive
+dishes I-ASP Positive
 are O -999
 no O -999
 more O -999
@@ -5605,7 +5605,7 @@ each O -999
 . O -999
 
 the O -999
-takeout B-ASP 2
+takeout B-ASP Positive
 is O -999
 great O -999
 too O -999
@@ -5620,7 +5620,7 @@ well O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 always O -999
 very O -999
@@ -5633,8 +5633,8 @@ enjoyed O -999
 a O -999
 very O -999
 nice O -999
-caesar B-ASP 2
-salad I-ASP 2
+caesar B-ASP Positive
+salad I-ASP Positive
 while O -999
 my O -999
 wife O -999
@@ -5659,10 +5659,10 @@ while O -999
 my O -999
 wife O -999
 had O -999
-arugula B-ASP 2
-and I-ASP 2
-goat I-ASP 2
-cheese I-ASP 2
+arugula B-ASP Positive
+and I-ASP Positive
+goat I-ASP Positive
+cheese I-ASP Positive
 .... O -999
 both O -999
 very O -999
@@ -5674,8 +5674,8 @@ both O -999
 opted O -999
 for O -999
 a O -999
-pasta B-ASP 2
-dish I-ASP 2
+pasta B-ASP Positive
+dish I-ASP Positive
 and O -999
 they O -999
 were O -999
@@ -5688,9 +5688,9 @@ fresh O -999
 we O -999
 concluded O -999
 with O -999
-tiramisu B-ASP 2
-chocolate I-ASP 2
-cake I-ASP 2
+tiramisu B-ASP Positive
+chocolate I-ASP Positive
+cake I-ASP Positive
 , O -999
 both O -999
 were O -999
@@ -5702,7 +5702,7 @@ recently O -999
 went O -999
 to O -999
 this O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 with O -999
 some O -999
 co O -999
@@ -5718,7 +5718,7 @@ time O -999
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 was O -999
 accomodating O -999
 , O -999
@@ -5740,7 +5740,7 @@ was O -999
 accomodating O -999
 , O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 absolutely O -999
 delicious O -999
@@ -5763,7 +5763,7 @@ absolutely O -999
 delicious O -999
 and O -999
 the O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 lovely O -999
 . O -999
@@ -5775,7 +5775,7 @@ a O -999
 visit O -999
 from O -999
 the O -999
-manager B-ASP 2
+manager B-ASP Positive
 who O -999
 wanted O -999
 to O -999
@@ -5791,7 +5791,7 @@ sometimes O -999
 i O -999
 get O -999
 good O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 ok O -999
 service B-ASP -999
@@ -5804,14 +5804,14 @@ good O -999
 food B-ASP -999
 and O -999
 ok O -999
-service B-ASP 1
+service B-ASP Neutral
 . O -999
 
 sometimes O -999
 i O -999
 get O -999
 bad O -999
-food B-ASP 0
+food B-ASP Negative
 and O -999
 bad O -999
 service B-ASP -999
@@ -5833,7 +5833,7 @@ bad O -999
 food B-ASP -999
 and O -999
 bad O -999
-service B-ASP 0
+service B-ASP Negative
 , O -999
 sometimes O -999
 i O -999
@@ -5857,7 +5857,7 @@ service B-ASP -999
 sometimes O -999
 i O -999
 get O -999
-good B-ASP 2
+good B-ASP Positive
 good O -999
 and O -999
 bad O -999
@@ -5873,7 +5873,7 @@ which O -999
 means O -999
 : O -999
 simple O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 and O -999
 wine B-ASP -999
 served O -999
@@ -5895,7 +5895,7 @@ means O -999
 simple O -999
 dishes B-ASP -999
 and O -999
-wine B-ASP 2
+wine B-ASP Positive
 served O -999
 efficiently O -999
 in O -999
@@ -5921,13 +5921,13 @@ efficiently O -999
 in O -999
 a O -999
 bustling O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 . O -999
 
 and O -999
 where O -999
 does O -999
-patis B-ASP 2
+patis B-ASP Positive
 go O -999
 wrong O -999
 ; O -999
@@ -5940,7 +5940,7 @@ evaluated O -999
 on O -999
 those O -999
 terms O -999
-pastis B-ASP 2
+pastis B-ASP Positive
 is O -999
 simply O -999
 wonderful O -999
@@ -5960,7 +5960,7 @@ cozy O -999
 place B-ASP -999
 with O -999
 good O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 . O -999
 
 right O -999
@@ -5974,7 +5974,7 @@ is O -999
 a O -999
 nice O -999
 cozy O -999
-place B-ASP 2
+place B-ASP Positive
 with O -999
 good O -999
 pizza B-ASP -999
@@ -5994,7 +5994,7 @@ cheese O -999
 and O -999
 panchetta O -999
 ( O -999
-raddichio B-ASP 0
+raddichio B-ASP Negative
 was O -999
 kind O -999
 of O -999
@@ -6007,15 +6007,15 @@ my O -999
 friend O -999
 got O -999
 the O -999
-mushroom B-ASP 2
-pizza I-ASP 2
+mushroom B-ASP Positive
+pizza I-ASP Positive
 which O -999
 tasted O -999
 better O -999
 . O -999
 
 the O -999
-sangria B-ASP 2
+sangria B-ASP Positive
 was O -999
 pretty O -999
 tasty O -999
@@ -6032,7 +6032,7 @@ kind O -999
 of O -999
 a O -999
 small O -999
-place B-ASP 1
+place B-ASP Neutral
 but O -999
 i O -999
 guess O -999
@@ -6058,8 +6058,8 @@ started O -999
 out O -999
 with O -999
 a O -999
-bombay B-ASP 2
-beer I-ASP 2
+bombay B-ASP Positive
+beer I-ASP Positive
 which O -999
 was O -999
 big O -999
@@ -6068,7 +6068,7 @@ for O -999
 two O -999
 . O -999
 
-service B-ASP 0
+service B-ASP Negative
 was O -999
 slow O -999
 , O -999
@@ -6085,7 +6085,7 @@ slow O -999
 , O -999
 but O -999
 the O -999
-people B-ASP 2
+people B-ASP Positive
 were O -999
 friendly O -999
 . O -999
@@ -6094,7 +6094,7 @@ it O -999
 's O -999
 a O -999
 nice O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 relax O -999
 and O -999
@@ -6103,7 +6103,7 @@ conversation O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 authentic O -999
 italian O -999
@@ -6111,7 +6111,7 @@ italian O -999
 delicious O -999
 ! O -999
 
-pizza B-ASP 2
+pizza B-ASP Positive
 is O -999
 terrific O -999
 , O -999
@@ -6127,11 +6127,11 @@ terrific O -999
 , O -999
 as O -999
 is O -999
-homemade B-ASP 2
-pasta I-ASP 2
+homemade B-ASP Positive
+pasta I-ASP Positive
 . O -999
 
-ambience B-ASP 2
+ambience B-ASP Positive
 is O -999
 delightful O -999
 , O -999
@@ -6143,7 +6143,7 @@ ambience B-ASP -999
 is O -999
 delightful O -999
 , O -999
-service B-ASP 2
+service B-ASP Positive
 impeccable O -999
 . O -999
 
@@ -6158,12 +6158,12 @@ to O -999
 pay O -999
 for O -999
 lousy O -999
-food B-ASP 0
+food B-ASP Negative
 . O -999
 
 the O -999
-hanger B-ASP 0
-steak I-ASP 0
+hanger B-ASP Negative
+steak I-ASP Negative
 was O -999
 like O -999
 rubber O -999
@@ -6193,7 +6193,7 @@ like O -999
 rubber O -999
 and O -999
 the O -999
-tuna B-ASP 0
+tuna B-ASP Negative
 was O -999
 flavorless O -999
 not O -999
@@ -6209,7 +6209,7 @@ been O -999
 thawed O -999
 . O -999
 
-service B-ASP 0
+service B-ASP Negative
 was O -999
 also O -999
 horrible O -999
@@ -6228,7 +6228,7 @@ also O -999
 horrible O -999
 and O -999
 the O -999
-ambience B-ASP 0
+ambience B-ASP Negative
 is O -999
 not O -999
 that O -999
@@ -6248,7 +6248,7 @@ and O -999
 this O -999
 is O -999
 one O -999
-place B-ASP 2
+place B-ASP Positive
 you O -999
 have O -999
 go O -999
@@ -6269,7 +6269,7 @@ a O -999
 restaurant O -999
 because O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 service B-ASP -999
 was O -999
@@ -6291,15 +6291,15 @@ because O -999
 the O -999
 food B-ASP -999
 and O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 excellent O -999
 . O -999
 
 the O -999
-filet B-ASP 2
-mignon I-ASP 2
-dish I-ASP 2
+filet B-ASP Positive
+mignon I-ASP Positive
+dish I-ASP Positive
 was O -999
 superb O -999
 ! O -999
@@ -6309,14 +6309,14 @@ it O -999
 a O -999
 small O -999
 cute O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 . O -999
 
 i O -999
 absolutely O -999
 love O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 ! O -999
 ! O -999
 ! O -999
@@ -6324,7 +6324,7 @@ place B-ASP 2
 i O -999
 like O -999
 the O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 , O -999
 it O -999
 's O -999
@@ -6335,7 +6335,7 @@ original O -999
 . O -999
 
 the O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 is O -999
 amazing O -999
 ! O -999
@@ -6346,17 +6346,17 @@ very O -999
 affordable O -999
 and O -999
 excellent O -999
-ambient B-ASP 2
+ambient B-ASP Positive
 ! O -999
 
 we O -999
 ordered O -999
 some O -999
-beef B-ASP 0
-and I-ASP 0
-noodle I-ASP 0
-soup I-ASP 0
-dishes I-ASP 0
+beef B-ASP Negative
+and I-ASP Negative
+noodle I-ASP Negative
+soup I-ASP Negative
+dishes I-ASP Negative
 from O -999
 the O -999
 thai O -999
@@ -6383,7 +6383,7 @@ again O -999
 for O -999
 a O -999
 good O -999
-meal B-ASP 0
+meal B-ASP Negative
 . O -999
 
 however O -999
@@ -6391,7 +6391,7 @@ however O -999
 i O -999
 think O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 a O -999
 good O -999
@@ -6408,7 +6408,7 @@ stumbled O -999
 onto O -999
 this O -999
 hopping O -999
-place B-ASP 2
+place B-ASP Positive
 the O -999
 other O -999
 night O -999
@@ -6420,7 +6420,7 @@ time O -999
 ! O -999
 
 the O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 and O -999
 wine B-ASP -999
 were O -999
@@ -6446,7 +6446,7 @@ area I-ASP -999
 the O -999
 pizza B-ASP -999
 and O -999
-wine B-ASP 2
+wine B-ASP Positive
 were O -999
 excellent O -999
 - O -999
@@ -6475,7 +6475,7 @@ were O -999
 excellent O -999
 - O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 too O -999
 -- O -999
 but O -999
@@ -6510,9 +6510,9 @@ this O -999
 place O -999
 was O -999
 the O -999
-backyard B-ASP 2
-dining I-ASP 2
-area I-ASP 2
+backyard B-ASP Positive
+dining I-ASP Positive
+area I-ASP Positive
 . O -999
 
 it O -999
@@ -6520,8 +6520,8 @@ is O -999
 one O -999
 the O -999
 nicest O -999
-outdoor B-ASP 2
-restaurants I-ASP 2
+outdoor B-ASP Positive
+restaurants I-ASP Positive
 i O -999
 have O -999
 ever O -999
@@ -6546,7 +6546,7 @@ country O -999
 
 check O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 out O -999
 ! O -999
 
@@ -6555,7 +6555,7 @@ of O -999
 all O -999
 , O -999
 this O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 * O -999
 not O -999
@@ -6572,7 +6572,7 @@ review O -999
 . O -999
 
 the O -999
-tables B-ASP 0
+tables B-ASP Negative
 are O -999
 crammed O -999
 way O -999
@@ -6606,7 +6606,7 @@ too O -999
 close O -999
 , O -999
 the O -999
-menu B-ASP 1
+menu B-ASP Neutral
 is O -999
 typical O -999
 of O -999
@@ -6642,8 +6642,8 @@ restaurant O -999
 , O -999
 and O -999
 the O -999
-wine B-ASP 0
-list I-ASP 0
+wine B-ASP Negative
+list I-ASP Negative
 is O -999
 simply O -999
 overpriced O -999
@@ -6652,7 +6652,7 @@ overpriced O -999
 slightly O -999
 above O -999
 average O -999
-wines B-ASP 0
+wines B-ASP Negative
 start O -999
 at O -999
 $ O -999
@@ -6669,7 +6669,7 @@ $ O -999
 + O -999
 . O -999
 
-service B-ASP 0
+service B-ASP Negative
 is O -999
 not O -999
 what O -999
@@ -6698,7 +6698,7 @@ does O -999
 not O -999
 constitute O -999
 proper O -999
-service B-ASP 0
+service B-ASP Negative
 . O -999
 
 to O -999
@@ -6712,7 +6712,7 @@ redeeming O -999
 factor O -999
 was O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 which O -999
 was O -999
@@ -6762,14 +6762,14 @@ the O -999
 other O -999
 deficiencies O -999
 of O -999
-teodora B-ASP 0
+teodora B-ASP Negative
 . O -999
 
 not O -999
 one O -999
 of O -999
 our O -999
-meals B-ASP 0
+meals B-ASP Negative
 was O -999
 edible O -999
 - O -999
@@ -6797,13 +6797,13 @@ and/or O -999
 made O -999
 with O -999
 weird O -999
-rosemary B-ASP 0
-or I-ASP 0
-orange I-ASP 0
-flavoring I-ASP 0
+rosemary B-ASP Negative
+or I-ASP Negative
+orange I-ASP Negative
+flavoring I-ASP Negative
 . O -999
 
-fish B-ASP 0
+fish B-ASP Negative
 was O -999
 overdone O -999
 . O -999
@@ -6812,8 +6812,8 @@ cute O -999
 place B-ASP -999
 , O -999
 nice O -999
-wait B-ASP 2
-staff I-ASP 2
+wait B-ASP Positive
+staff I-ASP Positive
 but O -999
 would O -999
 never O -999
@@ -6823,7 +6823,7 @@ again O -999
 . O -999
 
 cute O -999
-place B-ASP 2
+place B-ASP Positive
 , O -999
 nice O -999
 wait B-ASP -999
@@ -6840,7 +6840,7 @@ someone O -999
 else O -999
 recommended O -999
 the O -999
-dessert B-ASP 0
+dessert B-ASP Negative
 - O -999
 we O -999
 also O -999
@@ -6854,7 +6854,7 @@ us O -999
 actually O -999
 liked O -999
 the O -999
-expresso B-ASP 2
+expresso B-ASP Positive
 - O -999
 that O -999
 's O -999
@@ -6863,7 +6863,7 @@ it O -999
 
 skip O -999
 this O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 , O -999
 it O -999
 's O -999
@@ -6872,7 +6872,7 @@ big O -999
 disappointment O -999
 . O -999
 
-myagi B-ASP 2
+myagi B-ASP Positive
 is O -999
 one O -999
 of O -999
@@ -6902,7 +6902,7 @@ i O -999
 never O -999
 had O -999
 bad O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 the O -999
 fish B-ASP -999
@@ -6920,7 +6920,7 @@ bad O -999
 service B-ASP -999
 and O -999
 the O -999
-fish B-ASP 2
+fish B-ASP Positive
 is O -999
 fresh O -999
 and O -999
@@ -6928,9 +6928,9 @@ delicious O -999
 . O -999
 
 their O -999
-tuna B-ASP 2
-tartar I-ASP 2
-appetizer I-ASP 2
+tuna B-ASP Positive
+tartar I-ASP Positive
+appetizer I-ASP Positive
 is O -999
 to O -999
 die O -999
@@ -6955,7 +6955,7 @@ to O -999
 say O -999
 that O -999
 the O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 in O -999
 fornino O -999
 's O -999
@@ -6973,7 +6973,7 @@ so O -999
 cool O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 prompt O -999
 and O -999
@@ -6981,7 +6981,7 @@ curtious O -999
 . O -999
 
 the O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 so O -999
 cool O -999
@@ -7002,7 +7002,7 @@ anyone O -999
 to O -999
 give O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 a O -999
 try O -999
 . O -999
@@ -7019,7 +7019,7 @@ anything O -999
 except O -999
 serve O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 with O -999
 great O -999
 service B-ASP -999
@@ -7044,7 +7044,7 @@ great O -999
 food B-ASP -999
 with O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 in O -999
 a O -999
 pleasant O -999
@@ -7070,7 +7070,7 @@ service B-ASP -999
 in O -999
 a O -999
 pleasant O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 . O -999
 
 no O -999
@@ -7078,7 +7078,7 @@ gimmicks O -999
 here O -999
 -- O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 speaks O -999
 for O -999
 itself O -999
@@ -7090,8 +7090,8 @@ preparation O -999
 . O -999
 
 the O -999
-dining B-ASP 2
-room I-ASP 2
+dining B-ASP Positive
+room I-ASP Positive
 is O -999
 quietly O -999
 elegant O -999
@@ -7107,7 +7107,7 @@ refreshing O -999
 ! O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 impeccable O -999
 and O -999
@@ -7147,7 +7147,7 @@ and O -999
 unobtrusive O -999
 -- O -999
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 knows O -999
 what O -999
 they O -999
@@ -7186,7 +7186,7 @@ yorkers O -999
 enjoying O -999
 a O -999
 real O -999
-meal B-ASP 2
+meal B-ASP Positive
 in O -999
 a O -999
 real O -999
@@ -7222,7 +7222,7 @@ meal B-ASP -999
 in O -999
 a O -999
 real O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 , O -999
 not O -999
 a O -999
@@ -7237,7 +7237,7 @@ seen O -999
 . O -999
 
 the O -999
-view B-ASP 2
+view B-ASP Positive
 is O -999
 breathtaking O -999
 the O -999
@@ -7257,7 +7257,7 @@ view B-ASP -999
 is O -999
 breathtaking O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 top O -999
 notch O -999
@@ -7279,13 +7279,13 @@ top O -999
 notch O -999
 ... O -999
 the O -999
-ambiance B-ASP 2
+ambiance B-ASP Positive
 is O -999
 wonderfull O -999
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 offers O -999
 impeccable O -999
 service O -999
@@ -7293,8 +7293,8 @@ service O -999
 
 i O -999
 had O -999
-lobster B-ASP 2
-bisque I-ASP 2
+lobster B-ASP Positive
+bisque I-ASP Positive
 it O -999
 has O -999
 2 O -999
@@ -7311,9 +7311,9 @@ my O -999
 boyfriend O -999
 had O -999
 the O -999
-new B-ASP 2
-england I-ASP 2
-chowder I-ASP 2
+new B-ASP Positive
+england I-ASP Positive
+chowder I-ASP Positive
 it O -999
 was O -999
 good O -999
@@ -7349,15 +7349,15 @@ should O -999
 go O -999
 to O -999
 the O -999
-lobster B-ASP 2
-bisque I-ASP 2
+lobster B-ASP Positive
+bisque I-ASP Positive
 . O -999
 
 my O -999
 boyfriend O -999
 had O -999
-prime B-ASP 2
-rib I-ASP 2
+prime B-ASP Positive
+rib I-ASP Positive
 it O -999
 was O -999
 good O -999
@@ -7379,9 +7379,9 @@ we O -999
 each O -999
 got O -999
 little O -999
-bottles B-ASP 2
-of I-ASP 2
-korbett I-ASP 2
+bottles B-ASP Positive
+of I-ASP Positive
+korbett I-ASP Positive
 it O -999
 was O -999
 just O -999
@@ -7406,7 +7406,7 @@ and O -999
 raving O -999
 about O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 if O -999
@@ -7416,8 +7416,8 @@ spicy O -999
 food O -999
 get O -999
 the O -999
-chicken B-ASP 2
-vindaloo I-ASP 2
+chicken B-ASP Positive
+vindaloo I-ASP Positive
 . O -999
 
 go O -999
@@ -7426,7 +7426,7 @@ volare O -999
 for O -999
 1st O -999
 class O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 terrific O -999
 food B-ASP -999
@@ -7441,11 +7441,11 @@ class O -999
 service B-ASP -999
 and O -999
 terrific O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 the O -999
-portions B-ASP 2
+portions B-ASP Positive
 are O -999
 large O -999
 and O -999
@@ -7461,14 +7461,14 @@ starter O -999
 . O -999
 
 the O -999
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 is O -999
 excellent O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 amazing O -999
 ... O -999
@@ -7528,9 +7528,9 @@ wine O -999
 from O -999
 an O -999
 extensive O -999
-selection B-ASP 2
-of I-ASP 2
-wines I-ASP 2
+selection B-ASP Positive
+of I-ASP Positive
+wines I-ASP Positive
 . O -999
 
 the O -999
@@ -7543,10 +7543,10 @@ if O -999
 you O -999
 get O -999
 the O -999
-chef B-ASP 2
-'s I-ASP 2
-tasting I-ASP 2
-menu I-ASP 2
+chef B-ASP Positive
+'s I-ASP Positive
+tasting I-ASP Positive
+menu I-ASP Positive
 and O -999
 your O -999
 favourite O -999
@@ -7582,7 +7582,7 @@ crowded O -999
 , O -999
 but O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 excellent O -999
 and O -999
@@ -7604,7 +7604,7 @@ occassion O -999
 . O -999
 
 the O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 small O -999
 and O -999
@@ -7641,7 +7641,7 @@ occassion O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 can O -999
 get O -999
 pricey O -999
@@ -7683,10 +7683,10 @@ get O -999
 pricey O -999
 but O -999
 the O -999
-prixe B-ASP 2
-fixe I-ASP 2
-tasting I-ASP 2
-menu I-ASP 2
+prixe B-ASP Positive
+fixe I-ASP Positive
+tasting I-ASP Positive
+menu I-ASP Positive
 is O -999
 the O -999
 greatest O -999
@@ -7733,7 +7733,7 @@ started O -999
 watering O -999
 , O -999
 the O -999
-food B-ASP 1
+food B-ASP Neutral
 here O -999
 was O -999
 decent O -999
@@ -7747,8 +7747,8 @@ the O -999
 exception O -999
 of O -999
 our O -999
-lemon B-ASP 0
-salad I-ASP 0
+lemon B-ASP Negative
+salad I-ASP Negative
 that O -999
 had O -999
 so O -999
@@ -7773,7 +7773,7 @@ great O -999
 . O -999
 
 the O -999
-menu B-ASP 0
+menu B-ASP Negative
 is O -999
 very O -999
 limited O -999
@@ -7793,8 +7793,8 @@ ordered O -999
 the O -999
 special O -999
 , O -999
-grilled B-ASP 0
-branzino I-ASP 0
+grilled B-ASP Negative
+branzino I-ASP Negative
 , O -999
 that O -999
 was O -999
@@ -7811,7 +7811,7 @@ eat O -999
 . O -999
 
 the O -999
-decor B-ASP 1
+decor B-ASP Neutral
 in O -999
 this O -999
 place O -999
@@ -7847,14 +7847,14 @@ problem O -999
 is O -999
 nothing O -999
 at O -999
-prune B-ASP 0
+prune B-ASP Negative
 is O -999
 particularly O -999
 memorable O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 so O -999
 much O -999
@@ -7867,14 +7867,14 @@ never O -999
 expected O -999
 such O -999
 incredible O -999
-entertainment B-ASP 2
+entertainment B-ASP Positive
 in O -999
 a O -999
 restaurant O -999
 . O -999
 
 our O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 great O -999
 too O -999
@@ -7883,11 +7883,11 @@ too O -999
 and O -999
 really O -999
 large O -999
-portions B-ASP 2
+portions B-ASP Positive
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 was O -999
 the O -999
 friendliest O -999
@@ -7907,13 +7907,13 @@ really O -999
 different O -999
 than O -999
 try O -999
-jekyll B-ASP 2
-and I-ASP 2
-hyde I-ASP 2
+jekyll B-ASP Positive
+and I-ASP Positive
+hyde I-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 pretty O -999
 tradional O -999
@@ -7941,11 +7941,11 @@ and O -999
 good O -999
 with O -999
 large O -999
-portions B-ASP 2
+portions B-ASP Positive
 . O -999
 
 the O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 a O -999
 lot O -999
@@ -7954,7 +7954,7 @@ fun O -999
 . O -999
 
 the O -999
-characters B-ASP 2
+characters B-ASP Positive
 really O -999
 make O -999
 for O -999
@@ -7964,7 +7964,7 @@ experience O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 however O -999
 , O -999
 is O -999
@@ -7978,9 +7978,9 @@ however O -999
 , O -999
 i O -999
 think O -999
-jeckll B-ASP 2
-and I-ASP 2
-hydes I-ASP 2
+jeckll B-ASP Positive
+and I-ASP Positive
+hydes I-ASP Positive
 t O -999
 is O -999
 one O -999
@@ -7995,7 +7995,7 @@ do O -999
 once O -999
 . O -999
 
-service B-ASP 0
+service B-ASP Negative
 was O -999
 slow O -999
 had O -999
@@ -8011,13 +8011,13 @@ not O -999
 crowded O -999
 . O -999
 
-drinks B-ASP 0
+drinks B-ASP Negative
 way O -999
 over O -999
 priced O -999
 . O -999
 
-food B-ASP 1
+food B-ASP Neutral
 was O -999
 good O -999
 not O -999
@@ -8031,19 +8031,19 @@ another O -999
 visit O -999
 
 great O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 for O -999
 lunch O -999
 place O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 was B-ASP -999
 quick O -999
 . O -999
 
 service B-ASP -999
-was B-ASP 2
+was B-ASP Positive
 quick O -999
 . O -999
 
@@ -8060,7 +8060,7 @@ be O -999
 there O -999
 with O -999
 quality O -999
-fish B-ASP 2
+fish B-ASP Positive
 and O -999
 great O -999
 service B-ASP -999
@@ -8082,10 +8082,10 @@ quality O -999
 fish B-ASP -999
 and O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
-delivery B-ASP 2
+delivery B-ASP Positive
 is O -999
 fast O -999
 too O -999
@@ -8093,7 +8093,7 @@ too O -999
 
 great O -999
 friendly O -999
-service B-ASP 2
+service B-ASP Positive
 , O -999
 fast O -999
 seating B-ASP -999
@@ -8110,7 +8110,7 @@ friendly O -999
 service B-ASP -999
 , O -999
 fast O -999
-seating B-ASP 2
+seating B-ASP Positive
 , O -999
 fast O -999
 delivery B-ASP -999
@@ -8127,7 +8127,7 @@ fast O -999
 seating B-ASP -999
 , O -999
 fast O -999
-delivery B-ASP 2
+delivery B-ASP Positive
 , O -999
 excellent O -999
 sushi B-ASP -999
@@ -8144,7 +8144,7 @@ fast O -999
 delivery B-ASP -999
 , O -999
 excellent O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 . O -999
 
 ess O -999
@@ -8166,13 +8166,13 @@ by O -999
 far O -999
 the O -999
 best O -999
-bagel B-ASP 2
+bagel B-ASP Positive
 in O -999
 ny O -999
 . O -999
 
 the O -999
-bagels B-ASP 2
+bagels B-ASP Positive
 always O -999
 warm O -999
 , O -999
@@ -8204,7 +8204,7 @@ and O -999
 all O -999
 of O -999
 their O -999
-salads B-ASP 2
+salads B-ASP Positive
 are O -999
 great O -999
 . O -999
@@ -8216,8 +8216,8 @@ huge O -999
 selection O -999
 of O -999
 different O -999
-cream B-ASP 2
-cheeses I-ASP 2
+cream B-ASP Positive
+cheeses I-ASP Positive
 and O -999
 all O -999
 of O -999
@@ -8228,7 +8228,7 @@ great O -999
 . O -999
 
 the O -999
-lox B-ASP 2
+lox B-ASP Positive
 is O -999
 always O -999
 fresh O -999
@@ -8239,7 +8239,7 @@ not O -999
 impressed O -999
 with O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 . O -999
 
 prices O -999
@@ -8250,11 +8250,11 @@ this O -999
 cramped O -999
 and O -999
 unappealing O -999
-resturant B-ASP 0
+resturant B-ASP Negative
 . O -999
 
 zero O -999
-ambiance B-ASP 0
+ambiance B-ASP Negative
 to O -999
 boot O -999
 . O -999
@@ -8262,14 +8262,14 @@ boot O -999
 i O -999
 thought O -999
 this O -999
-place B-ASP 0
+place B-ASP Negative
 was O -999
 totally O -999
 overrated O -999
 . O -999
 
 the O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 was O -999
 nice O -999
 , O -999
@@ -8287,7 +8287,7 @@ was O -999
 nice O -999
 , O -999
 but O -999
-service B-ASP 0
+service B-ASP Negative
 was O -999
 n't O -999
 so O -999
@@ -8298,10 +8298,10 @@ this O -999
 is O -999
 the O -999
 best O -999
-shabu B-ASP 2
-- I-ASP 2
-shabu I-ASP 2
-restaurant I-ASP 2
+shabu B-ASP Positive
+- I-ASP Positive
+shabu I-ASP Positive
+restaurant I-ASP Positive
 in O -999
 the O -999
 try O -999
@@ -8323,7 +8323,7 @@ the O -999
 taste O -999
 of O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 the O -999
 feel B-ASP -999
@@ -8354,7 +8354,7 @@ the O -999
 food B-ASP -999
 and O -999
 the O -999
-feel B-ASP 2
+feel B-ASP Positive
 of O -999
 the O -999
 restaurant O -999
@@ -8374,13 +8374,13 @@ for O -999
 anyone O -999
 who O -999
 loves O -999
-shabu B-ASP 2
-- I-ASP 2
-shabu I-ASP 2
+shabu B-ASP Positive
+- I-ASP Positive
+shabu I-ASP Positive
 . O -999
 
 the O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 is O -999
 nothing O -999
 special O -999
@@ -8397,7 +8397,7 @@ tokyo O -999
 . O -999
 
 the O -999
-owner B-ASP 2
+owner B-ASP Positive
 and O -999
 staff B-ASP -999
 are O -999
@@ -8417,7 +8417,7 @@ ambiance B-ASP -999
 the O -999
 owner B-ASP -999
 and O -999
-staff B-ASP 2
+staff B-ASP Positive
 are O -999
 all O -999
 japanese O -999
@@ -8447,14 +8447,14 @@ adds O -999
 to O -999
 the O -999
 entire O -999
-ambiance B-ASP 2
+ambiance B-ASP Positive
 . O -999
 
 despite O -999
 a O -999
 slightly O -999
 limited O -999
-menu B-ASP 0
+menu B-ASP Negative
 , O -999
 everything O -999
 prepared O -999
@@ -8473,7 +8473,7 @@ food O -999
 art O -999
 . O -999
 
-taxan B-ASP 2
+taxan B-ASP Positive
 delicious O -999
 ! O -999
 
@@ -8486,7 +8486,7 @@ to O -999
 the O -999
 quality O -999
 of O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 food B-ASP -999
 . O -999
@@ -8502,11 +8502,11 @@ quality O -999
 of O -999
 service B-ASP -999
 and O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 the O -999
-location B-ASP 1
+location B-ASP Neutral
 and O -999
 ambience B-ASP -999
 is O -999
@@ -8525,7 +8525,7 @@ it O -999
 the O -999
 location B-ASP -999
 and O -999
-ambience B-ASP 1
+ambience B-ASP Neutral
 is O -999
 ok O -999
 but O -999
@@ -8547,7 +8547,7 @@ is O -999
 ok O -999
 but O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 what O -999
 makes O -999
@@ -8557,14 +8557,14 @@ it O -999
 . O -999
 
 try O -999
-green B-ASP 2
-curry I-ASP 2
-with I-ASP 2
-vegetables I-ASP 2
+green B-ASP Positive
+curry I-ASP Positive
+with I-ASP Positive
+vegetables I-ASP Positive
 . O -999
 
 the O -999
-quantity B-ASP 2
+quantity B-ASP Positive
 is O -999
 also O -999
 very O -999
@@ -8578,7 +8578,7 @@ satisfied O -999
 . O -999
 
 the O -999
-service B-ASP 1
+service B-ASP Neutral
 is O -999
 ok O -999
 , O -999
@@ -8599,12 +8599,12 @@ i O -999
 had O -999
 the O -999
 best O -999
-ravioli B-ASP 2
+ravioli B-ASP Positive
 ever O -999
 . O -999
 
 the O -999
-wine B-ASP 2
+wine B-ASP Positive
 the O -999
 service B-ASP -999
 was O -999
@@ -8616,7 +8616,7 @@ too O -999
 the O -999
 wine B-ASP -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 very O -999
 good O -999
@@ -8627,7 +8627,7 @@ this O -999
 quaint O -999
 and O -999
 romantic O -999
-trattoria B-ASP 2
+trattoria B-ASP Positive
 is O -999
 at O -999
 the O -999
@@ -8640,7 +8640,7 @@ list O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 delicious O -999
 - O -999
@@ -8678,7 +8678,7 @@ menu I-ASP -999
 fare I-ASP -999
 , O -999
 the O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 are O -999
 never O -999
 a O -999
@@ -8692,7 +8692,7 @@ delicious O -999
 - O -999
 from O -999
 the O -999
-specials B-ASP 2
+specials B-ASP Positive
 to O -999
 the O -999
 regular B-ASP -999
@@ -8718,10 +8718,10 @@ the O -999
 specials B-ASP -999
 to O -999
 the O -999
-regular B-ASP 2
-menu I-ASP 2
-- I-ASP 2
-fare I-ASP 2
+regular B-ASP Positive
+menu I-ASP Positive
+- I-ASP Positive
+fare I-ASP Positive
 , O -999
 the O -999
 dishes B-ASP -999
@@ -8735,9 +8735,9 @@ whether O -999
 it O -999
 's O -999
 the O -999
-parmesean B-ASP 2
-porcini I-ASP 2
-souffle I-ASP 2
+parmesean B-ASP Positive
+porcini I-ASP Positive
+souffle I-ASP Positive
 or O -999
 the O -999
 lamb B-ASP -999
@@ -8768,11 +8768,11 @@ porcini I-ASP -999
 souffle I-ASP -999
 or O -999
 the O -999
-lamb B-ASP 2
-glazed I-ASP 2
-with I-ASP 2
-balsamic I-ASP 2
-vinegar I-ASP 2
+lamb B-ASP Positive
+glazed I-ASP Positive
+with I-ASP Positive
+balsamic I-ASP Positive
+vinegar I-ASP Positive
 , O -999
 you O -999
 will O -999
@@ -8796,9 +8796,9 @@ closely O -999
 situated O -999
 , O -999
 the O -999
-candle B-ASP 2
-- I-ASP 2
-light I-ASP 2
+candle B-ASP Positive
+- I-ASP Positive
+light I-ASP Positive
 , O -999
 food B-ASP -999
 - O -999
@@ -8821,7 +8821,7 @@ candle B-ASP -999
 - I-ASP -999
 light I-ASP -999
 , O -999
-food B-ASP 2
+food B-ASP Positive
 - O -999
 quality O -999
 and O -999
@@ -8846,13 +8846,13 @@ food B-ASP -999
 - O -999
 quality O -999
 and O -999
-service B-ASP 2
+service B-ASP Positive
 overcompensate O -999
 . O -999
 
 although O -999
 the O -999
-tables B-ASP 0
+tables B-ASP Negative
 may O -999
 be O -999
 closely O -999
@@ -8890,7 +8890,7 @@ has O -999
 continued O -999
 to O -999
 serve O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 wine B-ASP -999
 for O -999
@@ -8922,7 +8922,7 @@ to O -999
 serve O -999
 food B-ASP -999
 and O -999
-wine B-ASP 2
+wine B-ASP Positive
 for O -999
 the O -999
 gods O -999
@@ -8950,7 +8950,7 @@ has O -999
 continued O -999
 to O -999
 serve O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 wine B-ASP -999
 for O -999
@@ -8982,7 +8982,7 @@ to O -999
 serve O -999
 food B-ASP -999
 and O -999
-wine B-ASP 2
+wine B-ASP Positive
 for O -999
 the O -999
 gods O -999
@@ -8997,10 +8997,10 @@ go O -999
 , O -999
 try O -999
 the O -999
-marinara B-ASP 2
-/ I-ASP 2
-arrabiatta I-ASP 2
-sauce I-ASP 2
+marinara B-ASP Positive
+/ I-ASP Positive
+arrabiatta I-ASP Positive
+sauce I-ASP Positive
 , O -999
 the O -999
 mozzarella B-ASP -999
@@ -9027,9 +9027,9 @@ arrabiatta I-ASP -999
 sauce I-ASP -999
 , O -999
 the O -999
-mozzarella B-ASP 2
-en I-ASP 2
-carozza I-ASP 2
+mozzarella B-ASP Positive
+en I-ASP Positive
+carozza I-ASP Positive
 is O -999
 mmmmmmmm O -999
 ..... O -999
@@ -9043,19 +9043,19 @@ check O -999
 out O -999
 the O -999
 secret O -999
-back B-ASP 2
-room I-ASP 2
+back B-ASP Positive
+room I-ASP Positive
 . O -999
 
 thank O -999
 you O -999
-emilio B-ASP 2
+emilio B-ASP Positive
 . O -999
 
 i O -999
 found O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 service B-ASP -999
 and O -999
@@ -9073,7 +9073,7 @@ found O -999
 the O -999
 food B-ASP -999
 , O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 value O -999
 exceptional O -999
@@ -9085,13 +9085,13 @@ there O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 authentic O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 excellent O -999
 - O -999
@@ -9102,8 +9102,8 @@ attentive O -999
 
 very O -999
 good O -999
-wine B-ASP 2
-choices I-ASP 2
+wine B-ASP Positive
+choices I-ASP Positive
 . O -999
 
 who O -999
@@ -9114,14 +9114,14 @@ cheesesticks O -999
 with O -999
 the O -999
 best O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 in O -999
 nyc O -999
 ! O -999
 
 get O -999
 the O -999
-pepperoni B-ASP 2
+pepperoni B-ASP Positive
 - O -999
 yum O -999
 - O -999
@@ -9140,22 +9140,22 @@ yum O -999
 - O -999
 and O -999
 a O -999
-family B-ASP 2
-style I-ASP 2
-salad I-ASP 2
+family B-ASP Positive
+style I-ASP Positive
+salad I-ASP Positive
 . O -999
 
 great O -999
-staff B-ASP 2
+staff B-ASP Positive
 . O -999
 
 always O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 ! O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 good O -999
 , O -999
@@ -9167,7 +9167,7 @@ lie O -999
 
 but O -999
 the O -999
-staff B-ASP 0
+staff B-ASP Negative
 was O -999
 so O -999
 horrible O -999
@@ -9176,7 +9176,7 @@ us O -999
 . O -999
 
 the O -999
-hostess B-ASP 0
+hostess B-ASP Negative
 and O -999
 the O -999
 waitress B-ASP -999
@@ -9198,7 +9198,7 @@ the O -999
 hostess B-ASP -999
 and O -999
 the O -999
-waitress B-ASP 0
+waitress B-ASP Negative
 were O -999
 incredibly O -999
 rude O -999
@@ -9221,7 +9221,7 @@ get O -999
 dessert O -999
 but O -999
 the O -999
-waitress B-ASP 0
+waitress B-ASP Negative
 basically O -999
 through O -999
 the O -999
@@ -9238,7 +9238,7 @@ order O -999
 . O -999
 
 this O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 pricey O -999
 , O -999
@@ -9278,7 +9278,7 @@ and O -999
 yes O -999
 , O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 worth O -999
 it O -999
@@ -9317,7 +9317,7 @@ it O -999
 ; O -999
 but O -999
 the O -999
-service B-ASP 0
+service B-ASP Negative
 makes O -999
 you O -999
 feel O -999
@@ -9333,7 +9333,7 @@ the O -999
 price O -999
 . O -999
 
-amma B-ASP 1
+amma B-ASP Neutral
 is O -999
 nothing O -999
 special O -999
@@ -9348,7 +9348,7 @@ ago O -999
 and O -999
 found O -999
 most O -999
-dishes B-ASP 0
+dishes B-ASP Negative
 average O -999
 at O -999
 best O -999
@@ -9364,8 +9364,8 @@ at O -999
 tamarind O -999
 for O -999
 the O -999
-vegetarian B-ASP 0
-dishes I-ASP 0
+vegetarian B-ASP Negative
+dishes I-ASP Negative
 , O -999
 they O -999
 are O -999
@@ -9401,13 +9401,13 @@ to O -999
 par O -999
 with O -999
 the O -999
-non B-ASP 2
-- I-ASP 2
-veg I-ASP 2
-selections I-ASP 2
+non B-ASP Positive
+- I-ASP Positive
+veg I-ASP Positive
+selections I-ASP Positive
 . O -999
 
-decor B-ASP 2
+decor B-ASP Positive
 is O -999
 nice O -999
 though O -999
@@ -9421,14 +9421,14 @@ decor B-ASP -999
 is O -999
 nice O -999
 though O -999
-service B-ASP 0
+service B-ASP Negative
 can O -999
 be O -999
 spotty O -999
 . O -999
 
 this O -999
-place B-ASP 1
+place B-ASP Neutral
 is O -999
 always O -999
 packed O -999
@@ -9437,22 +9437,22 @@ packed O -999
 most O -999
 importantly O -999
 , O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 excellent O -999
 . O -999
 
 try O -999
 the O -999
-sea B-ASP 2
-bass I-ASP 2
+sea B-ASP Positive
+bass I-ASP Positive
 . O -999
 
 first O -999
 of O -999
 all O -999
-dal B-ASP 2
-bukhara I-ASP 2
+dal B-ASP Positive
+bukhara I-ASP Positive
 rocks O -999
 . O -999
 
@@ -9462,7 +9462,7 @@ happy O -999
 i O -999
 did O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 awsome O -999
 . O -999
@@ -9480,13 +9480,13 @@ so O -999
 are O -999
 all O -999
 the O -999
-kababs B-ASP 2
+kababs B-ASP Positive
 . O -999
 
 and O -999
 yes O -999
-dal B-ASP 2
-bukhara I-ASP 2
+dal B-ASP Positive
+bukhara I-ASP Positive
 is O -999
 so O -999
 dam O -999
@@ -9499,17 +9499,17 @@ the O -999
 kababs B-ASP -999
 . O -999
 
-haru B-ASP 0
-on I-ASP 0
-park I-ASP 0
-s I-ASP 0
+haru B-ASP Negative
+on I-ASP Negative
+park I-ASP Negative
+s I-ASP Negative
 is O -999
 simply O -999
 disgusting O -999
 . O -999
 
 the O -999
-fish B-ASP 0
+fish B-ASP Negative
 was O -999
 not O -999
 fresh O -999
@@ -9529,7 +9529,7 @@ not O -999
 fresh O -999
 and O -999
 the O -999
-rice B-ASP 0
+rice B-ASP Negative
 tasted O -999
 old O -999
 and O -999
@@ -9545,7 +9545,7 @@ some O -999
 of O -999
 the O -999
 worst O -999
-sushi B-ASP 0
+sushi B-ASP Negative
 i O -999
 have O -999
 ever O -999
@@ -9555,7 +9555,7 @@ tried O -999
 honestly O -999
 the O -999
 worst O -999
-sushi B-ASP 0
+sushi B-ASP Negative
 my O -999
 husband O -999
 and O -999
@@ -9571,7 +9571,7 @@ not O -999
 sure O -999
 why O -999
 this O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 would O -999
 be O -999
 rated O -999
@@ -9580,14 +9580,14 @@ highly O -999
 . O -999
 
 the O -999
-all B-ASP 0
-- I-ASP 0
-u I-ASP 0
-- I-ASP 0
-can I-ASP 0
-- I-ASP 0
-eat I-ASP 0
-sushi I-ASP 0
+all B-ASP Negative
+- I-ASP Negative
+u I-ASP Negative
+- I-ASP Negative
+can I-ASP Negative
+- I-ASP Negative
+eat I-ASP Negative
+sushi I-ASP Negative
 is O -999
 definitely O -999
 in O -999
@@ -9597,7 +9597,7 @@ quality O -999
 . O -999
 
 limited O -999
-menu B-ASP 0
+menu B-ASP Negative
 , O -999
 no O -999
 - O -999
@@ -9625,7 +9625,7 @@ no O -999
 so O -999
 - O -999
 fresh O -999
-ingredients B-ASP 0
+ingredients B-ASP Negative
 , O -999
 thinly O -999
 - O -999
@@ -9651,7 +9651,7 @@ ingredients B-ASP -999
 thinly O -999
 - O -999
 sliced O -999
-fish B-ASP 0
+fish B-ASP Negative
 , O -999
 fall O -999
 - O -999
@@ -9677,7 +9677,7 @@ fish B-ASP -999
 fall O -999
 - O -999
 apart O -999
-rice B-ASP 0
+rice B-ASP Negative
 . O -999
 
 the O -999
@@ -9691,8 +9691,8 @@ are O -999
 the O -999
 very O -999
 salty O -999
-soy B-ASP 0
-sauce I-ASP 0
+soy B-ASP Negative
+sauce I-ASP Negative
 ( O -999
 even O -999
 its O -999
@@ -9740,7 +9740,7 @@ the O -999
 vinegar O -999
 - O -999
 soaked O -999
-rice B-ASP 0
+rice B-ASP Negative
 , O -999
 and O -999
 the O -999
@@ -9753,7 +9753,7 @@ fish O -999
 . O -999
 
 the O -999
-waitstaffs B-ASP 2
+waitstaffs B-ASP Positive
 are O -999
 nice O -999
 though O -999
@@ -9763,8 +9763,8 @@ i O -999
 have O -999
 been O -999
 to O -999
-roth B-ASP 0
-'s I-ASP 0
+roth B-ASP Negative
+'s I-ASP Negative
 twice O -999
 and O -999
 both O -999
@@ -9782,7 +9782,7 @@ extremely O -999
 dissappointed O -999
 by O -999
 the O -999
-service B-ASP 0
+service B-ASP Negative
 , O -999
 which O -999
 was O -999
@@ -9791,7 +9791,7 @@ rude O -999
 . O -999
 
 the O -999
-dinner B-ASP 0
+dinner B-ASP Negative
 was O -999
 ok O -999
 , O -999
@@ -9805,8 +9805,8 @@ again O -999
 i O -999
 had O -999
 their O -999
-eggs B-ASP 0
-benedict I-ASP 0
+eggs B-ASP Negative
+benedict I-ASP Negative
 for O -999
 brunch O -999
 , O -999
@@ -9844,7 +9844,7 @@ we O -999
 had O -999
 a O -999
 delicious O -999
-meal B-ASP 2
+meal B-ASP Positive
 in O -999
 a O -999
 beautiful O -999
@@ -9865,17 +9865,17 @@ meal B-ASP -999
 in O -999
 a O -999
 beautiful O -999
-room B-ASP 2
+room B-ASP Positive
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 attentive O -999
 . O -999
 
-planet B-ASP 2
-thai I-ASP 2
+planet B-ASP Positive
+thai I-ASP Positive
 is O -999
 great O -999
 ! O -999
@@ -9883,7 +9883,7 @@ great O -999
 we O -999
 love O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 drinks B-ASP -999
 , O -999
@@ -9896,7 +9896,7 @@ love O -999
 the O -999
 food B-ASP -999
 , O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 , O -999
 and O -999
 atmosphere B-ASP -999
@@ -9910,11 +9910,11 @@ food B-ASP -999
 drinks B-ASP -999
 , O -999
 and O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 ! O -999
 
 the O -999
-svc B-ASP 0
+svc B-ASP Negative
 can O -999
 be O -999
 a O -999
@@ -9959,7 +9959,7 @@ group O -999
 but O -999
 overall O -999
 the O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 is O -999
 a O -999
 must O -999
@@ -9967,8 +9967,8 @@ must O -999
 
 try O -999
 the O -999
-pad B-ASP 2
-thai I-ASP 2
+pad B-ASP Positive
+thai I-ASP Positive
 , O -999
 it O -999
 's O -999
@@ -9990,7 +9990,7 @@ does O -999
 not O -999
 mean O -999
 the O -999
-portions B-ASP 2
+portions B-ASP Positive
 are O -999
 small O -999
 or O -999
@@ -10018,7 +10018,7 @@ are O -999
 small O -999
 or O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 nasty O -999
 , O -999
@@ -10030,7 +10030,7 @@ great O -999
 also O -999
 , O -999
 the O -999
-sandwiches B-ASP 0
+sandwiches B-ASP Negative
 ( O -999
 nearing O -999
 $ O -999
@@ -10052,7 +10052,7 @@ eating O -999
 in O -999
 , O -999
 the O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 saves O -999
 it O -999
 , O -999
@@ -10069,8 +10069,8 @@ disappointing O -999
 experience O -999
 . O -999
 
-chennai B-ASP 2
-garden I-ASP 2
+chennai B-ASP Positive
+garden I-ASP Positive
 is O -999
 my O -999
 favorite O -999
@@ -10084,7 +10084,7 @@ city O -999
 they O -999
 have O -999
 authentic O -999
-indian B-ASP 2
+indian B-ASP Positive
 at O -999
 amazin O -999
 prices O -999
@@ -10098,13 +10098,13 @@ vegetarian O -999
 there O -999
 are O -999
 no O -999
-meat B-ASP 0
-dishes I-ASP 0
+meat B-ASP Negative
+dishes I-ASP Negative
 whatsoever O -999
 . O -999
 
 the O -999
-seats B-ASP 0
+seats B-ASP Negative
 are O -999
 uncomfortable O -999
 if O -999
@@ -10126,7 +10126,7 @@ rather O -999
 cramped O -999
 and O -999
 busy O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 and O -999
 it O -999
 closes O -999
@@ -10137,8 +10137,8 @@ patroon O -999
 features O -999
 a O -999
 nice O -999
-cigar B-ASP 2
-bar I-ASP 2
+cigar B-ASP Positive
+bar I-ASP Positive
 and O -999
 has O -999
 great O -999
@@ -10154,11 +10154,11 @@ bar I-ASP -999
 and O -999
 has O -999
 great O -999
-staff B-ASP 2
+staff B-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 tasty O -999
 and O -999
@@ -10173,8 +10173,8 @@ food B-ASP -999
 is O -999
 tasty O -999
 and O -999
-portion B-ASP 2
-sizes I-ASP 2
+portion B-ASP Positive
+sizes I-ASP Positive
 are O -999
 appropriate O -999
 . O -999
@@ -10183,7 +10183,7 @@ this O -999
 is O -999
 a O -999
 nice O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 if O -999
 you O -999
 are O -999
@@ -10206,7 +10206,7 @@ associates O -999
 not O -999
 a O -999
 great O -999
-place B-ASP 0
+place B-ASP Negative
 for O -999
 family O -999
 or O -999
@@ -10216,29 +10216,29 @@ dining O -999
 
 lloovve O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
-food B-ASP 2
+food B-ASP Positive
 is O -999
 excellent O -999
 . O -999
 
-fish B-ASP 2
+fish B-ASP Positive
 is O -999
 so O -999
 very O -999
 fresh O -999
 . O -999
 
-waitstaff B-ASP 2
+waitstaff B-ASP Positive
 are O -999
 very O -999
 friendly O -999
 . O -999
 
 love O -999
-yuka B-ASP 2
+yuka B-ASP Positive
 . O -999
 
 mermaid B-ASP -999
@@ -10251,11 +10251,11 @@ restaurant O -999
 with O -999
 really O -999
 good O -999
-seafood B-ASP 2
+seafood B-ASP Positive
 . O -999
 
-mermaid B-ASP 2
-inn I-ASP 2
+mermaid B-ASP Positive
+inn I-ASP Positive
 is O -999
 an O -999
 overall O -999
@@ -10268,7 +10268,7 @@ seafood B-ASP -999
 . O -999
 
 the O -999
-menu B-ASP 0
+menu B-ASP Negative
 is O -999
 limited O -999
 but O -999
@@ -10290,14 +10290,14 @@ almost O -999
 all O -999
 of O -999
 the O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 are O -999
 excellent O -999
 . O -999
 
 the O -999
-lobster B-ASP 2
-sandwich I-ASP 2
+lobster B-ASP Positive
+sandwich I-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -10318,17 +10318,17 @@ is O -999
 good O -999
 and O -999
 the O -999
-spaghetti B-ASP 2
-with I-ASP 2
-scallops I-ASP 2
-and I-ASP 2
-shrimp I-ASP 2
+spaghetti B-ASP Positive
+with I-ASP Positive
+scallops I-ASP Positive
+and I-ASP Positive
+shrimp I-ASP Positive
 is O -999
 great O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -10348,7 +10348,7 @@ service B-ASP -999
 is O -999
 good O -999
 and O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 is O -999
 good O -999
 for O -999
@@ -10364,7 +10364,7 @@ only O -999
 fallback O -999
 on O -999
 this O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 is O -999
 the O -999
 prices O -999
@@ -10374,7 +10374,7 @@ even O -999
 though O -999
 its O -999
 good O -999
-seafood B-ASP 2
+seafood B-ASP Positive
 , O -999
 the O -999
 prices O -999
@@ -10384,8 +10384,8 @@ high O -999
 . O -999
 
 the O -999
-lobster B-ASP 2
-sandwich I-ASP 2
+lobster B-ASP Positive
+sandwich I-ASP Positive
 is O -999
 $ O -999
 24 O -999
@@ -10406,7 +10406,7 @@ price O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 delicious O -999
 ( O -999
@@ -10439,8 +10439,8 @@ delicious O -999
 i O -999
 had O -999
 a O -999
-halibut B-ASP 2
-special I-ASP 2
+halibut B-ASP Positive
+special I-ASP Positive
 , O -999
 my O -999
 husband O -999
@@ -10471,7 +10471,7 @@ special I-ASP -999
 my O -999
 husband O -999
 had O -999
-steak B-ASP 2
+steak B-ASP Positive
 ) O -999
 , O -999
 and O -999
@@ -10502,7 +10502,7 @@ steak B-ASP -999
 , O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 top O -999
 - O -999
@@ -10531,7 +10531,7 @@ one O -999
 but O -999
 because O -999
 the O -999
-waiter B-ASP 2
+waiter B-ASP Positive
 must O -999
 have O -999
 seen O -999
@@ -10563,14 +10563,14 @@ mark O -999
 of O -999
 an O -999
 attentive O -999
-waiter B-ASP 2
+waiter B-ASP Positive
 . O -999
 
 i O -999
 highly O -999
 recommend O -999
 the O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 based O -999
 on O -999
 our O -999
@@ -10593,7 +10593,7 @@ very O -999
 unhappy O -999
 with O -999
 the O -999
-foods B-ASP 0
+foods B-ASP Negative
 . O -999
 
 we O -999
@@ -10610,14 +10610,14 @@ msg O -999
 cooking O -999
 in O -999
 the O -999
-foods B-ASP 0
+foods B-ASP Negative
 . O -999
 
 i O -999
 recommend O -999
 the O -999
-jelly B-ASP 2
-fish I-ASP 2
+jelly B-ASP Positive
+fish I-ASP Positive
 , O -999
 drunken B-ASP -999
 chicken I-ASP -999
@@ -10640,8 +10640,8 @@ the O -999
 jelly B-ASP -999
 fish I-ASP -999
 , O -999
-drunken B-ASP 2
-chicken I-ASP 2
+drunken B-ASP Positive
+chicken I-ASP Positive
 and O -999
 the O -999
 soupy B-ASP -999
@@ -10665,8 +10665,8 @@ drunken B-ASP -999
 chicken I-ASP -999
 and O -999
 the O -999
-soupy B-ASP 2
-dumplings I-ASP 2
+soupy B-ASP Positive
+dumplings I-ASP Positive
 , O -999
 certainly O -999
 the O -999
@@ -10691,14 +10691,14 @@ dumplings O -999
 , O -999
 certainly O -999
 the O -999
-stir B-ASP 2
-fry I-ASP 2
-blue I-ASP 2
-crab I-ASP 2
+stir B-ASP Positive
+fry I-ASP Positive
+blue I-ASP Positive
+crab I-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 so O -999
 cheap O -999
@@ -10716,7 +10716,7 @@ so O -999
 cheap O -999
 and O -999
 the O -999
-waiters B-ASP 2
+waiters B-ASP Positive
 are O -999
 nice O -999
 . O -999
@@ -10730,13 +10730,13 @@ several O -999
 years O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 remains O -999
 excellent O -999
 . O -999
 
-cheese B-ASP 2
-plate I-ASP 2
+cheese B-ASP Positive
+plate I-ASP Positive
 is O -999
 a O -999
 varied O -999
@@ -10753,7 +10753,7 @@ the O -999
 large O -999
 selection O -999
 of O -999
-bruschettas B-ASP 2
+bruschettas B-ASP Positive
 , O -999
 paninis B-ASP -999
 , O -999
@@ -10771,7 +10771,7 @@ selection O -999
 of O -999
 bruschettas B-ASP -999
 , O -999
-paninis B-ASP 2
+paninis B-ASP Positive
 , O -999
 tramezzinis B-ASP -999
 keep O -999
@@ -10789,7 +10789,7 @@ bruschettas B-ASP -999
 , O -999
 paninis B-ASP -999
 , O -999
-tramezzinis B-ASP 2
+tramezzinis B-ASP Positive
 keep O -999
 the O -999
 palate O -999
@@ -10799,21 +10799,21 @@ stagnating O -999
 
 ( O -999
 the O -999
-asparagus B-ASP 2
-, I-ASP 2
-truffle I-ASP 2
-oil I-ASP 2
-, I-ASP 2
-parmesan I-ASP 2
-bruschetta I-ASP 2
+asparagus B-ASP Positive
+, I-ASP Positive
+truffle I-ASP Positive
+oil I-ASP Positive
+, I-ASP Positive
+parmesan I-ASP Positive
+bruschetta I-ASP Positive
 is O -999
 a O -999
 winner O -999
 ! O -999
 ) O -999
 
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 is O -999
 extensive O -999
 without O -999
@@ -10834,13 +10834,13 @@ and O -999
 always O -999
 delicious O -999
 , O -999
-specials B-ASP 2
+specials B-ASP Positive
 . O -999
 
 i O -999
 loved O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 ! O -999
 ! O -999
 
@@ -10853,7 +10853,7 @@ a O -999
 review O -999
 because O -999
 the O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 was O -999
 so O -999
 great O -999
@@ -10870,7 +10870,7 @@ crowded O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 very O -999
 good O -999
@@ -10900,7 +10900,7 @@ deal O -999
 , O -999
 and O -999
 the O -999
-place B-ASP 2
+place B-ASP Positive
 its O -999
 self O -999
 was O -999
@@ -10908,8 +10908,8 @@ great O -999
 . O -999
 
 the O -999
-wait B-ASP 2
-staff I-ASP 2
+wait B-ASP Positive
+staff I-ASP Positive
 is O -999
 very O -999
 freindly O -999
@@ -10945,7 +10945,7 @@ is O -999
 jsut O -999
 that O -999
 the O -999
-people B-ASP 0
+people B-ASP Negative
 who O -999
 work O -999
 there O -999
@@ -10958,8 +10958,8 @@ incompetent O -999
 
 i O -999
 like O -999
-cafe B-ASP 2
-noir I-ASP 2
+cafe B-ASP Positive
+noir I-ASP Positive
 do O -999
 nt O -999
 get O -999
@@ -10983,7 +10983,7 @@ incompetent O -999
 ! O -999
 
 the O -999
-service B-ASP 0
+service B-ASP Negative
 was O -999
 terrible O -999
 , O -999
@@ -11013,7 +11013,7 @@ served O -999
 . O -999
 
 the O -999
-waitress B-ASP 0
+waitress B-ASP Negative
 , O -999
 seems O -999
 to O -999
@@ -11031,7 +11031,7 @@ waitressing O -999
 after O -999
 dinner O -999
 the O -999
-manager B-ASP 0
+manager B-ASP Negative
 grabbed O -999
 my O -999
 boyfriend O -999
@@ -11083,7 +11083,7 @@ i O -999
 guess O -999
 the O -999
 model/ O -999
-waitress B-ASP 0
+waitress B-ASP Negative
 just O -999
 wanted O -999
 more O -999
@@ -11110,7 +11110,7 @@ would O -999
 get O -999
 some O -999
 good O -999
-staff B-ASP 0
+staff B-ASP Negative
 , O -999
 because O -999
 despite O -999
@@ -11134,8 +11134,8 @@ unprofessional O -999
 and O -999
 i O -999
 wish O -999
-cafe B-ASP 2
-noir I-ASP 2
+cafe B-ASP Positive
+noir I-ASP Positive
 would O -999
 get O -999
 some O -999
@@ -11154,14 +11154,14 @@ great O -999
 place O -999
 . O -999
 
-pizza B-ASP 2
+pizza B-ASP Positive
 here O -999
 is O -999
 consistently O -999
 good O -999
 . O -999
 
-salads B-ASP 2
+salads B-ASP Positive
 are O -999
 a O -999
 delicious O -999
@@ -11177,15 +11177,15 @@ should O -999
 pass O -999
 on O -999
 the O -999
-calamari B-ASP 0
+calamari B-ASP Negative
 . O -999
 
-decor B-ASP 2
+decor B-ASP Positive
 is O -999
 charming O -999
 . O -999
 
-decor B-ASP 1
+decor B-ASP Neutral
 is O -999
 charming O -999
 . O -999
@@ -11193,11 +11193,11 @@ charming O -999
 what O -999
 a O -999
 great O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 the O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 was O -999
 so O -999
 fun O -999
@@ -11240,7 +11240,7 @@ the O -999
 fact O -999
 that O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 really O -999
 tasty O -999
@@ -11254,8 +11254,8 @@ sea O -999
 if O -999
 you O -999
 like O -999
-thai B-ASP 2
-cuisine I-ASP 2
+thai B-ASP Positive
+cuisine I-ASP Positive
 ! O -999
 
 i O -999
@@ -11270,8 +11270,8 @@ we O -999
 had O -999
 the O -999
 worst O -999
-customer B-ASP 0
-service I-ASP 0
+customer B-ASP Negative
+service I-ASP Negative
 experience O -999
 at O -999
 a O -999
@@ -11280,7 +11280,7 @@ ever O -999
 . O -999
 
 a O -999
-gentleman B-ASP 0
+gentleman B-ASP Negative
 , O -999
 maybe O -999
 the O -999
@@ -11310,11 +11310,11 @@ i O -999
 absolutely O -999
 loved O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 excellent O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 , O -999
 delicious O -999
 dishes B-ASP -999
@@ -11328,7 +11328,7 @@ excellent O -999
 atmosphere B-ASP -999
 , O -999
 delicious O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 good O -999
 and O -999
 friendly O -999
@@ -11343,12 +11343,12 @@ dishes B-ASP -999
 good O -999
 and O -999
 friendly O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 the O -999
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 is O -999
 also O -999
 really O -999
@@ -11359,7 +11359,7 @@ everything O -999
 was O -999
 wonderful O -999
 ; O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 drinks B-ASP -999
 , O -999
@@ -11374,7 +11374,7 @@ wonderful O -999
 ; O -999
 food B-ASP -999
 , O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 , O -999
 staff B-ASP -999
 , O -999
@@ -11389,7 +11389,7 @@ food B-ASP -999
 , O -999
 drinks B-ASP -999
 , O -999
-staff B-ASP 2
+staff B-ASP Positive
 , O -999
 mileau B-ASP -999
 . O -999
@@ -11404,7 +11404,7 @@ drinks B-ASP -999
 , O -999
 staff B-ASP -999
 , O -999
-mileau B-ASP 2
+mileau B-ASP Positive
 . O -999
 
 i O -999
@@ -11412,14 +11412,14 @@ would O -999
 highly O -999
 recommend O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 ! O -999
 
 i O -999
 have O -999
 been O -999
 to O -999
-casimir B-ASP 2
+casimir B-ASP Positive
 over O -999
 5 O -999
 times O -999
@@ -11435,7 +11435,7 @@ there O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 great O -999
 and O -999
@@ -11455,7 +11455,7 @@ both O -999
 times O -999
 , O -999
 the O -999
-hostess B-ASP 0
+hostess B-ASP Negative
 did O -999
 n't O -999
 have O -999
@@ -11473,12 +11473,12 @@ try O -999
 to O -999
 snag O -999
 an O -999
-outside B-ASP 2
-table I-ASP 2
+outside B-ASP Positive
+table I-ASP Positive
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 has O -999
 been O -999
 nice O -999
@@ -11513,8 +11513,8 @@ really O -999
 stressed O -999
 and O -999
 the O -999
-unisex B-ASP 0
-bathroom I-ASP 0
+unisex B-ASP Negative
+bathroom I-ASP Negative
 needs O -999
 to O -999
 be O -999
@@ -11526,7 +11526,7 @@ often O -999
 from O -999
 the O -999
 spectacular O -999
-caviar B-ASP 2
+caviar B-ASP Positive
 to O -999
 the O -999
 hospitable O -999
@@ -11551,7 +11551,7 @@ caviar B-ASP -999
 to O -999
 the O -999
 hospitable O -999
-waitstaff B-ASP 2
+waitstaff B-ASP Positive
 , O -999
 i O -999
 felt O -999
@@ -11581,7 +11581,7 @@ closing O -999
 time O -999
 , O -999
 the O -999
-waitstaff B-ASP 2
+waitstaff B-ASP Positive
 did O -999
 not O -999
 rush O -999
@@ -11609,7 +11609,7 @@ wants O -999
 delicious O -999
 top O -999
 grade O -999
-caviar B-ASP 2
+caviar B-ASP Positive
 and O -999
 fantastic O -999
 service B-ASP -999
@@ -11630,18 +11630,18 @@ grade O -999
 caviar B-ASP -999
 and O -999
 fantastic O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 nice O -999
 family O -999
 owned O -999
 traditional O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 . O -999
 
 fresh O -999
-ingredients B-ASP 2
+ingredients B-ASP Positive
 and O -999
 everything O -999
 is O -999
@@ -11651,7 +11651,7 @@ order O -999
 . O -999
 
 friendly O -999
-staff B-ASP 2
+staff B-ASP Positive
 that O -999
 actually O -999
 lets O -999
@@ -11670,7 +11670,7 @@ with O -999
 i O -999
 found O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 to O -999
 be O -999
 outstanding O -999
@@ -11693,8 +11693,8 @@ outstanding O -999
 , O -999
 particulary O -999
 the O -999
-salmon B-ASP 2
-dish I-ASP 2
+salmon B-ASP Positive
+dish I-ASP Positive
 i O -999
 had O -999
 . O -999
@@ -11703,8 +11703,8 @@ i O -999
 also O -999
 ordered O -999
 the O -999
-change B-ASP 2
-mojito I-ASP 2
+change B-ASP Positive
+mojito I-ASP Positive
 , O -999
 which O -999
 was O -999
@@ -11731,8 +11731,8 @@ day O -999
 to O -999
 try O -999
 the O -999
-dim B-ASP 1
-sum I-ASP 1
+dim B-ASP Neutral
+sum I-ASP Neutral
 , O -999
 which O -999
 was O -999
@@ -11750,8 +11750,8 @@ ate O -999
 out O -999
 in O -999
 the O -999
-back B-ASP 2
-patio I-ASP 2
+back B-ASP Positive
+patio I-ASP Positive
 , O -999
 which O -999
 is O -999
@@ -11788,7 +11788,7 @@ it O -999
 cool O -999
 and O -999
 the O -999
-music B-ASP 2
+music B-ASP Positive
 is O -999
 hear O -999
 well O -999
@@ -11798,17 +11798,17 @@ there O -999
 overall O -999
 , O -999
 excellent O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 ! O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 good O -999
 . O -999
 
 the O -999
-place B-ASP 2
+place B-ASP Positive
 was O -999
 nice O -999
 and O -999
@@ -11817,7 +11817,7 @@ calm O -999
 
 but O -999
 the O -999
-service B-ASP 0
+service B-ASP Negative
 was O -999
 a O -999
 bit O -999
@@ -11825,7 +11825,7 @@ slow O -999
 . O -999
 
 the O -999
-buffet B-ASP 2
+buffet B-ASP Positive
 had O -999
 a O -999
 nice O -999
@@ -11833,7 +11833,7 @@ selection O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 average O -999
 or O -999
@@ -11855,10 +11855,10 @@ including O -999
 some O -999
 surprising O -999
 tasty O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 also O -999
 very O -999
@@ -11871,7 +11871,7 @@ an O -999
 excellent O -999
 piece O -999
 of O -999
-cheesecake B-ASP 2
+cheesecake B-ASP Positive
 and O -999
 we O -999
 had O -999
@@ -11894,7 +11894,7 @@ had O -999
 several O -999
 other O -999
 nice O -999
-pastries B-ASP 2
+pastries B-ASP Positive
 . O -999
 
 i O -999
@@ -11909,7 +11909,7 @@ but O -999
 not O -999
 for O -999
 their O -999
-food B-ASP 0
+food B-ASP Negative
 . O -999
 
 my O -999
@@ -11919,7 +11919,7 @@ his O -999
 girlfriend O -999
 both O -999
 wanted O -999
-cheeseburgers B-ASP 1
+cheeseburgers B-ASP Neutral
 and O -999
 they O -999
 were O -999
@@ -11929,7 +11929,7 @@ huge O -999
 consequently O -999
 , O -999
 their O -999
-burgers B-ASP 0
+burgers B-ASP Negative
 fell O -999
 apart O -999
 in O -999
@@ -11953,11 +11953,11 @@ i O -999
 had O -999
 a O -999
 huge O -999
-pastrami B-ASP 1
-sandwich I-ASP 1
-on I-ASP 1
-a I-ASP 1
-roll I-ASP 1
+pastrami B-ASP Neutral
+sandwich I-ASP Neutral
+on I-ASP Neutral
+a I-ASP Neutral
+roll I-ASP Neutral
 . O -999
 
 this O -999
@@ -11979,11 +11979,11 @@ a O -999
 restaurant O -999
 , O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 really O -999
 trendi O -999
@@ -12013,7 +12013,7 @@ ordered O -999
 from O -999
 here O -999
 my O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 soo O -999
 spicy O -999
@@ -12059,7 +12059,7 @@ it O -999
 , O -999
 and O -999
 the O -999
-spice B-ASP 0
+spice B-ASP Negative
 took O -999
 away O -999
 from O -999
@@ -12072,9 +12072,9 @@ dish O -999
 
 and O -999
 the O -999
-tom B-ASP 0
-kha I-ASP 0
-soup I-ASP 0
+tom B-ASP Negative
+kha I-ASP Negative
+soup I-ASP Negative
 was O -999
 pathetic O -999
 . O -999
@@ -12084,7 +12084,7 @@ you O -999
 want O -999
 good O -999
 authentic O -999
-thai B-ASP 0
+thai B-ASP Negative
 this O -999
 place O -999
 is O -999
@@ -12116,12 +12116,12 @@ thoroughly O -999
 impressed O -999
 with O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 the O -999
-pesto B-ASP 2
-pizza I-ASP 2
+pesto B-ASP Positive
+pizza I-ASP Positive
 was O -999
 excellent O -999
 , O -999
@@ -12161,9 +12161,9 @@ a O -999
 nice O -999
 amount O -999
 of O -999
-spicy B-ASP 2
-italian I-ASP 2
-cheese I-ASP 2
+spicy B-ASP Positive
+italian I-ASP Positive
+cheese I-ASP Positive
 that O -999
 i O -999
 'd O -999
@@ -12174,10 +12174,10 @@ before O -999
 . O -999
 
 the O -999
-back B-ASP 2
-garden I-ASP 2
-sitting I-ASP 2
-area I-ASP 2
+back B-ASP Positive
+garden I-ASP Positive
+sitting I-ASP Positive
+area I-ASP Positive
 is O -999
 very O -999
 pleasant O -999
@@ -12195,8 +12195,8 @@ garden O -999
 we O -999
 had O -999
 the O -999
-lobster B-ASP 2
-sandwich I-ASP 2
+lobster B-ASP Positive
+sandwich I-ASP Positive
 and O -999
 it O -999
 was O -999
@@ -12214,7 +12214,7 @@ several O -999
 more O -999
 , O -999
 the O -999
-portion B-ASP 2
+portion B-ASP Positive
 was O -999
 fine O -999
 for O -999
@@ -12255,8 +12255,8 @@ even O -999
 exclaimed O -999
 that O -999
 the O -999
-french B-ASP 2
-fries I-ASP 2
+french B-ASP Positive
+fries I-ASP Positive
 were O -999
 the O -999
 best O -999
@@ -12268,7 +12268,7 @@ had O -999
 we O -999
 had O -999
 the O -999
-scallops B-ASP 2
+scallops B-ASP Positive
 as O -999
 an O -999
 appetizer O -999
@@ -12296,7 +12296,7 @@ were O -999
 delicious O -999
 and O -999
 the O -999
-sauce B-ASP 2
+sauce B-ASP Positive
 was O -999
 wonderful O -999
 . O -999
@@ -12308,7 +12308,7 @@ the O -999
 bar O -999
 and O -999
 had O -999
-martinis B-ASP 2
+martinis B-ASP Positive
 that O -999
 were O -999
 just O -999
@@ -12317,7 +12317,7 @@ right O -999
 
 love O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 it O -999
@@ -12330,9 +12330,9 @@ can O -999
 get O -999
 yummy O -999
 authentic O -999
-japanese B-ASP 2
-comfort I-ASP 2
-food I-ASP 2
+japanese B-ASP Positive
+comfort I-ASP Positive
+food I-ASP Positive
 . O -999
 
 i O -999
@@ -12345,14 +12345,14 @@ for O -999
 years O -999
 and O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 has O -999
 it O -999
 all O -999
 . O -999
 
 great O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 good O -999
 size O -999
@@ -12371,7 +12371,7 @@ food B-ASP -999
 , O -999
 good O -999
 size O -999
-menu B-ASP 2
+menu B-ASP Positive
 , O -999
 great O -999
 service B-ASP -999
@@ -12389,7 +12389,7 @@ size O -999
 menu B-ASP -999
 , O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 an O -999
 unpretensious O -999
@@ -12408,11 +12408,11 @@ service B-ASP -999
 and O -999
 an O -999
 unpretensious O -999
-setting B-ASP 2
+setting B-ASP Positive
 . O -999
 
 the O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 offered O -999
 were O -999
 unique O -999
@@ -12463,8 +12463,8 @@ and O -999
 fresh O -999
 from O -999
 the O -999
-lamb B-ASP 2
-sausages I-ASP 2
+lamb B-ASP Positive
+sausages I-ASP Positive
 , O -999
 sardines B-ASP -999
 with I-ASP -999
@@ -12506,9 +12506,9 @@ the O -999
 lamb B-ASP -999
 sausages I-ASP -999
 , O -999
-sardines B-ASP 2
-with I-ASP 2
-biscuits I-ASP 2
+sardines B-ASP Positive
+with I-ASP Positive
+biscuits I-ASP Positive
 , O -999
 large B-ASP -999
 whole I-ASP -999
@@ -12550,9 +12550,9 @@ sardines B-ASP -999
 with I-ASP -999
 biscuits I-ASP -999
 , O -999
-large B-ASP 2
-whole I-ASP 2
-shrimp I-ASP 2
+large B-ASP Positive
+whole I-ASP Positive
+shrimp I-ASP Positive
 to O -999
 the O -999
 amazing O -999
@@ -12596,9 +12596,9 @@ shrimp I-ASP -999
 to O -999
 the O -999
 amazing O -999
-pistachio B-ASP 2
-ice I-ASP 2
-cream I-ASP 2
+pistachio B-ASP Positive
+ice I-ASP Positive
+cream I-ASP Positive
 ( O -999
 the O -999
 best O -999
@@ -12619,7 +12619,7 @@ was O -999
 introduced O -999
 to O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 and O -999
 this O -999
 is O -999
@@ -12639,11 +12639,11 @@ variety O -999
 and O -999
 the O -999
 fastest O -999
-delivery B-ASP 2
+delivery B-ASP Positive
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 excellent O -999
 and O -999
@@ -12659,7 +12659,7 @@ was O -999
 excellent O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 delicious O -999
 . O -999
@@ -12669,7 +12669,7 @@ are O -999
 very O -999
 particular O -999
 about O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 and O -999
 were O -999
 both O -999
@@ -12723,11 +12723,11 @@ choice O -999
 which O -999
 included O -999
 : O -999
-ceviche B-ASP 2
-mix I-ASP 2
-( I-ASP 2
-special I-ASP 2
-) I-ASP 2
+ceviche B-ASP Positive
+mix I-ASP Positive
+( I-ASP Positive
+special I-ASP Positive
+) I-ASP Positive
 , O -999
 crab B-ASP -999
 dumplings I-ASP -999
@@ -12772,8 +12772,8 @@ mix I-ASP -999
 special I-ASP -999
 ) I-ASP -999
 , O -999
-crab B-ASP 2
-dumplings I-ASP 2
+crab B-ASP Positive
+dumplings I-ASP Positive
 , O -999
 assorted B-ASP -999
 sashimi I-ASP -999
@@ -12818,8 +12818,8 @@ special I-ASP -999
 crab B-ASP -999
 dumplings I-ASP -999
 , O -999
-assorted B-ASP 2
-sashimi I-ASP 2
+assorted B-ASP Positive
+sashimi I-ASP Positive
 , O -999
 sushi O -999
 and O -999
@@ -12841,7 +12841,7 @@ are O -999
 very O -999
 particular O -999
 about O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 and O -999
 were O -999
 both O -999
@@ -12909,7 +12909,7 @@ sashimi I-ASP -999
 , O -999
 sushi O -999
 and O -999
-rolls B-ASP 2
+rolls B-ASP Positive
 , O -999
 two B-ASP -999
 types I-ASP -999
@@ -12954,10 +12954,10 @@ sushi O -999
 and O -999
 rolls B-ASP -999
 , O -999
-two B-ASP 2
-types I-ASP 2
-of I-ASP 2
-sake I-ASP 2
+two B-ASP Positive
+types I-ASP Positive
+of I-ASP Positive
+sake I-ASP Positive
 , O -999
 and O -999
 the O -999
@@ -13004,14 +13004,14 @@ sake I-ASP -999
 , O -999
 and O -999
 the O -999
-banana B-ASP 2
-tempura I-ASP 2
+banana B-ASP Positive
+tempura I-ASP Positive
 . O -999
 
 definitely O -999
 a O -999
 great O -999
-spot B-ASP 2
+spot B-ASP Positive
 for O -999
 a O -999
 nice O -999
@@ -13023,8 +13023,8 @@ date O -999
 average O -999
 to O -999
 good O -999
-thai B-ASP 2
-food I-ASP 2
+thai B-ASP Positive
+food I-ASP Positive
 , O -999
 but O -999
 terrible O -999
@@ -13039,12 +13039,12 @@ food I-ASP -999
 , O -999
 but O -999
 terrible O -999
-delivery B-ASP 0
+delivery B-ASP Negative
 . O -999
 
 a O -999
-thai B-ASP 0
-restaurant I-ASP 0
+thai B-ASP Negative
+restaurant I-ASP Negative
 out O -999
 of O -999
 rice O -999
@@ -13053,7 +13053,7 @@ dinner O -999
 ? O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 arrived O -999
 20 O -999
 minutes O -999
@@ -13070,7 +13070,7 @@ this O -999
 is O -999
 a O -999
 wonderful O -999
-place B-ASP 2
+place B-ASP Positive
 on O -999
 all O -999
 stand O -999
@@ -13083,7 +13083,7 @@ money O -999
 
 an O -999
 excellent O -999
-service B-ASP 2
+service B-ASP Positive
 
 we O -999
 were O -999
@@ -13091,7 +13091,7 @@ greeted O -999
 promptly O -999
 by O -999
 the O -999
-waiter B-ASP 2
+waiter B-ASP Positive
 who O -999
 was O -999
 very O -999
@@ -13117,7 +13117,7 @@ a O -999
 lot O -999
 of O -999
 good O -999
-dishes B-ASP 2
+dishes B-ASP Positive
 since O -999
 we O -999
 knew O -999
@@ -13128,7 +13128,7 @@ food O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 looked O -999
 very O -999
 appetizing O -999
@@ -13152,11 +13152,11 @@ great O -999
 experience O -999
 by O -999
 having O -999
-gulab B-ASP 2
-jamun I-ASP 2
-( I-ASP 2
-dessert I-ASP 2
-) I-ASP 2
+gulab B-ASP Positive
+jamun I-ASP Positive
+( I-ASP Positive
+dessert I-ASP Positive
+) I-ASP Positive
 recommended O -999
 by O -999
 the O -999
@@ -13171,7 +13171,7 @@ who O -999
 recommended O -999
 me O -999
 this O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 and O -999
 will O -999
 certainly O -999
@@ -13181,7 +13181,7 @@ to O -999
 others O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 here O -999
 was O -999
 great O -999
@@ -13196,13 +13196,13 @@ here O -999
 was O -999
 great O -999
 , O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 fantastic O -999
 . O -999
 
-guacamole+shrimp B-ASP 2
-appetizer I-ASP 2
+guacamole+shrimp B-ASP Positive
+appetizer I-ASP Positive
 was O -999
 really O -999
 great O -999
@@ -13249,7 +13249,7 @@ we O -999
 both O -999
 had O -999
 the O -999
-filet B-ASP 2
+filet B-ASP Positive
 , O -999
 very O -999
 good O -999
@@ -13297,7 +13297,7 @@ n't O -999
 much O -999
 like O -999
 the O -999
-frites B-ASP 0
+frites B-ASP Negative
 that O -999
 came O -999
 with O -999
@@ -13322,11 +13322,11 @@ go O -999
 wrong O -999
 with O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 outstanding O -999
 and O -999
@@ -13347,7 +13347,7 @@ is O -999
 outstanding O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 quick O -999
 , O -999
@@ -13360,7 +13360,7 @@ professional O -999
 always O -999
 a O -999
 nice O -999
-crowd B-ASP 2
+crowd B-ASP Positive
 , O -999
 but O -999
 never O -999
@@ -13381,8 +13381,8 @@ my O -999
 jem O -999
 of O -999
 a O -999
-pizza B-ASP 2
-place I-ASP 2
+pizza B-ASP Positive
+place I-ASP Positive
 to O -999
 become O -999
 overcrowded O -999
@@ -13393,13 +13393,13 @@ far O -999
 , O -999
 the O -999
 best O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 in O -999
 manhattan O -999
 . O -999
 
 the O -999
-crust B-ASP 2
+crust B-ASP Positive
 is O -999
 thin O -999
 , O -999
@@ -13425,7 +13425,7 @@ are O -999
 fresh O -999
 and O -999
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 is O -999
 friendly O -999
 . O -999
@@ -13436,7 +13436,7 @@ is O -999
 thin O -999
 , O -999
 the O -999
-ingredients B-ASP 2
+ingredients B-ASP Positive
 are O -999
 fresh O -999
 and O -999
@@ -13447,7 +13447,7 @@ friendly O -999
 . O -999
 
 the O -999
-menu B-ASP 2
+menu B-ASP Positive
 has O -999
 so O -999
 many O -999
@@ -13458,7 +13458,7 @@ oysters O -999
 . O -999
 
 the O -999
-fish B-ASP 2
+fish B-ASP Positive
 was O -999
 really O -999
 , O -999
@@ -13470,7 +13470,7 @@ we O -999
 all O -999
 agreed O -999
 that O -999
-mare B-ASP 2
+mare B-ASP Positive
 is O -999
 one O -999
 of O -999
@@ -13488,7 +13488,7 @@ stumbled O -999
 upon O -999
 this O -999
 great O -999
-pizzeria B-ASP 2
+pizzeria B-ASP Positive
 as O -999
 i O -999
 explored O -999
@@ -13500,7 +13500,7 @@ neighborhood O -999
 all O -999
 of O -999
 the O -999
-pizzas B-ASP 2
+pizzas B-ASP Positive
 are O -999
 terrific O -999
 and O -999
@@ -13515,12 +13515,12 @@ i O -999
 highly O -999
 recommend O -999
 the O -999
-sophia B-ASP 2
-pizza I-ASP 2
+sophia B-ASP Positive
+pizza I-ASP Positive
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 mediocre O -999
 at O -999
@@ -13552,7 +13552,7 @@ it O -999
 was O -999
 the O -999
 horrible O -999
-service B-ASP 0
+service B-ASP Negative
 that O -999
 made O -999
 me O -999
@@ -13569,7 +13569,7 @@ we O -999
 paid O -999
 , O -999
 the O -999
-waiter B-ASP 0
+waiter B-ASP Negative
 took O -999
 the O -999
 money O -999
@@ -13591,7 +13591,7 @@ people O -999
 who O -999
 want O -999
 great O -999
-food B-ASP 0
+food B-ASP Negative
 plus O -999
 great O -999
 service B-ASP -999
@@ -13613,7 +13613,7 @@ great O -999
 food B-ASP -999
 plus O -999
 great O -999
-service B-ASP 0
+service B-ASP Negative
 , O -999
 roxy O -999
 is O -999
@@ -13627,7 +13627,7 @@ the O -999
 first O -999
 time O -999
 the O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 was O -999
 outstanding O -999
 , O -999
@@ -13642,9 +13642,9 @@ bland O -999
 . O -999
 
 the O -999
-blond B-ASP 2
-wood I-ASP 2
-decor I-ASP 2
+blond B-ASP Positive
+wood I-ASP Positive
+decor I-ASP Positive
 is O -999
 very O -999
 soothing O -999
@@ -13670,8 +13670,8 @@ very O -999
 soothing O -999
 , O -999
 the O -999
-premium B-ASP 2
-sake I-ASP 2
+premium B-ASP Positive
+sake I-ASP Positive
 is O -999
 excellent O -999
 and O -999
@@ -13696,12 +13696,12 @@ is O -999
 excellent O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 great O -999
 . O -999
 
-mizu B-ASP 2
+mizu B-ASP Positive
 is O -999
 the O -999
 japenese O -999
@@ -13712,8 +13712,8 @@ grammercy O -999
 
 while O -999
 their O -999
-kitchen B-ASP 2
-food I-ASP 2
+kitchen B-ASP Positive
+food I-ASP Positive
 is O -999
 delicious O -999
 , O -999
@@ -13734,7 +13734,7 @@ is O -999
 delicious O -999
 , O -999
 their O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 is O -999
 out O -999
 of O -999
@@ -13749,7 +13749,7 @@ to O -999
 creative O -999
 and O -999
 unique O -999
-rolls B-ASP 2
+rolls B-ASP Positive
 not O -999
 to O -999
 found O -999
@@ -13761,7 +13761,7 @@ not O -999
 only O -999
 is O -999
 the O -999
-cuisine B-ASP 2
+cuisine B-ASP Positive
 the O -999
 best O -999
 around O -999
@@ -13786,7 +13786,7 @@ best O -999
 around O -999
 , O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 has O -999
 always O -999
 been O -999
@@ -13812,7 +13812,7 @@ after O -999
 a O -999
 visit O -999
 to O -999
-mizu B-ASP 2
+mizu B-ASP Positive
 ! O -999
 
 thalia B-ASP -999
@@ -13822,7 +13822,7 @@ beautiful O -999
 restaurant O -999
 with O -999
 beautiful O -999
-people B-ASP 2
+people B-ASP Positive
 serving O -999
 you O -999
 , O -999
@@ -13849,7 +13849,7 @@ you O -999
 , O -999
 but O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 does O -999
 n't O -999
 quite O -999
@@ -13857,7 +13857,7 @@ match O -999
 up O -999
 . O -999
 
-thalia B-ASP 2
+thalia B-ASP Positive
 is O -999
 a O -999
 beautiful O -999
@@ -13881,11 +13881,11 @@ up O -999
 i O -999
 ordered O -999
 the O -999
-smoked B-ASP 0
-salmon I-ASP 0
-and I-ASP 0
-roe I-ASP 0
-appetizer I-ASP 0
+smoked B-ASP Negative
+salmon I-ASP Negative
+and I-ASP Negative
+roe I-ASP Negative
+appetizer I-ASP Negative
 and O -999
 it O -999
 was O -999
@@ -13894,7 +13894,7 @@ flavor O -999
 . O -999
 
 the O -999
-entree B-ASP 0
+entree B-ASP Negative
 was O -999
 bland O -999
 and O -999
@@ -13913,7 +13913,7 @@ bland O -999
 and O -999
 small O -999
 , O -999
-dessert B-ASP 0
+dessert B-ASP Negative
 was O -999
 not O -999
 inspired O -999
@@ -13929,11 +13929,11 @@ from O -999
 such O -999
 an O -999
 expensive O -999
-menu B-ASP 0
+menu B-ASP Negative
 . O -999
 
 the O -999
-view B-ASP 2
+view B-ASP Positive
 is O -999
 spectacular O -999
 , O -999
@@ -13951,21 +13951,21 @@ spectacular O -999
 , O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 great O -999
 . O -999
 
 wonderful O -999
-strawberry B-ASP 2
-daiquiries I-ASP 2
+strawberry B-ASP Positive
+daiquiries I-ASP Positive
 as O -999
 well O -999
 ! O -999
 
 authentic O -999
-taiwanese B-ASP 2
-food I-ASP 2
+taiwanese B-ASP Positive
+food I-ASP Positive
 that O -999
 's O -999
 cheap O -999
@@ -13979,9 +13979,9 @@ for O -999
 ? O -999
 
 the O -999
-cold B-ASP 2
-appetizer I-ASP 2
-dishes I-ASP 2
+cold B-ASP Positive
+appetizer I-ASP Positive
+dishes I-ASP Positive
 taste O -999
 like O -999
 the O -999
@@ -14002,7 +14002,7 @@ taiwan O -999
 
 delicious O -999
 simple O -999
-food B-ASP 2
+food B-ASP Positive
 in O -999
 nice O -999
 outdoor O -999
@@ -14014,15 +14014,15 @@ simple O -999
 food O -999
 in O -999
 nice O -999
-outdoor B-ASP 2
-atmosphere I-ASP 2
+outdoor B-ASP Positive
+atmosphere I-ASP Positive
 . O -999
 
 kind O -999
 , O -999
 attentive O -999
-wait B-ASP 2
-staff I-ASP 2
+wait B-ASP Positive
+staff I-ASP Positive
 . O -999
 
 i O -999
@@ -14030,7 +14030,7 @@ really O -999
 like O -999
 both O -999
 the O -999
-scallops B-ASP 2
+scallops B-ASP Positive
 and O -999
 the O -999
 mahi O -999
@@ -14053,12 +14053,12 @@ the O -999
 scallops O -999
 and O -999
 the O -999
-mahi B-ASP 2
-mahi I-ASP 2
-( I-ASP 2
-on I-ASP 2
-saffron I-ASP 2
-risotto I-ASP 2
+mahi B-ASP Positive
+mahi I-ASP Positive
+( I-ASP Positive
+on I-ASP Positive
+saffron I-ASP Positive
+risotto I-ASP Positive
 -yum O -999
 ! O -999
 ) O -999
@@ -14068,15 +14068,15 @@ my O -999
 friend O -999
 devoured O -999
 her O -999
-chicken B-ASP 2
-and I-ASP 2
-mashed I-ASP 2
-potatos I-ASP 2
+chicken B-ASP Positive
+and I-ASP Positive
+mashed I-ASP Positive
+potatos I-ASP Positive
 . O -999
 
 delicious O -999
-crab B-ASP 2
-cakes I-ASP 2
+crab B-ASP Positive
+cakes I-ASP Positive
 too O -999
 . O -999
 
@@ -14090,7 +14090,7 @@ this O -999
 good O -999
 , O -999
 the O -999
-garden B-ASP 2
+garden B-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -14105,7 +14105,7 @@ relax O -999
 even O -999
 if O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 n't O -999
 this O -999
@@ -14126,7 +14126,7 @@ relax O -999
 
 great O -999
 neighborhood O -999
-joint B-ASP 2
+joint B-ASP Positive
 . O -999
 
 this O -999
@@ -14137,11 +14137,11 @@ pizza O -999
 place O -999
 with O -999
 good O -999
-selection B-ASP 2
-of I-ASP 2
-thin I-ASP 2
-crust I-ASP 2
-pizza I-ASP 2
+selection B-ASP Positive
+of I-ASP Positive
+thin I-ASP Positive
+crust I-ASP Positive
+pizza I-ASP Positive
 including O -999
 the O -999
 basil O -999
@@ -14152,8 +14152,8 @@ this O -999
 is O -999
 a O -999
 nice O -999
-pizza B-ASP 2
-place I-ASP 2
+pizza B-ASP Positive
+place I-ASP Positive
 with O -999
 good O -999
 selection O -999
@@ -14182,12 +14182,12 @@ crust O -999
 pizza O -999
 including O -999
 the O -999
-basil B-ASP 2
-slice I-ASP 2
+basil B-ASP Positive
+slice I-ASP Positive
 . O -999
 
 their O -999
-calzones B-ASP 0
+calzones B-ASP Negative
 are O -999
 horrific O -999
 , O -999
@@ -14201,21 +14201,21 @@ yuck O -999
 . O -999
 
 the O -999
-counter B-ASP 0
-service I-ASP 0
+counter B-ASP Negative
+service I-ASP Negative
 is O -999
 bad O -999
 . O -999
 
 no O -999
-pizza B-ASP 0
-33 I-ASP 0
+pizza B-ASP Negative
+33 I-ASP Negative
 for O -999
 me O -999
 ! O -999
 
 the O -999
-dosas B-ASP 0
+dosas B-ASP Negative
 are O -999
 skimpy O -999
 , O -999
@@ -14243,7 +14243,7 @@ these O -999
 . O -999
 
 the O -999
-sandwiches B-ASP 0
+sandwiches B-ASP Negative
 are O -999
 dry O -999
 , O -999
@@ -14255,7 +14255,7 @@ overpriced O -999
 
 calling O -999
 the O -999
-place B-ASP 0
+place B-ASP Negative
 hampton O -999
 chutney O -999
 co. O -999
@@ -14311,7 +14311,7 @@ but O -999
 in O -999
 this O -999
 unattractive O -999
-room B-ASP 0
+room B-ASP Negative
 with O -999
 unhelpful O -999
 clerks B-ASP -999
@@ -14350,7 +14350,7 @@ unattractive O -999
 room B-ASP -999
 with O -999
 unhelpful O -999
-clerks B-ASP 0
+clerks B-ASP Negative
 there O -999
 was O -999
 a O -999
@@ -14364,13 +14364,13 @@ too O -999
 seriously O -999
 , O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 kicks O -999
 ass O -999
 . O -999
 
 the O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 is O -999
 unheralded O -999
 , O -999
@@ -14390,7 +14390,7 @@ is O -999
 unheralded O -999
 , O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 impecible O -999
 , O -999
 and O -999
@@ -14410,13 +14410,13 @@ impecible O -999
 , O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 magnificant O -999
 . O -999
 
 best O -999
-italian B-ASP 2
-food I-ASP 2
+italian B-ASP Positive
+food I-ASP Positive
 i O -999
 ever O -999
 had O -999
@@ -14438,14 +14438,14 @@ a O -999
 lovely O -999
 , O -999
 peaceful O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 eat O -999
 outside O -999
 . O -999
 
 the O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 looks O -999
 out O -999
 over O -999
@@ -14464,7 +14464,7 @@ liberty O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 good O -999
 , O -999
@@ -14489,8 +14489,8 @@ good O -999
 especially O -999
 their O -999
 more O -999
-basic B-ASP 2
-dishes I-ASP 2
+basic B-ASP Positive
+dishes I-ASP Positive
 , O -999
 and O -999
 the O -999
@@ -14512,7 +14512,7 @@ dishes I-ASP -999
 , O -999
 and O -999
 the O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 are O -999
 delicious O -999
 . O -999
@@ -14521,7 +14521,7 @@ this O -999
 is O -999
 a O -999
 great O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 take O -999
 out O -999
@@ -14539,22 +14539,22 @@ sunset O -999
 . O -999
 
 great O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 experience O -999
 . O -999
 
 unique O -999
-apppetizers B-ASP 2
+apppetizers B-ASP Positive
 . O -999
 
 try O -999
-sushimi B-ASP 2
-cucumber I-ASP 2
-roll I-ASP 2
+sushimi B-ASP Positive
+cucumber I-ASP Positive
+roll I-ASP Positive
 . O -999
 
 good O -999
-spreads B-ASP 2
+spreads B-ASP Positive
 , O -999
 great O -999
 beverage B-ASP -999
@@ -14569,8 +14569,8 @@ good O -999
 spreads B-ASP -999
 , O -999
 great O -999
-beverage B-ASP 2
-selections I-ASP 2
+beverage B-ASP Positive
+selections I-ASP Positive
 and O -999
 bagels B-ASP -999
 really O -999
@@ -14584,7 +14584,7 @@ great O -999
 beverage B-ASP -999
 selections I-ASP -999
 and O -999
-bagels B-ASP 2
+bagels B-ASP Positive
 really O -999
 tasty O -999
 . O -999
@@ -14597,17 +14597,17 @@ murray O -999
 is O -999
 anything O -999
 about O -999
-service B-ASP 0
+service B-ASP Negative
 . O -999
 
 the O -999
-service B-ASP 0
+service B-ASP Negative
 is O -999
 awful O -999
 . O -999
 
 this O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 not O -999
 worth O -999
@@ -14616,8 +14616,8 @@ prices O -999
 . O -999
 
 love O -999
-pizza B-ASP 2
-33 I-ASP 2
+pizza B-ASP Positive
+33 I-ASP Positive
 .. O -999
 
 i O -999
@@ -14642,13 +14642,13 @@ one O -999
 thing O -999
 ... O -999
 their O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 . O -999
 
 this O -999
 tiny O -999
-williamsburg B-ASP 2
-spot I-ASP 2
+williamsburg B-ASP Positive
+spot I-ASP Positive
 is O -999
 always O -999
 pleasantly O -999
@@ -14656,7 +14656,7 @@ surprising O -999
 . O -999
 
 the O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 is O -999
 delicious O -999
 and O -999
@@ -14677,7 +14677,7 @@ is O -999
 delicious O -999
 and O -999
 the O -999
-proprietor B-ASP 2
+proprietor B-ASP Positive
 is O -999
 one O -999
 of O -999
@@ -14688,8 +14688,8 @@ nyc O -999
 . O -999
 
 the O -999
-cream B-ASP 2
-cheeses I-ASP 2
+cream B-ASP Positive
+cheeses I-ASP Positive
 are O -999
 out O -999
 of O -999
@@ -14715,11 +14715,11 @@ and O -999
 i O -999
 love O -999
 that O -999
-coffee B-ASP 2
+coffee B-ASP Positive
 ! O -999
 ! O -999
 
-bagels B-ASP 1
+bagels B-ASP Neutral
 are O -999
 ok O -999
 , O -999
@@ -14744,7 +14744,7 @@ cheese O -999
 sandwich O -999
 and O -999
 the O -999
-manager B-ASP 0
+manager B-ASP Negative
 basically O -999
 told O -999
 me O -999
@@ -14763,22 +14763,22 @@ get O -999
 anything O -999
 other O -999
 than O -999
-bagels B-ASP 2
+bagels B-ASP Positive
 ! O -999
 .. O -999
 
 the O -999
-turkey B-ASP 0
-burgers I-ASP 0
+turkey B-ASP Negative
+burgers I-ASP Negative
 are O -999
 scary O -999
 ! O -999
 
 the O -999
-soup B-ASP 0
-for I-ASP 0
-the I-ASP 0
-udon I-ASP 0
+soup B-ASP Negative
+for I-ASP Negative
+the I-ASP Negative
+udon I-ASP Negative
 was O -999
 soy O -999
 sauce O -999
@@ -14787,13 +14787,13 @@ water O -999
 . O -999
 
 the O -999
-sushi B-ASP 0
+sushi B-ASP Negative
 was O -999
 awful O -999
 ! O -999
 
 the O -999
-rice B-ASP 0
+rice B-ASP Negative
 was O -999
 poor O -999
 quality O -999
@@ -14810,7 +14810,7 @@ hard O -999
 furthermore O -999
 , O -999
 the O -999
-rice B-ASP 0
+rice B-ASP Negative
 had O -999
 no O -999
 seasoning O -999
@@ -14834,7 +14834,7 @@ seasoning O -999
 , O -999
 so O -999
 the O -999
-sushi B-ASP 0
+sushi B-ASP Negative
 was O -999
 bland O -999
 and O -999
@@ -14842,7 +14842,7 @@ disgusting O -999
 . O -999
 
 the O -999
-fish B-ASP 0
+fish B-ASP Negative
 was O -999
 adequate O -999
 , O -999
@@ -14867,17 +14867,17 @@ about O -999
 or O -999
 experience O -999
 with O -999
-japanese B-ASP 0
-cuisine I-ASP 0
+japanese B-ASP Negative
+cuisine I-ASP Negative
 . O -999
 
 good O -999
 , O -999
 fast O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
-food B-ASP 2
+food B-ASP Positive
 is O -999
 great O -999
 and O -999
@@ -14885,7 +14885,7 @@ inexpensive O -999
 . O -999
 
 the O -999
-location B-ASP 2
+location B-ASP Positive
 is O -999
 perfect O -999
 . O -999
@@ -14893,7 +14893,7 @@ perfect O -999
 well O -999
 , O -999
 this O -999
-place B-ASP 0
+place B-ASP Negative
 is O -999
 so O -999
 ghetto O -999
@@ -14926,7 +14926,7 @@ at O -999
 least O -999
 100 O -999
 dollar O -999
-bottle B-ASP 0
+bottle B-ASP Negative
 minimun O -999
 then O -999
 you O -999
@@ -14940,7 +14940,7 @@ if O -999
 you O -999
 like O -999
 your O -999
-music B-ASP 0
+music B-ASP Negative
 blasted O -999
 and O -999
 the O -999
@@ -14970,7 +14970,7 @@ here O -999
 . O -999
 
 awsome O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 especially O -999
 the O -999
 margheritta O -999
@@ -14981,12 +14981,12 @@ awsome O -999
 pizza O -999
 especially O -999
 the O -999
-margheritta B-ASP 2
-slice I-ASP 2
+margheritta B-ASP Positive
+slice I-ASP Positive
 . O -999
 
 great O -999
-atmoshere B-ASP 2
+atmoshere B-ASP Positive
 and O -999
 worth O -999
 every O -999
@@ -14996,7 +14996,7 @@ bit O -999
 winnie B-ASP -999
 and O -999
 her O -999
-staff B-ASP 2
+staff B-ASP Positive
 are O -999
 the O -999
 best O -999
@@ -15008,7 +15008,7 @@ serving O -999
 you O -999
 . O -999
 
-winnie B-ASP 2
+winnie B-ASP Positive
 and O -999
 her O -999
 staff B-ASP -999
@@ -15024,7 +15024,7 @@ you O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 reliable O -999
 and O -999
@@ -15036,8 +15036,8 @@ moderate O -999
 
 for O -999
 authentic O -999
-thai B-ASP 2
-food I-ASP 2
+thai B-ASP Positive
+food I-ASP Positive
 , O -999
 look O -999
 no O -999
@@ -15048,8 +15048,8 @@ toons O -999
 
 try O -999
 the O -999
-pad B-ASP 2
-thai I-ASP 2
+pad B-ASP Positive
+thai I-ASP Positive
 , O -999
 or O -999
 sample O -999
@@ -15074,8 +15074,8 @@ sample O -999
 anything O -999
 on O -999
 the O -999
-appetizer B-ASP 2
-menu I-ASP 2
+appetizer B-ASP Positive
+menu I-ASP Positive
 ... O -999
 they O -999
 're O -999
@@ -15086,13 +15086,13 @@ delicious O -999
 everything O -999
 about O -999
 this O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 was O -999
 special O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 attentive O -999
 , O -999
@@ -15101,9 +15101,9 @@ discreet O -999
 . O -999
 
 the O -999
-brioche B-ASP 2
-and I-ASP 2
-lollies I-ASP 2
+brioche B-ASP Positive
+and I-ASP Positive
+lollies I-ASP Positive
 as O -999
 party O -999
 favors O -999
@@ -15121,14 +15121,14 @@ meal O -999
 . O -999
 
 the O -999
-place B-ASP 2
+place B-ASP Positive
 was O -999
 quiet O -999
 and O -999
 delightful O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 good O -999
 and O -999
@@ -15141,7 +15141,7 @@ service B-ASP -999
 was O -999
 good O -999
 and O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 wonderful O -999
 . O -999
@@ -15156,7 +15156,7 @@ but O -999
 i O -999
 tried O -999
 their O -999
-salmon B-ASP 2
+salmon B-ASP Positive
 and O -999
 crab B-ASP -999
 salad I-ASP -999
@@ -15179,8 +15179,8 @@ tried O -999
 their O -999
 salmon B-ASP -999
 and O -999
-crab B-ASP 2
-salad I-ASP 2
+crab B-ASP Positive
+salad I-ASP Positive
 ( O -999
 they O -999
 are O -999
@@ -15193,7 +15193,7 @@ is O -999
 definitely O -999
 a O -999
 good O -999
-spot B-ASP 2
+spot B-ASP Positive
 for O -999
 snacks O -999
 and O -999
@@ -15218,8 +15218,8 @@ for O -999
 the O -999
 last O -999
 year O -999
-lucky B-ASP 2
-strike I-ASP 2
+lucky B-ASP Positive
+strike I-ASP Positive
 has O -999
 been O -999
 the O -999
@@ -15235,8 +15235,8 @@ city O -999
 . O -999
 
 the O -999
-wait B-ASP 2
-staff I-ASP 2
+wait B-ASP Positive
+staff I-ASP Positive
 is O -999
 pleasant O -999
 , O -999
@@ -15278,7 +15278,7 @@ way O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 yummy O -999
 , O -999
@@ -15313,11 +15313,11 @@ cooked O -999
 to O -999
 - O -999
 perfection O -999
-mussels B-ASP 2
-in I-ASP 2
-spicy I-ASP 2
-tomato I-ASP 2
-sauce I-ASP 2
+mussels B-ASP Positive
+in I-ASP Positive
+spicy I-ASP Positive
+tomato I-ASP Positive
+sauce I-ASP Positive
 and O -999
 their O -999
 shoestring O -999
@@ -15346,7 +15346,7 @@ and O -999
 their O -999
 shoestring O -999
 crispy O -999
-fries B-ASP 2
+fries B-ASP Positive
 . O -999
 
 but O -999
@@ -15357,9 +15357,9 @@ about O -999
 ls O -999
 is O -999
 the O -999
-late B-ASP 2
-night I-ASP 2
-atmosphere I-ASP 2
+late B-ASP Positive
+night I-ASP Positive
+atmosphere I-ASP Positive
 , O -999
 delightfully O -999
 free O -999
@@ -15374,7 +15374,7 @@ get O -999
 a O -999
 completely O -999
 delish O -999
-martini B-ASP 2
+martini B-ASP Positive
 in O -999
 a O -999
 glass O -999
@@ -15434,8 +15434,8 @@ $ O -999
 i O -999
 recommend O -999
 the O -999
-vanilla B-ASP 2
-shanty I-ASP 2
+vanilla B-ASP Positive
+shanty I-ASP Positive
 , O -999
 mmmm O -999
 ! O -999
@@ -15485,7 +15485,7 @@ in O -999
 a O -999
 great O -999
 homey O -999
-setting B-ASP 2
+setting B-ASP Positive
 with O -999
 great O -999
 music B-ASP -999
@@ -15529,15 +15529,15 @@ homey O -999
 setting B-ASP -999
 with O -999
 great O -999
-music B-ASP 2
+music B-ASP Positive
 . O -999
 
 the O -999
-in B-ASP 2
-- I-ASP 2
-house I-ASP 2
-lady I-ASP 2
-dj I-ASP 2
+in B-ASP Positive
+- I-ASP Positive
+house I-ASP Positive
+lady I-ASP Positive
+dj I-ASP Positive
 on O -999
 saturday O -999
 nights O -999
@@ -15562,10 +15562,10 @@ go O -999
 wrong O -999
 with O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
-suan B-ASP 2
+suan B-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -15583,7 +15583,7 @@ too O -999
 . O -999
 
 its O -999
-location B-ASP 2
+location B-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -15636,7 +15636,7 @@ students O -999
 go O -999
 back O -999
 to O -999
-suan B-ASP 2
+suan B-ASP Positive
 again O -999
 and O -999
 again O -999
@@ -15645,16 +15645,16 @@ again O -999
 i O -999
 love O -999
 their O -999
-thai B-ASP 2
+thai B-ASP Positive
 
-noodles B-ASP 2
-with I-ASP 2
-shrimp I-ASP 2
-and I-ASP 2
-chicken I-ASP 2
-and I-ASP 2
-coconut I-ASP 2
-juice I-ASP 2
+noodles B-ASP Positive
+with I-ASP Positive
+shrimp I-ASP Positive
+and I-ASP Positive
+chicken I-ASP Positive
+and I-ASP Positive
+coconut I-ASP Positive
+juice I-ASP Positive
 is O -999
 the O -999
 must O -999
@@ -15665,7 +15665,7 @@ will O -999
 go O -999
 back O -999
 to O -999
-suan B-ASP 2
+suan B-ASP Positive
 soon O -999
 ! O -999
 
@@ -15676,7 +15676,7 @@ eat O -999
 outside O -999
 on O -999
 a O -999
-terrace B-ASP 2
+terrace B-ASP Positive
 ( O -999
 another O -999
 great O -999
@@ -15694,7 +15694,7 @@ not O -999
 imagine O -999
 a O -999
 friendlier O -999
-staff B-ASP 2
+staff B-ASP Positive
 working O -999
 in O -999
 a O -999
@@ -15706,8 +15706,8 @@ can O -999
 not O -999
 imagine O -999
 better O -999
-indian B-ASP 2
-food I-ASP 2
+indian B-ASP Positive
+food I-ASP Positive
 in O -999
 all O -999
 of O -999
@@ -15725,7 +15725,7 @@ past O -999
 months O -999
 , O -999
 the O -999
-chef B-ASP 0
+chef B-ASP Negative
 and O -999
 staff B-ASP -999
 changed O -999
@@ -15750,7 +15750,7 @@ months O -999
 the O -999
 chef B-ASP -999
 and O -999
-staff B-ASP 0
+staff B-ASP Negative
 changed O -999
 and O -999
 it O -999
@@ -15762,7 +15762,7 @@ better O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 now O -999
 is O -999
 inconsistent O -999
@@ -15773,7 +15773,7 @@ is O -999
 the O -999
 kind O -999
 of O -999
-place B-ASP 2
+place B-ASP Positive
 you O -999
 'd O -999
 like O -999
@@ -15791,7 +15791,7 @@ secret O -999
 . O -999
 
 the O -999
-setting B-ASP 2
+setting B-ASP Positive
 is O -999
 casual O -999
 and O -999
@@ -15799,7 +15799,7 @@ romantic O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 excellent O -999
 ! O -999
@@ -15811,10 +15811,10 @@ daring O -999
 , O -999
 try O -999
 the O -999
-balsamic B-ASP 2
-vinegar I-ASP 2
-over I-ASP 2
-icecream I-ASP 2
+balsamic B-ASP Positive
+vinegar I-ASP Positive
+over I-ASP Positive
+icecream I-ASP Positive
 , O -999
 it O -999
 's O -999
@@ -15825,9 +15825,9 @@ do O -999
 not O -999
 get O -999
 the O -999
-go B-ASP 0
-go I-ASP 0
-hamburgers I-ASP 0
+go B-ASP Negative
+go I-ASP Negative
+hamburgers I-ASP Negative
 , O -999
 no O -999
 matter O -999
@@ -15841,8 +15841,8 @@ the O -999
 rest O -999
 of O -999
 the O -999
-dim B-ASP 0
-sum I-ASP 0
+dim B-ASP Negative
+sum I-ASP Negative
 , O -999
 though O -999
 pricey O -999
@@ -15856,7 +15856,7 @@ it O -999
 . O -999
 
 the O -999
-wait B-ASP 0
+wait B-ASP Negative
 here O -999
 is O -999
 long O -999
@@ -15920,7 +15920,7 @@ typical O -999
 raucous O -999
 dim O -999
 sum O -999
-atmosphere B-ASP 0
+atmosphere B-ASP Negative
 is O -999
 not O -999
 your O -999
@@ -15943,8 +15943,8 @@ tips O -999
 : O -999
 skip O -999
 the O -999
-turnip B-ASP 0
-cake I-ASP 0
+turnip B-ASP Negative
+cake I-ASP Negative
 , O -999
 roast B-ASP -999
 pork I-ASP -999
@@ -15963,9 +15963,9 @@ the O -999
 turnip B-ASP -999
 cake I-ASP -999
 , O -999
-roast B-ASP 0
-pork I-ASP 0
-buns I-ASP 0
+roast B-ASP Negative
+pork I-ASP Negative
+buns I-ASP Negative
 and O -999
 egg B-ASP -999
 custards I-ASP -999
@@ -15984,12 +15984,12 @@ roast B-ASP -999
 pork I-ASP -999
 buns I-ASP -999
 and O -999
-egg B-ASP 0
-custards I-ASP 0
+egg B-ASP Negative
+custards I-ASP Negative
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 exceptional O -999
 . O -999
@@ -16005,12 +16005,12 @@ the O -999
 special O -999
 , O -999
 the O -999
-braised B-ASP 2
-lamb I-ASP 2
-shank I-ASP 2
-in I-ASP 2
-red I-ASP 2
-wine I-ASP 2
+braised B-ASP Positive
+lamb I-ASP Positive
+shank I-ASP Positive
+in I-ASP Positive
+red I-ASP Positive
+wine I-ASP Positive
 , O -999
 which O -999
 was O -999
@@ -16018,7 +16018,7 @@ excellent O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 friendly O -999
 and O -999
@@ -16034,7 +16034,7 @@ was O -999
 friendly O -999
 and O -999
 the O -999
-atmosphere B-ASP 1
+atmosphere B-ASP Neutral
 was O -999
 casual O -999
 . O -999
@@ -16061,10 +16061,10 @@ and O -999
 enjoy O -999
 a O -999
 great O -999
-meal B-ASP 2
+meal B-ASP Positive
 
 the O -999
-restaurant B-ASP 0
+restaurant B-ASP Negative
 is O -999
 a O -999
 bit O -999
@@ -16093,8 +16093,8 @@ place B-ASP -999
 has O -999
 a O -999
 cute O -999
-interior B-ASP 2
-decor I-ASP 2
+interior B-ASP Positive
+decor I-ASP Positive
 and O -999
 affordable O -999
 city O -999
@@ -16103,7 +16103,7 @@ prices O -999
 
 this O -999
 little O -999
-place B-ASP 2
+place B-ASP Positive
 has O -999
 a O -999
 cute O -999
@@ -16116,10 +16116,10 @@ prices O -999
 . O -999
 
 the O -999
-pad B-ASP 2
-se I-ASP 2
-ew I-ASP 2
-chicken I-ASP 2
+pad B-ASP Positive
+se I-ASP Positive
+ew I-ASP Positive
+chicken I-ASP Positive
 was O -999
 delicious O -999
 , O -999
@@ -16143,8 +16143,8 @@ delicious O -999
 , O -999
 however O -999
 the O -999
-pad B-ASP 0
-thai I-ASP 0
+pad B-ASP Negative
+thai I-ASP Negative
 was O -999
 far O -999
 too O -999
@@ -16154,8 +16154,8 @@ oily O -999
 have O -999
 eaten O -999
 at O -999
-ginger B-ASP 2
-house I-ASP 2
+ginger B-ASP Positive
+house I-ASP Positive
 several O -999
 times O -999
 , O -999
@@ -16167,8 +16167,8 @@ good O -999
 . O -999
 
 the O -999
-fried B-ASP 2
-dumplings I-ASP 2
+fried B-ASP Positive
+dumplings I-ASP Positive
 are O -999
 great O -999
 ! O -999
@@ -16176,8 +16176,8 @@ great O -999
 finally O -999
 a O -999
 reliable O -999
-chinese B-ASP 2
-restaurant I-ASP 2
+chinese B-ASP Positive
+restaurant I-ASP Positive
 ! O -999
 
 this O -999
@@ -16197,14 +16197,14 @@ group O -999
 that O -999
 actually O -999
 understands O -999
-customer B-ASP 0
-service I-ASP 0
+customer B-ASP Negative
+service I-ASP Negative
 . O -999
 
 terrible O -999
 , O -999
 terrible O -999
-management B-ASP 0
+management B-ASP Negative
 - O -999
 deserves O -999
 to O -999
@@ -16215,7 +16215,7 @@ down O -999
 . O -999
 
 delicious O -999
-bagels B-ASP 2
+bagels B-ASP Positive
 , O -999
 especially O -999
 when O -999
@@ -16226,7 +16226,7 @@ the O -999
 oven O -999
 . O -999
 
-spreads B-ASP 2
+spreads B-ASP Positive
 and O -999
 toppings B-ASP -999
 are O -999
@@ -16240,7 +16240,7 @@ pricey O -999
 
 spreads B-ASP -999
 and O -999
-toppings B-ASP 2
+toppings B-ASP Positive
 are O -999
 great O -999
 - O -999
@@ -16250,7 +16250,7 @@ bit O -999
 pricey O -999
 . O -999
 
-spreads B-ASP 0
+spreads B-ASP Negative
 and O -999
 toppings B-ASP -999
 are O -999
@@ -16264,7 +16264,7 @@ pricey O -999
 
 spreads B-ASP -999
 and O -999
-toppings B-ASP 0
+toppings B-ASP Negative
 are O -999
 great O -999
 - O -999
@@ -16274,7 +16274,7 @@ bit O -999
 pricey O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 is O -999
 fast O -999
 and O -999
@@ -16282,7 +16282,7 @@ friendly O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 is O -999
 decent O -999
 at O -999
@@ -16328,7 +16328,7 @@ best O -999
 , O -999
 and O -999
 the O -999
-ambience B-ASP 0
+ambience B-ASP Negative
 , O -999
 well O -999
 , O -999
@@ -16357,7 +16357,7 @@ just O -999
 annoying O -999
 . O -999
 
-rao B-ASP 1
+rao B-ASP Neutral
 is O -999
 a O -999
 good O -999
@@ -16384,16 +16384,16 @@ place O -999
 i O -999
 'm O -999
 eating O -999
-indian B-ASP 2
-cuisine I-ASP 2
+indian B-ASP Positive
+cuisine I-ASP Positive
 . O -999
 
 you O -999
 must O -999
 try O -999
 the O -999
-shrimp B-ASP 2
-appetizers I-ASP 2
+shrimp B-ASP Positive
+appetizers I-ASP Positive
 . O -999
 
 this O -999
@@ -16402,7 +16402,7 @@ has O -999
 the O -999
 the O -999
 correct O -999
-ambience B-ASP 2
+ambience B-ASP Positive
 and O -999
 an O -999
 excellent O -999
@@ -16433,7 +16433,7 @@ ambience B-ASP -999
 and O -999
 an O -999
 excellent O -999
-staff B-ASP 2
+staff B-ASP Positive
 to O -999
 make O -999
 you O -999
@@ -16451,7 +16451,7 @@ time O -999
 . O -999
 
 great O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 great O -999
 prices O -999
@@ -16467,7 +16467,7 @@ great O -999
 prices O -999
 , O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 if O -999
@@ -16480,7 +16480,7 @@ good O -999
 quality O -999
 , O -999
 cheap O -999
-eats B-ASP 2
+eats B-ASP Positive
 - O -999
 this O -999
 is O -999
@@ -16497,8 +16497,8 @@ to O -999
 have O -999
 a O -999
 amanzing O -999
-indian B-ASP 2
-food I-ASP 2
+indian B-ASP Positive
+food I-ASP Positive
 . O -999
 
 i O -999
@@ -16512,7 +16512,7 @@ touch O -999
 that O -999
 's O -999
 the O -999
-cheff B-ASP 2
+cheff B-ASP Positive
 gives O -999
 to O -999
 the O -999
@@ -16532,7 +16532,7 @@ very O -999
 romantic O -999
 and O -999
 confortable O -999
-place B-ASP 2
+place B-ASP Positive
 , O -999
 the O -999
 service B-ASP -999
@@ -16570,7 +16570,7 @@ confortable O -999
 place B-ASP -999
 , O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 it O -999
 's O -999
 just O -999
@@ -16590,7 +16590,7 @@ place O -999
 ! O -999
 
 their O -999
-bagels B-ASP 0
+bagels B-ASP Negative
 are O -999
 fine O -999
 , O -999
@@ -16613,7 +16613,7 @@ experience O -999
 . O -999
 
 great O -999
-bagels B-ASP 2
+bagels B-ASP Positive
 made O -999
 the O -999
 old O -999
@@ -16624,7 +16624,7 @@ way O -999
 
 drawbacks O -999
 : O -999
-service B-ASP 0
+service B-ASP Negative
 is O -999
 slow O -999
 and O -999
@@ -16635,7 +16635,7 @@ toast O -999
 ! O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 absolutely O -999
 amazing O -999
@@ -16643,9 +16643,9 @@ amazing O -999
 ! O -999
 
 the O -999
-baked B-ASP 2
-clams I-ASP 2
-octopus I-ASP 2
+baked B-ASP Positive
+clams I-ASP Positive
+octopus I-ASP Positive
 we O -999
 shared O -999
 as O -999
@@ -16661,7 +16661,7 @@ had O -999
 ! O -999
 
 the O -999
-lamb B-ASP 2
+lamb B-ASP Positive
 was O -999
 tender O -999
 so O -999
@@ -16686,20 +16686,20 @@ of O -999
 flavor O -999
 , O -999
 the O -999
-dessert B-ASP 2
+dessert B-ASP Positive
 was O -999
 divine O -999
 ! O -999
 ! O -999
 
 the O -999
-waiter B-ASP 2
+waiter B-ASP Positive
 was O -999
 attentive O -999
 . O -999
 
 the O -999
-place B-ASP 2
+place B-ASP Positive
 itself O -999
 is O -999
 beautiful O -999
@@ -16718,8 +16718,8 @@ itself O -999
 is O -999
 beautiful O -999
 the O -999
-bar B-ASP 2
-scene I-ASP 2
+bar B-ASP Positive
+scene I-ASP Positive
 seems O -999
 to O -999
 be O -999
@@ -16733,7 +16733,7 @@ dinner O -999
 prixe O -999
 fix O -999
 : O -999
-appetizers B-ASP 1
+appetizers B-ASP Neutral
 were O -999
 ok O -999
 , O -999
@@ -16763,7 +16763,7 @@ appetizers B-ASP -999
 were O -999
 ok O -999
 , O -999
-waiter B-ASP 0
+waiter B-ASP Negative
 gave O -999
 me O -999
 poor O -999
@@ -16797,9 +16797,9 @@ suggestion O -999
 .. O -999
 try O -999
 the O -999
-potato B-ASP 2
-stuff I-ASP 2
-kanish I-ASP 2
+potato B-ASP Positive
+stuff I-ASP Positive
+kanish I-ASP Positive
 best O -999
 one O -999
 . O -999
@@ -16812,7 +16812,7 @@ entree I-ASP -999
 , O -999
 i O -999
 had O -999
-salmon B-ASP 0
+salmon B-ASP Negative
 ( O -999
 was O -999
 nt O -999
@@ -16843,7 +16843,7 @@ impressed O -999
 ) O -999
 girlfriend O -999
 had O -999
-chicken B-ASP 2
+chicken B-ASP Positive
 , O -999
 it O -999
 was O -999
@@ -16851,10 +16851,10 @@ good O -999
 . O -999
 
 small O -999
-servings B-ASP 0
-for I-ASP 0
-main I-ASP 0
-entree I-ASP 0
+servings B-ASP Negative
+for I-ASP Negative
+main I-ASP Negative
+entree I-ASP Negative
 , O -999
 i O -999
 had O -999
@@ -16873,7 +16873,7 @@ was O -999
 good O -999
 . O -999
 
-dessert B-ASP 0
+dessert B-ASP Negative
 is O -999
 a O -999
 joke O -999
@@ -16903,14 +16903,14 @@ than O -999
 that O -999
 when O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 this O -999
 friendly O -999
 . O -999
 
 the O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 has O -999
 a O -999
 family O -999
@@ -16954,7 +16954,7 @@ with O -999
 regard O -999
 to O -999
 the O -999
-portions B-ASP 2
+portions B-ASP Positive
 which O -999
 are O -999
 enormous O -999
@@ -16992,7 +16992,7 @@ are O -999
 enormous O -999
 ; O -999
 the O -999
-veal B-ASP 2
+veal B-ASP Positive
 alone O -999
 could O -999
 have O -999
@@ -17006,9 +17006,9 @@ famine O -999
 . O -999
 
 the O -999
-anti B-ASP 2
-- I-ASP 2
-pasta I-ASP 2
+anti B-ASP Positive
+- I-ASP Positive
+pasta I-ASP Positive
 was O -999
 excellent O -999
 , O -999
@@ -17033,7 +17033,7 @@ excellent O -999
 , O -999
 especially O -999
 the O -999
-calamari B-ASP 2
+calamari B-ASP Positive
 , O -999
 as O -999
 were O -999
@@ -17058,13 +17058,13 @@ as O -999
 were O -999
 the O -999
 filling O -999
-pasta B-ASP 2
-mains I-ASP 2
+pasta B-ASP Positive
+mains I-ASP Positive
 . O -999
 
 the O -999
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 is O -999
 extensive O -999
 and O -999
@@ -17093,7 +17093,7 @@ an O -999
 otherwise O -999
 reasonably O -999
 priced O -999
-meal B-ASP 2
+meal B-ASP Positive
 . O -999
 
 still O -999
@@ -17114,9 +17114,9 @@ pour O -999
 your O -999
 - O -999
 own O -999
-measures B-ASP 2
-of I-ASP 2
-liquers I-ASP 2
+measures B-ASP Positive
+of I-ASP Positive
+liquers I-ASP Positive
 which O -999
 were O -999
 courtesey O -999
@@ -17126,11 +17126,11 @@ house O -999
 ... O -999
 
 fantastic O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
-lucky B-ASP 2
-strike I-ASP 2
+lucky B-ASP Positive
+strike I-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -17146,7 +17146,7 @@ eat O -999
 . O -999
 
 great O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 great O -999
 decor B-ASP -999
@@ -17159,7 +17159,7 @@ great O -999
 food B-ASP -999
 , O -999
 great O -999
-decor B-ASP 2
+decor B-ASP Positive
 , O -999
 great O -999
 service B-ASP -999
@@ -17172,14 +17172,14 @@ great O -999
 decor B-ASP -999
 , O -999
 great O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 this O -999
 is O -999
 the O -999
 perfect O -999
-spot B-ASP 2
+spot B-ASP Positive
 for O -999
 meeting O -999
 friends O -999
@@ -17206,14 +17206,14 @@ the O -999
 bartender O -999
 for O -999
 the O -999
-seasonal B-ASP 2
-beer I-ASP 2
+seasonal B-ASP Positive
+beer I-ASP Positive
 ! O -999
 ! O -999
 ! O -999
 
 excellent O -999
-spot B-ASP 2
+spot B-ASP Positive
 for O -999
 holiday O -999
 get O -999
@@ -17244,8 +17244,8 @@ the O -999
 above O -999
 at O -999
 the O -999
-heartland B-ASP 2
-brewery I-ASP 2
+heartland B-ASP Positive
+brewery I-ASP Positive
 for O -999
 over O -999
 5 O -999
@@ -17262,7 +17262,7 @@ disappointed O -999
 what O -999
 a O -999
 great O -999
-place B-ASP 2
+place B-ASP Positive
 ! O -999
 
 not O -999
@@ -17271,12 +17271,12 @@ typical O -999
 nyc O -999
 gimmick O -999
 theme O -999
-restaurant B-ASP 2
+restaurant B-ASP Positive
 . O -999
 
 a O -999
 cool O -999
-bar B-ASP 2
+bar B-ASP Positive
 with O -999
 great O -999
 food B-ASP -999
@@ -17293,7 +17293,7 @@ cool O -999
 bar B-ASP -999
 with O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 and O -999
 tons O -999
@@ -17313,12 +17313,12 @@ and O -999
 tons O -999
 of O -999
 excellent O -999
-beer B-ASP 2
+beer B-ASP Positive
 . O -999
 
 the O -999
-shrimp B-ASP 2
-scampi I-ASP 2
+shrimp B-ASP Positive
+scampi I-ASP Positive
 was O -999
 excellent O -999
 and O -999
@@ -17335,7 +17335,7 @@ was O -999
 excellent O -999
 and O -999
 the O -999
-antipasti B-ASP 2
+antipasti B-ASP Positive
 were O -999
 plentiful O -999
 . O -999
@@ -17361,7 +17361,7 @@ restaurant O -999
 , O -999
 drive O -999
 to O -999
-corona B-ASP 2
+corona B-ASP Positive
 . O -999
 
 the O -999
@@ -17371,7 +17371,7 @@ more O -999
 wonderful O -999
 than O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 ( O -999
 which O -999
 is O -999
@@ -17397,14 +17397,14 @@ exceptional O -999
 ) O -999
 is O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 the O -999
 only O -999
 thing O -999
 the O -999
-waiters B-ASP 2
+waiters B-ASP Positive
 do O -999
 n't O -999
 do O -999
@@ -17421,7 +17421,7 @@ leave O -999
 
 cozy O -999
 romantic O -999
-atomosphere B-ASP 2
+atomosphere B-ASP Positive
 with O -999
 only O -999
 around O -999
@@ -17431,7 +17431,7 @@ at O -999
 most O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 was O -999
 very O -999
 prompt O -999
@@ -17440,7 +17440,7 @@ slightly O -999
 rushed O -999
 . O -999
 
-food B-ASP 1
+food B-ASP Neutral
 was O -999
 very O -999
 good O -999
@@ -17460,7 +17460,7 @@ world O -999
 too O -999
 bad O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 n't O -999
 of O -999
@@ -17470,10 +17470,10 @@ heritage O -999
 . O -999
 
 the O -999
-porcini B-ASP 0
-mushroom I-ASP 0
-pasta I-ASP 0
-special I-ASP 0
+porcini B-ASP Negative
+mushroom I-ASP Negative
+pasta I-ASP Negative
+special I-ASP Negative
 was O -999
 tasteless O -999
 , O -999
@@ -17495,8 +17495,8 @@ tasteless O -999
 so O -999
 was O -999
 the O -999
-seafood B-ASP 0
-tagliatelle I-ASP 0
+seafood B-ASP Negative
+tagliatelle I-ASP Negative
 . O -999
 
 but O -999
@@ -17510,7 +17510,7 @@ the O -999
 cake O -999
 : O -999
 a O -999
-tiramisu B-ASP 0
+tiramisu B-ASP Negative
 that O -999
 resembled O -999
 nothing O -999
@@ -17524,7 +17524,7 @@ i O -999
 really O -999
 liked O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 this O -999
@@ -17534,8 +17534,8 @@ the O -999
 best O -999
 chinese O -999
 style O -999
-bbq B-ASP 2
-ribs I-ASP 2
+bbq B-ASP Positive
+ribs I-ASP Positive
 in O -999
 the O -999
 city O -999
@@ -17545,8 +17545,8 @@ i O -999
 also O -999
 recommend O -999
 the O -999
-rice B-ASP 2
-dishes I-ASP 2
+rice B-ASP Positive
+dishes I-ASP Positive
 or O -999
 the O -999
 different O -999
@@ -17570,11 +17570,11 @@ the O -999
 different O -999
 varieties O -999
 of O -999
-congee B-ASP 2
-( I-ASP 2
-rice I-ASP 2
-porridge I-ASP 2
-) I-ASP 2
+congee B-ASP Positive
+( I-ASP Positive
+rice I-ASP Positive
+porridge I-ASP Positive
+) I-ASP Positive
 . O -999
 
 it O -999
@@ -17582,7 +17582,7 @@ it O -999
 definately O -999
 not O -999
 a O -999
-place B-ASP 0
+place B-ASP Negative
 to O -999
 go O -999
 if O -999
@@ -17599,7 +17599,7 @@ if O -999
 you O -999
 want O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 at O -999
 a O -999
 great O -999
@@ -17635,7 +17635,7 @@ do O -999
 n't O -999
 mind O -999
 the O -999
-decor B-ASP 1
+decor B-ASP Neutral
 , O -999
 you O -999
 ca O -999
@@ -17651,7 +17651,7 @@ if O -999
 you O -999
 want O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 at O -999
 a O -999
 great O -999
@@ -17674,7 +17674,7 @@ place O -999
 quick O -999
 and O -999
 friendly O -999
-service B-ASP 2
+service B-ASP Positive
 . O -999
 
 when O -999
@@ -17683,9 +17683,9 @@ you O -999
 sitting O -999
 in O -999
 their O -999
-main B-ASP 2
-dining I-ASP 2
-room I-ASP 2
+main B-ASP Positive
+dining I-ASP Positive
+room I-ASP Positive
 ( O -999
 which O -999
 has O -999
@@ -17728,7 +17728,7 @@ hand O -999
 - O -999
 painted O -999
 high O -999
-ceiling B-ASP 2
+ceiling B-ASP Positive
 ) O -999
 you O -999
 'd O -999
@@ -17742,7 +17742,7 @@ outside O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 wonderful O -999
 , O -999
@@ -17770,7 +17770,7 @@ filling O -999
 , O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 professional O -999
 and O -999
@@ -17791,13 +17791,13 @@ outside O -999
 on O -999
 their O -999
 gigantic O -999
-patio B-ASP 2
+patio B-ASP Positive
 . O -999
 
 i O -999
 recently O -999
 tried O -999
-suan B-ASP 2
+suan B-ASP Positive
 and O -999
 i O -999
 thought O -999
@@ -17821,7 +17821,7 @@ get O -999
 a O -999
 lot O -999
 of O -999
-food B-ASP 2
+food B-ASP Positive
 for O -999
 your O -999
 money O -999
@@ -17829,7 +17829,7 @@ money O -999
 
 this O -999
 little O -999
-place B-ASP 2
+place B-ASP Positive
 definitely O -999
 exceeded O -999
 my O -999
@@ -17861,14 +17861,14 @@ get O -999
 a O -999
 lot O -999
 of O -999
-food B-ASP 2
+food B-ASP Positive
 for O -999
 your O -999
 money O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 fast O -999
 and O -999
@@ -17901,7 +17901,7 @@ and O -999
 friendly O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 very O -999
 tasty O -999
@@ -17936,8 +17936,8 @@ they O -999
 had O -999
 the O -999
 best O -999
-hot B-ASP 2
-sauce I-ASP 2
+hot B-ASP Positive
+sauce I-ASP Positive
 to O -999
 add O -999
 to O -999
@@ -17946,24 +17946,24 @@ meals O -999
 . O -999
 
 good O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 good O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
 i O -999
 have O -999
 never O -999
 had O -999
-cheescake B-ASP 2
+cheescake B-ASP Positive
 like O -999
 this O -999
 . O -999
 
 great O -999
-spot B-ASP 2
+spot B-ASP Positive
 , O -999
 whether O -999
 looking O -999
@@ -17985,8 +17985,8 @@ the O -999
 winter O -999
 and O -999
 terrific O -999
-outdoor B-ASP 2
-seating I-ASP 2
+outdoor B-ASP Positive
+seating I-ASP Positive
 in O -999
 the O -999
 warmer O -999
@@ -17994,7 +17994,7 @@ months O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 great O -999
 and O -999
@@ -18021,7 +18021,7 @@ a O -999
 good O -999
 selecion O -999
 of O -999
-wines B-ASP 2
+wines B-ASP Positive
 at O -999
 reasonable O -999
 prices O -999
@@ -18029,7 +18029,7 @@ prices O -999
 
 while O -999
 the O -999
-ambiance B-ASP 2
+ambiance B-ASP Positive
 and O -999
 atmosphere B-ASP -999
 were O -999
@@ -18051,7 +18051,7 @@ while O -999
 the O -999
 ambiance B-ASP -999
 and O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 were O -999
 great O -999
 , O -999
@@ -18076,7 +18076,7 @@ were O -999
 great O -999
 , O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 and O -999
 service B-ASP -999
 could O -999
@@ -18098,7 +18098,7 @@ great O -999
 the O -999
 food B-ASP -999
 and O -999
-service B-ASP 0
+service B-ASP Negative
 could O -999
 have O -999
 been O -999
@@ -18110,8 +18110,8 @@ better O -999
 we O -999
 ordered O -999
 the O -999
-chicken B-ASP 0
-casserole I-ASP 0
+chicken B-ASP Negative
+casserole I-ASP Negative
 , O -999
 but O -999
 what O -999
@@ -18144,7 +18144,7 @@ and O -999
 both O -999
 times O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 fine O -999
 , O -999
@@ -18156,7 +18156,7 @@ good O -999
 stick O -999
 with O -999
 the O -999
-chicken B-ASP 2
+chicken B-ASP Positive
 , O -999
 beef B-ASP -999
 , O -999
@@ -18170,7 +18170,7 @@ with O -999
 the O -999
 chicken B-ASP -999
 , O -999
-beef B-ASP 2
+beef B-ASP Positive
 , O -999
 and O -999
 lamb B-ASP -999
@@ -18185,11 +18185,11 @@ chicken B-ASP -999
 beef B-ASP -999
 , O -999
 and O -999
-lamb B-ASP 2
-dishes I-ASP 2
+lamb B-ASP Positive
+dishes I-ASP Positive
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 is O -999
 friendly O -999
 , O -999
@@ -18207,20 +18207,20 @@ table O -999
 . O -999
 
 skip O -999
-dessert B-ASP 0
+dessert B-ASP Negative
 . O -999
 
 best O -999
-reuben B-ASP 2
-sandwich I-ASP 2
+reuben B-ASP Positive
+sandwich I-ASP Positive
 ever O -999
 ! O -999
 
 do O -999
 n't O -999
 miss O -999
-bloom B-ASP 2
-'s I-ASP 2
+bloom B-ASP Positive
+'s I-ASP Positive
 on O -999
 your O -999
 next O -999
@@ -18233,7 +18233,7 @@ it O -999
 was O -999
 the O -999
 first O -999
-place B-ASP 2
+place B-ASP Positive
 we O -999
 ate O -999
 on O -999
@@ -18269,8 +18269,8 @@ york O -999
 . O -999
 
 thanks O -999
-bloom B-ASP 2
-'s I-ASP 2
+bloom B-ASP Positive
+'s I-ASP Positive
 for O -999
 a O -999
 lovely O -999
@@ -18278,7 +18278,7 @@ trip O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 not O -999
 fresh O -999
@@ -18299,7 +18299,7 @@ not O -999
 fresh O -999
 , O -999
 the O -999
-sauces B-ASP 0
+sauces B-ASP Negative
 were O -999
 bland O -999
 and O -999
@@ -18307,14 +18307,14 @@ very O -999
 oily O -999
 . O -999
 
-pizza B-ASP 0
+pizza B-ASP Negative
 was O -999
 a O -999
 little O -999
 soggy O -999
 . O -999
 
-ravioli B-ASP 2
+ravioli B-ASP Positive
 was O -999
 good O -999
 ... O -999
@@ -18334,14 +18334,14 @@ overpriced O -999
 
 not O -999
 enough O -999
-wines B-ASP 0
-by I-ASP 0
-the I-ASP 0
-glass I-ASP 0
+wines B-ASP Negative
+by I-ASP Negative
+the I-ASP Negative
+glass I-ASP Negative
 either O -999
 . O -999
 
-service B-ASP 2
+service B-ASP Positive
 , O -999
 however O -999
 , O -999
@@ -18370,14 +18370,14 @@ and O -999
 i O -999
 liked O -999
 the O -999
-setting B-ASP 2
-/ I-ASP 2
-atmosphere I-ASP 2
+setting B-ASP Positive
+/ I-ASP Positive
+atmosphere I-ASP Positive
 a O -999
 lot O -999
 . O -999
 
-food B-ASP 1
+food B-ASP Neutral
 was O -999
 just O -999
 average O -999
@@ -18400,7 +18400,7 @@ draw O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -18408,11 +18408,11 @@ bargain O -999
 . O -999
 
 authentic O -999
-pakistani B-ASP 2
-food I-ASP 2
+pakistani B-ASP Positive
+food I-ASP Positive
 . O -999
 
-people B-ASP 2
+people B-ASP Positive
 are O -999
 always O -999
 friendly O -999
@@ -18424,10 +18424,10 @@ up O -999
 cheap O -999
 , O -999
 good O -999
-food B-ASP 2
+food B-ASP Positive
 . O -999
 
-faan B-ASP 2
+faan B-ASP Positive
 is O -999
 sooo O -999
 good O -999
@@ -18435,8 +18435,8 @@ good O -999
 
 the O -999
 best O -999
-pad B-ASP 2
-thai I-ASP 2
+pad B-ASP Positive
+thai I-ASP Positive
 i O -999
 've O -999
 ever O -999
@@ -18444,7 +18444,7 @@ had O -999
 . O -999
 
 the O -999
-design B-ASP 2
+design B-ASP Positive
 and O -999
 atmosphere B-ASP -999
 is O -999
@@ -18456,16 +18456,16 @@ good O -999
 the O -999
 design B-ASP -999
 and O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 is O -999
 just O -999
 as O -999
 good O -999
 . O -999
 
-bottles B-ASP 2
-of I-ASP 2
-wine I-ASP 2
+bottles B-ASP Positive
+of I-ASP Positive
+wine I-ASP Positive
 are O -999
 cheap O -999
 and O -999
@@ -18473,14 +18473,14 @@ good O -999
 . O -999
 
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 actually O -999
 aweful O -999
 . O -999
 
 the O -999
-mussles B-ASP 0
+mussles B-ASP Negative
 were O -999
 the O -999
 fishiest O -999
@@ -18531,7 +18531,7 @@ ever O -999
 tasted O -999
 , O -999
 the O -999
-seabass B-ASP 0
+seabass B-ASP Negative
 was O -999
 bland O -999
 , O -999
@@ -18576,9 +18576,9 @@ was O -999
 bland O -999
 , O -999
 the O -999
-goat B-ASP 0
-cheese I-ASP 0
-salad I-ASP 0
+goat B-ASP Negative
+cheese I-ASP Negative
+salad I-ASP Negative
 was O -999
 missing O -999
 the O -999
@@ -18626,9 +18626,9 @@ goat O -999
 cheese O -999
 , O -999
 the O -999
-penne B-ASP 0
-w/ I-ASP 0
-chicken I-ASP 0
+penne B-ASP Negative
+w/ I-ASP Negative
+chicken I-ASP Negative
 had O -999
 bones O -999
 in O -999
@@ -18640,7 +18640,7 @@ disgusting O -999
 . O -999
 
 nice O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 , O -999
 the O -999
 service B-ASP -999
@@ -18658,7 +18658,7 @@ nice O -999
 atmosphere B-ASP -999
 , O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 very O -999
 pleasant O -999
@@ -18679,13 +18679,13 @@ very O -999
 pleasant O -999
 and O -999
 the O -999
-desert B-ASP 2
+desert B-ASP Positive
 was O -999
 good O -999
 . O -999
 
 the O -999
-jukebox B-ASP 2
+jukebox B-ASP Positive
 plays O -999
 everything O -999
 from O -999
@@ -18697,7 +18697,7 @@ strokes O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 amazing O -999
 , O -999
@@ -18715,7 +18715,7 @@ is O -999
 amazing O -999
 , O -999
 rich O -999
-pastas B-ASP 2
+pastas B-ASP Positive
 and O -999
 fresh O -999
 doughy O -999
@@ -18732,7 +18732,7 @@ pastas B-ASP -999
 and O -999
 fresh O -999
 doughy O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 . O -999
 
 best O -999
@@ -18741,7 +18741,7 @@ all O -999
 is O -999
 the O -999
 warm O -999
-vibe B-ASP 2
+vibe B-ASP Positive
 , O -999
 the O -999
 owner B-ASP -999
@@ -18763,7 +18763,7 @@ warm O -999
 vibe B-ASP -999
 , O -999
 the O -999
-owner B-ASP 2
+owner B-ASP Positive
 is O -999
 super O -999
 friendly O -999
@@ -18787,7 +18787,7 @@ is O -999
 super O -999
 friendly O -999
 and O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 fast O -999
 . O -999
@@ -18796,11 +18796,11 @@ go O -999
 here O -999
 for O -999
 the O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 ! O -999
 
 the O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 are O -999
 amazing O -999
 and O -999
@@ -18813,7 +18813,7 @@ pm O -999
 
 ask O -999
 for O -999
-usha B-ASP 2
+usha B-ASP Positive
 , O -999
 the O -999
 nicest O -999
@@ -18826,8 +18826,8 @@ my O -999
 fav O -999
 was O -999
 the O -999
-sassy B-ASP 2
-lassi I-ASP 2
+sassy B-ASP Positive
+lassi I-ASP Positive
 ... O -999
 
 this O -999
@@ -18838,8 +18838,8 @@ place O -999
 to O -999
 try O -999
 some O -999
-roti B-ASP 2
-rolls I-ASP 2
+roti B-ASP Positive
+rolls I-ASP Positive
 . O -999
 
 i O -999
@@ -18848,15 +18848,15 @@ recommend O -999
 the O -999
 very O -999
 simple O -999
-unda B-ASP 2
-( I-ASP 2
-egg I-ASP 2
-) I-ASP 2
-rolls I-ASP 2
+unda B-ASP Positive
+( I-ASP Positive
+egg I-ASP Positive
+) I-ASP Positive
+rolls I-ASP Positive
 . O -999
 
 delicate O -999
-spices B-ASP 2
+spices B-ASP Positive
 , O -999
 onions B-ASP -999
 , O -999
@@ -18872,7 +18872,7 @@ roti B-ASP -999
 delicate O -999
 spices B-ASP -999
 , O -999
-onions B-ASP 2
+onions B-ASP Positive
 , O -999
 eggs B-ASP -999
 and O -999
@@ -18888,7 +18888,7 @@ spices B-ASP -999
 , O -999
 onions B-ASP -999
 , O -999
-eggs B-ASP 2
+eggs B-ASP Positive
 and O -999
 a O -999
 kick O -999
@@ -18908,10 +18908,10 @@ a O -999
 kick O -999
 - O -999
 ass O -999
-roti B-ASP 2
+roti B-ASP Positive
 . O -999
 
-toons B-ASP 2
+toons B-ASP Positive
 has O -999
 recently O -999
 been O -999
@@ -18928,7 +18928,7 @@ space O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 's O -999
 as O -999
 good O -999
@@ -18943,8 +18943,8 @@ sadly O -999
 lacking O -999
 in O -999
 decent O -999
-thai B-ASP 2
-food I-ASP 2
+thai B-ASP Positive
+food I-ASP Positive
 , O -999
 this O -999
 is O -999
@@ -18961,7 +18961,7 @@ last O -999
 night O -999
 - O -999
 nice O -999
-decor B-ASP 2
+decor B-ASP Positive
 , O -999
 good O -999
 service B-ASP -999
@@ -18983,7 +18983,7 @@ nice O -999
 decor B-ASP -999
 , O -999
 good O -999
-service B-ASP 2
+service B-ASP Positive
 , O -999
 but O -999
 the O -999
@@ -19006,14 +19006,14 @@ service B-ASP -999
 , O -999
 but O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 surprisingly O -999
 excellent O -999
 . O -999
 
 the O -999
-portions B-ASP 1
+portions B-ASP Neutral
 are O -999
 huge O -999
 , O -999
@@ -19044,9 +19044,9 @@ people O -999
 . O -999
 
 best O -999
-drumsticks B-ASP 2
-over I-ASP 2
-rice I-ASP 2
+drumsticks B-ASP Positive
+over I-ASP Positive
+rice I-ASP Positive
 and O -999
 sour O -999
 spicy O -999
@@ -19060,16 +19060,16 @@ drumsticks O -999
 over O -999
 rice O -999
 and O -999
-sour B-ASP 2
-spicy I-ASP 2
-soup I-ASP 2
+sour B-ASP Positive
+spicy I-ASP Positive
+soup I-ASP Positive
 in O -999
 town O -999
 ! O -999
 
-beef B-ASP 2
-noodle I-ASP 2
-soup I-ASP 2
+beef B-ASP Positive
+noodle I-ASP Positive
+soup I-ASP Positive
 is O -999
 good O -999
 as O -999
@@ -19077,7 +19077,7 @@ well O -999
 . O -999
 
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 good O -999
 and O -999
@@ -19093,14 +19093,14 @@ is O -999
 good O -999
 and O -999
 the O -999
-resturant B-ASP 2
+resturant B-ASP Positive
 is O -999
 clean O -999
 . O -999
 
 best O -999
-taiwanese B-ASP 2
-food I-ASP 2
+taiwanese B-ASP Positive
+food I-ASP Positive
 in O -999
 ny O -999
 ! O -999
@@ -19109,8 +19109,8 @@ i O -999
 have O -999
 been O -999
 to O -999
-rao B-ASP 2
-'s I-ASP 2
+rao B-ASP Positive
+'s I-ASP Positive
 probably O -999
 15 O -999
 times O -999
@@ -19130,7 +19130,7 @@ rao O -999
 has O -999
 the O -999
 best O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 atmosphere B-ASP -999
 in O -999
@@ -19144,7 +19144,7 @@ the O -999
 best O -999
 service B-ASP -999
 and O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 in O -999
 nyc O -999
 . O -999
@@ -19155,7 +19155,7 @@ and O -999
 i O -999
 love O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 . O -999
 
 we O -999
@@ -19173,8 +19173,8 @@ delight O -999
 , O -999
 they O -999
 have O -999
-outdoor B-ASP 2
-seating I-ASP 2
+outdoor B-ASP Positive
+seating I-ASP Positive
 , O -999
 perfect O -999
 since O -999
@@ -19186,7 +19186,7 @@ with O -999
 me O -999
 . O -999
 
-indoor B-ASP 2
+indoor B-ASP Positive
 was O -999
 very O -999
 cozy O -999
@@ -19195,8 +19195,8 @@ cute O -999
 . O -999
 
 the O -999
-portion B-ASP 2
-sizes I-ASP 2
+portion B-ASP Positive
+sizes I-ASP Positive
 here O -999
 are O -999
 huge O -999
@@ -19217,19 +19217,19 @@ huge O -999
 , O -999
 and O -999
 the O -999
-sushi B-ASP 2
+sushi B-ASP Positive
 is O -999
 good O -999
 . O -999
 
-staff B-ASP 2
+staff B-ASP Positive
 is O -999
 very O -999
 accomodating O -999
 . O -999
 
 excellent O -999
-dumplings B-ASP 2
+dumplings B-ASP Positive
 served O -999
 amid O -999
 clean O -999
@@ -19245,18 +19245,18 @@ amid O -999
 clean O -999
 , O -999
 chic O -999
-decor B-ASP 2
+decor B-ASP Positive
 . O -999
 
 i O -999
 got O -999
 the O -999
-$ B-ASP 2
-10 I-ASP 2
-10-piece I-ASP 2
-dim I-ASP 2
-sum I-ASP 2
-combo I-ASP 2
+$ B-ASP Positive
+10 I-ASP Positive
+10-piece I-ASP Positive
+dim I-ASP Positive
+sum I-ASP Positive
+combo I-ASP Positive
 , O -999
 every O -999
 bite O -999
@@ -19267,7 +19267,7 @@ great O -999
 . O -999
 
 the O -999
-decor B-ASP 2
+decor B-ASP Positive
 is O -999
 very O -999
 simple O -999
@@ -19276,7 +19276,7 @@ comfortable O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 delicious O -999
 but O -999
@@ -19291,7 +19291,7 @@ stomach O -999
 . O -999
 
 the O -999
-portions B-ASP 0
+portions B-ASP Negative
 are O -999
 small O -999
 but O -999
@@ -19316,7 +19316,7 @@ but O -999
 being O -999
 that O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 so O -999
 good O -999
@@ -19330,8 +19330,8 @@ you O -999
 must O -999
 have O -999
 the O -999
-crabmeat B-ASP 2
-lasagna I-ASP 2
+crabmeat B-ASP Positive
+lasagna I-ASP Positive
 which O -999
 is O -999
 out O -999
@@ -19361,15 +19361,15 @@ this O -999
 world O -999
 and O -999
 the O -999
-chocolate B-ASP 2
-bread I-ASP 2
-pudding I-ASP 2
+chocolate B-ASP Positive
+bread I-ASP Positive
+pudding I-ASP Positive
 for O -999
 dessert O -999
 . O -999
 
 the O -999
-staff B-ASP 2
+staff B-ASP Positive
 there O -999
 is O -999
 very O -999
@@ -19381,8 +19381,8 @@ earth O -999
 . O -999
 
 great O -999
-indian B-ASP 2
-food I-ASP 2
+indian B-ASP Positive
+food I-ASP Positive
 and O -999
 the O -999
 service O -999
@@ -19395,13 +19395,13 @@ indian O -999
 food O -999
 and O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 incredible O -999
 . O -999
 
 the O -999
-owner B-ASP 2
+owner B-ASP Positive
 truly O -999
 caters O -999
 to O -999
@@ -19411,7 +19411,7 @@ needs O -999
 . O -999
 
 great O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 the O -999
 prices O -999
@@ -19421,7 +19421,7 @@ reasonable O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 here O -999
 does O -999
 a O -999
@@ -19444,25 +19444,25 @@ in O -999
 love O -999
 with O -999
 the O -999
-egg B-ASP 2
-noodles I-ASP 2
-in I-ASP 2
-the I-ASP 2
-beef I-ASP 2
-broth I-ASP 2
-with I-ASP 2
-shrimp I-ASP 2
-dumplings I-ASP 2
-and I-ASP 2
-slices I-ASP 2
-of I-ASP 2
-bbq I-ASP 2
-roast I-ASP 2
-pork I-ASP 2
+egg B-ASP Positive
+noodles I-ASP Positive
+in I-ASP Positive
+the I-ASP Positive
+beef I-ASP Positive
+broth I-ASP Positive
+with I-ASP Positive
+shrimp I-ASP Positive
+dumplings I-ASP Positive
+and I-ASP Positive
+slices I-ASP Positive
+of I-ASP Positive
+bbq I-ASP Positive
+roast I-ASP Positive
+pork I-ASP Positive
 . O -999
 
 this O -999
-dish B-ASP 2
+dish B-ASP Positive
 is O -999
 my O -999
 favorite O -999
@@ -19485,7 +19485,7 @@ it O -999
 
 try O -999
 the O -999
-congee B-ASP 2
+congee B-ASP Positive
 and O -999
 the O -999
 donut O -999
@@ -19519,9 +19519,9 @@ fried O -999
 dough O -999
 they O -999
 call O -999
-ow B-ASP 2
-ley I-ASP 2
-soh I-ASP 2
+ow B-ASP Positive
+ley I-ASP Positive
+soh I-ASP Positive
 , O -999
 a O -999
 delicious O -999
@@ -19535,14 +19535,14 @@ simply O -999
 some O -999
 good O -999
 tasting O -999
-chinese B-ASP 2
-food I-ASP 2
+chinese B-ASP Positive
+food I-ASP Positive
 at O -999
 incredible O -999
 prices O -999
 ... O -999
 
-service B-ASP 0
+service B-ASP Negative
 is O -999
 not O -999
 what O -999
@@ -19553,8 +19553,8 @@ here O -999
 for O -999
 ... O -999
 
-big B-ASP 2
-wong I-ASP 2
+big B-ASP Positive
+wong I-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -19569,8 +19569,8 @@ stomach O -999
 
 whoever O -999
 the O -999
-jazz B-ASP 2
-duo I-ASP 2
+jazz B-ASP Positive
+duo I-ASP Positive
 was O -999
 , O -999
 they O -999
@@ -19580,7 +19580,7 @@ point O -999
 . O -999
 
 good O -999
-music B-ASP 2
+music B-ASP Positive
 , O -999
 great O -999
 food B-ASP -999
@@ -19595,7 +19595,7 @@ good O -999
 music B-ASP -999
 , O -999
 great O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 speedy O -999
 service B-ASP -999
@@ -19610,30 +19610,30 @@ great O -999
 food B-ASP -999
 , O -999
 speedy O -999
-service B-ASP 2
+service B-ASP Positive
 affordable O -999
 prices O -999
 . O -999
 
 even O -999
 the O -999
-wine B-ASP 2
-by I-ASP 2
-the I-ASP 2
-glass I-ASP 2
+wine B-ASP Positive
+by I-ASP Positive
+the I-ASP Positive
+glass I-ASP Positive
 was O -999
 good O -999
 . O -999
 
 consistently O -999
 good O -999
-japanese B-ASP 2
-tapas I-ASP 2
+japanese B-ASP Positive
+tapas I-ASP Positive
 . O -999
 
 always O -999
 good O -999
-drinks B-ASP 2
+drinks B-ASP Positive
 and O -999
 service B-ASP -999
 is O -999
@@ -19645,13 +19645,13 @@ always O -999
 good O -999
 drinks B-ASP -999
 and O -999
-service B-ASP 2
+service B-ASP Positive
 is O -999
 pretty O -999
 good O -999
 ; O -999
 
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 is O -999
 nice O -999
 and O -999
@@ -19661,7 +19661,7 @@ too O -999
 
 a O -999
 great O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 meet O -999
 up O -999
@@ -19672,11 +19672,11 @@ and O -999
 drinks O -999
 ... O -999
 
-yakitori B-ASP 2
-( I-ASP 2
-bbq I-ASP 2
-meats I-ASP 2
-) I-ASP 2
+yakitori B-ASP Positive
+( I-ASP Positive
+bbq I-ASP Positive
+meats I-ASP Positive
+) I-ASP Positive
 is O -999
 tasty O -999
 too O -999
@@ -19692,7 +19692,7 @@ pre O -999
 sliced O -999
 low O -999
 quality O -999
-fish B-ASP 0
+fish B-ASP Negative
 , O -999
 unfriendly O -999
 staff B-ASP -999
@@ -19726,7 +19726,7 @@ quality O -999
 fish B-ASP -999
 , O -999
 unfriendly O -999
-staff B-ASP 0
+staff B-ASP Negative
 and O -999
 a O -999
 sushi B-ASP -999
@@ -19760,8 +19760,8 @@ unfriendly O -999
 staff B-ASP -999
 and O -999
 a O -999
-sushi B-ASP 0
-chef I-ASP 0
+sushi B-ASP Negative
+chef I-ASP Negative
 that O -999
 looks O -999
 like O -999
@@ -19779,7 +19779,7 @@ price O -999
 and O -999
 quality O -999
 of O -999
-fish B-ASP 0
+fish B-ASP Negative
 alone O -999
 will O -999
 keep O -999
@@ -19811,7 +19811,7 @@ dining O -999
 we O -999
 watched O -999
 the O -999
-chef B-ASP 0
+chef B-ASP Negative
 accidentally O -999
 drop O -999
 a O -999
@@ -19843,7 +19843,7 @@ preparing O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 , O -999
 which O -999
 is O -999
@@ -19862,7 +19862,7 @@ secret O -999
 ! O -999
 
 fabulous O -999
-decor B-ASP 2
+decor B-ASP Positive
 - O -999
 makes O -999
 you O -999
@@ -19954,7 +19954,7 @@ restaurant O -999
 very O -999
 very O -999
 good O -999
-food B-ASP 2
+food B-ASP Positive
 , O -999
 cheaply O -999
 - O -999
@@ -20037,7 +20037,7 @@ priced O -999
 , O -999
 generally O -999
 friendly O -999
-staff B-ASP 2
+staff B-ASP Positive
 , O -999
 and O -999
 if O -999
@@ -20130,8 +20130,8 @@ time O -999
 in O -999
 manhattan O -999
 , O -999
-rice B-ASP 2
-avenue I-ASP 2
+rice B-ASP Positive
+avenue I-ASP Positive
 will O -999
 make O -999
 you O -999
@@ -20167,7 +20167,7 @@ seated O -999
 outside O -999
 and O -999
 the O -999
-waiter B-ASP 0
+waiter B-ASP Negative
 spilled O -999
 red O -999
 wine O -999
@@ -20199,7 +20199,7 @@ we O -999
 got O -999
 a O -999
 snobby O -999
-waiter B-ASP 0
+waiter B-ASP Negative
 would O -999
 n't O -999
 even O -999
@@ -20236,7 +20236,7 @@ do O -999
 n't O -999
 need O -999
 overpriced O -999
-food B-ASP 0
+food B-ASP Negative
 , O -999
 absurdly O -999
 arrogant O -999
@@ -20283,9 +20283,9 @@ food B-ASP -999
 , O -999
 absurdly O -999
 arrogant O -999
-wait B-ASP 0
-- I-ASP 0
-staff I-ASP 0
+wait B-ASP Negative
+- I-ASP Negative
+staff I-ASP Negative
 who O -999
 do O -999
 n't O -999
@@ -20341,7 +20341,7 @@ glorified O -999
 diner O -999
 , O -999
 clumsy O -999
-service B-ASP 0
+service B-ASP Negative
 , O -999
 and O -999
 management B-ASP -999
@@ -20387,7 +20387,7 @@ clumsy O -999
 service B-ASP -999
 , O -999
 and O -999
-management B-ASP 0
+management B-ASP Negative
 that O -999
 does O -999
 n't O -999
@@ -20413,7 +20413,7 @@ was O -999
 disappointed O -999
 with O -999
 the O -999
-service B-ASP 0
+service B-ASP Negative
 and O -999
 i O -999
 thought O -999
@@ -20452,7 +20452,7 @@ and O -999
 i O -999
 thought O -999
 the O -999
-food B-ASP 0
+food B-ASP Negative
 was O -999
 overated O -999
 and O -999
@@ -20463,7 +20463,7 @@ side O -999
 . O -999
 
 the O -999
-food B-ASP 1
+food B-ASP Neutral
 is O -999
 okay O -999
 and O -999
@@ -20478,7 +20478,7 @@ baluchi B-ASP -999
 's I-ASP -999
 has O -999
 solid O -999
-food B-ASP 2
+food B-ASP Positive
 and O -999
 a O -999
 nice O -999
@@ -20496,14 +20496,14 @@ food B-ASP -999
 and O -999
 a O -999
 nice O -999
-decor B-ASP 2
+decor B-ASP Positive
 at O -999
 reasonable O -999
 prices O -999
 . O -999
 
-baluchi B-ASP 2
-'s I-ASP 2
+baluchi B-ASP Positive
+'s I-ASP Positive
 has O -999
 solid O -999
 food B-ASP -999
@@ -20522,7 +20522,7 @@ problem O -999
 is O -999
 that O -999
 the O -999
-manager B-ASP 0
+manager B-ASP Negative
 is O -999
 a O -999
 complete O -999
@@ -20532,7 +20532,7 @@ incompetent O -999
 he O -999
 offers O -999
 subpar O -999
-service B-ASP 0
+service B-ASP Negative
 and O -999
 has O -999
 no O -999
@@ -20546,7 +20546,7 @@ excuse O -999
 for O -999
 such O -999
 lousy O -999
-service B-ASP 0
+service B-ASP Negative
 ! O -999
 
 i O -999
@@ -20559,17 +20559,17 @@ pieces O -999
 of O -999
 relatively O -999
 good O -999
-nigiri B-ASP 1
+nigiri B-ASP Neutral
 . O -999
 
 $ O -999
 20 O -999
 for O -999
-all B-ASP 2
-you I-ASP 2
-can I-ASP 2
-eat I-ASP 2
-sushi I-ASP 2
+all B-ASP Positive
+you I-ASP Positive
+can I-ASP Positive
+eat I-ASP Positive
+sushi I-ASP Positive
 can O -999
 not O -999
 be O -999
@@ -20579,7 +20579,7 @@ beaten O -999
 i O -999
 went O -999
 to O -999
-areo B-ASP 2
+areo B-ASP Positive
 on O -999
 a O -999
 sunday O -999
@@ -20601,7 +20601,7 @@ there O -999
 most O -999
 of O -999
 the O -999
-servers B-ASP 2
+servers B-ASP Positive
 are O -999
 very O -999
 attentive O -999
@@ -20613,7 +20613,7 @@ attractive O -999
 . O -999
 
 the O -999
-vibe B-ASP 2
+vibe B-ASP Positive
 is O -999
 very O -999
 relaxed O -999
@@ -20638,7 +20638,7 @@ relaxed O -999
 and O -999
 cozy O -999
 , O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 great O -999
 and O -999
@@ -20661,12 +20661,12 @@ was O -999
 great O -999
 and O -999
 the O -999
-food B-ASP 2
+food B-ASP Positive
 was O -999
 excellent O -999
 ! O -999
 
-food B-ASP 2
+food B-ASP Positive
 was O -999
 good O -999
 and O -999
@@ -20699,13 +20699,13 @@ was O -999
 good O -999
 and O -999
 the O -999
-view B-ASP 2
-of I-ASP 2
-the I-ASP 2
-new I-ASP 2
-york I-ASP 2
-city I-ASP 2
-skiline I-ASP 2
+view B-ASP Positive
+of I-ASP Positive
+the I-ASP Positive
+new I-ASP Positive
+york I-ASP Positive
+city I-ASP Positive
+skiline I-ASP Positive
 was O -999
 terrific O -999
 even O -999
@@ -20728,10 +20728,10 @@ highly O -999
 recommand O -999
 requesting O -999
 a O -999
-table B-ASP 2
-by I-ASP 2
-the I-ASP 2
-window I-ASP 2
+table B-ASP Positive
+by I-ASP Positive
+the I-ASP Positive
+window I-ASP Positive
 . O -999
 
 although O -999
@@ -20748,7 +20748,7 @@ you O -999
 like O -999
 questions O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 was O -999
 good O -999
 and O -999
@@ -20783,19 +20783,19 @@ overall O -999
 very O -999
 relaxing O -999
 to O -999
-place B-ASP 2
+place B-ASP Positive
 to O -999
 eat O -999
 . O -999
 
 the O -999
-food B-ASP 2
+food B-ASP Positive
 is O -999
 great O -999
 . O -999
 
-personal B-ASP 2
-pans I-ASP 2
+personal B-ASP Positive
+pans I-ASP Positive
 are O -999
 the O -999
 perfect O -999
@@ -20817,8 +20817,8 @@ ordering O -999
 in O -999
 -- O -999
 the O -999
-delivery B-ASP 0
-guys I-ASP 0
+delivery B-ASP Negative
+guys I-ASP Negative
 have O -999
 major O -999
 attitude O -999
@@ -20830,8 +20830,8 @@ i O -999
 had O -999
 such O -999
 dramatic O -999
-delivery B-ASP 0
-guys I-ASP 0
+delivery B-ASP Negative
+guys I-ASP Negative
 ( O -999
 a O -999
 lot O -999
@@ -20863,7 +20863,7 @@ tips O -999
 
 love O -999
 the O -999
-scene B-ASP 2
+scene B-ASP Positive
 first O -999
 off- O -999
 the O -999
@@ -20890,7 +20890,7 @@ scene B-ASP -999
 first O -999
 off- O -999
 the O -999
-place B-ASP 2
+place B-ASP Positive
 has O -999
 a O -999
 character O -999
@@ -20926,12 +20926,12 @@ it O -999
 very O -999
 fortunate O -999
 , O -999
-location B-ASP 2
+location B-ASP Positive
 wise O -999
 . O -999
 
 the O -999
-pizza B-ASP 2
+pizza B-ASP Positive
 was O -999
 pretty O -999
 good O -999
@@ -20947,10 +20947,10 @@ got O -999
 the O -999
 family O -999
 size O -999
-penne B-ASP 2
-a I-ASP 2
-la I-ASP 2
-vodka I-ASP 2
+penne B-ASP Positive
+a I-ASP Positive
+la I-ASP Positive
+vodka I-ASP Positive
 which O -999
 was O -999
 tremendously O -999
@@ -20965,8 +20965,8 @@ literally O -999
 . O -999
 
 the O -999
-pasta B-ASP 0
-penne I-ASP 0
+pasta B-ASP Negative
+penne I-ASP Negative
 was O -999
 pretty O -999
 extra O -999
@@ -21015,8 +21015,8 @@ stuffed O -999
 ... O -999
 lol O -999
 
-la B-ASP 2
-rosa I-ASP 2
+la B-ASP Positive
+rosa I-ASP Positive
 waltzes O -999
 in O -999
 , O -999
@@ -21035,7 +21035,7 @@ interesting O -999
 selection B-ASP -999
 , O -999
 good O -999
-wines B-ASP 2
+wines B-ASP Positive
 , O -999
 service B-ASP -999
 fine O -999
@@ -21050,7 +21050,7 @@ selection B-ASP -999
 good O -999
 wines B-ASP -999
 , O -999
-service B-ASP 2
+service B-ASP Positive
 fine O -999
 , O -999
 fun O -999
@@ -21067,11 +21067,11 @@ service B-ASP -999
 fine O -999
 , O -999
 fun O -999
-decor B-ASP 2
+decor B-ASP Positive
 . O -999
 
 interesting O -999
-selection B-ASP 2
+selection B-ASP Positive
 , O -999
 good O -999
 wines B-ASP -999
@@ -21093,7 +21093,7 @@ night O -999
 , O -999
 the O -999
 perfect O -999
-spot B-ASP 2
+spot B-ASP Positive
 to O -999
 warm O -999
 up O -999
@@ -21102,14 +21102,14 @@ up O -999
 i O -999
 recieved O -999
 prompt O -999
-service B-ASP 2
+service B-ASP Positive
 with O -999
 a O -999
 smile O -999
 . O -999
 
 this O -999
-place B-ASP 2
+place B-ASP Positive
 blew O -999
 me O -999
 away O -999
@@ -21127,8 +21127,8 @@ side O -999
 . O -999
 
 the O -999
-wine B-ASP 2
-list I-ASP 2
+wine B-ASP Positive
+list I-ASP Positive
 is O -999
 extensive O -999
 and O -999
@@ -21137,7 +21137,7 @@ impressive O -999
 
 love O -999
 the O -999
-atmosphere B-ASP 2
+atmosphere B-ASP Positive
 - O -999
 felt O -999
 like O -999
@@ -21148,7 +21148,7 @@ paris O -999
 . O -999
 
 the O -999
-mussels B-ASP 2
+mussels B-ASP Positive
 were O -999
 fantastic O -999
 and O -999
@@ -21174,7 +21174,7 @@ and O -999
 so O -999
 was O -999
 the O -999
-dessert B-ASP 2
+dessert B-ASP Positive
 ... O -999
 definitely O -999
 going O -999
@@ -21202,7 +21202,7 @@ to O -999
 say O -999
 about O -999
 the O -999
-service B-ASP 2
+service B-ASP Positive
 and O -999
 the O -999
 great O -999
@@ -21233,7 +21233,7 @@ service B-ASP -999
 and O -999
 the O -999
 great O -999
-staff B-ASP 2
+staff B-ASP Positive
 at O -999
 la O -999
 lanterna O -999
@@ -21243,7 +21243,7 @@ over O -999
 the O -999
 years O -999
 the O -999
-host B-ASP 2
+host B-ASP Positive
 , O -999
 vittorio O -999
 , O -999
@@ -21301,7 +21301,7 @@ vittorio O -999
 , O -999
 and O -999
 his O -999
-crew B-ASP 2
+crew B-ASP Positive
 , O -999
 have O -999
 always O -999
@@ -21367,8 +21367,8 @@ bar I-ASP -999
 the O -999
 most O -999
 fantastic O -999
-dining B-ASP 2
-garden I-ASP 2
+dining B-ASP Positive
+garden I-ASP Positive
 , O -999
 the O -999
 best O -999
@@ -21414,8 +21414,8 @@ years O -999
 : O -999
 a O -999
 new O -999
-jazz B-ASP 2
-bar I-ASP 2
+jazz B-ASP Positive
+bar I-ASP Positive
 , O -999
 the O -999
 most O -999
@@ -21478,9 +21478,9 @@ garden I-ASP -999
 , O -999
 the O -999
 best O -999
-thin B-ASP 2
-crust I-ASP 2
-pizzas I-ASP 2
+thin B-ASP Positive
+crust I-ASP Positive
+pizzas I-ASP Positive
 , O -999
 and O -999
 now O -999
@@ -21538,8 +21538,8 @@ pizzas I-ASP -999
 and O -999
 now O -999
 a O -999
-lasagna B-ASP 2
-menu I-ASP 2
+lasagna B-ASP Positive
+menu I-ASP Positive
 which O -999
 is O -999
 to O -999
@@ -21558,7 +21558,7 @@ lasagnas O -999
 i O -999
 love O -999
 this O -999
-place B-ASP 2
+place B-ASP Positive
 ! O -999
 
 i O -999
@@ -21571,7 +21571,7 @@ never O -999
 had O -999
 a O -999
 disapointing O -999
-meal B-ASP 2
+meal B-ASP Positive
 here O -999
 . O -999
 

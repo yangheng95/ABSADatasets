@@ -1,7 +1,7 @@
 而 O -999
 且 O -999
-操 B-ASP 1
-作 I-ASP 1
+操 B-ASP Positive
+作 I-ASP Positive
 容 O -999
 易 O -999
 掌 O -999
@@ -10,8 +10,8 @@
 简 O -999
 洁 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
 非 O -999
 常 O -999
@@ -19,8 +19,8 @@
 性 O -999
 化 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 啊 O -999
 
 前 O -999
@@ -28,11 +28,11 @@
 均 O -999
 匀 O -999
 的 O -999
-配 B-ASP 1
-重 I-ASP 1
+配 B-ASP Positive
+重 I-ASP Positive
 
-整 B-ASP 1
-体 I-ASP 1
+整 B-ASP Positive
+体 I-ASP Positive
 感 O -999
 觉 O -999
 很 O -999
@@ -40,26 +40,26 @@
 然 O -999
 
 使 O -999
-照 B-ASP 1
-片 I-ASP 1
-分 I-ASP 1
-辨 I-ASP 1
-率 I-ASP 1
+照 B-ASP Positive
+片 I-ASP Positive
+分 I-ASP Positive
+辨 I-ASP Positive
+率 I-ASP Positive
 高 O -999
 
 丰 O -999
 富 O -999
 的 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 强 O -999
 大 O -999
 的 O -999
-配 B-ASP 1
-置 I-ASP 1
+配 B-ASP Positive
+置 I-ASP Positive
 和 O -999
 主 O -999
 流 O -999
@@ -72,10 +72,10 @@
 出 O -999
 色 O -999
 的 O -999
-制 B-ASP 1
-造 I-ASP 1
-工 I-ASP 1
-艺 I-ASP 1
+制 B-ASP Positive
+造 I-ASP Positive
+工 I-ASP Positive
+艺 I-ASP Positive
 加 O -999
 上 O -999
 强 O -999
@@ -93,20 +93,20 @@
 
 使 O -999
 得 O -999
-夜 B-ASP 0
-景 I-ASP 0
-拍 I-ASP 0
-摄 I-ASP 0
-能 I-ASP 0
-力 I-ASP 0
+夜 B-ASP Negative
+景 I-ASP Negative
+拍 I-ASP Negative
+摄 I-ASP Negative
+能 I-ASP Negative
+力 I-ASP Negative
 一 O -999
 般 O -999
 
-背 B-ASP 0
-面 I-ASP 0
-的 I-ASP 0
-设 I-ASP 0
-计 I-ASP 0
+背 B-ASP Negative
+面 I-ASP Negative
+的 I-ASP Negative
+设 I-ASP Negative
+计 I-ASP Negative
 个 O -999
 人 O -999
 感 O -999
@@ -116,29 +116,29 @@
 局 O -999
 促 O -999
 
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 时 O -999
 尚 O -999
 
-显 B-ASP 0
-示 I-ASP 0
-屏 I-ASP 0
-的 I-ASP 0
-像 I-ASP 0
-素 I-ASP 0
+显 B-ASP Negative
+示 I-ASP Negative
+屏 I-ASP Negative
+的 I-ASP Negative
+像 I-ASP Negative
+素 I-ASP Negative
 低 O -999
 
 所 O -999
 以 O -999
 在 O -999
-图 B-ASP 1
-像 I-ASP 1
-处 I-ASP 1
-理 I-ASP 1
-的 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+图 B-ASP Positive
+像 I-ASP Positive
+处 I-ASP Positive
+理 I-ASP Positive
+的 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 方 O -999
 面 O -999
 非 O -999
@@ -148,8 +148,8 @@
 
 它 O -999
 们 O -999
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 大 O -999
 气 O -999
 又 O -999
@@ -162,16 +162,16 @@
 寸 O -999
 的 O -999
 大 O -999
-屏 B-ASP 1
-幕 I-ASP 1
+屏 B-ASP Positive
+幕 I-ASP Positive
 
 有 O -999
 大 O -999
 量 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 供 O -999
 选 O -999
 择 O -999
@@ -179,23 +179,23 @@
 使 O -999
 它 O -999
 的 O -999
-色 B-ASP 1
-泽 I-ASP 1
+色 B-ASP Positive
+泽 I-ASP Positive
 鲜 O -999
 亮 O -999
 
-操 B-ASP 0
-作 I-ASP 0
+操 B-ASP Negative
+作 I-ASP Negative
 上 O -999
 不 O -999
 爽 O -999
 若 O -999
 干 O -999
 
-快 B-ASP 0
-门 I-ASP 0
-时 I-ASP 0
-滞 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+时 I-ASP Negative
+滞 I-ASP Negative
 真 O -999
 的 O -999
 让 O -999
@@ -205,10 +205,10 @@
 爽 O -999
 
 在 O -999
-噪 B-ASP 1
-点 I-ASP 1
-控 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+控 I-ASP Positive
+制 I-ASP Positive
 上 O -999
 还 O -999
 是 O -999
@@ -222,12 +222,12 @@
 图 O -999
 象 O -999
 的 O -999
-细 B-ASP 1
-节 I-ASP 1
-表 I-ASP 1
-现 I-ASP 1
-方 I-ASP 1
-面 I-ASP 1
+细 B-ASP Positive
+节 I-ASP Positive
+表 I-ASP Positive
+现 I-ASP Positive
+方 I-ASP Positive
+面 I-ASP Positive
 和 O -999
 图 O -999
 象 O -999
@@ -247,8 +247,8 @@
 机 O -999
 器 O -999
 的 O -999
-价 B-ASP 1
-格 I-ASP 1
+价 B-ASP Positive
+格 I-ASP Positive
 方 O -999
 面 O -999
 现 O -999
@@ -258,8 +258,8 @@
 低 O -999
 
 且 O -999
-变 B-ASP 1
-焦 I-ASP 1
+变 B-ASP Positive
+焦 I-ASP Positive
 过 O -999
 程 O -999
 非 O -999
@@ -271,8 +271,8 @@
 
 不 O -999
 仅 O -999
-外 B-ASP 0
-观 I-ASP 0
+外 B-ASP Negative
+观 I-ASP Negative
 上 O -999
 略 O -999
 显 O -999
@@ -290,8 +290,8 @@
 常 O -999
 见 O -999
 的 O -999
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 现 O -999
 像 O -999
 已 O -999
@@ -303,8 +303,8 @@
 精 O -999
 良 O -999
 的 O -999
-做 B-ASP 1
-工 I-ASP 1
+做 B-ASP Positive
+工 I-ASP Positive
 
 而 O -999
 且 O -999
@@ -316,29 +316,29 @@
 完 O -999
 美 O -999
 的 O -999
-手 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 人 O -999
 像 O -999
 
-快 B-ASP 0
-门 I-ASP 0
-延 I-ASP 0
-时 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+延 I-ASP Negative
+时 I-ASP Negative
 很 O -999
 长 O -999
 
 使 O -999
 得 O -999
-拍 B-ASP 0
-照 I-ASP 0
-的 I-ASP 0
-抓 I-ASP 0
-拍 I-ASP 0
-能 I-ASP 0
-力 I-ASP 0
+拍 B-ASP Negative
+照 I-ASP Negative
+的 I-ASP Negative
+抓 I-ASP Negative
+拍 I-ASP Negative
+能 I-ASP Negative
+力 I-ASP Negative
 不 O -999
 是 O -999
 很 O -999
@@ -349,15 +349,15 @@
 清 O -999
 晰 O -999
 的 O -999
-取 B-ASP 1
-景 I-ASP 1
-器 I-ASP 1
-图 I-ASP 1
-像 I-ASP 1
+取 B-ASP Positive
+景 I-ASP Positive
+器 I-ASP Positive
+图 I-ASP Positive
+像 I-ASP Positive
 
-白 B-ASP 0
-平 I-ASP 0
-衡 I-ASP 0
+白 B-ASP Negative
+平 I-ASP Negative
+衡 I-ASP Negative
 控 O -999
 制 O -999
 方 O -999
@@ -374,14 +374,14 @@
 的 O -999
 高 O -999
 速 O -999
-快 B-ASP 1
-门 I-ASP 1
+快 B-ASP Positive
+门 I-ASP Positive
 
 机 O -999
 顶 O -999
-闪 B-ASP 1
-光 I-ASP 1
-灯 I-ASP 1
+闪 B-ASP Positive
+光 I-ASP Positive
+灯 I-ASP Positive
 位 O -999
 置 O -999
 相 O -999
@@ -389,8 +389,8 @@
 合 O -999
 理 O -999
 
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 等 O -999
 各 O -999
 方 O -999
@@ -404,8 +404,8 @@
 优 O -999
 秀 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 方 O -999
 面 O -999
 更 O -999
@@ -423,22 +423,22 @@
 性 O -999
 化 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
 英 O -999
 寸 O -999
 的 O -999
 大 O -999
-屏 B-ASP 1
-幕 I-ASP 1
+屏 B-ASP Positive
+幕 I-ASP Positive
 的 O -999
 显 O -999
 示 O -999
 器 O -999
 
-开 B-ASP 0
-关 I-ASP 0
+开 B-ASP Negative
+关 I-ASP Negative
 等 O -999
 没 O -999
 有 O -999
@@ -449,16 +449,16 @@
 小 O -999
 巧 O -999
 的 O -999
-外 B-ASP 1
-型 I-ASP 1
+外 B-ASP Positive
+型 I-ASP Positive
 
 画 O -999
 面 O -999
 角 O -999
 落 O -999
 的 O -999
-细 B-ASP 1
-节 I-ASP 1
+细 B-ASP Positive
+节 I-ASP Positive
 损 O -999
 失 O -999
 不 O -999
@@ -467,12 +467,12 @@
 优 O -999
 秀 O -999
 的 O -999
-画 B-ASP 1
-质 I-ASP 1
+画 B-ASP Positive
+质 I-ASP Positive
 
-对 B-ASP 0
-焦 I-ASP 0
-点 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+点 I-ASP Negative
 少 O -999
 了 O -999
 点 O -999
@@ -480,18 +480,18 @@
 有 O -999
 大 O -999
 量 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 供 O -999
 选 O -999
 择 O -999
 
-对 B-ASP 0
-焦 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 方 O -999
 面 O -999
 依 O -999
@@ -506,14 +506,14 @@
 优 O -999
 秀 O -999
 的 O -999
-图 B-ASP 1
-像 I-ASP 1
-细 I-ASP 1
-节 I-ASP 1
-捕 I-ASP 1
-捉 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+图 B-ASP Positive
+像 I-ASP Positive
+细 I-ASP Positive
+节 I-ASP Positive
+捕 I-ASP Positive
+捉 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 和 O -999
 图 O -999
 像 O -999
@@ -521,19 +521,19 @@
 度 O -999
 
 在 O -999
-短 B-ASP 0
-片 I-ASP 0
-拍 I-ASP 0
-摄 I-ASP 0
+短 B-ASP Negative
+片 I-ASP Negative
+拍 I-ASP Negative
+摄 I-ASP Negative
 上 O -999
 比 O -999
 较 O -999
 弱 O -999
 
-机 B-ASP 0
-身 I-ASP 0
-造 I-ASP 0
-型 I-ASP 0
+机 B-ASP Negative
+身 I-ASP Negative
+造 I-ASP Negative
+型 I-ASP Negative
 感 O -999
 觉 O -999
 没 O -999
@@ -543,10 +543,10 @@
 亮 O -999
 点 O -999
 
-电 B-ASP 1
-池 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+电 B-ASP Positive
+池 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 上 O -999
 更 O -999
 值 O -999
@@ -554,15 +554,15 @@
 一 O -999
 提 O -999
 
-机 B-ASP 1
-子 I-ASP 1
-重 I-ASP 1
-量 I-ASP 1
+机 B-ASP Positive
+子 I-ASP Positive
+重 I-ASP Positive
+量 I-ASP Positive
 还 O -999
 行 O -999
 
-外 B-ASP 0
-观 I-ASP 0
+外 B-ASP Negative
+观 I-ASP Negative
 依 O -999
 旧 O -999
 不 O -999
@@ -574,8 +574,8 @@
 全 O -999
 面 O -999
 的 O -999
-防 B-ASP 1
-水 I-ASP 1
+防 B-ASP Positive
+水 I-ASP Positive
 和 O -999
 防 O -999
 尘 O -999
@@ -588,23 +588,23 @@
 镁 O -999
 合 O -999
 金 O -999
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 
-整 B-ASP 1
-体 I-ASP 1
-感 I-ASP 1
-觉 I-ASP 1
+整 B-ASP Positive
+体 I-ASP Positive
+感 I-ASP Positive
+觉 I-ASP Positive
 厚 O -999
 实 O -999
 
 出 O -999
 色 O -999
 的 O -999
-色 B-ASP 1
-彩 I-ASP 1
-表 I-ASP 1
-现 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+表 I-ASP Positive
+现 I-ASP Positive
 
 因 O -999
 此 O -999
@@ -612,8 +612,8 @@
 成 O -999
 整 O -999
 个 O -999
-画 B-ASP 0
-面 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
 偏 O -999
 灰 O -999
 
@@ -622,16 +622,16 @@
 相 O -999
 机 O -999
 在 O -999
-外 B-ASP 0
-观 I-ASP 0
+外 B-ASP Negative
+观 I-ASP Negative
 上 O -999
 并 O -999
 非 O -999
 超 O -999
 薄 O -999
 
-做 B-ASP 1
-工 I-ASP 1
+做 B-ASP Positive
+工 I-ASP Positive
 一 O -999
 流 O -999
 
@@ -641,29 +641,29 @@
 准 O -999
 专 O -999
 业 O -999
-外 B-ASP 1
-形 I-ASP 1
-设 I-ASP 1
-计 I-ASP 1
+外 B-ASP Positive
+形 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 
 完 O -999
 备 O -999
 的 O -999
-手 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 完 O -999
 备 O -999
 的 O -999
-手 B-ASP 1
-动 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
 功 I-ASP -999
 能 I-ASP -999
 
-操 B-ASP 1
-作 I-ASP 1
+操 B-ASP Positive
+作 I-ASP Positive
 简 O -999
 单 O -999
 快 O -999
@@ -673,10 +673,10 @@
 很 O -999
 好 O -999
 的 O -999
-录 B-ASP 1
-音 I-ASP 1
-品 I-ASP 1
-质 I-ASP 1
+录 B-ASP Positive
+音 I-ASP Positive
+品 I-ASP Positive
+质 I-ASP Positive
 但 O -999
 没 O -999
 有 O -999
@@ -691,11 +691,11 @@
 
 虽 O -999
 然 O -999
-广 B-ASP 0
-角 I-ASP 0
-端 I-ASP 0
-视 I-ASP 0
-野 I-ASP 0
+广 B-ASP Negative
+角 I-ASP Negative
+端 I-ASP Negative
+视 I-ASP Negative
+野 I-ASP Negative
 较 O -999
 标 O -999
 准 O -999
@@ -705,8 +705,8 @@
 
 当 O -999
 然 O -999
-噪 B-ASP 0
-点 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
 问 O -999
 题 O -999
 是 O -999
@@ -716,8 +716,8 @@
 免 O -999
 的 O -999
 
-显 B-ASP 1
-色 I-ASP 1
+显 B-ASP Positive
+色 I-ASP Positive
 高 O -999
 亮 O -999
 清 O -999
@@ -728,10 +728,10 @@
 联 O -999
 想 O -999
 在 O -999
-外 B-ASP 0
-观 I-ASP 0
-设 I-ASP 0
-计 I-ASP 0
+外 B-ASP Negative
+观 I-ASP Negative
+设 I-ASP Negative
+计 I-ASP Negative
 上 O -999
 还 O -999
 显 O -999
@@ -743,10 +743,10 @@
 在 O -999
 各 O -999
 项 O -999
-拍 B-ASP 1
-摄 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 上 O -999
 还 O -999
 是 O -999
@@ -758,14 +758,14 @@
 的 O -999
 
 在 O -999
-画 B-ASP 1
-面 I-ASP 1
-细 I-ASP 1
-节 I-ASP 1
-上 I-ASP 1
-的 I-ASP 1
-表 I-ASP 1
-现 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
+细 I-ASP Positive
+节 I-ASP Positive
+上 I-ASP Positive
+的 I-ASP Positive
+表 I-ASP Positive
+现 I-ASP Positive
 还 O -999
 算 O -999
 不 O -999
@@ -776,8 +776,8 @@
 的 O -999
 各 O -999
 项 O -999
-功 B-ASP 1
-能 I-ASP 1
+功 B-ASP Positive
+能 I-ASP Positive
 之 O -999
 丰 O -999
 富 O -999
@@ -788,8 +788,8 @@
 所 O -999
 说 O -999
 的 O -999
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 现 O -999
 象 O -999
 也 O -999
@@ -807,16 +807,16 @@
 有 O -999
 明 O -999
 显 O -999
-紫 B-ASP 0
-边 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
 现 O -999
 象 O -999
 
-超 B-ASP 1
-级 I-ASP 1
+超 B-ASP Positive
+级 I-ASP Positive
 
-画 B-ASP 1
-面 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
 中 O -999
 透 O -999
 着 O -999
@@ -825,8 +825,8 @@
 柔 O -999
 和 O -999
 
-镜 B-ASP 1
-头 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
 在 O -999
 同 O -999
 级 O -999
@@ -845,10 +845,10 @@
 很 O -999
 短 O -999
 的 O -999
-快 B-ASP 1
-门 I-ASP 1
-延 I-ASP 1
-迟 I-ASP 1
+快 B-ASP Positive
+门 I-ASP Positive
+延 I-ASP Positive
+迟 I-ASP Positive
 
 实 O -999
 际 O -999
@@ -860,20 +860,20 @@
 图 O -999
 像 O -999
 中 O -999
-画 B-ASP 1
-面 I-ASP 1
-反 I-ASP 1
-差 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
+反 I-ASP Positive
+差 I-ASP Positive
 适 O -999
 中 O -999
 
 的 O -999
-整 B-ASP 1
-体 I-ASP 1
-的 I-ASP 1
-流 I-ASP 1
-线 I-ASP 1
-型 I-ASP 1
+整 B-ASP Positive
+体 I-ASP Positive
+的 I-ASP Positive
+流 I-ASP Positive
+线 I-ASP Positive
+型 I-ASP Positive
 做 O -999
 的 O -999
 十 O -999
@@ -885,16 +885,16 @@
 寸 O -999
 超 O -999
 大 O -999
-液 B-ASP 1
-晶 I-ASP 1
-屏 I-ASP 1
-幕 I-ASP 1
+液 B-ASP Positive
+晶 I-ASP Positive
+屏 I-ASP Positive
+幕 I-ASP Positive
 
 的 O -999
-镜 B-ASP 1
-头 I-ASP 1
-配 I-ASP 1
-置 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
+配 I-ASP Positive
+置 I-ASP Positive
 也 O -999
 绝 O -999
 对 O -999
@@ -909,8 +909,8 @@
 机 O -999
 器 O -999
 在 O -999
-设 B-ASP 0
-计 I-ASP 0
+设 B-ASP Negative
+计 I-ASP Negative
 上 O -999
 不 O -999
 合 O -999
@@ -929,10 +929,10 @@
 码 O -999
 相 O -999
 机 O -999
-外 B-ASP 1
-观 I-ASP 1
-设 I-ASP 1
-计 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 方 O -999
 面 O -999
 唯 O -999
@@ -946,8 +946,8 @@
 点 O -999
 了 O -999
 
-细 B-ASP 1
-节 I-ASP 1
+细 B-ASP Positive
+节 I-ASP Positive
 方 O -999
 面 O -999
 处 O -999
@@ -961,11 +961,11 @@
 拍 O -999
 摄 O -999
 的 O -999
-相 B-ASP 0
-片 I-ASP 0
-真 I-ASP 0
-实 I-ASP 0
-感 I-ASP 0
+相 B-ASP Negative
+片 I-ASP Negative
+真 I-ASP Negative
+实 I-ASP Negative
+感 I-ASP Negative
 较 O -999
 差 O -999
 
@@ -975,49 +975,49 @@
 明 O -999
 显 O -999
 的 O -999
-噪 B-ASP 0
-点 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
 现 O -999
 象 O -999
 
-感 B-ASP 1
-光 I-ASP 1
-度 I-ASP 1
-范 I-ASP 1
-围 I-ASP 1
+感 B-ASP Positive
+光 I-ASP Positive
+度 I-ASP Positive
+范 I-ASP Positive
+围 I-ASP Positive
 广 O -999
 
-噪 B-ASP 1
-点 I-ASP 1
-的 I-ASP 1
-产 I-ASP 1
-生 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+的 I-ASP Positive
+产 I-ASP Positive
+生 I-ASP Positive
 少 O -999
 
 强 O -999
 大 O -999
 的 O -999
-拍 B-ASP 1
-动 I-ASP 1
-画 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+拍 B-ASP Positive
+动 I-ASP Positive
+画 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 这 O -999
 款 O -999
 的 O -999
-画 B-ASP 0
-质 I-ASP 0
-清 I-ASP 0
-洁 I-ASP 0
-度 I-ASP 0
+画 B-ASP Negative
+质 I-ASP Negative
+清 I-ASP Negative
+洁 I-ASP Negative
+度 I-ASP Negative
 感 O -999
 觉 O -999
 一 O -999
 般 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 整 O -999
 体 O -999
 还 O -999
@@ -1028,10 +1028,10 @@
 点 O -999
 
 所 O -999
-拍 B-ASP 1
-摄 I-ASP 1
-照 I-ASP 1
-片 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+照 I-ASP Positive
+片 I-ASP Positive
 整 O -999
 体 O -999
 和 O -999
@@ -1041,13 +1041,13 @@
 不 O -999
 良 O -999
 的 O -999
-紫 B-ASP 0
-边 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
 现 O -999
 象 O -999
 
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 美 O -999
 
 双 O -999
@@ -1055,8 +1055,8 @@
 池 O -999
 系 O -999
 统 O -999
-电 B-ASP 1
-力 I-ASP 1
+电 B-ASP Positive
+力 I-ASP Positive
 超 O -999
 长 O -999
 
@@ -1071,8 +1071,8 @@
 机 O -999
 当 O -999
 中 O -999
-配 B-ASP 0
-置 I-ASP 0
+配 B-ASP Negative
+置 I-ASP Negative
 最 O -999
 低 O -999
 的 O -999
@@ -1082,16 +1082,16 @@
 丰 O -999
 富 O -999
 的 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 威 O -999
 猛 O -999
 的 O -999
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 
 这 O -999
 反 O -999
@@ -1099,8 +1099,8 @@
 出 O -999
 产 O -999
 品 O -999
-做 B-ASP 1
-工 I-ASP 1
+做 B-ASP Positive
+工 I-ASP Positive
 的 O -999
 精 O -999
 细 O -999
@@ -1116,16 +1116,16 @@
 的 O -999
 真 O -999
 实 O -999
-影 B-ASP 1
-像 I-ASP 1
-处 I-ASP 1
-理 I-ASP 1
-器 I-ASP 1
+影 B-ASP Positive
+像 I-ASP Positive
+处 I-ASP Positive
+理 I-ASP Positive
+器 I-ASP Positive
 
-图 B-ASP 0
-像 I-ASP 0
-储 I-ASP 0
-存 I-ASP 0
+图 B-ASP Negative
+像 I-ASP Negative
+储 I-ASP Negative
+存 I-ASP Negative
 慢 O -999
 显 O -999
 示 O -999
@@ -1147,36 +1147,36 @@
 出 O -999
 色 O -999
 的 O -999
-光 B-ASP 1
-学 I-ASP 1
-性 I-ASP 1
-能 I-ASP 1
+光 B-ASP Positive
+学 I-ASP Positive
+性 I-ASP Positive
+能 I-ASP Positive
 
 超 O -999
 级 O -999
-微 B-ASP 1
-距 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 佳 O -999
 能 O -999
 不 O -999
 仅 O -999
 在 O -999
-长 B-ASP 1
-焦 I-ASP 1
-距 I-ASP 1
-性 I-ASP 1
-能 I-ASP 1
+长 B-ASP Positive
+焦 I-ASP Positive
+距 I-ASP Positive
+性 I-ASP Positive
+能 I-ASP Positive
 上 O -999
 出 O -999
 众 O -999
 
 具 O -999
 有 O -999
-对 B-ASP 1
-焦 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
 安 O -999
 静 O -999
 迅 O -999
@@ -1190,21 +1190,21 @@
 细 O -999
 致 O -999
 的 O -999
-外 B-ASP 1
-壳 I-ASP 1
+外 B-ASP Positive
+壳 I-ASP Positive
 
 宽 O -999
 大 O -999
 的 O -999
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 以 O -999
 及 O -999
 手 O -999
 柄 O -999
 
-外 B-ASP 1
-形 I-ASP 1
+外 B-ASP Positive
+形 I-ASP Positive
 以 O -999
 及 O -999
 把 O -999
@@ -1219,19 +1219,19 @@
 色 O -999
 
 令 O -999
-取 B-ASP 1
-景 I-ASP 1
-角 I-ASP 1
-度 I-ASP 1
+取 B-ASP Positive
+景 I-ASP Positive
+角 I-ASP Positive
+度 I-ASP Positive
 更 O -999
 加 O -999
 灵 O -999
 活 O -999
 
-噪 B-ASP 1
-点 I-ASP 1
-抑 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+抑 I-ASP Positive
+制 I-ASP Positive
 的 O -999
 相 O -999
 当 O -999
@@ -1246,10 +1246,10 @@
 流 O -999
 行 O -999
 的 O -999
-短 B-ASP 1
-片 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
+短 B-ASP Positive
+片 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
 做 O -999
 得 O -999
 也 O -999
@@ -1260,10 +1260,10 @@
 日 O -999
 光 O -999
 下 O -999
-色 B-ASP 1
-彩 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 非 O -999
 常 O -999
 好 O -999
@@ -1277,8 +1277,8 @@
 情 O -999
 况 O -999
 下 O -999
-成 B-ASP 0
-像 I-ASP 0
+成 B-ASP Negative
+像 I-ASP Negative
 较 O -999
 差 O -999
 
@@ -1288,15 +1288,15 @@
 来 O -999
 她 O -999
 的 O -999
-反 B-ASP 1
-应 I-ASP 1
+反 B-ASP Positive
+应 I-ASP Positive
 迅 O -999
 速 O -999
 
-镜 B-ASP 0
-头 I-ASP 0
-变 I-ASP 0
-焦 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
+变 I-ASP Negative
+焦 I-ASP Negative
 不 O -999
 够 O -999
 大 O -999
@@ -1309,20 +1309,20 @@
 定 O -999
 义 O -999
 的 O -999
-快 B-ASP 0
-门 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
-值 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
+值 I-ASP Negative
 有 O -999
 限 O -999
 
 的 O -999
 上 O -999
-参 B-ASP 1
-数 I-ASP 1
-显 I-ASP 1
-示 I-ASP 1
+参 B-ASP Positive
+数 I-ASP Positive
+显 I-ASP Positive
+示 I-ASP Positive
 比 O -999
 较 O -999
 清 O -999
@@ -1332,49 +1332,49 @@
 像 O -999
 素 O -999
 的 O -999
-显 B-ASP 1
-示 I-ASP 1
+显 B-ASP Positive
+示 I-ASP Positive
 非 O -999
 常 O -999
 清 O -999
 楚 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 非 O -999
 常 O -999
 真 O -999
 实 O -999
 
-曝 B-ASP 1
-光 I-ASP 1
-模 I-ASP 1
-试 I-ASP 1
+曝 B-ASP Positive
+光 I-ASP Positive
+模 I-ASP Positive
+试 I-ASP Positive
 比 O -999
 较 O -999
 全 O -999
 面 O -999
 
-固 B-ASP 0
-定 I-ASP 0
-背 I-ASP 0
-带 I-ASP 0
-环 I-ASP 0
+固 B-ASP Negative
+定 I-ASP Negative
+背 I-ASP Negative
+带 I-ASP Negative
+环 I-ASP Negative
 不 O -999
 好 O -999
 
-微 B-ASP 1
-距 I-ASP 1
-表 I-ASP 1
-现 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+表 I-ASP Positive
+现 I-ASP Positive
 好 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
-表 I-ASP 1
-现 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+表 I-ASP Positive
+现 I-ASP Positive
 很 O -999
 真 O -999
 实 O -999
@@ -1382,55 +1382,55 @@
 不 O -999
 过 O -999
 其 O -999
-控 B-ASP 0
-键 I-ASP 0
-分 I-ASP 0
-布 I-ASP 0
+控 B-ASP Negative
+键 I-ASP Negative
+分 I-ASP Negative
+布 I-ASP Negative
 紧 O -999
 密 O -999
 
 但 O -999
-阴 B-ASP 0
-影 I-ASP 0
-处 I-ASP 0
-的 I-ASP 0
-表 I-ASP 0
-现 I-ASP 0
+阴 B-ASP Negative
+影 I-ASP Negative
+处 I-ASP Negative
+的 I-ASP Negative
+表 I-ASP Negative
+现 I-ASP Negative
 欠 O -999
 佳 O -999
 
 的 O -999
-肤 B-ASP 1
-色 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+肤 B-ASP Positive
+色 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 较 O -999
 真 O -999
 实 O -999
 
 暗 O -999
 部 O -999
-噪 B-ASP 1
-点 I-ASP 1
-控 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+控 I-ASP Positive
+制 I-ASP Positive
 相 O -999
 当 O -999
 好 O -999
 
-画 B-ASP 0
-面 I-ASP 0
-迟 I-ASP 0
-滞 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
+迟 I-ASP Negative
+滞 I-ASP Negative
 非 O -999
 常 O -999
 明 O -999
 显 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 到 O -999
 位 O -999
 
@@ -1438,8 +1438,8 @@
 身 O -999
 右 O -999
 侧 O -999
-设 B-ASP 0
-计 I-ASP 0
+设 B-ASP Negative
+计 I-ASP Negative
 过 O -999
 于 O -999
 平 O -999
@@ -1454,8 +1454,8 @@
 
 虽 O -999
 然 O -999
-曝 B-ASP 0
-光 I-ASP 0
+曝 B-ASP Negative
+光 I-ASP Negative
 准 O -999
 确 O -999
 但 O -999
@@ -1470,12 +1470,12 @@
 明 O -999
 显 O -999
 
-机 B-ASP 0
-身 I-ASP 0
-外 I-ASP 0
-形 I-ASP 0
-设 I-ASP 0
-计 I-ASP 0
+机 B-ASP Negative
+身 I-ASP Negative
+外 I-ASP Negative
+形 I-ASP Negative
+设 I-ASP Negative
+计 I-ASP Negative
 有 O -999
 些 O -999
 偏 O -999
@@ -1492,25 +1492,25 @@
 线 O -999
 下 O -999
 的 O -999
-拍 B-ASP 1
-摄 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
 非 O -999
 常 O -999
 出 O -999
 色 O -999
 
-手 B-ASP 1
-柄 I-ASP 1
-设 I-ASP 1
-计 I-ASP 1
+手 B-ASP Positive
+柄 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 得 O -999
 很 O -999
 人 O -999
 性 O -999
 化 O -999
 
-效 B-ASP 1
-率 I-ASP 1
+效 B-ASP Positive
+率 I-ASP Positive
 和 O -999
 画 O -999
 质 O -999
@@ -1525,10 +1525,10 @@
 捕 O -999
 捉 O -999
 
-机 B-ASP 1
-身 I-ASP 1
-尺 I-ASP 1
-寸 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
+尺 I-ASP Positive
+寸 I-ASP Positive
 和 O -999
 重 O -999
 量 O -999
@@ -1550,19 +1550,19 @@
 身 O -999
 上 O -999
 的 O -999
-按 B-ASP 1
-键 I-ASP 1
-布 I-ASP 1
-局 I-ASP 1
+按 B-ASP Positive
+键 I-ASP Positive
+布 I-ASP Positive
+局 I-ASP Positive
 非 O -999
 常 O -999
 传 O -999
 统 O -999
 
-快 B-ASP 1
-门 I-ASP 1
-延 I-ASP 1
-迟 I-ASP 1
+快 B-ASP Positive
+门 I-ASP Positive
+延 I-ASP Positive
+迟 I-ASP Positive
 不 O -999
 明 O -999
 显 O -999
@@ -1571,10 +1571,10 @@
 为 O -999
 它 O -999
 的 O -999
-机 B-ASP 1
-身 I-ASP 1
-体 I-ASP 1
-积 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
+体 I-ASP Positive
+积 I-ASP Positive
 与 O -999
 屏 O -999
 幕 O -999
@@ -1585,11 +1585,11 @@
 较 O -999
 小 O -999
 
-自 B-ASP 1
-动 I-ASP 1
-白 I-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+白 I-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 比 O -999
 较 O -999
 准 O -999
@@ -1599,11 +1599,11 @@
 出 O -999
 来 O -999
 的 O -999
-照 B-ASP 1
-片 I-ASP 1
-清 I-ASP 1
-晰 I-ASP 1
-度 I-ASP 1
+照 B-ASP Positive
+片 I-ASP Positive
+清 I-ASP Positive
+晰 I-ASP Positive
+度 I-ASP Positive
 和 O -999
 色 O -999
 彩 O -999
@@ -1615,8 +1615,8 @@
 好 O -999
 的 O -999
 
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 和 O -999
 暗 O -999
 角 O -999
@@ -1638,11 +1638,11 @@
 得 O -999
 体 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 更 O -999
 加 O -999
 时 O -999
@@ -1653,18 +1653,18 @@
 像 O -999
 尽 O -999
 管 O -999
-清 B-ASP 1
-晰 I-ASP 1
-度 I-ASP 1
+清 B-ASP Positive
+晰 I-ASP Positive
+度 I-ASP Positive
 比 O -999
 较 O -999
 高 O -999
 
-自 B-ASP 0
-动 I-ASP 0
-白 I-ASP 0
-平 I-ASP 0
-衡 I-ASP 0
+自 B-ASP Negative
+动 I-ASP Negative
+白 I-ASP Negative
+平 I-ASP Negative
+衡 I-ASP Negative
 偏 O -999
 差 O -999
 比 O -999
@@ -1672,10 +1672,10 @@
 明 O -999
 显 O -999
 
-处 B-ASP 1
-理 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+处 B-ASP Positive
+理 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 和 O -999
 拍 O -999
 摄 O -999
@@ -1691,8 +1691,8 @@
 镜 O -999
 头 O -999
 在 O -999
-体 B-ASP 1
-积 I-ASP 1
+体 B-ASP Positive
+积 I-ASP Positive
 与 O -999
 重 O -999
 量 O -999
@@ -1708,8 +1708,8 @@
 许 O -999
 多 O -999
 
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 和 O -999
 暗 O -999
 角 O -999
@@ -1722,28 +1722,28 @@
 不 O -999
 错 O -999
 
-自 B-ASP 1
-动 I-ASP 1
-白 I-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+白 I-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 非 O -999
 常 O -999
 准 O -999
 确 O -999
 
-快 B-ASP 1
-门 I-ASP 1
-迟 I-ASP 1
-滞 I-ASP 1
+快 B-ASP Positive
+门 I-ASP Positive
+迟 I-ASP Positive
+滞 I-ASP Positive
 极 O -999
 短 O -999
 
-自 B-ASP 1
-动 I-ASP 1
-白 I-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+白 I-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 比 O -999
 较 O -999
 准 O -999
@@ -1752,8 +1752,8 @@
 尤 O -999
 其 O -999
 是 O -999
-开 B-ASP 1
-机 I-ASP 1
+开 B-ASP Positive
+机 I-ASP Positive
 和 O -999
 变 O -999
 焦 O -999
@@ -1767,10 +1767,10 @@
 有 O -999
 多 O -999
 种 O -999
-拍 B-ASP 1
-摄 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 和 O -999
 多 O -999
 种 O -999
@@ -1805,14 +1805,14 @@
 更 O -999
 多 O -999
 的 O -999
-曝 B-ASP 1
-光 I-ASP 1
-量 I-ASP 1
-组 I-ASP 1
-合 I-ASP 1
+曝 B-ASP Positive
+光 I-ASP Positive
+量 I-ASP Positive
+组 I-ASP Positive
+合 I-ASP Positive
 
-锐 B-ASP 0
-度 I-ASP 0
+锐 B-ASP Negative
+度 I-ASP Negative
 和 O -999
 反 O -999
 差 O -999
@@ -1829,8 +1829,8 @@
 下 O -999
 它 O -999
 的 O -999
-噪 B-ASP 0
-点 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
 和 O -999
 成 O -999
 像 O -999
@@ -1845,14 +1845,14 @@
 一 O -999
 些 O -999
 
-白 B-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+白 B-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 准 O -999
 确 O -999
 
-躁 B-ASP 0
-点 I-ASP 0
+躁 B-ASP Negative
+点 I-ASP Negative
 和 O -999
 紫 O -999
 边 O -999
@@ -1861,17 +1861,17 @@
 
 为 O -999
 此 O -999
-花 B-ASP 0
-费 I-ASP 0
+花 B-ASP Negative
+费 I-ASP Negative
 不 O -999
 小 O -999
 
-画 B-ASP 0
-面 I-ASP 0
-的 I-ASP 0
-饱 I-ASP 0
-和 I-ASP 0
-度 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
+的 I-ASP Negative
+饱 I-ASP Negative
+和 I-ASP Negative
+度 I-ASP Negative
 和 O -999
 对 O -999
 比 O -999
@@ -1881,26 +1881,26 @@
 较 O -999
 低 O -999
 
-自 B-ASP 1
-动 I-ASP 1
-白 I-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+白 I-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 极 O -999
 为 O -999
 准 O -999
 确 O -999
 
-近 B-ASP 1
-拍 I-ASP 1
+近 B-ASP Positive
+拍 I-ASP Positive
 很 O -999
 爽 O -999
 
-拍 B-ASP 1
-摄 I-ASP 1
-点 I-ASP 1
-光 I-ASP 1
-源 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+点 I-ASP Positive
+光 I-ASP Positive
+源 I-ASP Positive
 及 O -999
 夜 O -999
 景 O -999
@@ -1911,8 +1911,8 @@
 
 不 O -999
 过 O -999
-做 B-ASP 1
-工 I-ASP 1
+做 B-ASP Positive
+工 I-ASP Positive
 和 O -999
 手 O -999
 感 O -999
@@ -1929,11 +1929,11 @@
 拍 O -999
 出 O -999
 的 O -999
-图 B-ASP 1
-片 I-ASP 1
-层 I-ASP 1
-次 I-ASP 1
-感 I-ASP 1
+图 B-ASP Positive
+片 I-ASP Positive
+层 I-ASP Positive
+次 I-ASP Positive
+感 I-ASP Positive
 和 O -999
 立 O -999
 体 O -999
@@ -1941,21 +1941,21 @@
 丰 O -999
 富 O -999
 
-自 B-ASP 1
-动 I-ASP 1
-曝 I-ASP 1
-光 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+曝 I-ASP Positive
+光 I-ASP Positive
 比 O -999
 较 O -999
 准 O -999
 确 O -999
 
-功 B-ASP 1
-能 I-ASP 1
-按 I-ASP 1
-键 I-ASP 1
-设 I-ASP 1
-计 I-ASP 1
+功 B-ASP Positive
+能 I-ASP Positive
+按 I-ASP Positive
+键 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 也 O -999
 更 O -999
 具 O -999
@@ -1963,9 +1963,9 @@
 性 O -999
 化 O -999
 
-白 B-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+白 B-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 准 O -999
 确 O -999
 
@@ -1975,9 +1975,9 @@
 错 O -999
 的 O -999
 高 O -999
-性 B-ASP 1
-价 I-ASP 1
-比 I-ASP 1
+性 B-ASP Positive
+价 I-ASP Positive
+比 I-ASP Positive
 
 晚 O -999
 上 O -999
@@ -1987,16 +1987,16 @@
 用 O -999
 上 O -999
 但 O -999
-噪 B-ASP 0
-点 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
 比 O -999
 较 O -999
 多 O -999
 
-成 B-ASP 1
-像 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 较 O -999
 相 O -999
 同 O -999
@@ -2019,8 +2019,8 @@
 
 暗 O -999
 部 O -999
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 和 O -999
 清 O -999
 晰 O -999
@@ -2028,10 +2028,10 @@
 较 O -999
 好 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 和 O -999
 清 O -999
 晰 O -999
@@ -2041,8 +2041,8 @@
 很 O -999
 多 O -999
 
-细 B-ASP 1
-节 I-ASP 1
+细 B-ASP Positive
+节 I-ASP Positive
 和 O -999
 色 O -999
 彩 O -999
@@ -2054,10 +2054,10 @@
 出 O -999
 众 O -999
 
-菜 B-ASP 0
-单 I-ASP 0
-操 I-ASP 0
-作 I-ASP 0
+菜 B-ASP Negative
+单 I-ASP Negative
+操 I-ASP Negative
+作 I-ASP Negative
 不 O -999
 够 O -999
 人 O -999
@@ -2066,8 +2066,8 @@
 
 它 O -999
 的 O -999
-连 B-ASP 1
-拍 I-ASP 1
+连 B-ASP Positive
+拍 I-ASP Positive
 和 O -999
 短 O -999
 片 O -999
@@ -2081,11 +2081,11 @@
 
 它 O -999
 的 O -999
-自 B-ASP 1
-动 I-ASP 1
-白 I-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+白 I-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
 相 O -999
 对 O -999
 来 O -999
@@ -2095,8 +2095,8 @@
 准 O -999
 确 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 和 O -999
 分 O -999
 辨 O -999
@@ -2113,8 +2113,8 @@
 拨 O -999
 轮 O -999
 令 O -999
-操 B-ASP 1
-作 I-ASP 1
+操 B-ASP Positive
+作 I-ASP Positive
 更 O -999
 快 O -999
 捷 O -999
@@ -2122,10 +2122,10 @@
 简 O -999
 单 O -999
 
-对 B-ASP 1
-焦 I-ASP 1
-方 I-ASP 1
-式 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 丰 O -999
 富 O -999
 且 O -999
@@ -2140,10 +2140,10 @@
 很 O -999
 快 O -999
 
-硬 B-ASP 1
-件 I-ASP 1
-配 I-ASP 1
-置 I-ASP 1
+硬 B-ASP Positive
+件 I-ASP Positive
+配 I-ASP Positive
+置 I-ASP Positive
 不 O -999
 错 O -999
 配 O -999
@@ -2165,8 +2165,8 @@
 视 O -999
 角 O -999
 
-质 B-ASP 0
-感 I-ASP 0
+质 B-ASP Negative
+感 I-ASP Negative
 没 O -999
 有 O -999
 来 O -999
@@ -2176,42 +2176,42 @@
 
 感 O -999
 觉 O -999
-按 B-ASP 0
-键 I-ASP 0
+按 B-ASP Negative
+键 I-ASP Negative
 偏 O -999
 软 O -999
 
-变 B-ASP 1
-焦 I-ASP 1
+变 B-ASP Positive
+焦 I-ASP Positive
 连 O -999
 贯 O -999
 
 人 O -999
 机 O -999
-界 B-ASP 1
-面 I-ASP 1
+界 B-ASP Positive
+面 I-ASP Positive
 亲 O -999
 和 O -999
 
 毕 O -999
 竟 O -999
 它 O -999
-像 B-ASP 1
-素 I-ASP 1
+像 B-ASP Positive
+素 I-ASP Positive
 高 O -999
 
-机 B-ASP 1
-身 I-ASP 1
-背 I-ASP 1
-面 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
+背 I-ASP Positive
+面 I-ASP Positive
 比 O -999
 较 O -999
 抢 O -999
 眼 O -999
 
 焦 O -999
-性 B-ASP 0
-能 I-ASP 0
+性 B-ASP Negative
+能 I-ASP Negative
 并 O -999
 不 O -999
 十 O -999
@@ -2225,23 +2225,23 @@
 相 O -999
 机 O -999
 的 O -999
-噪 B-ASP 1
-点 I-ASP 1
-控 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+控 I-ASP Positive
+制 I-ASP Positive
 相 O -999
 对 O -999
 较 O -999
 好 O -999
 
-电 B-ASP 1
-池 I-ASP 1
+电 B-ASP Positive
+池 I-ASP Positive
 特 O -999
 耐 O -999
 用 O -999
 
-厚 B-ASP 1
-度 I-ASP 1
+厚 B-ASP Positive
+度 I-ASP Positive
 也 O -999
 可 O -999
 以 O -999
@@ -2249,8 +2249,8 @@
 如 O -999
 此 O -999
 高 O -999
-性 B-ASP 1
-能 I-ASP 1
+性 B-ASP Positive
+能 I-ASP Positive
 的 O -999
 相 O -999
 机 O -999
@@ -2262,9 +2262,9 @@
 价 O -999
 格 O -999
 
-还 B-ASP 1
-原 I-ASP 1
-度 I-ASP 1
+还 B-ASP Positive
+原 I-ASP Positive
+度 I-ASP Positive
 不 O -999
 错 O -999
 
@@ -2275,15 +2275,15 @@
 质 O -999
 量 O -999
 的 O -999
-录 B-ASP 1
-像 I-ASP 1
+录 B-ASP Positive
+像 I-ASP Positive
 
 阴 O -999
 天 O -999
 里 O -999
 的 O -999
-长 B-ASP 0
-焦 I-ASP 0
+长 B-ASP Negative
+焦 I-ASP Negative
 表 O -999
 现 O -999
 一 O -999
@@ -2291,8 +2291,8 @@
 
 不 O -999
 但 O -999
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 看 O -999
 上 O -999
 去 O -999
@@ -2309,8 +2309,8 @@
 中 O -999
 也 O -999
 是 O -999
-质 B-ASP 1
-感 I-ASP 1
+质 B-ASP Positive
+感 I-ASP Positive
 一 O -999
 流 O -999
 
@@ -2322,9 +2322,9 @@
 的 O -999
 超 O -999
 高 O -999
-分 B-ASP 1
-辨 I-ASP 1
-率 I-ASP 1
+分 B-ASP Positive
+辨 I-ASP Positive
+率 I-ASP Positive
 的 O -999
 短 O -999
 片 O -999
@@ -2344,8 +2344,8 @@
 变 O -999
 焦 O -999
 环 O -999
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 则 O -999
 不 O -999
 错 O -999
@@ -2353,15 +2353,15 @@
 简 O -999
 洁 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
 阴 O -999
 天 O -999
 里 O -999
 的 O -999
-长 B-ASP 0
-焦 I-ASP 0
+长 B-ASP Negative
+焦 I-ASP Negative
 表 O -999
 现 O -999
 一 O -999
@@ -2369,8 +2369,8 @@
 
 也 O -999
 使 O -999
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 更 O -999
 具 O -999
 质 O -999
@@ -2382,8 +2382,8 @@
 点 O -999
 是 O -999
 使 O -999
-图 B-ASP 1
-像 I-ASP 1
+图 B-ASP Positive
+像 I-ASP Positive
 清 O -999
 晰 O -999
 锐 O -999
@@ -2401,8 +2401,8 @@
 
 在 O -999
 防 O -999
-紫 B-ASP 0
-边 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
 现 O -999
 像 O -999
 方 O -999
@@ -2420,25 +2420,25 @@
 光 O -999
 源 O -999
 下 O -999
-眩 B-ASP 0
-光 I-ASP 0
+眩 B-ASP Negative
+光 I-ASP Negative
 明 O -999
 显 O -999
 
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 一 O -999
 流 O -999
 
 高 O -999
-性 B-ASP 1
-价 I-ASP 1
-比 I-ASP 1
+性 B-ASP Positive
+价 I-ASP Positive
+比 I-ASP Positive
 
 相 O -999
 机 O -999
-对 B-ASP 0
-焦 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
 略 O -999
 显 O -999
 犹 O -999
@@ -2450,42 +2450,42 @@
 性 O -999
 化 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 啊 O -999
 
 与 O -999
 相 O -999
 比 O -999
-款 B-ASP 1
-式 I-ASP 1
+款 B-ASP Positive
+式 I-ASP Positive
 更 O -999
 新 O -999
 
 惟 O -999
 独 O -999
-紫 B-ASP 0
-边 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
 让 O -999
 人 O -999
 扫 O -999
 兴 O -999
 
-变 B-ASP 0
-焦 I-ASP 0
+变 B-ASP Negative
+焦 I-ASP Negative
 比 O -999
 小 O -999
 
 使 O -999
-操 B-ASP 1
-控 I-ASP 1
+操 B-ASP Positive
+控 I-ASP Positive
 更 O -999
 为 O -999
 简 O -999
 便 O -999
 
-按 B-ASP 1
-钮 I-ASP 1
+按 B-ASP Positive
+钮 I-ASP Positive
 设 O -999
 计 O -999
 得 O -999
@@ -2497,26 +2497,26 @@
 常 O -999
 出 O -999
 现 O -999
-测 B-ASP 0
-光 I-ASP 0
+测 B-ASP Negative
+光 I-ASP Negative
 不 O -999
 稳 O -999
 定 O -999
 
-硬 B-ASP 1
-件 I-ASP 1
-的 I-ASP 1
-全 I-ASP 1
-局 I-ASP 1
-平 I-ASP 1
-衡 I-ASP 1
-性 I-ASP 1
-比 I-ASP 1
-较 I-ASP 1
-强 I-ASP 1
+硬 B-ASP Positive
+件 I-ASP Positive
+的 I-ASP Positive
+全 I-ASP Positive
+局 I-ASP Positive
+平 I-ASP Positive
+衡 I-ASP Positive
+性 I-ASP Positive
+比 I-ASP Positive
+较 I-ASP Positive
+强 I-ASP Positive
 
-硬 B-ASP 0
-件 I-ASP 0
+硬 B-ASP Negative
+件 I-ASP Negative
 的 I-ASP -999
 全 I-ASP -999
 局 I-ASP -999
@@ -2540,8 +2540,8 @@
 像 O -999
 机 O -999
 的 O -999
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 和 O -999
 部 O -999
 分 O -999
@@ -2557,10 +2557,10 @@
 感 O -999
 觉 O -999
 的 O -999
-镜 B-ASP 1
-头 I-ASP 1
-变 I-ASP 1
-形 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
+变 I-ASP Positive
+形 I-ASP Positive
 控 O -999
 制 O -999
 的 O -999
@@ -2572,10 +2572,10 @@
 再 O -999
 加 O -999
 上 O -999
-按 B-ASP 0
-键 I-ASP 0
-数 I-ASP 0
-目 I-ASP 0
+按 B-ASP Negative
+键 I-ASP Negative
+数 I-ASP Negative
+目 I-ASP Negative
 太 O -999
 多 O -999
 
@@ -2591,8 +2591,8 @@
 的 O -999
 照 O -999
 片 O -999
-紫 B-ASP 0
-边 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
 很 O -999
 明 O -999
 现 O -999
@@ -2603,44 +2603,44 @@
 均 O -999
 匀 O -999
 的 O -999
-配 B-ASP 1
-重 I-ASP 1
+配 B-ASP Positive
+重 I-ASP Positive
 
-对 B-ASP 0
-比 I-ASP 0
-度 I-ASP 0
+对 B-ASP Negative
+比 I-ASP Negative
+度 I-ASP Negative
 非 O -999
 常 O -999
 差 O -999
 
 除 O -999
 了 O -999
-微 B-ASP 1
-距 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
 较 O -999
 好 O -999
 
 的 O -999
 微 O -999
 距 O -999
-对 B-ASP 1
-焦 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 也 O -999
 理 O -999
 想 O -999
 
-成 B-ASP 1
-像 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 佳 O -999
 
-按 B-ASP 0
-键 I-ASP 0
-手 I-ASP 0
-感 I-ASP 0
+按 B-ASP Negative
+键 I-ASP Negative
+手 I-ASP Negative
+感 I-ASP Negative
 毫 O -999
 无 O -999
 悬 O -999
@@ -2648,10 +2648,10 @@
 
 也 O -999
 将 O -999
-机 B-ASP 1
-身 I-ASP 1
-重 I-ASP 1
-量 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
+重 I-ASP Positive
+量 I-ASP Positive
 控 O -999
 制 O -999
 得 O -999
@@ -2660,18 +2660,18 @@
 合 O -999
 理 O -999
 
-自 B-ASP 0
-定 I-ASP 0
-义 I-ASP 0
-对 I-ASP 0
-焦 I-ASP 0
-点 I-ASP 0
+自 B-ASP Negative
+定 I-ASP Negative
+义 I-ASP Negative
+对 I-ASP Negative
+焦 I-ASP Negative
+点 I-ASP Negative
 太 O -999
 少 O -999
 了 O -999
 
-对 B-ASP 1
-焦 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
 以 O -999
 及 O -999
 快 O -999
@@ -2700,8 +2700,8 @@
 的 O -999
 超 O -999
 大 O -999
-屏 B-ASP 1
-幕 I-ASP 1
+屏 B-ASP Positive
+幕 I-ASP Positive
 
 考 O -999
 虑 O -999
@@ -2711,13 +2711,13 @@
 人 O -999
 性 O -999
 的 O -999
-价 B-ASP 0
-格 I-ASP 0
+价 B-ASP Negative
+格 I-ASP Negative
 
-对 B-ASP 0
-焦 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 感 O -999
 觉 O -999
 比 O -999
@@ -2727,9 +2727,9 @@
 
 三 O -999
 个 O -999
-对 B-ASP 0
-焦 I-ASP 0
-点 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+点 I-ASP Negative
 有 O -999
 点 O -999
 少 O -999
@@ -2742,11 +2742,11 @@
 地 O -999
 方 O -999
 其 O -999
-对 B-ASP 1
-焦 I-ASP 1
-成 I-ASP 1
-功 I-ASP 1
-率 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+成 I-ASP Positive
+功 I-ASP Positive
+率 I-ASP Positive
 仍 O -999
 然 O -999
 很 O -999
@@ -2757,8 +2757,8 @@
 不 O -999
 错 O -999
 的 O -999
-操 B-ASP 1
-作 I-ASP 1
+操 B-ASP Positive
+作 I-ASP Positive
 感 O -999
 受 O -999
 
@@ -2766,10 +2766,10 @@
 以 O -999
 对 O -999
 于 O -999
-画 B-ASP 1
-面 I-ASP 1
-噪 I-ASP 1
-点 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
+噪 I-ASP Positive
+点 I-ASP Positive
 控 O -999
 制 O -999
 的 O -999
@@ -2781,12 +2781,12 @@
 快 O -999
 速 O -999
 的 O -999
-自 B-ASP 1
-动 I-ASP 1
-对 I-ASP 1
-焦 I-ASP 1
-系 I-ASP 1
-统 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+对 I-ASP Positive
+焦 I-ASP Positive
+系 I-ASP Positive
+统 I-ASP Positive
 装 O -999
 配 O -999
 的 O -999
@@ -2803,8 +2803,8 @@
 
 而 O -999
 且 O -999
-对 B-ASP 1
-焦 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
 非 O -999
 常 O -999
 准 O -999
@@ -2813,11 +2813,11 @@
 迅 O -999
 速 O -999
 
-辅 B-ASP 0
-助 I-ASP 0
-对 I-ASP 0
-焦 I-ASP 0
-灯 I-ASP 0
+辅 B-ASP Negative
+助 I-ASP Negative
+对 I-ASP Negative
+焦 I-ASP Negative
+灯 I-ASP Negative
 的 O -999
 作 O -999
 用 O -999
@@ -2837,14 +2837,14 @@
 产 O -999
 品 O -999
 的 O -999
-兼 B-ASP 0
-容 I-ASP 0
-性 I-ASP 0
+兼 B-ASP Negative
+容 I-ASP Negative
+性 I-ASP Negative
 较 O -999
 差 O -999
 
-像 B-ASP 1
-素 I-ASP 1
+像 B-ASP Positive
+素 I-ASP Positive
 较 O -999
 高 O -999
 达 O -999
@@ -2855,14 +2855,14 @@
 端 O -999
 感 O -999
 觉 O -999
-对 B-ASP 0
-焦 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 慢 O -999
 
-对 B-ASP 1
-焦 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
 干 O -999
 脆 O -999
 
@@ -2873,9 +2873,9 @@
 绿 O -999
 色 O -999
 的 O -999
-饱 B-ASP 1
-和 I-ASP 1
-度 I-ASP 1
+饱 B-ASP Positive
+和 I-ASP Positive
+度 I-ASP Positive
 还 O -999
 原 O -999
 的 O -999
@@ -2883,12 +2883,12 @@
 较 O -999
 好 O -999
 
-手 B-ASP 0
-动 I-ASP 0
-对 I-ASP 0
-焦 I-ASP 0
-操 I-ASP 0
-作 I-ASP 0
+手 B-ASP Negative
+动 I-ASP Negative
+对 I-ASP Negative
+焦 I-ASP Negative
+操 I-ASP Negative
+作 I-ASP Negative
 不 O -999
 方 O -999
 便 O -999
@@ -2900,24 +2900,24 @@
 巴 O -999
 斯 O -999
 的 O -999
-售 B-ASP 1
-后 I-ASP 1
+售 B-ASP Positive
+后 I-ASP Positive
 非 O -999
 常 O -999
 好 O -999
 
-对 B-ASP 1
-焦 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 十 O -999
 分 O -999
 快 O -999
 
 至 O -999
 于 O -999
-防 B-ASP 1
-尘 I-ASP 1
+防 B-ASP Positive
+尘 I-ASP Positive
 就 O -999
 不 O -999
 在 O -999
@@ -2926,8 +2926,8 @@
 了 O -999
 
 对 O -999
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 的 O -999
 控 O -999
 制 O -999
@@ -2937,19 +2937,19 @@
 不 O -999
 错 O -999
 
-对 B-ASP 0
-焦 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 有 O -999
 所 O -999
 减 O -999
 慢 O -999
 
-自 B-ASP 0
-动 I-ASP 0
-对 I-ASP 0
-焦 I-ASP 0
+自 B-ASP Negative
+动 I-ASP Negative
+对 I-ASP Negative
+焦 I-ASP Negative
 较 O -999
 差 O -999
 
@@ -2960,10 +2960,10 @@
 中 O -999
 感 O -999
 觉 O -999
-成 B-ASP 1
-像 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 还 O -999
 是 O -999
 比 O -999
@@ -2975,8 +2975,8 @@
 
 迅 O -999
 速 O -999
-对 B-ASP 1
-焦 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
 
 相 O -999
 对 O -999
@@ -2989,9 +2989,9 @@
 来 O -999
 说 O -999
 高 O -999
-性 B-ASP 1
-价 I-ASP 1
-比 I-ASP 1
+性 B-ASP Positive
+价 I-ASP Positive
+比 I-ASP Positive
 是 O -999
 三 O -999
 星 O -999
@@ -3010,8 +3010,8 @@
 的 O -999
 瞬 O -999
 间 O -999
-对 B-ASP 1
-焦 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
 又 O -999
 再 O -999
 次 O -999
@@ -3023,12 +3023,12 @@
 身 O -999
 边 O -999
 
-自 B-ASP 0
-动 I-ASP 0
-对 I-ASP 0
-焦 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+自 B-ASP Negative
+动 I-ASP Negative
+对 I-ASP Negative
+焦 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 太 O -999
 慢 O -999
 
@@ -3036,32 +3036,32 @@
 顶 O -999
 部 O -999
 分 O -999
-按 B-ASP 0
-键 I-ASP 0
-手 I-ASP 0
-感 I-ASP 0
+按 B-ASP Negative
+键 I-ASP Negative
+手 I-ASP Negative
+感 I-ASP Negative
 偏 O -999
 硬 O -999
 
-手 B-ASP 1
-动 I-ASP 1
-变 I-ASP 1
-焦 I-ASP 1
-对 I-ASP 1
-焦 I-ASP 1
-环 I-ASP 1
-手 I-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+变 I-ASP Positive
+焦 I-ASP Positive
+对 I-ASP Positive
+焦 I-ASP Positive
+环 I-ASP Positive
+手 I-ASP Positive
+感 I-ASP Positive
 舒 O -999
 适 O -999
 
 用 O -999
 久 O -999
 了 O -999
-电 B-ASP 0
-池 I-ASP 0
-散 I-ASP 0
-热 I-ASP 0
+电 B-ASP Negative
+池 I-ASP Negative
+散 I-ASP Negative
+热 I-ASP Negative
 不 O -999
 佳 O -999
 感 O -999
@@ -3078,22 +3078,22 @@
 流 O -999
 行 O -999
 的 O -999
-防 B-ASP 0
-抖 I-ASP 0
-技 I-ASP 0
-术 I-ASP 0
+防 B-ASP Negative
+抖 I-ASP Negative
+技 I-ASP Negative
+术 I-ASP Negative
 
 具 O -999
 有 O -999
 强 O -999
 大 O -999
 的 O -999
-视 B-ASP 1
-频 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+视 B-ASP Positive
+频 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 可 O -999
 以 O -999
@@ -3102,9 +3102,9 @@
 更 O -999
 高 O -999
 的 O -999
-信 B-ASP 1
-噪 I-ASP 1
-比 I-ASP 1
+信 B-ASP Positive
+噪 I-ASP Positive
+比 I-ASP Positive
 和 O -999
 不 O -999
 错 O -999
@@ -3121,20 +3121,20 @@
 精 O -999
 良 O -999
 的 O -999
-光 B-ASP 1
-学 I-ASP 1
-取 I-ASP 1
-景 I-ASP 1
-器 I-ASP 1
+光 B-ASP Positive
+学 I-ASP Positive
+取 I-ASP Positive
+景 I-ASP Positive
+器 I-ASP Positive
 
 但 O -999
 是 O -999
-垂 B-ASP 0
-直 I-ASP 0
-可 I-ASP 0
-视 I-ASP 0
-角 I-ASP 0
-度 I-ASP 0
+垂 B-ASP Negative
+直 I-ASP Negative
+可 I-ASP Negative
+视 I-ASP Negative
+角 I-ASP Negative
+度 I-ASP Negative
 比 O -999
 效 O -999
 差 O -999
@@ -3156,10 +3156,10 @@
 端 O -999
 拍 O -999
 摄 O -999
-特 B-ASP 1
-写 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+特 B-ASP Positive
+写 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 依 O -999
 旧 O -999
 显 O -999
@@ -3171,10 +3171,10 @@
 焦 O -999
 镜 O -999
 头 O -999
-变 B-ASP 1
-焦 I-ASP 1
-噪 I-ASP 1
-音 I-ASP 1
+变 B-ASP Positive
+焦 I-ASP Positive
+噪 I-ASP Positive
+音 I-ASP Positive
 特 O -999
 别 O -999
 低 O -999
@@ -3186,8 +3186,8 @@
 始 O -999
 终 O -999
 以 O -999
-做 B-ASP 1
-工 I-ASP 1
+做 B-ASP Positive
+工 I-ASP Positive
 精 O -999
 湛 O -999
 
@@ -3202,15 +3202,15 @@
 的 O -999
 物 O -999
 理 O -999
-防 B-ASP 1
-抖 I-ASP 1
-技 I-ASP 1
-术 I-ASP 1
+防 B-ASP Positive
+抖 I-ASP Positive
+技 I-ASP Positive
+术 I-ASP Positive
 
-设 B-ASP 1
-置 I-ASP 1
-参 I-ASP 1
-数 I-ASP 1
+设 B-ASP Positive
+置 I-ASP Positive
+参 I-ASP Positive
+数 I-ASP Positive
 多 O -999
 
 这 O -999
@@ -3222,10 +3222,10 @@
 出 O -999
 色 O -999
 的 O -999
-微 B-ASP 1
-距 I-ASP 1
-表 I-ASP 1
-现 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+表 I-ASP Positive
+现 I-ASP Positive
 
 不 O -999
 过 O -999
@@ -3234,10 +3234,10 @@
 格 O -999
 式 O -999
 的 O -999
-压 B-ASP 0
-缩 I-ASP 0
-比 I-ASP 0
-率 I-ASP 0
+压 B-ASP Negative
+缩 I-ASP Negative
+比 I-ASP Negative
+率 I-ASP Negative
 较 O -999
 小 O -999
 
@@ -3257,8 +3257,8 @@
 清 O -999
 晰 O -999
 的 O -999
-照 B-ASP 1
-片 I-ASP 1
+照 B-ASP Positive
+片 I-ASP Positive
 
 这 O -999
 是 O -999
@@ -3269,13 +3269,13 @@
 实 O -999
 用 O -999
 的 O -999
-功 B-ASP 1
-能 I-ASP 1
+功 B-ASP Positive
+能 I-ASP Positive
 
-视 B-ASP 1
-频 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
+视 B-ASP Positive
+频 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
 流 O -999
 畅 O -999
 
@@ -3291,18 +3291,18 @@
 较 O -999
 强 O -999
 的 O -999
-短 B-ASP 1
-片 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+短 B-ASP Positive
+片 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
-长 B-ASP 1
-焦 I-ASP 1
-端 I-ASP 1
-画 I-ASP 1
-质 I-ASP 1
+长 B-ASP Positive
+焦 I-ASP Positive
+端 I-ASP Positive
+画 I-ASP Positive
+质 I-ASP Positive
 不 O -999
 错 O -999
 
@@ -3311,8 +3311,8 @@
 怪 O -999
 它 O -999
 的 O -999
-成 B-ASP 0
-像 I-ASP 0
+成 B-ASP Negative
+像 I-ASP Negative
 不 O -999
 好 O -999
 
@@ -3320,10 +3320,10 @@
 严 O -999
 重 O -999
 的 O -999
-紫 B-ASP 0
-边 I-ASP 0
-现 I-ASP 0
-象 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
+现 I-ASP Negative
+象 I-ASP Negative
 
 经 O -999
 过 O -999
@@ -3347,8 +3347,8 @@
 的 O -999
 细 O -999
 腻 O -999
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 
 虽 O -999
 然 O -999
@@ -3359,10 +3359,10 @@
 的 O -999
 双 O -999
 色 O -999
-机 B-ASP 0
-身 I-ASP 0
-设 I-ASP 0
-计 I-ASP 0
+机 B-ASP Negative
+身 I-ASP Negative
+设 I-ASP Negative
+计 I-ASP Negative
 
 但 O -999
 是 O -999
@@ -3372,8 +3372,8 @@
 砂 O -999
 金 O -999
 属 O -999
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 和 O -999
 小 O -999
 巧 O -999
@@ -3398,8 +3398,8 @@
 部 O -999
 件 O -999
 的 O -999
-接 B-ASP 1
-缝 I-ASP 1
+接 B-ASP Positive
+缝 I-ASP Positive
 十 O -999
 分 O -999
 细 O -999
@@ -3413,13 +3413,13 @@
 的 O -999
 毫 O -999
 安 O -999
-锂 B-ASP 1
-电 I-ASP 1
-池 I-ASP 1
+锂 B-ASP Positive
+电 I-ASP Positive
+池 I-ASP Positive
 
 的 O -999
-操 B-ASP 1
-控 I-ASP 1
+操 B-ASP Positive
+控 I-ASP Positive
 十 O -999
 分 O -999
 流 O -999
@@ -3428,10 +3428,10 @@
 这 O -999
 样 O -999
 在 O -999
-显 B-ASP 1
-示 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+显 B-ASP Positive
+示 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 方 O -999
 面 O -999
 就 O -999
@@ -3446,27 +3446,27 @@
 独 O -999
 创 O -999
 的 O -999
-除 B-ASP 1
-尘 I-ASP 1
-系 I-ASP 1
-统 I-ASP 1
+除 B-ASP Positive
+尘 I-ASP Positive
+系 I-ASP Positive
+统 I-ASP Positive
 
-噪 B-ASP 0
-点 I-ASP 0
-控 I-ASP 0
-制 I-ASP 0
-能 I-ASP 0
-力 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
+控 I-ASP Negative
+制 I-ASP Negative
+能 I-ASP Negative
+力 I-ASP Negative
 一 O -999
 般 O -999
 
 的 O -999
 超 O -999
 级 O -999
-防 B-ASP 1
-抖 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+防 B-ASP Positive
+抖 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 没 O -999
 有 O -999
@@ -3475,10 +3475,10 @@
 专 O -999
 门 O -999
 的 O -999
-电 B-ASP 1
-池 I-ASP 1
-手 I-ASP 1
-柄 I-ASP 1
+电 B-ASP Positive
+池 I-ASP Positive
+手 I-ASP Positive
+柄 I-ASP Positive
 
 值 O -999
 得 O -999
@@ -3489,16 +3489,16 @@
 专 O -999
 业 O -999
 的 O -999
-防 B-ASP 1
-抖 I-ASP 1
-技 I-ASP 1
-术 I-ASP 1
+防 B-ASP Positive
+抖 I-ASP Positive
+技 I-ASP Positive
+术 I-ASP Positive
 
 再 O -999
 有 O -999
-性 B-ASP 1
-价 I-ASP 1
-比 I-ASP 1
+性 B-ASP Positive
+价 I-ASP Positive
+比 I-ASP Positive
 出 O -999
 众 O -999
 
@@ -3508,10 +3508,10 @@
 优 O -999
 质 O -999
 的 O -999
-成 B-ASP 1
-像 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
 具 O -999
 有 O -999
@@ -3522,10 +3522,10 @@
 态 O -999
 影 O -999
 像 O -999
-拍 B-ASP 1
-摄 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 最 O -999
 不 O -999
@@ -3533,21 +3533,21 @@
 的 O -999
 就 O -999
 是 O -999
-快 B-ASP 0
-门 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
 
 但 O -999
 想 O -999
-手 B-ASP 0
-动 I-ASP 0
-调 I-ASP 0
-节 I-ASP 0
+手 B-ASP Negative
+动 I-ASP Negative
+调 I-ASP Negative
+节 I-ASP Negative
 还 O -999
 不 O -999
 行 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 还 O -999
 原 O -999
 真 O -999
@@ -3566,8 +3566,8 @@
 超 O -999
 簿 O -999
 的 O -999
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 
 内 O -999
 置 O -999
@@ -3577,10 +3577,10 @@
 富 O -999
 的 O -999
 种 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 和 O -999
 按 O -999
 键 O -999
@@ -3589,9 +3589,9 @@
 觉 O -999
 它 O -999
 的 O -999
-液 B-ASP 0
-晶 I-ASP 0
-屏 I-ASP 0
+液 B-ASP Negative
+晶 I-ASP Negative
+屏 I-ASP Negative
 用 O -999
 起 O -999
 来 O -999
@@ -3602,8 +3602,8 @@
 
 手 O -999
 持 O -999
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 好 O -999
 
 还 O -999
@@ -3618,10 +3618,10 @@
 常 O -999
 用 O -999
 的 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 另 O -999
 外 O -999
@@ -3635,10 +3635,10 @@
 的 O -999
 预 O -999
 置 O -999
-场 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 有 O -999
 时 O -999
@@ -3650,15 +3650,15 @@
 明 O -999
 显 O -999
 的 O -999
-紫 B-ASP 0
-边 I-ASP 0
-现 I-ASP 0
-象 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
+现 I-ASP Negative
+象 I-ASP Negative
 
-存 B-ASP 0
-储 I-ASP 0
-时 I-ASP 0
-间 I-ASP 0
+存 B-ASP Negative
+储 I-ASP Negative
+时 I-ASP Negative
+间 I-ASP Negative
 等 O -999
 等 O -999
 都 O -999
@@ -3680,8 +3680,8 @@
 较 O -999
 好 O -999
 的 O -999
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 
 保 O -999
 证 O -999
@@ -3693,13 +3693,13 @@
 够 O -999
 好 O -999
 的 O -999
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 
-成 B-ASP 1
-像 I-ASP 1
-畸 I-ASP 1
-变 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
+畸 I-ASP Positive
+变 I-ASP Positive
 少 O -999
 
 使 O -999
@@ -3712,12 +3712,12 @@
 强 O -999
 大 O -999
 的 O -999
-数 B-ASP 1
-据 I-ASP 1
-处 I-ASP 1
-理 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+数 B-ASP Positive
+据 I-ASP Positive
+处 I-ASP Positive
+理 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 使 O -999
 相 O -999
@@ -3729,29 +3729,29 @@
 强 O -999
 大 O -999
 的 O -999
-数 B-ASP 1
-据 I-ASP 1
-处 I-ASP 1
-理 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+数 B-ASP Positive
+据 I-ASP Positive
+处 I-ASP Positive
+理 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
-闪 B-ASP 1
-光 I-ASP 1
-灯 I-ASP 1
-弹 I-ASP 1
-出 I-ASP 1
-角 I-ASP 1
-度 I-ASP 1
+闪 B-ASP Positive
+光 I-ASP Positive
+灯 I-ASP Positive
+弹 I-ASP Positive
+出 I-ASP Positive
+角 I-ASP Positive
+度 I-ASP Positive
 更 O -999
 高 O -999
 
-电 B-ASP 1
-池 I-ASP 1
-使 I-ASP 1
-用 I-ASP 1
-时 I-ASP 1
-间 I-ASP 1
+电 B-ASP Positive
+池 I-ASP Positive
+使 I-ASP Positive
+用 I-ASP Positive
+时 I-ASP Positive
+间 I-ASP Positive
 持 O -999
 久 O -999
 
@@ -3759,17 +3759,17 @@
 现 O -999
 他 O -999
 的 O -999
-噪 B-ASP 0
-点 I-ASP 0
-控 I-ASP 0
-制 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
+控 I-ASP Negative
+制 I-ASP Negative
 很 O -999
 一 O -999
 般 O -999
 
-处 B-ASP 1
-理 I-ASP 1
-器 I-ASP 1
+处 B-ASP Positive
+理 I-ASP Positive
+器 I-ASP Positive
 处 O -999
 理 O -999
 功 O -999
@@ -3787,11 +3787,11 @@
 的 O -999
 数 O -999
 字 O -999
-影 B-ASP 1
-像 I-ASP 1
-处 I-ASP 1
-理 I-ASP 1
-器 I-ASP 1
+影 B-ASP Positive
+像 I-ASP Positive
+处 I-ASP Positive
+理 I-ASP Positive
+器 I-ASP Positive
 
 屏 O -999
 幕 O -999
@@ -3803,21 +3803,21 @@
 更 O -999
 高 O -999
 的 O -999
-色 B-ASP 1
-彩 I-ASP 1
-饱 I-ASP 1
-和 I-ASP 1
-度 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+饱 I-ASP Positive
+和 I-ASP Positive
+度 I-ASP Positive
 和 O -999
 亮 O -999
 度 O -999
 
 感 O -999
 觉 O -999
-细 B-ASP 0
-节 I-ASP 0
-处 I-ASP 0
-理 I-ASP 0
+细 B-ASP Negative
+节 I-ASP Negative
+处 I-ASP Negative
+理 I-ASP Negative
 不 O -999
 够 O -999
 好 O -999
@@ -3829,10 +3829,10 @@
 头 O -999
 变 O -999
 焦 O -999
-噪 B-ASP 1
-音 I-ASP 1
-控 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+音 I-ASP Positive
+控 I-ASP Positive
+制 I-ASP Positive
 的 O -999
 比 O -999
 较 O -999
@@ -3845,8 +3845,8 @@
 全 O -999
 新 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
 虽 O -999
 然 O -999
@@ -3859,13 +3859,13 @@
 独 O -999
 家 O -999
 的 O -999
-超 B-ASP 1
-声 I-ASP 1
-波 I-ASP 1
-防 I-ASP 1
-尘 I-ASP 1
-技 I-ASP 1
-术 I-ASP 1
+超 B-ASP Positive
+声 I-ASP Positive
+波 I-ASP Positive
+防 I-ASP Positive
+尘 I-ASP Positive
+技 I-ASP Positive
+术 I-ASP Positive
 
 可 O -999
 获 O -999
@@ -3877,18 +3877,18 @@
 自 O -999
 然 O -999
 的 O -999
-色 B-ASP 1
-彩 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
 充 O -999
 满 O -999
 人 O -999
 性 O -999
 化 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 的 O -999
 理 O -999
 念 O -999
@@ -3909,10 +3909,10 @@
 钢 O -999
 切 O -999
 片 O -999
-镜 B-ASP 1
-头 I-ASP 1
-档 I-ASP 1
-板 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
+档 I-ASP Positive
+板 I-ASP Positive
 省 O -999
 去 O -999
 了 O -999
@@ -3943,8 +3943,8 @@
 超 O -999
 强 O -999
 的 O -999
-微 B-ASP 1
-距 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
 
 这 O -999
 款 O -999
@@ -3960,10 +3960,10 @@
 优 O -999
 秀 O -999
 的 O -999
-连 B-ASP 1
-拍 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+连 B-ASP Positive
+拍 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 而 O -999
 且 O -999
@@ -3973,35 +3973,35 @@
 诱 O -999
 人 O -999
 的 O -999
-广 B-ASP 1
-角 I-ASP 1
+广 B-ASP Positive
+角 I-ASP Positive
 
 非 O -999
 常 O -999
 快 O -999
 的 O -999
-开 B-ASP 1
-机 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+开 B-ASP Positive
+机 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 
 拥 O -999
 有 O -999
 庞 O -999
 大 O -999
 的 O -999
-镜 B-ASP 1
-头 I-ASP 1
-群 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
+群 I-ASP Positive
 
 具 O -999
 有 O -999
 多 O -999
 种 O -999
-情 B-ASP 1
-景 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+情 B-ASP Positive
+景 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 具 O -999
 有 O -999
@@ -4012,10 +4012,10 @@
 态 O -999
 影 O -999
 像 O -999
-拍 B-ASP 1
-摄 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 这 O -999
 就 O -999
@@ -4023,17 +4023,17 @@
 实 O -999
 用 O -999
 的 O -999
-翻 B-ASP 1
-转 I-ASP 1
+翻 B-ASP Positive
+转 I-ASP Positive
 
 提 O -999
 供 O -999
 了 O -999
 更 O -999
 大 O -999
-曝 B-ASP 1
-光 I-ASP 1
-量 I-ASP 1
+曝 B-ASP Positive
+光 I-ASP Positive
+量 I-ASP Positive
 
 使 O -999
 用 O -999
@@ -4048,10 +4048,10 @@
 
 多 O -999
 种 O -999
-测 B-ASP 1
-光 I-ASP 1
-方 I-ASP 1
-式 I-ASP 1
+测 B-ASP Positive
+光 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 带 O -999
 有 O -999
 多 O -999
@@ -4076,19 +4076,19 @@
 出 O -999
 来 O -999
 的 O -999
-曝 B-ASP 1
-光 I-ASP 1
-量 I-ASP 1
+曝 B-ASP Positive
+光 I-ASP Positive
+量 I-ASP Positive
 非 O -999
 常 O -999
 合 O -999
 适 O -999
 
-画 B-ASP 0
-面 I-ASP 0
-颗 I-ASP 0
-粒 I-ASP 0
-感 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
+颗 I-ASP Negative
+粒 I-ASP Negative
+感 I-ASP Negative
 较 O -999
 大 O -999
 画 O -999
@@ -4119,8 +4119,8 @@
 干 O -999
 净 O -999
 的 O -999
-画 B-ASP 1
-面 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
 
 搭 O -999
 配 O -999
@@ -4129,12 +4129,12 @@
 富 O -999
 的 O -999
 种 O -999
-场 B-ASP 1
-景 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+场 B-ASP Positive
+景 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 确 O -999
 实 O -999
@@ -4144,8 +4144,8 @@
 不 O -999
 错 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
 展 O -999
 现 O -999
@@ -4153,9 +4153,9 @@
 较 O -999
 好 O -999
 的 O -999
-层 B-ASP 1
-次 I-ASP 1
-感 I-ASP 1
+层 B-ASP Positive
+次 I-ASP Positive
+感 I-ASP Positive
 
 这 O -999
 可 O -999
@@ -4167,8 +4167,8 @@
 贴 O -999
 心 O -999
 的 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 
 随 O -999
 机 O -999
@@ -4177,8 +4177,8 @@
 送 O -999
 精 O -999
 美 O -999
-皮 B-ASP 1
-套 I-ASP 1
+皮 B-ASP Positive
+套 I-ASP Positive
 一 O -999
 个 O -999
 
@@ -4192,8 +4192,8 @@
 施 O -999
 耐 O -999
 德 O -999
-镜 B-ASP 1
-头 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
 
 实 O -999
 际 O -999
@@ -4202,15 +4202,15 @@
 中 O -999
 感 O -999
 觉 O -999
-成 B-ASP 1
-像 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
 清 O -999
 晰 O -999
 
 其 O -999
 他 O -999
-参 B-ASP 1
-数 I-ASP 1
+参 B-ASP Positive
+数 I-ASP Positive
 和 O -999
 配 O -999
 置 O -999
@@ -4225,13 +4225,13 @@
 大 O -999
 大 O -999
 的 O -999
-镜 B-ASP 1
-头 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
 
-变 B-ASP 1
-焦 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+变 B-ASP Positive
+焦 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 和 O -999
 对 O -999
 焦 O -999
@@ -4244,25 +4244,25 @@
 极 O -999
 佳 O -999
 的 O -999
-微 B-ASP 1
-距 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
 极 O -999
 佳 O -999
 的 O -999
-微 B-ASP 1
-距 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
-电 B-ASP 1
-池 I-ASP 1
-使 I-ASP 1
-用 I-ASP 1
-时 I-ASP 1
-间 I-ASP 1
+电 B-ASP Positive
+池 I-ASP Positive
+使 I-ASP Positive
+用 I-ASP Positive
+时 I-ASP Positive
+间 I-ASP Positive
 超 O -999
 长 O -999
 
@@ -4274,33 +4274,33 @@
 全 O -999
 面 O -999
 的 O -999
-自 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
-长 B-ASP 0
-焦 I-ASP 0
-端 I-ASP 0
-光 I-ASP 0
-圈 I-ASP 0
+长 B-ASP Negative
+焦 I-ASP Negative
+端 I-ASP Negative
+光 I-ASP Negative
+圈 I-ASP Negative
 偏 O -999
 小 O -999
 
 方 O -999
 便 O -999
 的 O -999
-取 B-ASP 1
-电 I-ASP 1
-方 I-ASP 1
-式 I-ASP 1
+取 B-ASP Positive
+电 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 
 客 O -999
 观 O -999
 说 O -999
 的 O -999
-成 B-ASP 1
-像 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
 在 O -999
 同 O -999
 类 O -999
@@ -4330,8 +4330,8 @@
 的 O -999
 丰 O -999
 富 O -999
-功 B-ASP 1
-能 I-ASP 1
+功 B-ASP Positive
+能 I-ASP Positive
 
 其 O -999
 中 O -999
@@ -4342,10 +4342,10 @@
 的 O -999
 当 O -999
 数 O -999
-降 B-ASP 1
-噪 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+降 B-ASP Positive
+噪 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 中 O -999
 所 O -999
@@ -4355,10 +4355,10 @@
 被 O -999
 动 O -999
 式 O -999
-降 B-ASP 1
-噪 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+降 B-ASP Positive
+噪 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 十 O -999
 分 O -999
 实 O -999
@@ -4385,11 +4385,11 @@
 细 O -999
 腻 O -999
 的 O -999
-画 B-ASP 1
-质 I-ASP 1
+画 B-ASP Positive
+质 I-ASP Positive
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 还 O -999
 原 O -999
 真 O -999
@@ -4402,25 +4402,25 @@
 准 O -999
 确 O -999
 的 O -999
-色 B-ASP 1
-彩 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 
-画 B-ASP 0
-面 I-ASP 0
-显 I-ASP 0
-示 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
+显 I-ASP Negative
+示 I-ASP Negative
 不 O -999
 够 O -999
 精 O -999
 细 O -999
 
-手 B-ASP 1
-柄 I-ASP 1
-握 I-ASP 1
-持 I-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+柄 I-ASP Positive
+握 I-ASP Positive
+持 I-ASP Positive
+感 I-ASP Positive
 稳 O -999
 当 O -999
 
@@ -4432,8 +4432,8 @@
 下 O -999
 拍 O -999
 摄 O -999
-图 B-ASP 1
-像 I-ASP 1
+图 B-ASP Positive
+像 I-ASP Positive
 相 O -999
 当 O -999
 不 O -999
@@ -4445,8 +4445,8 @@
 是 O -999
 存 O -999
 在 O -999
-降 B-ASP 0
-噪 I-ASP 0
+降 B-ASP Negative
+噪 I-ASP Negative
 不 O -999
 好 O -999
 的 O -999
@@ -4462,44 +4462,44 @@
 的 O -999
 超 O -999
 级 O -999
-微 B-ASP 1
-距 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 寸 O -999
 万 O -999
 像 O -999
 素 O -999
-显 B-ASP 1
-示 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+显 B-ASP Positive
+示 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 尚 O -999
 可 O -999
 
-性 B-ASP 1
-能 I-ASP 1
-使 I-ASP 1
-用 I-ASP 1
-的 I-ASP 1
-虽 I-ASP 1
-是 I-ASP 1
-富 I-ASP 1
-士 I-ASP 1
-自 I-ASP 1
-产 I-ASP 1
-的 I-ASP 1
-超 I-ASP 1
-级 I-ASP 1
+性 B-ASP Positive
+能 I-ASP Positive
+使 I-ASP Positive
+用 I-ASP Positive
+的 I-ASP Positive
+虽 I-ASP Positive
+是 I-ASP Positive
+富 I-ASP Positive
+士 I-ASP Positive
+自 I-ASP Positive
+产 I-ASP Positive
+的 I-ASP Positive
+超 I-ASP Positive
+级 I-ASP Positive
 
 独 O -999
 特 O -999
 的 O -999
-旋 B-ASP 1
-转 I-ASP 1
-镜 I-ASP 1
-头 I-ASP 1
+旋 B-ASP Positive
+转 I-ASP Positive
+镜 I-ASP Positive
+头 I-ASP Positive
 加 O -999
 上 O -999
 飞 O -999
@@ -4518,10 +4518,10 @@
 方 O -999
 便 O -999
 的 O -999
-操 B-ASP 1
-控 I-ASP 1
-方 I-ASP 1
-式 I-ASP 1
+操 B-ASP Positive
+控 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 及 O -999
 预 O -999
 设 O -999
@@ -4538,8 +4538,8 @@
 是 O -999
 比 O -999
 较 O -999
-强 B-ASP 1
-劲 I-ASP 1
+强 B-ASP Positive
+劲 I-ASP Positive
 的 O -999
 
 控 O -999
@@ -4552,8 +4552,8 @@
 方 O -999
 面 O -999
 的 O -999
-表 B-ASP 1
-现 I-ASP 1
+表 B-ASP Positive
+现 I-ASP Positive
 均 O -999
 属 O -999
 上 O -999
@@ -4565,8 +4565,8 @@
 明 O -999
 显 O -999
 的 O -999
-躁 B-ASP 0
-点 I-ASP 0
+躁 B-ASP Negative
+点 I-ASP Negative
 
 但 O -999
 也 O -999
@@ -4579,8 +4579,8 @@
 明 O -999
 显 O -999
 的 O -999
-紫 B-ASP 0
-边 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
 
 对 O -999
 于 O -999
@@ -4592,8 +4592,8 @@
 的 O -999
 来 O -999
 说 O -999
-成 B-ASP 1
-像 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
 方 O -999
 面 O -999
 还 O -999
@@ -4601,11 +4601,11 @@
 以 O -999
 
 对 O -999
-噪 B-ASP 1
-点 I-ASP 1
-的 I-ASP 1
-控 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+的 I-ASP Positive
+控 I-ASP Positive
+制 I-ASP Positive
 较 O -999
 为 O -999
 理 O -999
@@ -4617,12 +4617,12 @@
 提 O -999
 的 O -999
 是 O -999
-夜 B-ASP 1
-景 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
-模 I-ASP 1
-式 I-ASP 1
+夜 B-ASP Positive
+景 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
+模 I-ASP Positive
+式 I-ASP Positive
 
 使 O -999
 用 O -999
@@ -4638,18 +4638,18 @@
 光 O -999
 都 O -999
 会 O -999
-曝 B-ASP 0
-光 I-ASP 0
+曝 B-ASP Negative
+光 I-ASP Negative
 不 O -999
 足 O -999
 
 在 O -999
-视 B-ASP 1
-频 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+视 B-ASP Positive
+频 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 方 O -999
 面 O -999
 和 O -999
@@ -4673,22 +4673,22 @@
 新 O -999
 相 O -999
 机 O -999
-抖 B-ASP 1
-动 I-ASP 1
-防 I-ASP 1
-止 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+抖 B-ASP Positive
+动 I-ASP Positive
+防 I-ASP Positive
+止 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 会 O -999
 自 O -999
 动 O -999
 提 O -999
 升 O -999
 
-画 B-ASP 1
-面 I-ASP 1
-显 I-ASP 1
-示 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
+显 I-ASP Positive
+示 I-ASP Positive
 清 O -999
 晰 O -999
 流 O -999
@@ -4703,10 +4703,10 @@
 机 O -999
 中 O -999
 的 O -999
-放 B-ASP 1
-大 I-ASP 1
-倍 I-ASP 1
-率 I-ASP 1
+放 B-ASP Positive
+大 I-ASP Positive
+倍 I-ASP Positive
+率 I-ASP Positive
 是 O -999
 最 O -999
 大 O -999
@@ -4715,9 +4715,9 @@
 就 O -999
 觉 O -999
 得 O -999
-变 B-ASP 0
-焦 I-ASP 0
-杆 I-ASP 0
+变 B-ASP Negative
+焦 I-ASP Negative
+杆 I-ASP Negative
 太 O -999
 小 O -999
 
@@ -4735,22 +4735,22 @@
 独 O -999
 立 O -999
 的 O -999
-按 B-ASP 0
-键 I-ASP 0
+按 B-ASP Negative
+键 I-ASP Negative
 
 依 O -999
 然 O -999
 存 O -999
 在 O -999
-色 B-ASP 0
-彩 I-ASP 0
+色 B-ASP Negative
+彩 I-ASP Negative
 失 O -999
 真 O -999
 
-显 B-ASP 0
-示 I-ASP 0
-效 I-ASP 0
-果 I-ASP 0
+显 B-ASP Negative
+示 I-ASP Negative
+效 I-ASP Negative
+果 I-ASP Negative
 不 O -999
 是 O -999
 很 O -999
@@ -4762,28 +4762,28 @@
 完 O -999
 全 O -999
 的 O -999
-手 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
-闪 B-ASP 1
-光 I-ASP 1
-热 I-ASP 1
-靴 I-ASP 1
-设 I-ASP 1
-计 I-ASP 1
+闪 B-ASP Positive
+光 I-ASP Positive
+热 I-ASP Positive
+靴 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 别 O -999
 有 O -999
 用 O -999
 心 O -999
 
-快 B-ASP 0
-门 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
-设 I-ASP 0
-置 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
+设 I-ASP Negative
+置 I-ASP Negative
 华 O -999
 而 O -999
 不 O -999
@@ -4794,10 +4794,10 @@
 较 O -999
 强 O -999
 的 O -999
-手 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 我 O -999
 还 O -999
@@ -4809,8 +4809,8 @@
 有 O -999
 严 O -999
 重 O -999
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 的 O -999
 情 O -999
 况 O -999
@@ -4825,10 +4825,10 @@
 司 O -999
 新 O -999
 型 O -999
-降 B-ASP 1
-噪 I-ASP 1
-技 I-ASP 1
-术 I-ASP 1
+降 B-ASP Positive
+噪 I-ASP Positive
+技 I-ASP Positive
+术 I-ASP Positive
 
 它 O -999
 拥 O -999
@@ -4851,17 +4851,17 @@
 的 O -999
 多 O -999
 彩 O -999
-外 B-ASP 1
-观 I-ASP 1
+外 B-ASP Positive
+观 I-ASP Positive
 
 另 O -999
 外 O -999
 镜 O -999
 头 O -999
-变 B-ASP 0
-焦 I-ASP 0
-噪 I-ASP 0
-声 I-ASP 0
+变 B-ASP Negative
+焦 I-ASP Negative
+噪 I-ASP Negative
+声 I-ASP Negative
 也 O -999
 偏 O -999
 大 O -999
@@ -4877,18 +4877,18 @@
 到 O -999
 英 O -999
 寸 O -999
-清 B-ASP 1
-晰 I-ASP 1
-度 I-ASP 1
+清 B-ASP Positive
+晰 I-ASP Positive
+度 I-ASP Positive
 仍 O -999
 然 O -999
 较 O -999
 好 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
-层 I-ASP 1
-次 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+层 I-ASP Positive
+次 I-ASP Positive
 和 O -999
 场 O -999
 景 O -999
@@ -4908,11 +4908,11 @@
 就 O -999
 是 O -999
 的 O -999
-镜 B-ASP 1
-头 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
 
-取 B-ASP 0
-景 I-ASP 0
+取 B-ASP Negative
+景 I-ASP Negative
 太 O -999
 小 O -999
 而 O -999
@@ -4926,10 +4926,10 @@
 很 O -999
 好 O -999
 的 O -999
-夜 B-ASP 1
-摄 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+夜 B-ASP Positive
+摄 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
 没 O -999
 有 O -999
@@ -4942,8 +4942,8 @@
 的 O -999
 莱 O -999
 卡 O -999
-镜 B-ASP 0
-头 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
 始 O -999
 终 O -999
 是 O -999
@@ -4962,17 +4962,17 @@
 精 O -999
 简 O -999
 了 O -999
-防 B-ASP 1
-抖 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+防 B-ASP Positive
+抖 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
-彩 B-ASP 0
-色 I-ASP 0
-夜 I-ASP 0
-摄 I-ASP 0
-效 I-ASP 0
-果 I-ASP 0
+彩 B-ASP Negative
+色 I-ASP Negative
+夜 I-ASP Negative
+摄 I-ASP Negative
+效 I-ASP Negative
+果 I-ASP Negative
 实 O -999
 在 O -999
 不 O -999
@@ -4987,10 +4987,10 @@
 较 O -999
 强 O -999
 的 O -999
-实 B-ASP 1
-用 I-ASP 1
-价 I-ASP 1
-值 I-ASP 1
+实 B-ASP Positive
+用 I-ASP Positive
+价 I-ASP Positive
+值 I-ASP Positive
 
 随 O -999
 机 O -999
@@ -5001,10 +5001,10 @@
 向 O -999
 话 O -999
 筒 O -999
-取 B-ASP 1
-声 I-ASP 1
-质 I-ASP 1
-量 I-ASP 1
+取 B-ASP Positive
+声 I-ASP Positive
+质 I-ASP Positive
+量 I-ASP Positive
 很 O -999
 好 O -999
 
@@ -5022,10 +5022,10 @@
 简 O -999
 易 O -999
 的 O -999
-连 B-ASP 1
-接 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+连 B-ASP Positive
+接 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 是 O -999
 近 O -999
@@ -5037,8 +5037,8 @@
 光 O -999
 元 O -999
 件 O -999
-品 B-ASP 0
-质 I-ASP 0
+品 B-ASP Negative
+质 I-ASP Negative
 最 O -999
 低 O -999
 的 O -999
@@ -5063,8 +5063,8 @@
 悦 O -999
 目 O -999
 的 O -999
-画 B-ASP 1
-面 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
 
 而 O -999
 且 O -999
@@ -5086,19 +5086,19 @@
 不 O -999
 到 O -999
 的 O -999
-视 B-ASP 1
-觉 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+视 B-ASP Positive
+觉 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
 一 O -999
 般 O -999
-定 B-ASP 1
-焦 I-ASP 1
-镜 I-ASP 1
-头 I-ASP 1
-构 I-ASP 1
-造 I-ASP 1
+定 B-ASP Positive
+焦 I-ASP Positive
+镜 I-ASP Positive
+头 I-ASP Positive
+构 I-ASP Positive
+造 I-ASP Positive
 简 O -999
 单 O -999
 
@@ -5114,8 +5114,8 @@
 精 O -999
 良 O -999
 的 O -999
-性 B-ASP 1
-能 I-ASP 1
+性 B-ASP Positive
+能 I-ASP Positive
 和 O -999
 传 O -999
 统 O -999
@@ -5139,10 +5139,10 @@
 极 O -999
 大 O -999
 的 O -999
-视 B-ASP 1
-觉 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+视 B-ASP Positive
+觉 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 
 在 O -999
 室 O -999
@@ -5164,24 +5164,24 @@
 较 O -999
 好 O -999
 的 O -999
-色 B-ASP 1
-调 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+色 B-ASP Positive
+调 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 
-噪 B-ASP 1
-点 I-ASP 1
-控 I-ASP 1
-制 I-ASP 1
+噪 B-ASP Positive
+点 I-ASP Positive
+控 I-ASP Positive
+制 I-ASP Positive
 相 O -999
 当 O -999
 不 O -999
 错 O -999
 
-操 B-ASP 0
-控 I-ASP 0
-菜 I-ASP 0
-单 I-ASP 0
+操 B-ASP Negative
+控 I-ASP Negative
+菜 I-ASP Negative
+单 I-ASP Negative
 感 O -999
 觉 O -999
 有 O -999
@@ -5192,10 +5192,10 @@
 高 O -999
 值 O -999
 时 O -999
-噪 B-ASP 0
-点 I-ASP 0
-控 I-ASP 0
-制 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
+控 I-ASP Negative
+制 I-ASP Negative
 不 O -999
 好 O -999
 
@@ -5208,8 +5208,8 @@
 拍 O -999
 照 O -999
 下 O -999
-成 B-ASP 1
-像 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
 是 O -999
 最 O -999
 好 O -999
@@ -5226,8 +5226,8 @@
 模 O -999
 式 O -999
 下 O -999
-噪 B-ASP 0
-点 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
 放 O -999
 大 O -999
 时 O -999
@@ -5236,16 +5236,16 @@
 
 柯 O -999
 达 O -999
-成 B-ASP 1
-像 I-ASP 1
+成 B-ASP Positive
+像 I-ASP Positive
 比 O -999
 较 O -999
 艳 O -999
 丽 O -999
 
 而 O -999
-内 B-ASP 1
-存 I-ASP 1
+内 B-ASP Positive
+存 I-ASP Positive
 在 O -999
 同 O -999
 一 O -999
@@ -5264,12 +5264,12 @@
 全 O -999
 新 O -999
 的 O -999
-面 B-ASP 1
-部 I-ASP 1
-提 I-ASP 1
-亮 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+面 B-ASP Positive
+部 I-ASP Positive
+提 I-ASP Positive
+亮 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 长 O -999
 焦 O -999
@@ -5279,42 +5279,42 @@
 不 O -999
 错 O -999
 的 O -999
-背 B-ASP 1
-景 I-ASP 1
-虚 I-ASP 1
-化 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+背 B-ASP Positive
+景 I-ASP Positive
+虚 I-ASP Positive
+化 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 具 O -999
 有 O -999
 强 O -999
 大 O -999
 的 O -999
-动 B-ASP 1
-态 I-ASP 1
-短 I-ASP 1
-片 I-ASP 1
-拍 I-ASP 1
-摄 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+动 B-ASP Positive
+态 I-ASP Positive
+短 I-ASP Positive
+片 I-ASP Positive
+拍 I-ASP Positive
+摄 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 很 O -999
 强 O -999
-扩 B-ASP 1
-展 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+扩 B-ASP Positive
+展 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 
 录 O -999
 制 O -999
-短 B-ASP 0
-片 I-ASP 0
-占 I-ASP 0
-据 I-ASP 0
-空 I-ASP 0
-间 I-ASP 0
+短 B-ASP Negative
+片 I-ASP Negative
+占 I-ASP Negative
+据 I-ASP Negative
+空 I-ASP Negative
+间 I-ASP Negative
 太 O -999
 大 O -999
 
@@ -5323,10 +5323,10 @@
 有 O -999
 超 O -999
 级 O -999
-微 B-ASP 1
-距 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 
 手 O -999
 动 O -999
@@ -5336,13 +5336,13 @@
 式 O -999
 下 O -999
 的 O -999
-对 B-ASP 1
-焦 I-ASP 1
-点 I-ASP 1
-放 I-ASP 1
-大 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+点 I-ASP Positive
+放 I-ASP Positive
+大 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 十 O -999
 分 O -999
 的 O -999
@@ -5362,8 +5362,8 @@
 钱 O -999
 买 O -999
 到 O -999
-功 B-ASP 1
-能 I-ASP 1
+功 B-ASP Positive
+能 I-ASP Positive
 强 O -999
 大 O -999
 的 O -999
@@ -5372,13 +5372,13 @@
 相 O -999
 机 O -999
 
-配 B-ASP 1
-置 I-ASP 1
+配 B-ASP Positive
+置 I-ASP Positive
 不 O -999
 错 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 还 O -999
 原 O -999
 真 O -999
@@ -5389,17 +5389,17 @@
 格 O -999
 式 O -999
 的 O -999
-短 B-ASP 1
-片 I-ASP 1
-体 I-ASP 1
-积 I-ASP 1
+短 B-ASP Positive
+片 I-ASP Positive
+体 I-ASP Positive
+积 I-ASP Positive
 很 O -999
 大 O -999
 
 但 O -999
 是 O -999
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 非 O -999
 常 O -999
 的 O -999
@@ -5410,22 +5410,22 @@
 系 O -999
 列 O -999
 的 O -999
-做 B-ASP 0
-工 I-ASP 0
+做 B-ASP Negative
+工 I-ASP Negative
 实 O -999
 在 O -999
 太 O -999
 一 O -999
 般 O -999
 
-整 B-ASP 0
-机 I-ASP 0
+整 B-ASP Negative
+机 I-ASP Negative
 很 O -999
 沉 O -999
 重 O -999
 
-做 B-ASP 1
-工 I-ASP 1
+做 B-ASP Positive
+工 I-ASP Positive
 用 O -999
 精 O -999
 湛 O -999
@@ -5436,23 +5436,23 @@
 为 O -999
 过 O -999
 
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 良 O -999
 好 O -999
 
-开 B-ASP 1
-机 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+开 B-ASP Positive
+机 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 很 O -999
 快 O -999
 
 英 O -999
 寸 O -999
-液 B-ASP 1
-晶 I-ASP 1
-屏 I-ASP 1
+液 B-ASP Positive
+晶 I-ASP Positive
+屏 I-ASP Positive
 显 O -999
 示 O -999
 效 O -999
@@ -5460,30 +5460,30 @@
 出 O -999
 色 O -999
 
-清 B-ASP 1
-晰 I-ASP 1
-度 I-ASP 1
+清 B-ASP Positive
+晰 I-ASP Positive
+度 I-ASP Positive
 高 O -999
 
-画 B-ASP 1
-面 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
 真 O -999
 实 O -999
 
-液 B-ASP 1
-晶 I-ASP 1
-屏 I-ASP 1
-显 I-ASP 1
-示 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+液 B-ASP Positive
+晶 I-ASP Positive
+屏 I-ASP Positive
+显 I-ASP Positive
+示 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 也 O -999
 不 O -999
 俗 O -999
 
 的 O -999
-微 B-ASP 1
-距 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
 值 O -999
 得 O -999
 称 O -999
@@ -5494,8 +5494,8 @@
 小 O -999
 巧 O -999
 的 O -999
-机 B-ASP 0
-身 I-ASP 0
+机 B-ASP Negative
+身 I-ASP Negative
 不 O -999
 易 O -999
 握 O -999
@@ -5507,10 +5507,10 @@
 的 O -999
 金 O -999
 属 O -999
-镜 B-ASP 0
-头 I-ASP 0
-滑 I-ASP 0
-盖 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
+滑 I-ASP Negative
+盖 I-ASP Negative
 易 O -999
 留 O -999
 下 O -999
@@ -5519,28 +5519,28 @@
 纹 O -999
 
 且 O -999
-按 B-ASP 0
-钮 I-ASP 0
+按 B-ASP Negative
+钮 I-ASP Negative
 比 O -999
 较 O -999
 小 O -999
 
-镜 B-ASP 0
-头 I-ASP 0
-口 I-ASP 0
-径 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
+口 I-ASP Negative
+径 I-ASP Negative
 小 O -999
 
-镜 B-ASP 0
-头 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
 口 I-ASP -999
 径 I-ASP -999
 小 O -999
 
-对 B-ASP 0
-焦 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+对 B-ASP Negative
+焦 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 慢 O -999
 
 拍 O -999
@@ -5548,8 +5548,8 @@
 的 O -999
 照 O -999
 片 O -999
-噪 B-ASP 0
-点 I-ASP 0
+噪 B-ASP Negative
+点 I-ASP Negative
 相 O -999
 对 O -999
 较 O -999
@@ -5558,27 +5558,27 @@
 特 O -999
 别 O -999
 是 O -999
-微 B-ASP 1
-距 I-ASP 1
+微 B-ASP Positive
+距 I-ASP Positive
 不 O -999
 错 O -999
 
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 特 O -999
 清 O -999
 晰 O -999
 
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 还 O -999
 是 O -999
 不 O -999
 错 O -999
 的 O -999
 
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 还 O -999
 是 O -999
 不 O -999
@@ -5592,9 +5592,9 @@
 点 O -999
 就 O -999
 是 O -999
-风 B-ASP 0
-景 I-ASP 0
-照 I-ASP 0
+风 B-ASP Negative
+景 I-ASP Negative
+照 I-ASP Negative
 很 O -999
 差 O -999
 
@@ -5610,23 +5610,23 @@
 陷 O -999
 就 O -999
 是 O -999
-便 B-ASP 0
-携 I-ASP 0
-性 I-ASP 0
+便 B-ASP Negative
+携 I-ASP Negative
+性 I-ASP Negative
 差 O -999
 
 节 O -999
-电 B-ASP 0
-池 I-ASP 0
+电 B-ASP Negative
+池 I-ASP Negative
 非 O -999
 常 O -999
 重 O -999
 
 就 O -999
 是 O -999
-防 B-ASP 0
-抖 I-ASP 0
-性 I-ASP 0
+防 B-ASP Negative
+抖 I-ASP Negative
+性 I-ASP Negative
 非 O -999
 常 O -999
 非 O -999
@@ -5639,8 +5639,8 @@
 是 O -999
 因 O -999
 为 O -999
-功 B-ASP 0
-能 I-ASP 0
+功 B-ASP Negative
+能 I-ASP Negative
 太 O -999
 多 O -999
 
@@ -5648,8 +5648,8 @@
 而 O -999
 各 O -999
 个 O -999
-功 B-ASP 0
-能 I-ASP 0
+功 B-ASP Negative
+能 I-ASP Negative
 都 O -999
 不 O -999
 尽 O -999
@@ -5657,16 +5657,16 @@
 意 O -999
 
 的 O -999
-重 B-ASP 1
-量 I-ASP 1
+重 B-ASP Positive
+量 I-ASP Positive
 远 O -999
 远 O -999
 轻 O -999
 于 O -999
 
 的 O -999
-画 B-ASP 1
-质 I-ASP 1
+画 B-ASP Positive
+质 I-ASP Positive
 真 O -999
 的 O -999
 比 O -999
@@ -5674,16 +5674,16 @@
 些 O -999
 
 的 O -999
-手 B-ASP 1
-动 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
 比 O -999
 更 O -999
 加 O -999
 丰 O -999
 富 O -999
 
-仿 B-ASP 0
-抖 I-ASP 0
+仿 B-ASP Negative
+抖 I-ASP Negative
 做 O -999
 的 O -999
 不 O -999
@@ -5692,8 +5692,8 @@
 好 O -999
 
 从 O -999
-镜 B-ASP 1
-头 I-ASP 1
+镜 B-ASP Positive
+头 I-ASP Positive
 上 O -999
 醒 O -999
 目 O -999
@@ -5720,11 +5720,11 @@
 的 O -999
 数 O -999
 字 O -999
-影 B-ASP 1
-像 I-ASP 1
-处 I-ASP 1
-理 I-ASP 1
-器 I-ASP 1
+影 B-ASP Positive
+像 I-ASP Positive
+处 I-ASP Positive
+理 I-ASP Positive
+器 I-ASP Positive
 是 O -999
 佳 O -999
 能 O -999
@@ -5742,32 +5742,32 @@
 体 O -999
 来 O -999
 看 O -999
-界 B-ASP 1
-面 I-ASP 1
+界 B-ASP Positive
+面 I-ASP Positive
 友 O -999
 好 O -999
 
-内 B-ASP 1
-容 I-ASP 1
+内 B-ASP Positive
+容 I-ASP Positive
 十 O -999
 分 O -999
 详 O -999
 尽 O -999
 
-反 B-ASP 1
-应 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+反 B-ASP Positive
+应 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 也 O -999
 比 O -999
 较 O -999
 快 O -999
 
 的 O -999
-紫 B-ASP 1
-边 I-ASP 1
-现 I-ASP 1
-象 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
+现 I-ASP Positive
+象 I-ASP Positive
 比 O -999
 较 O -999
 轻 O -999
@@ -5776,36 +5776,36 @@
 机 O -999
 子 O -999
 的 O -999
-持 B-ASP 1
-握 I-ASP 1
-感 I-ASP 1
+持 B-ASP Positive
+握 I-ASP Positive
+感 I-ASP Positive
 依 O -999
 旧 O -999
 不 O -999
 错 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 非 O -999
 常 O -999
 的 O -999
 艳 O -999
 丽 O -999
 
-开 B-ASP 0
-机 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+开 B-ASP Negative
+机 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 一 O -999
 般 O -999
 
-镜 B-ASP 0
-头 I-ASP 0
-伸 I-ASP 0
-出 I-ASP 0
-的 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
+伸 I-ASP Negative
+出 I-ASP Negative
+的 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 也 O -999
 不 O -999
 是 O -999
@@ -5813,8 +5813,8 @@
 常 O -999
 快 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 自 O -999
 然 O -999
 逼 O -999
@@ -5823,34 +5823,34 @@
 拍 O -999
 照 O -999
 时 O -999
-快 B-ASP 0
-门 I-ASP 0
-时 I-ASP 0
-滞 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+时 I-ASP Negative
+滞 I-ASP Negative
 明 O -999
 显 O -999
 
-价 B-ASP 1
-格 I-ASP 1
+价 B-ASP Positive
+格 I-ASP Positive
 低 O -999
 
-手 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 强 O -999
 大 O -999
 
-自 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+自 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 实 O -999
 用 O -999
 
-液 B-ASP 0
-晶 I-ASP 0
-屏 I-ASP 0
+液 B-ASP Negative
+晶 I-ASP Negative
+屏 I-ASP Negative
 太 O -999
 小 O -999
 相 O -999
@@ -5858,34 +5858,34 @@
 太 O -999
 低 O -999
 
-电 B-ASP 0
-池 I-ASP 0
-盖 I-ASP 0
+电 B-ASP Negative
+池 I-ASP Negative
+盖 I-ASP Negative
 有 O -999
 点 O -999
 松 O -999
 
-机 B-ASP 1
-形 I-ASP 1
+机 B-ASP Positive
+形 I-ASP Positive
 虽 O -999
 不 O -999
 大 O -999
 
-闪 B-ASP 0
-光 I-ASP 0
-灯 I-ASP 0
-充 I-ASP 0
-电 I-ASP 0
-时 I-ASP 0
-间 I-ASP 0
+闪 B-ASP Negative
+光 I-ASP Negative
+灯 I-ASP Negative
+充 I-ASP Negative
+电 I-ASP Negative
+时 I-ASP Negative
+间 I-ASP Negative
 太 O -999
 长 O -999
 了 O -999
 
-图 B-ASP 1
-象 I-ASP 1
-锐 I-ASP 1
-度 I-ASP 1
+图 B-ASP Positive
+象 I-ASP Positive
+锐 I-ASP Positive
+度 I-ASP Positive
 不 O -999
 错 O -999
 
@@ -5893,27 +5893,27 @@
 室 O -999
 内 O -999
 的 O -999
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 也 O -999
 不 O -999
 错 O -999
 
 高 O -999
 下 O -999
-照 B-ASP 0
-片 I-ASP 0
-燥 I-ASP 0
-点 I-ASP 0
+照 B-ASP Negative
+片 I-ASP Negative
+燥 I-ASP Negative
+点 I-ASP Negative
 比 O -999
 较 O -999
 明 O -999
 显 O -999
 
-短 B-ASP 1
-片 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+短 B-ASP Positive
+片 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 不 O -999
 错 O -999
 
@@ -5924,43 +5924,43 @@
 光 O -999
 下 O -999
 的 O -999
-显 B-ASP 0
-示 I-ASP 0
-效 I-ASP 0
-果 I-ASP 0
+显 B-ASP Negative
+示 I-ASP Negative
+效 I-ASP Negative
+果 I-ASP Negative
 不 O -999
 是 O -999
 很 O -999
 好 O -999
 
-开 B-ASP 1
-关 I-ASP 1
-机 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+开 B-ASP Positive
+关 I-ASP Positive
+机 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 很 O -999
 快 O -999
 
-快 B-ASP 1
-门 I-ASP 1
-时 I-ASP 1
-滞 I-ASP 1
+快 B-ASP Positive
+门 I-ASP Positive
+时 I-ASP Positive
+滞 I-ASP Positive
 比 O -999
 较 O -999
 小 O -999
 
-存 B-ASP 1
-卡 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+存 B-ASP Positive
+卡 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 也 O -999
 很 O -999
 快 O -999
 
-功 B-ASP 0
-能 I-ASP 0
-转 I-ASP 0
-盘 I-ASP 0
+功 B-ASP Negative
+能 I-ASP Negative
+转 I-ASP Negative
+盘 I-ASP Negative
 设 O -999
 计 O -999
 的 O -999
@@ -5968,108 +5968,108 @@
 点 O -999
 紧 O -999
 
-闪 B-ASP 0
-光 I-ASP 0
-灯 I-ASP 0
-充 I-ASP 0
-电 I-ASP 0
-时 I-ASP 0
-间 I-ASP 0
+闪 B-ASP Negative
+光 I-ASP Negative
+灯 I-ASP Negative
+充 I-ASP Negative
+电 I-ASP Negative
+时 I-ASP Negative
+间 I-ASP Negative
 较 O -999
 长 O -999
 
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 更 O -999
 加 O -999
 轻 O -999
 巧 O -999
 
-点 B-ASP 0
-测 I-ASP 0
-光 I-ASP 0
-的 I-ASP 0
-范 I-ASP 0
-围 I-ASP 0
+点 B-ASP Negative
+测 I-ASP Negative
+光 I-ASP Negative
+的 I-ASP Negative
+范 I-ASP Negative
+围 I-ASP Negative
 太 O -999
 大 O -999
 了 O -999
 
-快 B-ASP 0
-门 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 缩 O -999
 水 O -999
 
-快 B-ASP 0
-门 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+快 B-ASP Negative
+门 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 缩 O -999
 水 O -999
 
 的 O -999
-恒 B-ASP 0
-定 I-ASP 0
-光 I-ASP 0
-圈 I-ASP 0
+恒 B-ASP Negative
+定 I-ASP Negative
+光 I-ASP Negative
+圈 I-ASP Negative
 让 O -999
 人 O -999
 遗 O -999
 憾 O -999
 
-屏 B-ASP 1
-幕 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+屏 B-ASP Positive
+幕 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 细 O -999
 腻 O -999
 著 O -999
 称 O -999
 
-细 B-ASP 0
-腻 I-ASP 0
-度 I-ASP 0
+细 B-ASP Negative
+腻 I-ASP Negative
+度 I-ASP Negative
 大 O -999
 打 O -999
 折 O -999
 扣 O -999
 
-光 B-ASP 1
-学 I-ASP 1
-防 I-ASP 1
-抖 I-ASP 1
+光 B-ASP Positive
+学 I-ASP Positive
+防 I-ASP Positive
+抖 I-ASP Positive
 较 O -999
 好 O -999
 
-续 B-ASP 0
-航 I-ASP 0
-力 I-ASP 0
+续 B-ASP Negative
+航 I-ASP Negative
+力 I-ASP Negative
 还 O -999
 是 O -999
 一 O -999
 般 O -999
 
-存 B-ASP 1
-储 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+存 B-ASP Positive
+储 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 快 O -999
 
 它 O -999
 的 O -999
-连 B-ASP 1
-拍 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+连 B-ASP Positive
+拍 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 非 O -999
 常 O -999
 过 O -999
 瘾 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 艳 O -999
 丽 O -999
 逼 O -999
@@ -6087,23 +6087,23 @@
 程 O -999
 塑 O -999
 料 O -999
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 很 O -999
 好 O -999
 
 超 O -999
 清 O -999
 
-紫 B-ASP 0
-边 I-ASP 0
-现 I-ASP 0
-象 I-ASP 0
+紫 B-ASP Negative
+边 I-ASP Negative
+现 I-ASP Negative
+象 I-ASP Negative
 严 O -999
 重 O -999
 
-镜 B-ASP 0
-头 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
 有 O -999
 松 O -999
 动 O -999
@@ -6113,26 +6113,26 @@
 象 O -999
 
 的 O -999
-内 B-ASP 1
-部 I-ASP 1
-设 I-ASP 1
-计 I-ASP 1
+内 B-ASP Positive
+部 I-ASP Positive
+设 I-ASP Positive
+计 I-ASP Positive
 更 O -999
 为 O -999
 紧 O -999
 凑 O -999
 
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 依 O -999
 然 O -999
 舒 O -999
 适 O -999
 
-供 B-ASP 1
-电 I-ASP 1
-方 I-ASP 1
-面 I-ASP 1
+供 B-ASP Positive
+电 I-ASP Positive
+方 I-ASP Positive
+面 I-ASP Positive
 是 O -999
 此 O -999
 次 O -999
@@ -6148,13 +6148,13 @@
 过 O -999
 这 O -999
 个 O -999
-模 B-ASP 0
-式 I-ASP 0
-拨 I-ASP 0
-盘 I-ASP 0
-操 I-ASP 0
-作 I-ASP 0
-性 I-ASP 0
+模 B-ASP Negative
+式 I-ASP Negative
+拨 I-ASP Negative
+盘 I-ASP Negative
+操 I-ASP Negative
+作 I-ASP Negative
+性 I-ASP Negative
 比 O -999
 较 O -999
 差 O -999
@@ -6164,8 +6164,8 @@
 之 O -999
 一 O -999
 是 O -999
-转 B-ASP 0
-盘 I-ASP 0
+转 B-ASP Negative
+盘 I-ASP Negative
 太 O -999
 小 O -999
 
@@ -6173,8 +6173,8 @@
 且 O -999
 单 O -999
 手 O -999
-操 B-ASP 0
-作 I-ASP 0
+操 B-ASP Negative
+作 I-ASP Negative
 起 O -999
 来 O -999
 不 O -999
@@ -6183,11 +6183,11 @@
 方 O -999
 便 O -999
 
-配 B-ASP 0
-件 I-ASP 0
-的 I-ASP 0
-价 I-ASP 0
-格 I-ASP 0
+配 B-ASP Negative
+件 I-ASP Negative
+的 I-ASP Negative
+价 I-ASP Negative
+格 I-ASP Negative
 太 O -999
 高 O -999
 
@@ -6195,8 +6195,8 @@
 容 O -999
 量 O -999
 的 O -999
-价 B-ASP 0
-格 I-ASP 0
+价 B-ASP Negative
+格 I-ASP Negative
 一 O -999
 直 O -999
 比 O -999
@@ -6208,8 +6208,8 @@
 电 O -999
 池 O -999
 的 O -999
-价 B-ASP 0
-格 I-ASP 0
+价 B-ASP Negative
+格 I-ASP Negative
 更 O -999
 是 O -999
 吓 O -999
@@ -6218,13 +6218,13 @@
 
 导 O -999
 致 O -999
-视 B-ASP 0
-频 I-ASP 0
-文 I-ASP 0
-件 I-ASP 0
-的 I-ASP 0
-体 I-ASP 0
-积 I-ASP 0
+视 B-ASP Negative
+频 I-ASP Negative
+文 I-ASP Negative
+件 I-ASP Negative
+的 I-ASP Negative
+体 I-ASP Negative
+积 I-ASP Negative
 巨 O -999
 大 O -999
 
@@ -6234,15 +6234,15 @@
 容 O -999
 量 O -999
 的 O -999
-价 B-ASP 0
-格 I-ASP 0
+价 B-ASP Negative
+格 I-ASP Negative
 较 O -999
 贵 O -999
 
-拍 B-ASP 0
-摄 I-ASP 0
-时 I-ASP 0
-间 I-ASP 0
+拍 B-ASP Negative
+摄 I-ASP Negative
+时 I-ASP Negative
+间 I-ASP Negative
 更 O -999
 加 O -999
 受 O -999
@@ -6250,8 +6250,8 @@
 
 这 O -999
 一 O -999
-设 B-ASP 1
-计 I-ASP 1
+设 B-ASP Positive
+计 I-ASP Positive
 也 O -999
 是 O -999
 让 O -999
@@ -6260,17 +6260,17 @@
 道 O -999
 的 O -999
 
-画 B-ASP 1
-面 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
 比 O -999
 较 O -999
 清 O -999
 晰 O -999
 
-声 B-ASP 1
-音 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
+声 B-ASP Positive
+音 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
 较 O -999
 佳 O -999
 
@@ -6279,8 +6279,8 @@
 显 O -999
 示 O -999
 的 O -999
-画 B-ASP 0
-面 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
 不 O -999
 购 O -999
 细 O -999
@@ -6293,28 +6293,28 @@
 大 O -999
 气 O -999
 的 O -999
-外 B-ASP 1
-形 I-ASP 1
+外 B-ASP Positive
+形 I-ASP Positive
 所 O -999
 吸 O -999
 引 O -999
 
 两 O -999
 者 O -999
-造 B-ASP 1
-型 I-ASP 1
+造 B-ASP Positive
+型 I-ASP Positive
 厚 O -999
 实 O -999
 
-布 B-ASP 1
-置 I-ASP 1
+布 B-ASP Positive
+置 I-ASP Positive
 紧 O -999
 凑 O -999
 
 而 O -999
 且 O -999
-手 B-ASP 1
-柄 I-ASP 1
+手 B-ASP Positive
+柄 I-ASP Positive
 持 O -999
 握 O -999
 起 O -999
@@ -6323,26 +6323,26 @@
 舒 O -999
 服 O -999
 
-图 B-ASP 1
-像 I-ASP 1
+图 B-ASP Positive
+像 I-ASP Positive
 非 O -999
 常 O -999
 细 O -999
 腻 O -999
 
-开 B-ASP 1
-机 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+开 B-ASP Positive
+机 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 快 O -999
 
 而 O -999
 它 O -999
 的 O -999
-对 B-ASP 1
-焦 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 也 O -999
 非 O -999
 常 O -999
@@ -6362,10 +6362,10 @@
 之 O -999
 间 O -999
 的 O -999
-拍 B-ASP 1
-摄 I-ASP 1
-间 I-ASP 1
-隔 I-ASP 1
+拍 B-ASP Positive
+摄 I-ASP Positive
+间 I-ASP Positive
+隔 I-ASP Positive
 还 O -999
 是 O -999
 比 O -999
@@ -6373,13 +6373,13 @@
 短 O -999
 的 O -999
 
-色 B-ASP 1
-彩 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
 鲜 O -999
 艳 O -999
 
-画 B-ASP 1
-面 I-ASP 1
+画 B-ASP Positive
+面 I-ASP Positive
 干 O -999
 净 O -999
 的 O -999
@@ -6394,75 +6394,75 @@
 体 O -999
 现 O -999
 
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 不 O -999
 错 O -999
 
-颜 B-ASP 1
-色 I-ASP 1
+颜 B-ASP Positive
+色 I-ASP Positive
 亮 O -999
 丽 O -999
 
-还 B-ASP 1
-原 I-ASP 1
+还 B-ASP Positive
+原 I-ASP Positive
 真 O -999
 实 O -999
 
-边 B-ASP 1
-缘 I-ASP 1
-锐 I-ASP 1
-利 I-ASP 1
-度 I-ASP 1
+边 B-ASP Positive
+缘 I-ASP Positive
+锐 I-ASP Positive
+利 I-ASP Positive
+度 I-ASP Positive
 不 O -999
 错 O -999
 
-操 B-ASP 1
-作 I-ASP 1
+操 B-ASP Positive
+作 I-ASP Positive
 简 O -999
 单 O -999
 
-效 B-ASP 1
-果 I-ASP 1
+效 B-ASP Positive
+果 I-ASP Positive
 不 O -999
 错 O -999
 
 机 O -999
 子 O -999
-反 B-ASP 1
-应 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+反 B-ASP Positive
+应 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 快 O -999
 
-电 B-ASP 0
-池 I-ASP 0
-续 I-ASP 0
-航 I-ASP 0
-能 I-ASP 0
-力 I-ASP 0
+电 B-ASP Negative
+池 I-ASP Negative
+续 I-ASP Negative
+航 I-ASP Negative
+能 I-ASP Negative
+力 I-ASP Negative
 一 O -999
 般 O -999
 
 这 O -999
 时 O -999
-紫 B-ASP 1
-边 I-ASP 1
+紫 B-ASP Positive
+边 I-ASP Positive
 并 O -999
 不 O -999
 明 O -999
 显 O -999
 
-广 B-ASP 0
-角 I-ASP 0
+广 B-ASP Negative
+角 I-ASP Negative
 不 O -999
 够 O -999
 用 O -999
 
-原 B-ASP 0
-装 I-ASP 0
-配 I-ASP 0
-件 I-ASP 0
+原 B-ASP Negative
+装 I-ASP Negative
+配 I-ASP Negative
+件 I-ASP Negative
 太 O -999
 贵 O -999
 
@@ -6477,54 +6477,54 @@
 定 O -999
 程 O -999
 度 O -999
-成 B-ASP 0
-本 I-ASP 0
+成 B-ASP Negative
+本 I-ASP Negative
 略 O -999
 高 O -999
 
-质 B-ASP 0
-量 I-ASP 0
+质 B-ASP Negative
+量 I-ASP Negative
 差 O -999
 
-外 B-ASP 0
-观 I-ASP 0
+外 B-ASP Negative
+观 I-ASP Negative
 比 O -999
 较 O -999
 唬 O -999
 人 O -999
 
-镜 B-ASP 0
-头 I-ASP 0
+镜 B-ASP Negative
+头 I-ASP Negative
 大 O -999
 
-成 B-ASP 0
-像 I-ASP 0
-效 I-ASP 0
-果 I-ASP 0
+成 B-ASP Negative
+像 I-ASP Negative
+效 I-ASP Negative
+果 I-ASP Negative
 一 O -999
 般 O -999
 
-手 B-ASP 1
-动 I-ASP 1
-功 I-ASP 1
-能 I-ASP 1
+手 B-ASP Positive
+动 I-ASP Positive
+功 I-ASP Positive
+能 I-ASP Positive
 很 O -999
 全 O -999
 面 O -999
 
-价 B-ASP 1
-格 I-ASP 1
+价 B-ASP Positive
+格 I-ASP Positive
 实 O -999
 惠 O -999
 
-机 B-ASP 0
-身 I-ASP 0
-质 I-ASP 0
-感 I-ASP 0
+机 B-ASP Negative
+身 I-ASP Negative
+质 I-ASP Negative
+感 I-ASP Negative
 差 O -999
 
-成 B-ASP 0
-像 I-ASP 0
+成 B-ASP Negative
+像 I-ASP Negative
 不 O -999
 突 O -999
 出 O -999
@@ -6542,8 +6542,8 @@
 化 O -999
 并 O -999
 且 O -999
-价 B-ASP 0
-格 I-ASP 0
+价 B-ASP Negative
+格 I-ASP Negative
 更 O -999
 加 O -999
 便 O -999
@@ -6551,27 +6551,27 @@
 
 它 O -999
 的 O -999
-机 B-ASP 1
-身 I-ASP 1
-尺 I-ASP 1
-寸 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
+尺 I-ASP Positive
+寸 I-ASP Positive
 更 O -999
 加 O -999
 小 O -999
 巧 O -999
 
 的 O -999
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 相 O -999
 当 O -999
 不 O -999
 错 O -999
 
-照 B-ASP 1
-片 I-ASP 1
-质 I-ASP 1
-量 I-ASP 1
+照 B-ASP Positive
+片 I-ASP Positive
+质 I-ASP Positive
+量 I-ASP Positive
 都 O -999
 比 O -999
 较 O -999
@@ -6580,23 +6580,23 @@
 满 O -999
 意 O -999
 
-手 B-ASP 1
-感 I-ASP 1
+手 B-ASP Positive
+感 I-ASP Positive
 光 O -999
 滑 O -999
 
 的 O -999
-整 B-ASP 1
-体 I-ASP 1
-做 I-ASP 1
-工 I-ASP 1
+整 B-ASP Positive
+体 I-ASP Positive
+做 I-ASP Positive
+工 I-ASP Positive
 十 O -999
 分 O -999
 考 O -999
 究 O -999
 
-机 B-ASP 1
-身 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
 浑 O -999
 然 O -999
 一 O -999
@@ -6606,27 +6606,27 @@
 块 O -999
 屏 O -999
 的 O -999
-色 B-ASP 1
-彩 I-ASP 1
-还 I-ASP 1
-原 I-ASP 1
-性 I-ASP 1
+色 B-ASP Positive
+彩 I-ASP Positive
+还 I-ASP Positive
+原 I-ASP Positive
+性 I-ASP Positive
 比 O -999
 较 O -999
 突 O -999
 出 O -999
 
-变 B-ASP 1
-焦 I-ASP 1
+变 B-ASP Positive
+焦 I-ASP Positive
 迅 O -999
 速 O -999
 均 O -999
 匀 O -999
 
-对 B-ASP 1
-焦 I-ASP 1
-速 I-ASP 1
-度 I-ASP 1
+对 B-ASP Positive
+焦 I-ASP Positive
+速 I-ASP Positive
+度 I-ASP Positive
 相 O -999
 当 O -999
 快 O -999
@@ -6634,11 +6634,11 @@
 在 O -999
 高 O -999
 下 O -999
-画 B-ASP 0
-面 I-ASP 0
-颗 I-ASP 0
-粒 I-ASP 0
-感 I-ASP 0
+画 B-ASP Negative
+面 I-ASP Negative
+颗 I-ASP Negative
+粒 I-ASP Negative
+感 I-ASP Negative
 很 O -999
 严 O -999
 重 O -999
@@ -6647,77 +6647,77 @@
 觉 O -999
 室 O -999
 内 O -999
-拍 B-ASP 0
-摄 I-ASP 0
-效 I-ASP 0
-果 I-ASP 0
+拍 B-ASP Negative
+摄 I-ASP Negative
+效 I-ASP Negative
+果 I-ASP Negative
 不 O -999
 是 O -999
 很 O -999
 好 O -999
 
 其 O -999
-机 B-ASP 1
-身 I-ASP 1
-大 I-ASP 1
-小 I-ASP 1
+机 B-ASP Positive
+身 I-ASP Positive
+大 I-ASP Positive
+小 I-ASP Positive
 适 O -999
 中 O -999
 
-电 B-ASP 1
-池 I-ASP 1
-的 I-ASP 1
-续 I-ASP 1
-航 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+电 B-ASP Positive
+池 I-ASP Positive
+的 I-ASP Positive
+续 I-ASP Positive
+航 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 不 O -999
 错 O -999
 
 但 O -999
 是 O -999
 其 O -999
-续 B-ASP 1
-航 I-ASP 1
-能 I-ASP 1
-力 I-ASP 1
+续 B-ASP Positive
+航 I-ASP Positive
+能 I-ASP Positive
+力 I-ASP Positive
 的 O -999
 确 O -999
 非 O -999
 常 O -999
 强 O -999
 
-价 B-ASP 0
-格 I-ASP 0
+价 B-ASP Negative
+格 I-ASP Negative
 太 O -999
 高 O -999
 
-图 B-ASP 0
-像 I-ASP 0
-处 I-ASP 0
-理 I-ASP 0
-时 I-ASP 0
-间 I-ASP 0
+图 B-ASP Negative
+像 I-ASP Negative
+处 I-ASP Negative
+理 I-ASP Negative
+时 I-ASP Negative
+间 I-ASP Negative
 过 O -999
 长 O -999
 
 而 O -999
 且 O -999
-数 B-ASP 0
-据 I-ASP 0
-存 I-ASP 0
-储 I-ASP 0
-速 I-ASP 0
-度 I-ASP 0
+数 B-ASP Negative
+据 I-ASP Negative
+存 I-ASP Negative
+储 I-ASP Negative
+速 I-ASP Negative
+度 I-ASP Negative
 较 O -999
 慢 O -999
 
 发 O -999
 现 O -999
-测 B-ASP 1
-光 I-ASP 1
-系 I-ASP 1
-统 I-ASP 1
+测 B-ASP Positive
+光 I-ASP Positive
+系 I-ASP Positive
+统 I-ASP Positive
 非 O -999
 常 O -999
 灵 O -999
@@ -6726,10 +6726,10 @@
 这 O -999
 样 O -999
 的 O -999
-显 B-ASP 1
-示 I-ASP 1
-方 I-ASP 1
-式 I-ASP 1
+显 B-ASP Positive
+示 I-ASP Positive
+方 I-ASP Positive
+式 I-ASP Positive
 无 O -999
 疑 O -999
 更 O -999
@@ -6739,8 +6739,8 @@
 方 O -999
 便 O -999
 
-手 B-ASP 0
-柄 I-ASP 0
+手 B-ASP Negative
+柄 I-ASP Negative
 有 O -999
 些 O -999
 偏 O -999
@@ -6749,8 +6749,8 @@
 左 O -999
 右 O -999
 的 O -999
-价 B-ASP 1
-格 I-ASP 1
+价 B-ASP Positive
+格 I-ASP Positive
 比 O -999
 较 O -999
 合 O -999
@@ -6758,9 +6758,9 @@
 
 只 O -999
 是 O -999
-液 B-ASP 0
-晶 I-ASP 0
-屏 I-ASP 0
+液 B-ASP Negative
+晶 I-ASP Negative
+屏 I-ASP Negative
 小 O -999
 了 O -999
 点 O -999
@@ -6770,28 +6770,33 @@
 使 O -999
 用 O -999
 中 O -999
-显 B-ASP 1
-示 I-ASP 1
-效 I-ASP 1
-果 I-ASP 1
+显 B-ASP Positive
+示 I-ASP Positive
+效 I-ASP Positive
+果 I-ASP Positive
 一 O -999
 流 O -999
 
-成 B-ASP 1
-相 I-ASP 1
-质 I-ASP 1
-量 I-ASP 1
+成 B-ASP Positive
+相 I-ASP Positive
+质 I-ASP Positive
+量 I-ASP Positive
 好 O -999
 
 拍 O -999
 的 O -999
-照 B-ASP 1
-片 I-ASP 1
+照 B-ASP Positive
+片 I-ASP Positive
 很 O -999
 漂 O -999
 亮 O -999
 
-作 B-ASP 1
-工 I-ASP 1
+作 B-ASP Positive
+工 I-ASP Positive
 好 O -999
+
+发 B-ASP Negative
+热 I-ASP Negative
+量 I-ASP Negative
+大 O -999
 

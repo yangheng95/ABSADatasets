@@ -3743,3 +3743,20 @@
 助 O -999
 力 O -999
 
+使 O -999
+得 O -999
+车 O -999
+辆 O -999
+在 O -999
+高 O -999
+速 O -999
+行 O -999
+驶 O -999
+时 O -999
+的 O -999
+操 B-ASP Negative
+控 I-ASP Negative
+性 I-ASP Negative
+较 O -999
+差 O -999
+

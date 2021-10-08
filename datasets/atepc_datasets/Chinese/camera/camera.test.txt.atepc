@@ -6795,3 +6795,8 @@
 工 I-ASP Positive
 好 O -999
 
+发 B-ASP Negative
+热 I-ASP Negative
+量 I-ASP Negative
+大 O -999
+

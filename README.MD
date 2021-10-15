@@ -4,7 +4,7 @@
 
 We hope you can share your custom dataset or a available public dataset. If you want to, follow these steps:
 
-- Format your APC dataset according to our dataset format. (**Recommended. Once you finoshed this step, we can help you to finish other steps**)
+- Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you to finish other steps**)
 ![image](https://user-images.githubusercontent.com/51735130/136219441-c3e9b4e2-6e31-4d32-b6c3-a66788b179f6.png)
 
 

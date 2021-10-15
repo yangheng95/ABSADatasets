@@ -1,5 +1,10 @@
 # ABSA datasets for [PyABSA](https://github.com/yangheng95/PyABSA)
 
+[![total views](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_views.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
+[![total views per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_views_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
+[![total clones](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
+[![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
+
 ## Dataset contribution
 
 We hope you can share your custom dataset or a available public dataset. If you want to, follow these steps:

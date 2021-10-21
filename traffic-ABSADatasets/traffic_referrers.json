@@ -1,13 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 105,
+    "count": 108,
     "uniques": 25
-  },
-  {
-    "referrer": "hi2xnj9nry-496ff2e9c6d22116-0-colab.googleusercontent.com",
-    "count": 9,
-    "uniques": 1
   },
   {
     "referrer": "link.zhihu.com",
@@ -15,17 +10,17 @@
     "uniques": 1
   },
   {
-    "referrer": "Google",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "confluence.leihuo.netease.com",
-    "count": 1,
+    "referrer": "hi2xnj9nry-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "ttd3w089y3j-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "referrer": "Google",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "confluence.leihuo.netease.com",
     "count": 1,
     "uniques": 1
   },

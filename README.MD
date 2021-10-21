@@ -5,8 +5,7 @@
 [![total clones](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
-## Dataset contribution
-
+## Contribute (prepare) your dataset in using PyABSA
 We hope you can share your custom dataset or a available public dataset. If you want to, follow these steps:
 
 - Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you to finish other steps**)

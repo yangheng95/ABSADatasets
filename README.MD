@@ -8,9 +8,17 @@
 ## Contribute (prepare) your dataset in using PyABSA
 We hope you can share your custom dataset or a available public dataset. If you want to, follow these steps:
 
+- A Stand-alone browser based tool to help process data for the training set. [here](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT)
+![image1](https://user-images.githubusercontent.com/4684417/139701633-d77a009b-1a12-4ef2-9663-37d2d36e1af1.JPG)
+
+  Once data saved, 3 files will be created: 
+
+  1. a CSV file training set for classic sentiment analysis 
+  2. a TXT file training set for PyABSA
+  3. a JSON file for saving unfinished work
+
 - Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you to finish other steps**)
 ![image](https://user-images.githubusercontent.com/51735130/136219441-c3e9b4e2-6e31-4d32-b6c3-a66788b179f6.png)
-
 
 - Generate the inference dataset for APC / ATEPC task (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_polarity_classification/generate_inference_set.py))
 - Convert the APC dataset to ATEPC dataset, and move the transformed ATEPC datasets from apc_dataset to corresponding atepc_datasets. (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_term_extraction/convert_apc_set_to_atepc_set.py) )

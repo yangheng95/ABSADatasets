@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 471,
-    "uniques": 36
+    "count": 511,
+    "uniques": 38
   },
   {
     "referrer": "dbpuh4c0m2-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -11,6 +11,11 @@
   },
   {
     "referrer": "colab.research.google.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "pythonrepo.com",
     "count": 1,
     "uniques": 1
   },

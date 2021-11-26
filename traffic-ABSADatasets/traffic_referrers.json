@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 464,
+    "count": 471,
     "uniques": 40
   },
   {
@@ -23,10 +23,5 @@
     "referrer": "colab.research.google.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "openbase.com",
-    "count": 1,
-    "uniques": 1
   }
 ]

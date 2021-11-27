@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 471,
-    "uniques": 40
+    "count": 457,
+    "uniques": 39
   },
   {
     "referrer": "Google",
-    "count": 64,
-    "uniques": 4
+    "count": 65,
+    "uniques": 5
   },
   {
     "referrer": "dbpuh4c0m2-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -23,5 +23,10 @@
     "referrer": "colab.research.google.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 1,
+    "uniques": 1
   }
 ]

@@ -296,6 +296,7 @@
 													'<button id="Pos" type="button" class="btn btn-success btn-sm">Positive</button>' +
 													'<button id="Neu" type="button" class="btn btn-secondary btn-sm">Neutral</button>' +
 													'<button id="Neg" type="button" class="btn btn-danger btn-sm">Negative</button>' +
+													'<button id="Del" type="button" class="btn btn-primary btn-sm">Clear</button>' +
 													'</div>'
 										});
 										
@@ -304,9 +305,15 @@
 										$(tkspan).one("shown.bs.popover", () => {
 											$("#pop_" + tkspanid + " .btn").on("click", (e) => {
 												TkPopover.dispose();
-												$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg"]).addClass("a-"+e.target.id);
-												item.aspect = true;
-												item.sentiment = e.target.id;
+												if(e.target.id==='Del'){
+													$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg","active"]);
+													_.unset(item, "aspect");
+													_.unset(item, "sentiment");
+												} else {
+													$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg"]).addClass("a-"+e.target.id);
+													item.aspect = true;
+													item.sentiment = e.target.id;
+												}
 											});
 										});
 									}
@@ -322,6 +329,7 @@
 											'<button id="Pos" type="button" class="btn btn-success btn-sm">Positive</button>' +
 											'<button id="Neu" type="button" class="btn btn-secondary btn-sm">Neutral</button>' +
 											'<button id="Neg" type="button" class="btn btn-danger btn-sm">Negative</button>' +
+											'<button id="Del" type="button" class="btn btn-primary btn-sm">Clear</button>' +
 										'</div>'
 							});
 							
@@ -330,9 +338,15 @@
 							$(target).one("shown.bs.popover", () => {
 								$("#pop_" + tkspanid + " .btn").on("click", (e) => {
 									TkPopover.dispose();
-									$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg"]).addClass("a-"+e.target.id);
-									item.aspect = true;
-									item.sentiment = e.target.id;
+									if(e.target.id==='Del'){
+										$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg","active"]);
+										_.unset(item, "aspect");
+										_.unset(item, "sentiment");
+									} else {
+										$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg"]).addClass("a-"+e.target.id);
+										item.aspect = true;
+										item.sentiment = e.target.id;
+									}
 								});
 							});
 						}

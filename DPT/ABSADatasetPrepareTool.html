@@ -126,6 +126,7 @@
 										  :class="TokenClass(item)" 
 										  v-for="(item, index) in PageArrays.rvarr" 
 										  v-on:click="_.size(item.tk.trim())==0 ? void(0) : TokenHighlight(event.target, PageArrays.rvarr, item, index)"
+										  v-if="item.tk.trim()!==''"
 										  :key="item.tkid">{{index==0 ? item.tk : !item.tk.match(/\p{P}/gu) ? ' ' + item.tk : item.tk}}</span>
 								</span> 
 							</td>
@@ -266,24 +267,35 @@
 											_.unset(PageArrays[index-1], "sentiment");
 											$(tkspan).next("span").text(" " + newStr);
 											$(tkspan).prev("span").remove();
-											$(tkspan).remove();
 										} else {
 											if ($(tkspan).next("span").hasClass("active")){
-												let newStr = item.tk.trim() + " " + PageArrays[index+1].tk.trim();
-												PageArrays[index+1].tk = newStr;
+												let pos = parseInt(($(tkspan).next("span").attr("id")).split("_")[1])-index;
+												let newStr = item.tk.trim() + " " + PageArrays[index+pos].tk.trim();
+												PageArrays[index+pos].tk = newStr;
 												PageArrays[index].tk = "";
 												_.unset(PageArrays[index], "aspect");
 												_.unset(PageArrays[index], "sentiment");
 												$(tkspan).next("span").text(" " + newStr);
-												$(tkspan).remove();
+												if(_.size($(tkspan).next("span").attr("data-id-merged"))==0){
+													$(tkspan).next("span").attr("data-id-merged", $(tkspan).attr("id") + "|" + $(tkspan).next("span").attr("id"));
+												} else {
+													$(tkspan).next("span").attr("data-id-merged", $(tkspan).attr("id") + "|" + $(tkspan).next("span").attr("data-id-merged"));
+												}
+												
 											} else {
-												let newStr = PageArrays[index-1].tk.trim() + " " + item.tk.trim();
-												PageArrays[index-1].tk = newStr;
+												let pos = index-parseInt(($(tkspan).prev("span").attr("id")).split("_")[1]);
+												let newStr = PageArrays[index-pos].tk.trim() + " " + item.tk.trim();
+												PageArrays[index-pos].tk = newStr;
 												PageArrays[index].tk = "";
 												_.unset(PageArrays[index], "aspect");
 												_.unset(PageArrays[index], "sentiment");
 												$(tkspan).prev("span").text(" " + newStr);
-												$(tkspan).remove();
+												if(_.size($(tkspan).prev("span").attr("data-id-merged"))==0){
+													$(tkspan).prev("span").attr("data-id-merged", $(tkspan).prev("span").attr("id") + "|" + $(tkspan).attr("id"));
+												} else {
+													$(tkspan).prev("span").attr("data-id-merged", $(tkspan).prev("span").attr("data-id-merged") + "|" +  $(tkspan).attr("id"));
+												}
+												
 											}
 										}
 									} else {
@@ -339,7 +351,23 @@
 								$("#pop_" + tkspanid + " .btn").on("click", (e) => {
 									TkPopover.dispose();
 									if(e.target.id==='Del'){
+										let tkids = ($("#"+tkspanid).attr("data-id-merged")).split("|");
+										if( _.size(tkids) == 2){											
+											let tks = (item.tk).split(/\s*\b\s*/);
+											let vals = _.zipObject(tkids, tks);
+											item.tk = vals[item.tkid];
+											$("#"+tkspanid).text(" " + vals[item.tkid]);
+											let tkpos = _.indexOf(tkids,tkspanid);
+											if(tkpos==1){
+												PageArrays[index-1].tk = tks[0];
+											} else if(tkpos==0){
+												PageArrays[index+1].tk = tks[1];
+											}
+										} else if(_.size(tkids) == 3){
+											
+										}
 										$("#"+tkspanid).removeClass(["a-Pos","a-Neu","a-Neg","active"]);
+										$("#"+tkspanid).removeAttr("data-id-merged");
 										_.unset(item, "aspect");
 										_.unset(item, "sentiment");
 									} else {

@@ -48,3 +48,5 @@ MOOC: [jmc-123@github](https://github.com/jmc-123/ABSADatasets) with GPL License
 Twitter: https://dl.acm.org/doi/10.5555/2832415.2832437
 
 Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
+
+Yelp: [WeiLi9811@github] 

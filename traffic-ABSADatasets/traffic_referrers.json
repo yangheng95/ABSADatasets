@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 770,
-    "uniques": 52
+    "count": 736,
+    "uniques": 53
   },
   {
     "referrer": "Google",
@@ -12,6 +12,11 @@
   {
     "referrer": "kkb-production.jupyter-proxy.kaggle.net",
     "count": 15,
+    "uniques": 1
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 2,
     "uniques": 1
   },
   {

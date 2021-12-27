@@ -49,4 +49,4 @@ Twitter: https://dl.acm.org/doi/10.5555/2832415.2832437
 
 Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
 
-Yelp: [WeiLi9811@github] 
+Yelp: [WeiLi9811@github](https://github.com/WeiLi9811)

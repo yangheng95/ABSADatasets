@@ -19,7 +19,7 @@ We hope you can share your custom dataset or a available public dataset. If you 
 
 - Generate the inference dataset for APC / ATEPC task (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_polarity_classification/generate_inference_set.py))
 - Convert the APC dataset to ATEPC dataset, and move the transformed ATEPC datasets from apc_dataset to corresponding atepc_datasets. (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_term_extraction/convert_apc_set_to_atepc_set.py) )
-- Register your dataset in PyABSA. (**Optional**. Register [here](https://github.com/yangheng95/PyABSA/blob/3238f319f6ee4938d728ed6ae61eb98b4753311a/pyabsa/functional/dataset/dataset_manager.py#L32))
+- Register your dataset in PyABSA. (**Optional**. Register [here](https://github.com/yangheng95/PyABSA/blob/302da1e4b2292cdbc5b9c712862e623c427132b8/pyabsa/functional/dataset/dataset_manager.py#L37))
 
 ### Annotate Your Dataset
 - A Stand-alone browser based tool to help process data for the training set. [here](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT)

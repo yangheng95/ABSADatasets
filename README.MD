@@ -1,7 +1,4 @@
 # ABSA datasets for [PyABSA](https://github.com/yangheng95/PyABSA)
-[![Downloads](https://pepy.tech/badge/findfile)](https://pepy.tech/project/findfile)
-[![Downloads](https://pepy.tech/badge/findfile/month)](https://pepy.tech/project/findfile)
-[![Downloads](https://pepy.tech/badge/findfile/week)](https://pepy.tech/project/findfile)
 
 [![total views](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_views.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 [![total views per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_views_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)

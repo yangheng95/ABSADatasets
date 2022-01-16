@@ -10,12 +10,17 @@ We hope you can share your custom dataset or a available public dataset. If you 
  
 ### Important: Rename your dataset filename before use it in PyABSA
 
-- APC dataset name should be: {id}.dataset name}.{type}.dat , e.g., 996.restaurant.train.dat, 996.restaurant.test.dat, 996.restaurant.valid.dat
-- ATEPC dataset name should be: {id}.{dataset name}.{type}.dat.atepc , e.g., 996.restaurant.train.dat.atepc, 996.restaurant.test.dat.atepc, 996.restaurant.valid.dat.atepc
+- APC dataset name should be: {id}.dataset name}.{type}.dat , e.g., `996.restaurant.train.dat`, `996.restaurant.test.dat`, `996.restaurant.valid.dat`
+- ATEPC dataset name should be: {id}.{dataset name}.{type}.dat.atepc , `e.g., 996.restaurant.train.dat.atepc`, `996.restaurant.test.dat.atepc`, `996.restaurant.valid.dat.atepc`
 
 Then, use the id to loacte your dataset, e.g., 
+
 ```python3
- Trainer(config=_config,
+from pyabsa.functional import APCConfigManager
+
+config = APCConfigManager.get_apc_config_english() # APC task
+
+ Trainer(config=config,
          dataset='996.restaurant',  # train set and test set will be automatically detected
          checkpoint_save_mode=1,
          auto_device=device  # automatic choose CUDA or CPU

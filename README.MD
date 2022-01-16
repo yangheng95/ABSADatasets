@@ -16,7 +16,7 @@ We hope you can share your custom dataset or a available public dataset. If you 
 Then, use the id to loacte your dataset, e.g., 
 ```python3
  Trainer(config=_config,
-         dataset='996',  # train set and test set will be automatically detected
+         dataset='996.restaurant',  # train set and test set will be automatically detected
          checkpoint_save_mode=1,
          auto_device=device  # automatic choose CUDA or CPU
          )

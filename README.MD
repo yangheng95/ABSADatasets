@@ -6,28 +6,51 @@
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
 ## Contribute (prepare) your dataset in using PyABSA
-We hope you can share your custom dataset or a available public dataset. If you want to, follow these steps:
+We hope you can share your custom dataset or an available public dataset. If you want to, follow these steps:
  
 ### Important: Rename your dataset filename before use it in PyABSA
 
-- APC dataset name should be: {id}.dataset name}.{type}.dat , e.g., `996.restaurant.train.dat`, `996.restaurant.test.dat`, `996.restaurant.valid.dat`
-- ATEPC dataset name should be: {id}.{dataset name}.{type}.dat.atepc , `e.g., 996.restaurant.train.dat.atepc`, `996.restaurant.test.dat.atepc`, `996.restaurant.valid.dat.atepc`
+Although the integrated datasets have no ids, it is recommended to assign an id for your dataset. 
+While merge your datasets into ABSADatasets, please keep the id remained.
 
-Then, use the id to loacte your dataset, e.g., 
+- APC dataset name should be {id}.{dataset name}, and the dataset files should be named in. {id}.{dataset name}.{type}.dat.atepc e.g., 
+```tree
+datasets
+├── 996.restaurant
+│    ├── 996.restaurant.train.dat  # train_dataset
+│    ├── 996.restaurant.test.dat  # test_dataset
+│    └── 996.restaurant.valid.dat  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
+└── others
+```
+
+- ATEPC dataset files should be {id}.{dataset name}.{type}.dat.atepc,
+e.g., 
+```tree
+datasets
+├── 996.restaurant
+│    ├── 996.restaurant.train.dat.atepc  # train_dataset
+│    ├── 996.restaurant.test.dat.atepc  # test_dataset
+│    └── 996.restaurant.valid.dat.atepc  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
+└── others
+```
+
+Then, use the id to locate your dataset, e.g., 
 
 ```python3
 from pyabsa.functional import APCConfigManager
+from pyabsa.functional import Trainer
+from autocuda import auto_cuda
 
 config = APCConfigManager.get_apc_config_english() # APC task
 
- Trainer(config=config,
-         dataset='996.restaurant',  # train set and test set will be automatically detected
-         checkpoint_save_mode=1,
-         auto_device=device  # automatic choose CUDA or CPU
-         )
+Trainer(config=config,
+        dataset='996.restaurant',  # train set and test set will be automatically detected
+        checkpoint_save_mode=1,
+        auto_device=auto_cuda()  # automatic choose CUDA or CPU
+        )
 ```
 
-It will avoid some potential probelm while PyABSA detects the dataset.
+It will avoid some potential problem (e.g., duplicated dataset name) while PyABSA detects the dataset.
 
 ### Dataset Processing
 - Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you to finish other steps**)

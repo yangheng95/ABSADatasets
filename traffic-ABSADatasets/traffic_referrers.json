@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 405,
-    "uniques": 45
+    "count": 472,
+    "uniques": 50
   },
   {
     "referrer": "Google",
@@ -15,11 +15,6 @@
     "uniques": 1
   },
   {
-    "referrer": "pythonrepo.com",
-    "count": 16,
-    "uniques": 1
-  },
-  {
     "referrer": "hub.fastgit.org",
     "count": 10,
     "uniques": 1
@@ -28,5 +23,15 @@
     "referrer": "colab.research.google.com",
     "count": 9,
     "uniques": 2
+  },
+  {
+    "referrer": "pythonrepo.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "8u0e1kwirzd-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 1,
+    "uniques": 1
   }
 ]

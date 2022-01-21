@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 447,
-    "uniques": 51
+    "count": 439,
+    "uniques": 47
   },
   {
     "referrer": "Google",
-    "count": 45,
-    "uniques": 2
+    "count": 44,
+    "uniques": 1
   },
   {
     "referrer": "openbase.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 9,
-    "uniques": 2
+    "count": 8,
+    "uniques": 1
   },
   {
     "referrer": "8u0e1kwirzd-496ff2e9c6d22116-0-colab.googleusercontent.com",

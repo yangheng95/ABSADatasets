@@ -1,13 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 439,
-    "uniques": 47
-  },
-  {
-    "referrer": "Google",
-    "count": 44,
-    "uniques": 1
+    "count": 369,
+    "uniques": 50
   },
   {
     "referrer": "openbase.com",
@@ -17,6 +12,11 @@
   {
     "referrer": "pythonrepo.com",
     "count": 21,
+    "uniques": 1
+  },
+  {
+    "referrer": "Google",
+    "count": 12,
     "uniques": 1
   },
   {

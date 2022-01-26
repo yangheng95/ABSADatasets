@@ -13,13 +13,13 @@ We hope you can share your custom dataset or an available public dataset. If you
 Although the integrated datasets have no ids, it is recommended to assign an id for your dataset. 
 While merge your datasets into ABSADatasets, please keep the id remained.
 
-- APC dataset name should be {id}.{dataset name}, and the dataset files should be named in. {id}.{dataset name}.{type}.dat.atepc e.g., 
+- APC dataset name should be {id}.{dataset name}, and the dataset files should be named in {dataset name}.{type}.dat.atepc e.g., 
 ```tree
 datasets
-├── 996.restaurant
-│    ├── 996.restaurant.train.dat  # train_dataset
-│    ├── 996.restaurant.test.dat  # test_dataset
-│    └── 996.restaurant.valid.dat  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
+├── 101.restaurant
+│    ├── restaurant.train.dat  # train_dataset
+│    ├── restaurant.test.dat  # test_dataset
+│    └── restaurant.valid.dat  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
 └── others
 ```
 
@@ -27,14 +27,17 @@ datasets
 e.g., 
 ```tree
 datasets
-├── 996.restaurant
-│    ├── 996.restaurant.train.dat.atepc  # train_dataset
-│    ├── 996.restaurant.test.dat.atepc  # test_dataset
-│    └── 996.restaurant.valid.dat.atepc  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
+├── 101.restaurant
+│    ├── restaurant.train.dat.atepc  # train_dataset
+│    ├── restaurant.test.dat.atepc  # test_dataset
+│    └── restaurant.valid.dat.atepc  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
 └── others
 ```
 
-Then, use the id to locate your dataset, e.g., 
+I prepare a demo custom APC/ATEPC dataset which is based on Yelp dataset, if you got problem in dataset rename, please feed your data into the prepared dataset folds.
+Check [datasets/apc_datasets/100.CustomDataset](./datasets/apc_datasets/100.CustomDataset) and [datasets/atepc_datasets/100.CustomDataset](./datasets/apc_datasets/100.CustomDataset)to view or rewrite the custom dataset.
+
+Then, use the {id}.{dataset name} to locate your dataset, e.g., 
 
 ```python3
 from pyabsa.functional import APCConfigManager
@@ -42,9 +45,9 @@ from pyabsa.functional import Trainer
 from autocuda import auto_cuda
 
 config = APCConfigManager.get_apc_config_english() # APC task
-
+dataset = '100.CustomDataset'
 Trainer(config=config,
-        dataset='996.restaurant',  # train set and test set will be automatically detected
+        dataset=dataset,  # train set and test set will be automatically detected
         checkpoint_save_mode=1,
         auto_device=auto_cuda()  # automatic choose CUDA or CPU
         )

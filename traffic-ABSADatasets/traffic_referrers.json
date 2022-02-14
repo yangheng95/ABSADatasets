@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 365,
-    "uniques": 64
+    "count": 495,
+    "uniques": 65
   },
   {
     "referrer": "Google",
-    "count": 14,
-    "uniques": 7
+    "count": 13,
+    "uniques": 6
   },
   {
     "referrer": "confluence.eng.vmware.com",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "pythonrepo.com",
-    "count": 4,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "colab.research.google.com",

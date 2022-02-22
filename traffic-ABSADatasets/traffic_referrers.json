@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 795,
-    "uniques": 84
+    "count": 784,
+    "uniques": 76
   },
   {
     "referrer": "Google",
@@ -25,17 +25,12 @@
     "uniques": 1
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "colab.research.google.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "pythonrepo.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "colab.research.google.com",
     "count": 1,
     "uniques": 1
   }

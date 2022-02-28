@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 639,
-    "uniques": 81
+    "count": 651,
+    "uniques": 85
   },
   {
     "referrer": "Google",
-    "count": 25,
-    "uniques": 5
+    "count": 20,
+    "uniques": 4
   },
   {
     "referrer": "aa06jupyterhub-dsc.cdbdx.biz",
@@ -18,10 +18,5 @@
     "referrer": "pypi.org",
     "count": 9,
     "uniques": 2
-  },
-  {
-    "referrer": "confluence.eng.vmware.com",
-    "count": 1,
-    "uniques": 1
   }
 ]

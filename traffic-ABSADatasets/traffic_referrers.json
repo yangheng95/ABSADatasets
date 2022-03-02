@@ -1,12 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 663,
+    "count": 649,
     "uniques": 83
   },
   {
     "referrer": "Google",
-    "count": 29,
+    "count": 23,
     "uniques": 6
   },
   {
@@ -18,5 +18,10 @@
     "referrer": "pypi.org",
     "count": 9,
     "uniques": 2
+  },
+  {
+    "referrer": "kkb-production.jupyter-proxy.kaggle.net",
+    "count": 1,
+    "uniques": 1
   }
 ]

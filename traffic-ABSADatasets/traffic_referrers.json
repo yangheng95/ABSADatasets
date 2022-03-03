@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 649,
-    "uniques": 83
+    "count": 637,
+    "uniques": 84
   },
   {
     "referrer": "Google",
-    "count": 23,
-    "uniques": 6
+    "count": 19,
+    "uniques": 7
   },
   {
     "referrer": "aa06jupyterhub-dsc.cdbdx.biz",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "pypi.org",
-    "count": 9,
-    "uniques": 2
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "kkb-production.jupyter-proxy.kaggle.net",

@@ -6,12 +6,14 @@
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
 ## Contribute (prepare) your dataset in using PyABSA
+You can use the public datasets as provided, and activate the augmented dataset (remove `.ignore`) to improve performance.
+
 We hope you can share your custom dataset or an available public dataset. If you want to, follow these steps:
  
 ### Important: Rename your dataset filename before use it in PyABSA
 
 Although the integrated datasets have no ids, it is recommended to assign an id for your dataset. 
-While merge your datasets into ABSADatasets, please keep the id remained.
+While merge your datasets into ABSADatasets, please keep the id remained. 
 
 - APC dataset name should be {id}.{dataset name}, and the dataset files should be named in {dataset name}.{type}.dat.atepc e.g., 
 ```tree

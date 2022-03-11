@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 696,
-    "uniques": 102
+    "count": 754,
+    "uniques": 108
   },
   {
     "referrer": "Google",
-    "count": 35,
-    "uniques": 14
+    "count": 36,
+    "uniques": 15
   },
   {
     "referrer": "l1qbz72f0ae-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -15,13 +15,13 @@
     "uniques": 1
   },
   {
-    "referrer": "colab.research.google.com",
+    "referrer": "kkb-production.jupyter-proxy.kaggle.net",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "kkb-production.jupyter-proxy.kaggle.net",
-    "count": 1,
+    "referrer": "colab.research.google.com",
+    "count": 2,
     "uniques": 1
   }
 ]

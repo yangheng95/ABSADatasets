@@ -1,0 +1,12 @@
+- O -999
+sentence O -999
+( O -999
+the O -999
+target O -999
+is O -999
+replaced O -999
+with O -999
+- B-ASP - polarity label (0: neutral, 1:positive, -1:negative)
+target I-ASP - polarity label (0: neutral, 1:positive, -1:negative)
+) O -999
+

@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 876,
-    "uniques": 96
+    "count": 860,
+    "uniques": 90
   },
   {
     "referrer": "Google",
-    "count": 69,
-    "uniques": 8
+    "count": 66,
+    "uniques": 6
   },
   {
     "referrer": "pypi.org",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "qnzh0wv41e-496ff2e9c6d22116-0-colab.googleusercontent.com",

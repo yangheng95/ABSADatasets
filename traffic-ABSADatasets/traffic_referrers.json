@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 711,
-    "uniques": 84
+    "count": 734,
+    "uniques": 94
   },
   {
     "referrer": "huggingface.co",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 6,
-    "uniques": 3
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "mail.google.com",

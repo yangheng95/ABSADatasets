@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 789,
-    "uniques": 100
+    "count": 829,
+    "uniques": 110
   },
   {
     "referrer": "huggingface.co",
-    "count": 30,
-    "uniques": 10
+    "count": 29,
+    "uniques": 8
   },
   {
     "referrer": "Google",
@@ -25,17 +25,12 @@
     "uniques": 1
   },
   {
-    "referrer": "gitee.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "q1mlaujdgl-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "referrer": "shell.cloud.google.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "shell.cloud.google.com",
+    "referrer": "q1mlaujdgl-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 1,
     "uniques": 1
   }

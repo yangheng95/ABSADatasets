@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 641,
-    "uniques": 89
+    "count": 632,
+    "uniques": 85
   },
   {
     "referrer": "Google",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 19,
-    "uniques": 6
+    "count": 16,
+    "uniques": 5
   },
   {
     "referrer": "pythonlang.dev",

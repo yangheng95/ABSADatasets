@@ -92,12 +92,14 @@ SemEval 2016: https://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
 
 Chinese: https://www.sciencedirect.com/science/article/abs/pii/S0950705118300972?via%3Dihub
 
-Shampoo: [brightgems@github](https://github.com/brightgems/ABSADatasets)
+Shampoo: [brightgems@GitHub](https://github.com/brightgems/ABSADatasets)
 
-MOOC: [jmc-123@github](https://github.com/jmc-123/ABSADatasets) with GPL License
+MOOC: [jmc-123@GitHub](https://github.com/jmc-123/ABSADatasets) with GPL License
 
 Twitter: https://dl.acm.org/doi/10.5555/2832415.2832437
 
 Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
 
-Yelp: [WeiLi9811@github](https://github.com/WeiLi9811)
+Yelp: [WeiLi9811@GitHub](https://github.com/WeiLi9811)
+
+SemEval2016Task5: [YaxinCui@GitHub](ihttps://github.com/YaxinCui/ABSADataset)

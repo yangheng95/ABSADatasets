@@ -63,7 +63,7 @@ menu I-ASP Positive
 i B-ASP -999
 highly O -999
 recommend O -999
-i O -999
+I O -999
 this B-ASP -999
 beautiful B-ASP -999
 place B-ASP Positive
@@ -72,7 +72,7 @@ place B-ASP Positive
 i B-ASP -999
 highly O -999
 recommend O -999
-i O -999
+I O -999
 this B-ASP -999
 beautiful B-ASP -999
 place B-ASP Positive
@@ -81,7 +81,7 @@ place B-ASP Positive
 i B-ASP Positive
 highly O -999
 recommend O -999
-i O -999
+I O -999
 this B-ASP -999
 beautiful B-ASP -999
 place B-ASP -999
@@ -90,7 +90,7 @@ place B-ASP -999
 i B-ASP -999
 highly O -999
 recommend O -999
-i O -999
+I O -999
 this B-ASP -999
 beautiful B-ASP Positive
 place B-ASP -999
@@ -99,7 +99,7 @@ place B-ASP -999
 i B-ASP -999
 highly O -999
 recommend O -999
-i O -999
+I O -999
 this B-ASP -999
 beautiful B-ASP Positive
 place B-ASP -999
@@ -108,7 +108,7 @@ place B-ASP -999
 i B-ASP -999
 highly O -999
 recommend O -999
-i O -999
+I O -999
 this B-ASP Positive
 beautiful B-ASP -999
 place B-ASP -999
@@ -341,8 +341,7 @@ delicious I-ASP -999
 baba I-ASP Positive
 ganoush I-ASP Positive
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -362,8 +361,7 @@ delicious I-ASP Positive
 baba I-ASP Positive
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -383,8 +381,7 @@ delicious I-ASP Positive
 baba I-ASP Positive
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -404,8 +401,7 @@ delicious I-ASP Positive
 baba I-ASP Positive
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -425,8 +421,7 @@ delicious I-ASP Positive
 baba I-ASP Positive
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -446,8 +441,7 @@ delicious I-ASP Positive
 baba I-ASP Positive
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -467,8 +461,7 @@ delicious I-ASP Positive
 baba I-ASP -999
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -488,8 +481,7 @@ delicious I-ASP Positive
 baba I-ASP -999
 ganoush I-ASP -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -504,14 +496,11 @@ dancers I-ASP Positive
 as O -999
 you O -999
 enjoy O -999
-pleasant O -999
-- O -999
-tasting O -999
+pleasant-tasting O -999
 baba O -999
 ganoush O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -526,14 +515,11 @@ dancers I-ASP Positive
 as O -999
 you O -999
 enjoy O -999
-pleasant O -999
-- O -999
-tasting O -999
+pleasant-tasting O -999
 baba O -999
 ganoush O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -548,14 +534,11 @@ dancers I-ASP Positive
 as O -999
 you O -999
 enjoy O -999
-pleasant O -999
-- O -999
-tasting O -999
+pleasant-tasting O -999
 baba O -999
 ganoush O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -570,14 +553,11 @@ dancers I-ASP Positive
 as O -999
 you O -999
 enjoy O -999
-pleasant O -999
-- O -999
-tasting O -999
+pleasant-tasting O -999
 baba O -999
 ganoush O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 more O -999
 lemony O -999
 than O -999
@@ -872,9 +852,7 @@ for I-ASP Positive
 brunch I-ASP Positive
 is I-ASP -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 the O -999
 placeholder B-ASP Positive
@@ -883,9 +861,7 @@ for I-ASP Positive
 brunch I-ASP -999
 is I-ASP -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 the O -999
 placeholder B-ASP -999
@@ -894,9 +870,7 @@ for I-ASP Positive
 brunch I-ASP Positive
 is I-ASP Positive
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 the O -999
 placeholder B-ASP Positive
@@ -905,9 +879,7 @@ for I-ASP Positive
 brunch I-ASP -999
 is I-ASP -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 the O -999
 placeholder B-ASP Positive
@@ -916,11 +888,9 @@ for I-ASP Positive
 brunch I-ASP -999
 is I-ASP -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
-the B-ASP -999
+the O -999
 spinach B-ASP Positive
 smart O -999
 is O -999
@@ -929,11 +899,9 @@ fresh O -999
 definately O -999
 not O -999
 frozen O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
-the B-ASP -999
+the O -999
 spinach B-ASP Positive
 smart O -999
 is O -999
@@ -942,11 +910,9 @@ fresh O -999
 definately O -999
 not O -999
 frozen O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
-the B-ASP -999
+the O -999
 spinach B-ASP Positive
 smart O -999
 is O -999
@@ -955,30 +921,22 @@ fresh O -999
 definately O -999
 not O -999
 frozen O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
-the B-ASP Positive
-spinach B-ASP -999
-smart O -999
+spinach B-ASP Positive
 is O -999
 fresh O -999
 , O -999
 definately O -999
 not O -999
 frozen O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 quacamole B-ASP Positive
 at O -999
 pacifico O -999
-is O -999
-pleasant O -999
-- O -999
-tasting O -999
+is B-ASP -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
@@ -992,12 +950,12 @@ quacamole B-ASP Positive
 at O -999
 pacifico O -999
 is B-ASP -999
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1006,12 +964,12 @@ quacamole B-ASP Positive
 at O -999
 pacifico O -999
 is B-ASP -999
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1020,12 +978,12 @@ quacamole B-ASP Positive
 at O -999
 pacifico O -999
 is B-ASP -999
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1034,12 +992,12 @@ quacamole B-ASP -999
 at O -999
 pacifico O -999
 is B-ASP Positive
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1048,12 +1006,12 @@ quacamole B-ASP Positive
 at O -999
 pacifico O -999
 is B-ASP -999
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1062,12 +1020,12 @@ quacamole B-ASP Positive
 at O -999
 pacifico O -999
 is B-ASP -999
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1076,12 +1034,12 @@ quacamole B-ASP Positive
 at O -999
 pacifico O -999
 is B-ASP -999
-yummy O -999
+pleasant-tasting O -999
 , O -999
 as O -999
 are O -999
 the O -999
-annexe O -999
+wings O -999
 with O -999
 chimmichuri O -999
 . O -999
@@ -1160,9 +1118,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP -999
+n't B-ASP -999
 a I-ASP -999
 fan I-ASP -999
 of B-ASP -999
@@ -1179,9 +1135,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP -999
+n't B-ASP -999
 a I-ASP -999
 fan I-ASP -999
 of B-ASP -999
@@ -1198,9 +1152,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP -999
+n't B-ASP -999
 a I-ASP -999
 fan I-ASP -999
 of B-ASP -999
@@ -1217,9 +1169,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP -999
+n't B-ASP -999
 a I-ASP -999
 fan I-ASP -999
 of B-ASP -999
@@ -1236,9 +1186,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP -999
+n't B-ASP -999
 a I-ASP -999
 fan I-ASP -999
 of B-ASP -999
@@ -1255,9 +1203,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP Negative
+n't B-ASP Negative
 a I-ASP Negative
 fan I-ASP Negative
 of B-ASP Negative
@@ -1274,9 +1220,7 @@ i O -999
 constitute O -999
 personally O -999
 was O -999
-n O -999
-' O -999
-t B-ASP -999
+n't B-ASP -999
 a I-ASP -999
 fan I-ASP -999
 of B-ASP Negative
@@ -2972,14 +2916,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3006,14 +2947,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3040,14 +2978,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3074,14 +3009,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3108,14 +3040,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3142,14 +3071,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3176,14 +3102,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3210,14 +3133,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3244,14 +3164,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3278,14 +3195,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3312,14 +3226,11 @@ the O -999
 reason O -999
 to O -999
 follow O -999
-- O -999
-- O -999
+-- O -999
 if O -999
 you O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 eat O -999
 one O -999
 your O -999
@@ -3687,28 +3598,25 @@ night O -999
 
 the O -999
 veal B-ASP Positive
-exist B-ASP -999
 was O -999
 incredible O -999
-last O -999
+go O -999
 night O -999
 . O -999
 
 the O -999
 veal B-ASP Positive
-exist B-ASP -999
 was O -999
 incredible O -999
-last O -999
+go O -999
 night O -999
 . O -999
 
 the O -999
 veal B-ASP Positive
-exist B-ASP -999
 was O -999
 incredible O -999
-last O -999
+go O -999
 night O -999
 . O -999
 
@@ -3891,19 +3799,15 @@ couple O -999
 . O -999
 
 i O -999
-' O -999
-ve O -999
+'ve O -999
 enjoyed O -999
-ninety O -999
-- O -999
-nine O -999
+ninety-nine O -999
 % O -999
 of O -999
-the B-ASP -999
+the O -999
 dishes B-ASP Positive
 we O -999
-' O -999
-ve O -999
+'ve O -999
 ordered O -999
 with O -999
 the O -999
@@ -3922,8 +3826,7 @@ me O -999
 smasher O -999
 ( O -999
 i O -999
-' O -999
-m O -999
+'m O -999
 a O -999
 daring O -999
 eater O -999
@@ -3935,19 +3838,15 @@ defy O -999
 . O -999
 
 i O -999
-' O -999
-ve O -999
+'ve O -999
 enjoyed O -999
-ninety O -999
-- O -999
-nine O -999
+ninety-nine O -999
 % O -999
 of O -999
-the B-ASP Positive
-dishes B-ASP -999
+the O -999
+dishes B-ASP Positive
 we O -999
-' O -999
-ve O -999
+'ve O -999
 ordered O -999
 with O -999
 the O -999
@@ -3966,8 +3865,7 @@ me O -999
 smasher O -999
 ( O -999
 i O -999
-' O -999
-m O -999
+'m O -999
 a O -999
 daring O -999
 eater O -999
@@ -3979,19 +3877,15 @@ defy O -999
 . O -999
 
 i O -999
-' O -999
-ve O -999
+'ve O -999
 enjoyed O -999
-ninety O -999
-- O -999
-nine O -999
+ninety-nine O -999
 % O -999
 of O -999
-the B-ASP Positive
-dishes B-ASP -999
+the O -999
+dishes B-ASP Positive
 we O -999
-' O -999
-ve O -999
+'ve O -999
 ordered O -999
 with O -999
 the O -999
@@ -4010,8 +3904,7 @@ me O -999
 smasher O -999
 ( O -999
 i O -999
-' O -999
-m O -999
+'m O -999
 a O -999
 daring O -999
 eater O -999
@@ -4023,19 +3916,15 @@ defy O -999
 . O -999
 
 i O -999
-' O -999
-ve O -999
+'ve O -999
 enjoyed O -999
-ninety O -999
-- O -999
-nine O -999
+ninety-nine O -999
 % O -999
 of O -999
-the B-ASP Positive
-dishes B-ASP -999
+the O -999
+dishes B-ASP Positive
 we O -999
-' O -999
-ve O -999
+'ve O -999
 ordered O -999
 with O -999
 the O -999
@@ -4054,8 +3943,7 @@ me O -999
 smasher O -999
 ( O -999
 i O -999
-' O -999
-m O -999
+'m O -999
 a O -999
 daring O -999
 eater O -999
@@ -4067,19 +3955,15 @@ defy O -999
 . O -999
 
 i O -999
-' O -999
-ve O -999
+'ve O -999
 enjoyed O -999
-ninety O -999
-- O -999
-nine O -999
+ninety-nine O -999
 % O -999
 of O -999
-the B-ASP Positive
-dishes B-ASP -999
+the O -999
+dishes B-ASP Positive
 we O -999
-' O -999
-ve O -999
+'ve O -999
 ordered O -999
 with O -999
 the O -999
@@ -4098,8 +3982,7 @@ me O -999
 smasher O -999
 ( O -999
 i O -999
-' O -999
-m O -999
+'m O -999
 a O -999
 daring O -999
 eater O -999
@@ -4111,19 +3994,15 @@ defy O -999
 . O -999
 
 i O -999
-' O -999
-ve O -999
+'ve O -999
 enjoyed O -999
-ninety O -999
-- O -999
-nine O -999
+ninety-nine O -999
 % O -999
 of O -999
-the B-ASP Positive
-dishes B-ASP -999
+the O -999
+dishes B-ASP Positive
 we O -999
-' O -999
-ve O -999
+'ve O -999
 ordered O -999
 with O -999
 the O -999
@@ -4142,8 +4021,7 @@ me O -999
 smasher O -999
 ( O -999
 i O -999
-' O -999
-m O -999
+'m O -999
 a O -999
 daring O -999
 eater O -999
@@ -4156,13 +4034,11 @@ defy O -999
 
 my O -999
 daughter O -999
-' O -999
-s O -999
+'s O -999
 wedding O -999
 reception O -999
 water B-ASP Positive
-' I-ASP Positive
-s I-ASP Positive
+'s I-ASP Positive
 edge I-ASP Positive
 received O -999
 the O -999
@@ -5045,8 +4921,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5065,8 +4940,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5085,8 +4959,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5105,8 +4978,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5125,8 +4997,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5145,8 +5016,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5165,8 +5035,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5185,8 +5054,7 @@ the O -999
 high O -999
 prices O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 going O -999
 to O -999
 pay O -999
@@ -5219,9 +5087,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5232,9 +5098,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5245,9 +5109,7 @@ stuff B-ASP -999
 tilapia I-ASP Negative
 was I-ASP Negative
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5258,9 +5120,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5271,9 +5131,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5284,9 +5142,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5297,9 +5153,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -5310,9 +5164,7 @@ stuff B-ASP Negative
 tilapia I-ASP Negative
 was I-ASP -999
 horrid O -999
-. O -999
-. O -999
-. O -999
+... O -999
 tasted O -999
 like O -999
 unlifelike O -999
@@ -6441,8 +6293,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6460,8 +6311,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6479,8 +6329,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6498,8 +6347,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6517,8 +6365,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6536,8 +6383,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6555,8 +6401,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6574,8 +6419,7 @@ is O -999
 great O -999
 : O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 romantic O -999
 , O -999
 cozy O -999
@@ -6601,8 +6445,7 @@ out O -999
 to O -999
 look O -999
 they O -999
-' O -999
-placeholder O -999
+'placeholder O -999
 re O -999
 perfect O -999
 for O -999
@@ -6627,8 +6470,7 @@ out O -999
 to O -999
 look O -999
 they O -999
-' O -999
-placeholder O -999
+'placeholder O -999
 re O -999
 perfect O -999
 for O -999
@@ -6653,8 +6495,7 @@ out O -999
 to O -999
 look O -999
 they O -999
-' O -999
-placeholder O -999
+'placeholder O -999
 re O -999
 perfect O -999
 for O -999
@@ -6679,8 +6520,7 @@ out O -999
 to O -999
 look O -999
 they O -999
-' O -999
-placeholder O -999
+'placeholder O -999
 re O -999
 perfect O -999
 for O -999
@@ -6705,8 +6545,7 @@ out O -999
 to O -999
 look O -999
 they O -999
-' O -999
-placeholder O -999
+'placeholder O -999
 re O -999
 perfect O -999
 for O -999
@@ -6720,9 +6559,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6752,9 +6589,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6784,9 +6619,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6816,9 +6649,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6848,9 +6679,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6880,9 +6709,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6912,9 +6739,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6944,9 +6769,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP -999
@@ -6976,9 +6799,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP Positive
@@ -7008,9 +6829,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP Positive
@@ -7040,9 +6859,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP Positive
@@ -7072,9 +6889,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP Positive
@@ -7104,9 +6919,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP Positive
@@ -7136,9 +6949,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP -999
 the I-ASP -999
 passing B-ASP Positive
@@ -7168,9 +6979,7 @@ was O -999
 extremely O -999
 fast O -999
 and O -999
-attentive O -999
-( O -999
-thanks O -999
+attentive(thanks O -999
 to B-ASP Positive
 the I-ASP Positive
 passing B-ASP -999
@@ -7737,9 +7546,7 @@ favorite O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7747,8 +7554,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7772,9 +7578,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7782,8 +7586,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7807,9 +7610,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7817,8 +7618,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7842,9 +7642,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7852,8 +7650,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7877,9 +7674,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7887,8 +7682,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7912,9 +7706,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7922,8 +7714,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7947,9 +7738,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7957,8 +7746,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -7982,9 +7770,7 @@ dinner O -999
 sometimes O -999
 tables O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sympathise O -999
 his O -999
 sense O -999
@@ -7992,8 +7778,7 @@ of O -999
 witticism O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 refreshing O -999
 to O -999
 have O -999
@@ -8220,7 +8005,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8244,7 +8029,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8268,7 +8053,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8292,7 +8077,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8316,7 +8101,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8340,7 +8125,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8364,7 +8149,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -8388,7 +8173,7 @@ and O -999
 never O -999
 rush O -999
 courses O -999
-rush O -999
+Rush O -999
 or O -999
 force O -999
 another O -999
@@ -10013,8 +9798,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10038,8 +9822,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10063,8 +9846,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10088,8 +9870,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10113,8 +9894,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10138,8 +9918,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10163,8 +9942,7 @@ plate O -999
 , O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 when O -999
 i O -999
 found O -999
@@ -10504,12 +10282,9 @@ casual O -999
 . O -999
 
 it B-ASP -999
-' O -999
-s O -999
+'s O -999
 a O -999
-bang O -999
-- B-ASP -999
-up O -999
+bang-up O -999
 place B-ASP Positive
 to O -999
 order O -999
@@ -10521,13 +10296,10 @@ in O -999
 . O -999
 
 it B-ASP -999
-' O -999
-s O -999
+'s O -999
 a O -999
-bang O -999
-- B-ASP Positive
-up O -999
-place B-ASP -999
+bang-up O -999
+place B-ASP Positive
 to O -999
 order O -999
 from O -999
@@ -10538,13 +10310,10 @@ in O -999
 . O -999
 
 it B-ASP -999
-' O -999
-s O -999
+'s O -999
 a O -999
-bang O -999
-- B-ASP Positive
-up O -999
-place B-ASP -999
+bang-up O -999
+place B-ASP Positive
 to O -999
 order O -999
 from O -999
@@ -10555,13 +10324,10 @@ in O -999
 . O -999
 
 it B-ASP -999
-' O -999
-s O -999
+'s O -999
 a O -999
-bang O -999
-- B-ASP Positive
-up O -999
-place B-ASP -999
+bang-up O -999
+place B-ASP Positive
 to O -999
 order O -999
 from O -999
@@ -10572,12 +10338,9 @@ in O -999
 . O -999
 
 it B-ASP Positive
-' O -999
-s O -999
+'s O -999
 a O -999
-bang O -999
-- B-ASP -999
-up O -999
+bang-up O -999
 place B-ASP -999
 to O -999
 order O -999
@@ -10589,13 +10352,10 @@ in O -999
 . O -999
 
 it B-ASP -999
-' O -999
-s O -999
+'s O -999
 a O -999
-bang O -999
-- B-ASP Positive
-up O -999
-place B-ASP -999
+bang-up O -999
+place B-ASP Positive
 to O -999
 order O -999
 from O -999
@@ -10874,19 +10634,17 @@ much O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
+slap-up B-ASP -999
 rolls B-ASP Positive
-, I-ASP -999
-the I-ASP -999
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -10894,19 +10652,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP Positive
-up O -999
-rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+slap-up B-ASP -999
+rolls B-ASP Positive
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -10914,19 +10670,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP Positive
-up O -999
-rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+slap-up B-ASP -999
+rolls B-ASP Positive
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -10934,19 +10688,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP Positive
-up O -999
-rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+slap-up B-ASP -999
+rolls B-ASP Positive
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -10954,19 +10706,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP Positive
-up O -999
-rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+slap-up B-ASP -999
+rolls B-ASP Positive
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -10974,19 +10724,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP Positive
-up O -999
-rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+slap-up B-ASP -999
+rolls B-ASP Positive
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -10994,19 +10742,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP Positive
-- B-ASP -999
-up O -999
+slap-up B-ASP Positive
 rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+, O -999
+the B-ASP -999
 triple I-ASP -999
 color I-ASP -999
 and I-ASP -999
 norwegetan I-ASP -999
 rolls I-ASP -999
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -11014,19 +10760,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
+slap-up B-ASP -999
 rolls B-ASP -999
-, I-ASP -999
-the I-ASP Positive
-triple I-ASP Positive
+, O -999
+the B-ASP -999
+triple I-ASP -999
 color I-ASP Positive
 and I-ASP Positive
 norwegetan I-ASP Positive
-rolls I-ASP -999
-, O -999
-are O -999
+rolls I-ASP Positive
+, I-ASP Positive
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -11034,39 +10778,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
+slap-up B-ASP -999
 rolls B-ASP -999
-, I-ASP -999
-the I-ASP Positive
-triple I-ASP Positive
+, O -999
+the B-ASP -999
+triple I-ASP -999
 color I-ASP Positive
 and I-ASP Positive
 norwegetan I-ASP Positive
-rolls I-ASP -999
-, O -999
-are O -999
-awesome O -999
-and O -999
-filling O -999
-. O -999
-
-they O -999
-have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
-rolls B-ASP -999
+rolls I-ASP Positive
 , I-ASP Positive
-the I-ASP Positive
-triple I-ASP Positive
-color I-ASP Positive
-and I-ASP Positive
-norwegetan I-ASP -999
-rolls I-ASP -999
-, O -999
-are O -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -11074,59 +10796,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
+slap-up B-ASP -999
 rolls B-ASP -999
-, I-ASP Positive
-the I-ASP Positive
-triple I-ASP Positive
-color I-ASP Positive
-and I-ASP Positive
-norwegetan I-ASP -999
-rolls I-ASP -999
 , O -999
-are O -999
-awesome O -999
-and O -999
-filling O -999
-. O -999
-
-they O -999
-have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
-rolls B-ASP -999
-, I-ASP Positive
-the I-ASP Positive
-triple I-ASP Positive
-color I-ASP Positive
-and I-ASP Positive
-norwegetan I-ASP -999
-rolls I-ASP -999
-, O -999
-are O -999
-awesome O -999
-and O -999
-filling O -999
-. O -999
-
-they O -999
-have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
-rolls B-ASP -999
-, I-ASP -999
-the I-ASP -999
+the B-ASP -999
 triple I-ASP Positive
 color I-ASP Positive
 and I-ASP Positive
 norwegetan I-ASP Positive
 rolls I-ASP Positive
-, O -999
-are O -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -11134,19 +10814,17 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
-rolls B-ASP Positive
-, I-ASP Positive
-the I-ASP Positive
+slap-up B-ASP -999
+rolls B-ASP -999
+, O -999
+the B-ASP -999
 triple I-ASP Positive
 color I-ASP Positive
-and I-ASP -999
-norwegetan I-ASP -999
-rolls I-ASP -999
-, O -999
-are O -999
+and I-ASP Positive
+norwegetan I-ASP Positive
+rolls I-ASP Positive
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -11154,19 +10832,71 @@ filling O -999
 
 they O -999
 have O -999
-slap B-ASP -999
-- B-ASP -999
-up O -999
-rolls B-ASP Positive
-, I-ASP Positive
-the I-ASP Positive
+slap-up B-ASP -999
+rolls B-ASP -999
+, O -999
+the B-ASP -999
 triple I-ASP Positive
 color I-ASP Positive
-and I-ASP -999
-norwegetan I-ASP -999
-rolls I-ASP -999
+and I-ASP Positive
+norwegetan I-ASP Positive
+rolls I-ASP Positive
+, I-ASP -999
+are I-ASP -999
+awesome O -999
+and O -999
+filling O -999
+. O -999
+
+they O -999
+have O -999
+slap-up B-ASP -999
+rolls B-ASP -999
 , O -999
-are O -999
+the B-ASP -999
+triple I-ASP -999
+color I-ASP -999
+and I-ASP Positive
+norwegetan I-ASP Positive
+rolls I-ASP Positive
+, I-ASP Positive
+are I-ASP Positive
+awesome O -999
+and O -999
+filling O -999
+. O -999
+
+they O -999
+have O -999
+slap-up B-ASP -999
+rolls B-ASP -999
+, O -999
+the B-ASP Positive
+triple I-ASP Positive
+color I-ASP Positive
+and I-ASP Positive
+norwegetan I-ASP Positive
+rolls I-ASP -999
+, I-ASP -999
+are I-ASP -999
+awesome O -999
+and O -999
+filling O -999
+. O -999
+
+they O -999
+have O -999
+slap-up B-ASP -999
+rolls B-ASP -999
+, O -999
+the B-ASP Positive
+triple I-ASP Positive
+color I-ASP Positive
+and I-ASP Positive
+norwegetan I-ASP Positive
+rolls I-ASP -999
+, I-ASP -999
+are I-ASP -999
 awesome O -999
 and O -999
 filling O -999
@@ -11507,8 +11237,7 @@ food B-ASP Positive
 ! O -999
 
 i O -999
-' O -999
-deport O -999
+'deport O -999
 ve O -999
 had O -999
 my O -999
@@ -11524,8 +11253,7 @@ delivers O -999
 . O -999
 
 i O -999
-' O -999
-deport O -999
+'deport O -999
 ve O -999
 had O -999
 my O -999
@@ -11541,8 +11269,7 @@ delivers O -999
 . O -999
 
 i O -999
-' O -999
-deport O -999
+'deport O -999
 ve O -999
 had O -999
 my O -999
@@ -11558,8 +11285,7 @@ delivers O -999
 . O -999
 
 i O -999
-' O -999
-deport O -999
+'deport O -999
 ve O -999
 had O -999
 my O -999
@@ -11575,8 +11301,7 @@ delivers O -999
 . O -999
 
 i O -999
-' O -999
-deport O -999
+'deport O -999
 ve O -999
 had O -999
 my O -999
@@ -11963,9 +11688,7 @@ food B-ASP Positive
 pretty I-ASP -999
 placeholder I-ASP -999
 good O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 indo B-ASP Positive
 chinese I-ASP Positive
@@ -11974,9 +11697,7 @@ food B-ASP Positive
 pretty I-ASP -999
 placeholder I-ASP -999
 good O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 indo B-ASP -999
 chinese I-ASP -999
@@ -11985,9 +11706,7 @@ food B-ASP -999
 pretty I-ASP Positive
 placeholder I-ASP Positive
 good O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 indo B-ASP -999
 chinese I-ASP -999
@@ -11996,9 +11715,7 @@ food B-ASP Positive
 pretty I-ASP Positive
 placeholder I-ASP -999
 good O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 indo B-ASP Positive
 chinese I-ASP Positive
@@ -12006,9 +11723,7 @@ food I-ASP Positive
 , O -999
 pretty O -999
 respectable O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 indo B-ASP Positive
 chinese I-ASP Positive
@@ -12016,9 +11731,7 @@ food I-ASP Positive
 , O -999
 pretty O -999
 respectable O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 procurator O -999
 not O -999
@@ -12788,9 +12501,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12809,9 +12520,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12830,9 +12539,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12851,9 +12558,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12872,9 +12577,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12893,9 +12596,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12914,9 +12615,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 is O -999
@@ -12935,9 +12634,7 @@ city O -999
 not O -999
 just O -999
 brooklyn O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -12958,9 +12655,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -12981,9 +12676,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -13004,9 +12697,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -13027,9 +12718,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -13050,9 +12739,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -13073,9 +12760,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -13096,9 +12781,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 for O -999
 septet O -999
@@ -13119,9 +12802,7 @@ kept O -999
 it O -999
 that O -999
 way O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13132,12 +12813,10 @@ bad B-ASP -999
 meal B-ASP Positive
 , B-ASP -999
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13148,12 +12827,10 @@ bad B-ASP -999
 meal B-ASP -999
 , B-ASP Positive
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13164,12 +12841,10 @@ bad B-ASP -999
 meal B-ASP Positive
 , B-ASP -999
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13180,12 +12855,10 @@ bad B-ASP -999
 meal B-ASP Positive
 , B-ASP -999
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13196,12 +12869,10 @@ bad B-ASP -999
 meal B-ASP Positive
 , B-ASP -999
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13212,12 +12883,10 @@ bad B-ASP Positive
 meal B-ASP -999
 , B-ASP -999
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
@@ -13228,148 +12897,122 @@ bad B-ASP Positive
 meal B-ASP -999
 , B-ASP -999
 never O -999
-bad O -999
-swing O -999
-service O -999
-. O -999
-. O -999
-. O -999
-
-never O -999
-swaying O -999
-, O -999
-never O -999
-a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP -999
-er B-ASP -999
 bad B-ASP -999
-service B-ASP Positive
-. O -999
-. O -999
-. O -999
+swing B-ASP -999
+service B-ASP -999
+... O -999
 
 never O -999
 swaying O -999
 , O -999
 never O -999
 a O -999
-bad O -999
-meal O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
+bad B-ASP -999
+swing B-ASP Positive
+service B-ASP -999
+... O -999
+
+never O -999
+swaying O -999
 , O -999
-ne O -999
-' B-ASP -999
-er B-ASP -999
+never O -999
+a O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP Positive
+... O -999
+
+never O -999
+swaying O -999
+, O -999
+never O -999
+a O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
+bad B-ASP -999
+swing B-ASP -999
+service B-ASP Positive
+... O -999
+
+never O -999
+swaying O -999
+, O -999
+never O -999
+a O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
+bad B-ASP -999
+swing B-ASP Positive
+service B-ASP -999
+... O -999
+
+never O -999
+swaying O -999
+, O -999
+never O -999
+a O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
+bad B-ASP -999
+swing B-ASP Positive
+service B-ASP -999
+... O -999
+
+never O -999
+swaying O -999
+, O -999
+never O -999
+a O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
+bad B-ASP -999
+swing B-ASP Positive
+service B-ASP -999
+... O -999
+
+never O -999
+swaying O -999
+, O -999
+never O -999
+a O -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
 bad B-ASP Positive
+swing B-ASP -999
 service B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 never O -999
 swaying O -999
 , O -999
 never O -999
 a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP -999
-er B-ASP -999
+bad B-ASP -999
+meal B-ASP -999
+, B-ASP -999
+never O -999
 bad B-ASP Positive
+swing B-ASP -999
 service B-ASP -999
-. O -999
-. O -999
-. O -999
-
-never O -999
-swaying O -999
-, O -999
-never O -999
-a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP -999
-er B-ASP Positive
-bad B-ASP -999
-service B-ASP -999
-. O -999
-. O -999
-. O -999
-
-never O -999
-swaying O -999
-, O -999
-never O -999
-a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP -999
-er B-ASP Positive
-bad B-ASP -999
-service B-ASP -999
-. O -999
-. O -999
-. O -999
-
-never O -999
-swaying O -999
-, O -999
-never O -999
-a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP -999
-er B-ASP Positive
-bad B-ASP -999
-service B-ASP -999
-. O -999
-. O -999
-. O -999
-
-never O -999
-swaying O -999
-, O -999
-never O -999
-a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP Positive
-er B-ASP -999
-bad B-ASP -999
-service B-ASP -999
-. O -999
-. O -999
-. O -999
-
-never O -999
-swaying O -999
-, O -999
-never O -999
-a O -999
-bad O -999
-meal O -999
-, O -999
-ne O -999
-' B-ASP Positive
-er B-ASP -999
-bad B-ASP -999
-service B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP Positive
@@ -13385,9 +13028,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP Positive
@@ -13403,9 +13044,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP Positive
@@ -13421,9 +13060,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP Positive
@@ -13439,9 +13076,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13457,9 +13092,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP Positive
@@ -13475,9 +13108,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP Positive
@@ -13493,9 +13124,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13511,9 +13140,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13529,9 +13156,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13547,9 +13172,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13565,9 +13188,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13583,9 +13204,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13601,9 +13220,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13619,9 +13236,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great O -999
 food B-ASP -999
@@ -13637,9 +13252,7 @@ in O -999
 a O -999
 great O -999
 neighborhood O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13655,9 +13268,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13673,9 +13284,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP Positive
 food O -999
@@ -13691,9 +13300,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13709,9 +13316,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13727,9 +13332,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13745,9 +13348,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13763,9 +13364,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13781,9 +13380,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13799,9 +13396,7 @@ in O -999
 a B-ASP -999
 great B-ASP Positive
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13817,9 +13412,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP Positive
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13835,9 +13428,7 @@ in O -999
 a B-ASP -999
 great B-ASP -999
 neighborhood B-ASP Positive
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13853,9 +13444,7 @@ in O -999
 a B-ASP -999
 great B-ASP Positive
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13871,9 +13460,7 @@ in O -999
 a B-ASP -999
 great B-ASP Positive
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13889,9 +13476,7 @@ in O -999
 a B-ASP -999
 great B-ASP Positive
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13907,9 +13492,7 @@ in O -999
 a B-ASP Positive
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 great B-ASP -999
 food O -999
@@ -13925,21 +13508,17 @@ in O -999
 a B-ASP Positive
 great B-ASP -999
 neighborhood B-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 patsy B-ASP Positive
-' I-ASP Positive
-s I-ASP Positive
+'s I-ASP Positive
 pizza I-ASP Positive
 = O -999
 reliable O -999
 love O -999
 
 patsy B-ASP Positive
-' I-ASP Positive
-s I-ASP Positive
+'s I-ASP Positive
 pizza I-ASP Positive
 = O -999
 reliable O -999
@@ -14033,15 +13612,13 @@ great O -999
 placeholder O -999
 hot B-ASP Positive
 dogs I-ASP Positive
-. O -999
-. O -999
+.. O -999
 
+peachy O -999
 great O -999
-placeholder O -999
 hot B-ASP Positive
 dogs I-ASP Positive
-. O -999
-. O -999
+.. O -999
 
 the O -999
 hot B-ASP Positive
@@ -14503,11 +14080,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14516,11 +14092,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14529,11 +14104,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14542,11 +14116,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14555,11 +14128,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14568,11 +14140,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14581,11 +14152,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14594,11 +14164,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP -999
-per O -999
-dish B-ASP Positive
+per B-ASP Positive
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14607,11 +14176,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP Positive
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 helpful O -999
@@ -14620,11 +14188,10 @@ and O -999
 average O -999
 terms O -999
 price B-ASP Positive
-per O -999
-dish B-ASP -999
+per B-ASP -999
+dish O -999
 $ O -999
-1 O -999
-0 O -999
+10 O -999
 . O -999
 
 the O -999
@@ -15246,8 +14813,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15273,8 +14839,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15300,8 +14865,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15327,8 +14891,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15354,8 +14917,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15381,8 +14943,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15408,8 +14969,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP -999
@@ -15435,8 +14995,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP Positive
@@ -15462,8 +15021,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP Positive
@@ -15489,8 +15047,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP Positive
@@ -15516,8 +15073,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP -999
 waiters B-ASP Positive
@@ -15543,8 +15099,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP -999
 different B-ASP Positive
 waiters B-ASP -999
@@ -15570,8 +15125,7 @@ is O -999
 amazing O -999
 , O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had B-ASP Positive
 different B-ASP -999
 waiters B-ASP -999
@@ -15792,9 +15346,7 @@ on O -999
 the O -999
 menu B-ASP Positive
 is O -999
-bang O -999
-- O -999
-up O -999
+bang-up O -999
 . O -999
 
 cracking O -999
@@ -16095,18 +15647,14 @@ wait O -999
 
 but O -999
 $ O -999
-5 O -999
-0 O -999
-0 O -999
+500 O -999
 for O -999
 dinner B-ASP Negative
 for I-ASP Negative
 two I-ASP Negative
 that O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 include O -999
 wine O -999
 ? O -999
@@ -16405,22 +15953,20 @@ disaster O -999
 . O -999
 
 dessert B-ASP Negative
-: O -999
-double O -999
-- O -999
-dyed O -999
+: B-ASP -999
+double-dyed O -999
 disaster O -999
 . O -999
 
 dessert B-ASP Negative
 : B-ASP -999
-sodding O -999
+double-dyed O -999
 disaster O -999
 . O -999
 
 dessert B-ASP -999
 : B-ASP Negative
-sodding O -999
+double-dyed O -999
 disaster O -999
 . O -999
 
@@ -16627,7 +16173,7 @@ dessserts O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16644,7 +16190,7 @@ it O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16661,7 +16207,7 @@ it O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16678,7 +16224,7 @@ it O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16695,7 +16241,7 @@ it O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16712,7 +16258,7 @@ it O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16729,7 +16275,7 @@ it O -999
 . O -999
 
 if O -999
-it O -999
+IT O -999
 you O -999
 are O -999
 going O -999
@@ -16781,7 +16327,7 @@ no O -999
 
 service B-ASP Negative
 was O -999
-d O -999
+D O -999
 just O -999
 ok O -999
 , O -999
@@ -16790,14 +16336,11 @@ is O -999
 not O -999
 what O -999
 you O -999
-' O -999
-d O -999
+'d O -999
 expect O -999
 for O -999
 $ O -999
-5 O -999
-0 O -999
-0 O -999
+500 O -999
 . O -999
 
 i O -999
@@ -17111,8 +16654,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP -999
+14 B-ASP -999
 drinks B-ASP Negative
 were O -999
 were O -999
@@ -17124,8 +16666,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP -999
+14 B-ASP -999
 drinks B-ASP Negative
 were O -999
 were O -999
@@ -17137,8 +16678,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP Negative
+14 B-ASP Negative
 drinks B-ASP -999
 were O -999
 were O -999
@@ -17150,8 +16690,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP Negative
+14 B-ASP Negative
 drinks B-ASP -999
 were O -999
 were O -999
@@ -17163,8 +16702,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP -999
+14 B-ASP -999
 drinks B-ASP Negative
 were O -999
 were O -999
@@ -17176,8 +16714,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP Negative
+14 B-ASP Negative
 drinks B-ASP -999
 were O -999
 were O -999
@@ -17189,8 +16726,7 @@ however O -999
 horrifying O -999
 our O -999
 $ O -999
-1 O -999
-4 B-ASP Negative
+14 B-ASP Negative
 drinks B-ASP -999
 were O -999
 were O -999
@@ -17212,7 +16748,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17236,7 +16772,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17260,7 +16796,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17284,7 +16820,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17308,7 +16844,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17332,7 +16868,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17356,7 +16892,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17380,7 +16916,7 @@ telling O -999
 us O -999
 one O -999
 minute O -999
-america O -999
+America O -999
 and O -999
 never O -999
 returning O -999
@@ -17391,8 +16927,7 @@ hooka O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17410,8 +16945,7 @@ dinner O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17429,8 +16963,7 @@ dinner O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17448,8 +16981,7 @@ dinner O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17467,8 +16999,7 @@ dinner O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17486,8 +17017,25 @@ dinner O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
+4th O -999
+ask O -999
+time O -999
+i O -999
+asked O -999
+again O -999
+and B-ASP -999
+the B-ASP Negative
+waiter B-ASP -999
+than O -999
+said O -999
+after O -999
+our O -999
+dinner O -999
+. O -999
+
+after O -999
+the O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17505,27 +17053,7 @@ dinner O -999
 
 after O -999
 the O -999
-4 O -999
-th O -999
-ask O -999
-time O -999
-i O -999
-asked O -999
-again O -999
-and B-ASP Negative
-the B-ASP -999
-waiter B-ASP -999
-than O -999
-said O -999
-after O -999
-our O -999
-dinner O -999
-. O -999
-
-after O -999
-the O -999
-4 O -999
-th O -999
+4th O -999
 ask O -999
 time O -999
 i O -999
@@ -17785,9 +17313,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP -999
-5 B-ASP -999
+$ B-ASP -999
+55 B-ASP -999
 dinner B-ASP Negative
 . O -999
 
@@ -17799,9 +17326,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP -999
-5 B-ASP -999
+$ B-ASP -999
+55 B-ASP -999
 dinner B-ASP Negative
 . O -999
 
@@ -17813,9 +17339,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP -999
-5 B-ASP Negative
+$ B-ASP -999
+55 B-ASP Negative
 dinner B-ASP -999
 . O -999
 
@@ -17827,9 +17352,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP -999
-5 B-ASP Negative
+$ B-ASP -999
+55 B-ASP Negative
 dinner B-ASP -999
 . O -999
 
@@ -17841,9 +17365,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP -999
-5 B-ASP Negative
+$ B-ASP -999
+55 B-ASP Negative
 dinner B-ASP -999
 . O -999
 
@@ -17855,9 +17378,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP Negative
-5 B-ASP -999
+$ B-ASP -999
+55 B-ASP Negative
 dinner B-ASP -999
 . O -999
 
@@ -17869,9 +17391,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP Negative
-5 B-ASP -999
+$ B-ASP Negative
+55 B-ASP -999
 dinner B-ASP -999
 . O -999
 
@@ -17883,9 +17404,8 @@ this O -999
 for O -999
 wait O -999
 a O -999
-$ O -999
-5 B-ASP Negative
-5 B-ASP -999
+$ B-ASP Negative
+55 B-ASP -999
 dinner B-ASP -999
 . O -999
 
@@ -18398,9 +17918,7 @@ style I-ASP Positive
 fried I-ASP Positive
 sea I-ASP Positive
 bass I-ASP Positive
-. I-ASP -999
-. B-ASP -999
-. I-ASP -999
+... I-ASP -999
 which I-ASP -999
 was I-ASP -999
 very I-ASP -999
@@ -18416,9 +17934,7 @@ style I-ASP Positive
 fried I-ASP Positive
 sea I-ASP Positive
 bass I-ASP Positive
-. I-ASP Positive
-. B-ASP -999
-. I-ASP -999
+... I-ASP Positive
 which I-ASP -999
 was I-ASP -999
 very I-ASP -999
@@ -18433,10 +17949,8 @@ thai I-ASP -999
 style I-ASP -999
 fried I-ASP -999
 sea I-ASP -999
-bass I-ASP -999
-. I-ASP -999
-. B-ASP Positive
-. I-ASP Positive
+bass I-ASP Positive
+... I-ASP Positive
 which I-ASP Positive
 was I-ASP Positive
 very I-ASP Positive
@@ -18452,9 +17966,7 @@ style I-ASP Positive
 fried I-ASP Positive
 sea I-ASP Positive
 bass I-ASP Positive
-. I-ASP -999
-. B-ASP -999
-. I-ASP -999
+... I-ASP -999
 which I-ASP -999
 was I-ASP -999
 very I-ASP -999
@@ -18470,9 +17982,7 @@ style I-ASP Positive
 fried I-ASP Positive
 sea I-ASP Positive
 bass I-ASP Positive
-. I-ASP -999
-. B-ASP -999
-. I-ASP -999
+... I-ASP -999
 which I-ASP -999
 was I-ASP -999
 very I-ASP -999
@@ -18488,9 +17998,7 @@ style I-ASP Positive
 fried I-ASP Positive
 sea I-ASP Positive
 bass I-ASP Positive
-. I-ASP -999
-. B-ASP -999
-. I-ASP -999
+... I-ASP -999
 which I-ASP -999
 was I-ASP -999
 very I-ASP -999
@@ -18506,9 +18014,7 @@ style I-ASP Positive
 fried I-ASP Positive
 sea I-ASP Positive
 bass I-ASP -999
-. I-ASP -999
-. B-ASP -999
-. I-ASP -999
+... I-ASP -999
 which I-ASP -999
 was I-ASP -999
 very I-ASP -999
@@ -18827,8 +18333,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -18858,8 +18363,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -18889,8 +18393,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -18920,8 +18423,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -18951,8 +18453,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -18982,8 +18483,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -19013,8 +18513,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -19044,8 +18543,7 @@ the O -999
 placeholder O -999
 best O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 had O -999
 . O -999
 
@@ -19074,8 +18572,7 @@ rice O -999
 - O -999
 is O -999
 $ O -999
-2 O -999
-5 O -999
+25 O -999
 ) O -999
 , O -999
 which O -999
@@ -19091,9 +18588,7 @@ but O -999
 this O -999
 place O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 an O -999
 upscale O -999
@@ -19840,8 +19335,7 @@ my O -999
 settle O -999
 when O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 dokebi O -999
 only O -999
 option O -999
@@ -19881,9 +19375,7 @@ skin O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP -999
@@ -19900,17 +19392,14 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP -999
@@ -19927,17 +19416,14 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP -999
@@ -19954,17 +19440,14 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP -999
@@ -19981,17 +19464,14 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP -999
@@ -20008,17 +19488,14 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP Negative
@@ -20035,17 +19512,14 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
 
 it O -999
 was O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 as O -999
 if O -999
 this B-ASP -999
@@ -20062,8 +19536,7 @@ hand O -999
 but O -999
 now O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 simply O -999
 repulsive O -999
 . O -999
@@ -20792,10 +20265,8 @@ sizzle B-ASP -999
 the I-ASP -999
 stone I-ASP Negative
 bowl I-ASP Negative
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -20812,10 +20283,8 @@ sizzle B-ASP -999
 the I-ASP -999
 stone I-ASP Negative
 bowl I-ASP Negative
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -20832,10 +20301,8 @@ sizzle B-ASP -999
 the I-ASP Negative
 stone I-ASP Negative
 bowl I-ASP -999
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -20852,10 +20319,8 @@ sizzle B-ASP -999
 the I-ASP Negative
 stone I-ASP Negative
 bowl I-ASP -999
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -20872,10 +20337,8 @@ sizzle B-ASP -999
 the I-ASP Negative
 stone I-ASP Negative
 bowl I-ASP -999
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -20892,10 +20355,8 @@ sizzle B-ASP -999
 the I-ASP -999
 stone I-ASP -999
 bowl I-ASP -999
-was O -999
-n O -999
-' B-ASP Negative
-t I-ASP Negative
+was B-ASP Negative
+n't I-ASP Negative
 even O -999
 close O -999
 to O -999
@@ -20912,10 +20373,8 @@ sizzle B-ASP -999
 the I-ASP Negative
 stone I-ASP Negative
 bowl I-ASP -999
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -20932,10 +20391,8 @@ sizzle B-ASP Negative
 the I-ASP Negative
 stone I-ASP -999
 bowl I-ASP -999
-was O -999
-n O -999
-' B-ASP -999
-t I-ASP -999
+was B-ASP -999
+n't I-ASP -999
 even O -999
 close O -999
 to O -999
@@ -21112,8 +20569,7 @@ stir B-ASP Negative
 fried I-ASP Negative
 squid I-ASP Negative
 i I-ASP -999
-' O -999
-savor O -999
+'savor O -999
 ve O -999
 ever O -999
 tasted O -999
@@ -21127,8 +20583,7 @@ stir B-ASP -999
 fried I-ASP Negative
 squid I-ASP Negative
 i I-ASP Negative
-' O -999
-savor O -999
+'savor O -999
 ve O -999
 ever O -999
 tasted O -999
@@ -21142,8 +20597,7 @@ stir B-ASP Negative
 fried I-ASP -999
 squid I-ASP -999
 i I-ASP -999
-' O -999
-savor O -999
+'savor O -999
 ve O -999
 ever O -999
 tasted O -999
@@ -21157,8 +20611,7 @@ stir B-ASP Negative
 fried I-ASP Negative
 squid I-ASP -999
 i I-ASP -999
-' O -999
-savor O -999
+'savor O -999
 ve O -999
 ever O -999
 tasted O -999
@@ -21172,40 +20625,33 @@ stir B-ASP Negative
 fried I-ASP Negative
 squid I-ASP Negative
 i I-ASP -999
-' O -999
-savor O -999
+'savor O -999
 ve O -999
 ever O -999
 tasted O -999
 . O -999
 
-easily B-ASP -999
-the I-ASP -999
-worst B-ASP -999
+easily O -999
+the O -999
+worst O -999
 stir B-ASP Negative
 - I-ASP Negative
 fried I-ASP Negative
 squid I-ASP Negative
-i I-ASP -999
-' O -999
-savor O -999
-ve O -999
-ever O -999
+i O -999
+'ve O -999
 tasted O -999
 . O -999
 
-easily B-ASP -999
-the I-ASP -999
-worst B-ASP -999
+easily O -999
+the O -999
+worst O -999
 stir B-ASP Negative
 - I-ASP Negative
 fried I-ASP Negative
 squid I-ASP Negative
-i I-ASP -999
-' O -999
-savor O -999
-ve O -999
-ever O -999
+i O -999
+'ve O -999
 tasted O -999
 . O -999
 
@@ -23148,9 +22594,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23183,9 +22627,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23218,9 +22660,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23253,9 +22693,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23288,9 +22726,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23323,9 +22759,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23358,9 +22792,7 @@ brasserie I-ASP -999
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23393,9 +22825,7 @@ brasserie I-ASP Positive
 that O -999
 do O -999
 north O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 serve O -999
 sushi O -999
 ) O -999
@@ -23439,17 +22869,14 @@ the O -999
 zen O -999
 and O -999
 intimate O -999
-d B-ASP Positive
-é I-ASP Positive
-cor I-ASP Positive
+décor B-ASP Positive
 will O -999
 make O -999
 you O -999
 feel O -999
 like O -999
 you O -999
-’ O -999
-re O -999
+’re O -999
 no O -999
 longer O -999
 in O -999
@@ -23462,8 +22889,7 @@ had O -999
 the B-ASP -999
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP Positive
@@ -23492,8 +22918,7 @@ had O -999
 the B-ASP -999
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP Positive
@@ -23522,8 +22947,7 @@ had O -999
 the B-ASP -999
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP Positive
@@ -23552,8 +22976,7 @@ had O -999
 the B-ASP -999
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP Positive
@@ -23582,8 +23005,7 @@ had O -999
 the B-ASP -999
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP Positive
@@ -23612,8 +23034,7 @@ had O -999
 the B-ASP -999
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP Positive
@@ -23642,8 +23063,7 @@ had O -999
 the B-ASP Positive
 bbe I-ASP Positive
 $ I-ASP Positive
-2 I-ASP Positive
-9 I-ASP Positive
+29 I-ASP Positive
 fixe I-ASP Positive
 prix I-ASP Positive
 menu I-ASP -999
@@ -23772,8 +23192,7 @@ well O -999
 and O -999
 is O -999
 sake B-ASP Positive
-’ I-ASP Positive
-s I-ASP Positive
+’s I-ASP Positive
 easing O -999
 me O -999
 into O -999
@@ -23916,9 +23335,7 @@ but O -999
 i O -999
 just O -999
 ca O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 say O -999
 enough O -999
 good O -999
@@ -23963,9 +23380,7 @@ but O -999
 i O -999
 just O -999
 ca O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 say O -999
 enough O -999
 good O -999
@@ -24010,9 +23425,7 @@ but O -999
 i O -999
 just O -999
 ca O -999
-n O -999
-’ O -999
-t O -999
+n’t O -999
 say O -999
 enough O -999
 good O -999
@@ -24285,9 +23698,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24320,9 +23731,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24355,9 +23764,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24390,9 +23797,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24425,9 +23830,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24460,9 +23863,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24495,9 +23896,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24530,9 +23929,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24565,9 +23962,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP Negative
@@ -24600,9 +23995,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP Negative
 drinks B-ASP -999
@@ -24635,9 +24028,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP Negative
 drinks B-ASP -999
@@ -24670,9 +24061,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP Negative
 drinks B-ASP -999
@@ -24705,9 +24094,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP Negative
+500 B-ASP Negative
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24740,9 +24127,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP Negative
+500 B-ASP Negative
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24775,9 +24160,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24810,9 +24193,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24845,9 +24226,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24880,9 +24259,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24915,9 +24292,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP -999
@@ -24950,9 +24325,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP Negative
@@ -24985,9 +24358,7 @@ bill O -999
 well O -999
 over O -999
 $ O -999
-5 O -999
-0 O -999
-0 B-ASP -999
+500 B-ASP -999
 for O -999
 some B-ASP -999
 drinks B-ASP Negative
@@ -27286,9 +26657,7 @@ again O -999
 this O -999
 place B-ASP Negative
 make O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 does O -999
 any O -999
 sense O -999
@@ -27296,9 +26665,7 @@ sense O -999
 this O -999
 place B-ASP Negative
 make O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 does O -999
 any O -999
 sense O -999
@@ -27342,9 +26709,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27385,9 +26750,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27428,9 +26791,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27471,9 +26832,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27514,9 +26873,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27557,9 +26914,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27600,9 +26955,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27643,9 +26996,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27686,9 +27037,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27729,9 +27078,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27772,9 +27119,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27815,9 +27160,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27858,9 +27201,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place O -999
@@ -27901,9 +27242,7 @@ you O -999
 dizzy O -999
 and O -999
 delusional O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 this O -999
 place B-ASP Negative
@@ -28113,9 +27452,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28131,9 +27468,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28149,9 +27484,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28167,9 +27500,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28185,9 +27516,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28203,9 +27532,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28221,9 +27548,7 @@ created O -999
 and O -999
 clearly O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 work O -999
 . O -999
 
@@ -28345,15 +27670,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28375,15 +27696,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28405,15 +27722,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28435,15 +27748,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28465,15 +27774,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28495,15 +27800,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28525,15 +27826,11 @@ sitting O -999
 space O -999
 was O -999
 too O -999
-pocket O -999
-- O -999
-size O -999
+pocket-size O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 being O -999
 cramp O -999
@@ -28559,9 +27856,7 @@ small O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 similar O -999
 being O -999
 cramp O -999
@@ -28587,9 +27882,7 @@ small O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 similar O -999
 being O -999
 cramp O -999
@@ -28615,9 +27908,7 @@ small O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 similar O -999
 being O -999
 cramp O -999
@@ -28643,9 +27934,7 @@ small O -999
 , O -999
 i O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 similar O -999
 being O -999
 cramp O -999
@@ -28835,9 +28124,7 @@ excellent O -999
 although O -999
 i O -999
 would O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 say O -999
 the O -999
 margaritas O -999
@@ -28852,16 +28139,13 @@ about O -999
 regardless O -999
 , O -999
 we O -999
-' O -999
-ll O -999
+'ll O -999
 be O -999
 summertime O -999
 back O -999
 and O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 wait O -999
 to O -999
 visit O -999
@@ -28879,16 +28163,13 @@ patio B-ASP Positive
 regardless O -999
 , O -999
 we O -999
-' O -999
-ll O -999
+'ll O -999
 be O -999
 summertime O -999
 back O -999
 and O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 wait O -999
 to O -999
 visit O -999
@@ -28906,16 +28187,13 @@ patio B-ASP Positive
 regardless O -999
 , O -999
 we O -999
-' O -999
-ll O -999
+'ll O -999
 be O -999
 summertime O -999
 back O -999
 and O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 wait O -999
 to O -999
 visit O -999
@@ -28933,16 +28211,13 @@ patio B-ASP -999
 regardless O -999
 , O -999
 we O -999
-' O -999
-ll O -999
+'ll O -999
 be O -999
 summertime O -999
 back O -999
 and O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 wait O -999
 to O -999
 visit O -999
@@ -29104,9 +28379,7 @@ much O -999
 better O -999
 when O -999
 has O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sat O -999
 cooling O -999
 in O -999
@@ -29133,9 +28406,7 @@ much O -999
 better O -999
 when O -999
 has O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 sat O -999
 cooling O -999
 in O -999
@@ -30537,8 +29808,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30548,9 +29818,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30584,8 +29852,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30595,9 +29862,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30631,8 +29896,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30642,9 +29906,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30678,8 +29940,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30689,9 +29950,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30725,8 +29984,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30736,9 +29994,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30772,8 +30028,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30783,9 +30038,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30819,8 +30072,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30830,9 +30082,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30866,8 +30116,7 @@ can O -999
 do O -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 iodine O -999
 a O -999
 matter O -999
@@ -30877,9 +30126,7 @@ taste O -999
 that O -999
 she O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 it O -999
 , O -999
@@ -30973,7 +30220,7 @@ honest O -999
 it O -999
 was O -999
 really O -999
-good B-ASP -999
+good O -999
 pizza B-ASP Positive
 . O -999
 
@@ -30981,16 +30228,15 @@ honest O -999
 it O -999
 was O -999
 really O -999
-good B-ASP -999
+good O -999
 pizza B-ASP Positive
 . O -999
 
-honest O -999
 it O -999
 was O -999
 really O -999
-good B-ASP Positive
-pizza B-ASP -999
+beneficial O -999
+pizza B-ASP Positive
 . O -999
 
 it O -999
@@ -31276,8 +30522,7 @@ in O -999
 manhattan O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31305,8 +30550,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31334,8 +30578,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31363,8 +30606,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31392,8 +30634,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31421,8 +30662,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31450,8 +30690,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31479,8 +30718,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31508,8 +30746,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31537,8 +30774,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31566,8 +30802,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31595,8 +30830,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31624,8 +30858,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31653,8 +30886,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31682,8 +30914,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31711,8 +30942,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31740,8 +30970,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31769,8 +30998,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31798,8 +31026,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31827,8 +31054,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31856,37 +31082,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
-being O -999
-with O -999
-a O -999
-couple O -999
-of O -999
-positives O -999
-: O -999
-cool B-ASP -999
-decor B-ASP -999
-, B-ASP -999
-good B-ASP -999
-pita B-ASP Positive
-and B-ASP -999
-hummus B-ASP -999
-, B-ASP -999
-and I-ASP -999
-grilled B-ASP -999
-octopus I-ASP -999
-that B-ASP -999
-was I-ASP -999
-actually O -999
-devilfish O -999
-pretty O -999
-tasty O -999
-. O -999
-
-i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31914,8 +31110,35 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
+being O -999
+with O -999
+a O -999
+couple O -999
+of O -999
+positives O -999
+: O -999
+cool B-ASP -999
+decor B-ASP -999
+, B-ASP -999
+good B-ASP -999
+pita B-ASP -999
+and B-ASP Positive
+hummus B-ASP -999
+, B-ASP -999
+and I-ASP -999
+grilled B-ASP -999
+octopus I-ASP -999
+that B-ASP -999
+was I-ASP -999
+actually O -999
+devilfish O -999
+pretty O -999
+tasty O -999
+. O -999
+
+i O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31943,8 +31166,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -31972,8 +31194,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -32001,8 +31222,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -32030,8 +31250,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -32059,8 +31278,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -32088,8 +31306,7 @@ tasty O -999
 . O -999
 
 i O -999
-' O -999
-ll O -999
+'ll O -999
 being O -999
 with O -999
 a O -999
@@ -32133,9 +31350,7 @@ place B-ASP Negative
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... B-ASP -999
 god O -999
 where O -999
 procurator O -999
@@ -32146,9 +31361,7 @@ begin O -999
 
 this O -999
 place B-ASP -999
-. B-ASP Negative
-. O -999
-. O -999
+... B-ASP Negative
 god O -999
 where O -999
 procurator O -999
@@ -32159,9 +31372,7 @@ begin O -999
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... B-ASP -999
 god O -999
 where O -999
 procurator O -999
@@ -32172,9 +31383,7 @@ begin O -999
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... B-ASP -999
 god O -999
 where O -999
 procurator O -999
@@ -32185,9 +31394,7 @@ begin O -999
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... B-ASP -999
 god O -999
 where O -999
 procurator O -999
@@ -32198,41 +31405,32 @@ begin O -999
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... O -999
 god O -999
 where O -999
-procurator O -999
 do O -999
 i O -999
-begin O -999
+commence O -999
 . O -999
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... O -999
 god O -999
 where O -999
-procurator O -999
 do O -999
 i O -999
-begin O -999
+commence O -999
 . O -999
 
 this O -999
 place B-ASP Negative
-. B-ASP -999
-. O -999
-. O -999
+... O -999
 god O -999
 where O -999
-procurator O -999
 do O -999
 i O -999
-begin O -999
+commence O -999
 . O -999
 
 it O -999
@@ -32242,8 +31440,7 @@ a O -999
 spectacular B-ASP -999
 scene B-ASP Positive
 i O -999
-' O -999
-ll O -999
+'ll O -999
 give O -999
 equal O -999
 them O -999
@@ -32257,8 +31454,7 @@ a O -999
 spectacular B-ASP -999
 scene B-ASP Positive
 i O -999
-' O -999
-ll O -999
+'ll O -999
 give O -999
 equal O -999
 them O -999
@@ -32272,8 +31468,7 @@ a O -999
 spectacular B-ASP -999
 scene B-ASP Positive
 i O -999
-' O -999
-ll O -999
+'ll O -999
 give O -999
 equal O -999
 them O -999
@@ -32287,8 +31482,7 @@ a O -999
 spectacular B-ASP -999
 scene B-ASP Positive
 i O -999
-' O -999
-ll O -999
+'ll O -999
 give O -999
 equal O -999
 them O -999
@@ -32302,8 +31496,7 @@ a O -999
 spectacular B-ASP -999
 scene B-ASP Positive
 i O -999
-' O -999
-ll O -999
+'ll O -999
 give O -999
 equal O -999
 them O -999
@@ -32317,8 +31510,7 @@ a O -999
 spectacular B-ASP Positive
 scene B-ASP -999
 i O -999
-' O -999
-ll O -999
+'ll O -999
 give O -999
 equal O -999
 them O -999
@@ -32336,17 +31528,13 @@ distraction O -999
 so O -999
 hours O -999
 wo O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 notice O -999
 that O -999
 you O -999
 just O -999
 payed O -999
-3 O -999
-0 O -999
-0 O -999
+300 O -999
 bucks O -999
 for O -999
 the O -999
@@ -32375,17 +31563,13 @@ distraction O -999
 so O -999
 hours O -999
 wo O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 notice O -999
 that O -999
 you O -999
 just O -999
 payed O -999
-3 O -999
-0 O -999
-0 O -999
+300 O -999
 bucks O -999
 for O -999
 the O -999
@@ -32414,17 +31598,13 @@ distraction O -999
 so O -999
 hours O -999
 wo O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 notice O -999
 that O -999
 you O -999
 just O -999
 payed O -999
-3 O -999
-0 O -999
-0 O -999
+300 O -999
 bucks O -999
 for O -999
 the O -999
@@ -32519,16 +31699,14 @@ me O -999
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32542,16 +31720,14 @@ food B-ASP Positive
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32565,16 +31741,14 @@ food B-ASP Positive
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32588,16 +31762,14 @@ food B-ASP -999
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32611,16 +31783,14 @@ food B-ASP -999
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32634,16 +31804,14 @@ food B-ASP -999
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32657,16 +31825,14 @@ food B-ASP -999
 
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 been O -999
 crowded O -999
 most O -999
 times O -999
 siemens O -999
 i O -999
-' O -999
-ve O -999
+'ve O -999
 gone O -999
 here O -999
 , O -999
@@ -32688,8 +31854,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32705,8 +31870,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32722,8 +31886,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32739,8 +31902,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32756,8 +31918,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32773,8 +31934,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32790,8 +31950,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 slamwich O -999
 is O -999
 amazing O -999
@@ -32807,8 +31966,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP -999
+'re B-ASP -999
 slamwich B-ASP Positive
 is O -999
 amazing O -999
@@ -32824,8 +31982,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP -999
+'re B-ASP -999
 slamwich B-ASP Positive
 is O -999
 amazing O -999
@@ -32841,8 +31998,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP Positive
+'re B-ASP Positive
 slamwich B-ASP -999
 is O -999
 amazing O -999
@@ -32858,8 +32014,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP Positive
+'re B-ASP Positive
 slamwich B-ASP -999
 is O -999
 amazing O -999
@@ -32875,8 +32030,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP Positive
+'re B-ASP Positive
 slamwich B-ASP -999
 is O -999
 amazing O -999
@@ -32892,8 +32046,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP Positive
+'re B-ASP Positive
 slamwich B-ASP -999
 is O -999
 amazing O -999
@@ -32909,8 +32062,7 @@ notch O -999
 , O -999
 and O -999
 they O -999
-' O -999
-re B-ASP Positive
+'re B-ASP Positive
 slamwich B-ASP -999
 is O -999
 amazing O -999
@@ -33047,8 +32199,7 @@ complaint O -999
 is O -999
 the O -999
 pricing O -999
-- O -999
-- O -999
+-- O -999
 i O -999
 consider O -999
 it O -999
@@ -33072,8 +32223,7 @@ menu B-ASP Negative
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP -999
 spot B-ASP Positive
 , O -999
@@ -33084,8 +32234,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP -999
 spot B-ASP Positive
 , O -999
@@ -33096,8 +32245,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP -999
 spot B-ASP Positive
 , O -999
@@ -33108,8 +32256,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP -999
 spot B-ASP Positive
 , O -999
@@ -33120,8 +32267,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP -999
 spot B-ASP Positive
 , O -999
@@ -33132,8 +32278,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP -999
 spot B-ASP Positive
 , O -999
@@ -33144,8 +32289,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP Positive
 spot B-ASP -999
 , O -999
@@ -33156,8 +32300,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 great B-ASP Positive
 spot B-ASP -999
 , O -999
@@ -33168,8 +32311,7 @@ food O -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33180,8 +32322,7 @@ food B-ASP Positive
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33192,8 +32333,7 @@ food B-ASP Positive
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33204,8 +32344,7 @@ food B-ASP -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33216,8 +32355,7 @@ food B-ASP -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33228,8 +32366,7 @@ food B-ASP -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33240,8 +32377,7 @@ food B-ASP -999
 
 but O -999
 nonetheless O -999
-- O -999
-- O -999
+-- O -999
 smudge O -999
 great O -999
 spot O -999
@@ -33260,9 +32396,7 @@ of O -999
 house O -999
 staff O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 put O -999
 firm O -999
 you O -999
@@ -33279,9 +32413,7 @@ of O -999
 house O -999
 staff O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 put O -999
 firm O -999
 you O -999
@@ -33298,9 +32430,7 @@ of O -999
 house O -999
 staff O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 put O -999
 firm O -999
 you O -999
@@ -33317,9 +32447,7 @@ of O -999
 house O -999
 staff O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 put O -999
 firm O -999
 you O -999
@@ -33336,9 +32464,7 @@ of O -999
 house O -999
 staff O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 put O -999
 firm O -999
 you O -999
@@ -33355,9 +32481,7 @@ of O -999
 house O -999
 staff O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 put O -999
 firm O -999
 you O -999
@@ -33367,8 +32491,7 @@ off O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP -999
@@ -33382,8 +32505,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33421,8 +32543,7 @@ return O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP -999
@@ -33436,8 +32557,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33475,8 +32595,7 @@ return O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP -999
@@ -33490,8 +32609,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33529,8 +32647,7 @@ return O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP -999
@@ -33544,8 +32661,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33583,8 +32699,7 @@ return O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP -999
@@ -33598,8 +32713,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33637,8 +32751,7 @@ return O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP Negative
@@ -33652,8 +32765,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33691,8 +32803,7 @@ return O -999
 each O -999
 time O -999
 we O -999
-' O -999
-ve O -999
+'ve O -999
 been O -999
 , O -999
 the B-ASP -999
@@ -33706,8 +32817,7 @@ the O -999
 waiters O -999
 - O -999
 they O -999
-' O -999
-re O -999
+'re O -999
 special O -999
 fantastic O -999
 - O -999
@@ -33746,9 +32856,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -33789,9 +32897,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -33832,9 +32938,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -33875,9 +32979,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -33918,9 +33020,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -33961,9 +33061,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34004,9 +33102,7 @@ as O -999
 bfc B-ASP Negative
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34047,9 +33143,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34090,9 +33184,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34133,9 +33225,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34176,9 +33266,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34219,9 +33307,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34262,9 +33348,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34305,9 +33389,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34348,9 +33430,7 @@ as O -999
 bfc B-ASP -999
 cost O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 take O -999
 reservations O -999
 you O -999
@@ -34393,8 +33473,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34418,8 +33497,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34443,8 +33521,7 @@ retro O -999
 girl B-ASP -999
 ( B-ASP Negative
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34468,8 +33545,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34493,8 +33569,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34518,8 +33593,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34543,8 +33617,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34568,8 +33641,7 @@ retro O -999
 girl B-ASP Negative
 ( B-ASP -999
 with O -999
-winged O -999
-/ O -999
+winged/ O -999
 dame O -999
 edna O -999
 glasses O -999
@@ -34588,8 +33660,7 @@ boozing O -999
 . O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34608,8 +33679,7 @@ rudely O -999
 ! O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34628,8 +33698,7 @@ rudely O -999
 ! O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34648,8 +33717,7 @@ rudely O -999
 ! O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34668,8 +33736,7 @@ rudely O -999
 ! O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34688,8 +33755,7 @@ rudely O -999
 ! O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34708,8 +33774,7 @@ rudely O -999
 ! O -999
 
 i O -999
-' O -999
-d O -999
+'d O -999
 be O -999
 horrified O -999
 if O -999
@@ -34735,12 +33800,11 @@ spend O -999
 at O -999
 least O -999
 $ O -999
-6 O -999
-0 O -999
+60 O -999
 a O -999
 head O -999
 , O -999
-i B-ASP -999
+i O -999
 expect B-ASP -999
 better B-ASP -999
 service B-ASP Negative
@@ -34754,12 +33818,11 @@ spend O -999
 at O -999
 least O -999
 $ O -999
-6 O -999
-0 O -999
+60 O -999
 a O -999
 head O -999
 , O -999
-i B-ASP -999
+i O -999
 expect B-ASP -999
 better B-ASP -999
 service B-ASP Negative
@@ -34773,12 +33836,11 @@ spend O -999
 at O -999
 least O -999
 $ O -999
-6 O -999
-0 O -999
+60 O -999
 a O -999
 head O -999
 , O -999
-i B-ASP -999
+i O -999
 expect B-ASP -999
 better B-ASP Negative
 service B-ASP -999
@@ -34792,12 +33854,11 @@ spend O -999
 at O -999
 least O -999
 $ O -999
-6 O -999
-0 O -999
+60 O -999
 a O -999
 head O -999
 , O -999
-i B-ASP -999
+i O -999
 expect B-ASP -999
 better B-ASP Negative
 service B-ASP -999
@@ -34811,12 +33872,11 @@ spend O -999
 at O -999
 least O -999
 $ O -999
-6 O -999
-0 O -999
+60 O -999
 a O -999
 head O -999
 , O -999
-i B-ASP -999
+i O -999
 expect B-ASP Negative
 better B-ASP -999
 service B-ASP -999
@@ -34830,13 +33890,12 @@ spend O -999
 at O -999
 least O -999
 $ O -999
-6 O -999
-0 O -999
+60 O -999
 a O -999
 head O -999
 , O -999
-i B-ASP Negative
-expect B-ASP -999
+i O -999
+expect B-ASP Negative
 better B-ASP -999
 service B-ASP -999
 . O -999
@@ -34969,19 +34028,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP -999
-the I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP -999
 maitre I-ASP Negative
 - I-ASP Negative
 d I-ASP Negative
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35008,19 +34064,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP -999
-the I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP -999
 maitre I-ASP Negative
 - I-ASP Negative
 d I-ASP Negative
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35047,19 +34100,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP -999
-the I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP -999
 maitre I-ASP Negative
 - I-ASP Negative
 d I-ASP Negative
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35086,19 +34136,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP -999
-the I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP -999
 maitre I-ASP -999
 - I-ASP Negative
 d I-ASP Negative
-' I-ASP Negative
-sentiency O -999
+'sentiency I-ASP Negative
 s O -999
 sense O -999
 of O -999
@@ -35125,19 +34172,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP -999
-the I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP -999
 maitre I-ASP Negative
 - I-ASP Negative
 d I-ASP Negative
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35164,19 +34208,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP -999
-the I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP -999
 maitre I-ASP Negative
 - I-ASP Negative
 d I-ASP Negative
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35203,19 +34244,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP -999
-disturb I-ASP Negative
-the I-ASP Negative
+and O -999
+disturb B-ASP Negative
+the B-ASP Negative
 maitre I-ASP Negative
 - I-ASP -999
 d I-ASP -999
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35242,19 +34280,16 @@ wise O -999
 : O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 dine O -999
 here O -999
-and B-ASP Negative
-disturb I-ASP Negative
-the I-ASP Negative
-maitre I-ASP -999
-- I-ASP -999
+and O -999
+disturb B-ASP -999
+the B-ASP Negative
+maitre I-ASP Negative
+- I-ASP Negative
 d I-ASP -999
-' I-ASP -999
-sentiency O -999
+'sentiency I-ASP -999
 s O -999
 sense O -999
 of O -999
@@ -35329,7 +34364,7 @@ time O -999
 
 mussles B-ASP Positive
 live O -999
-and B-ASP -999
+and O -999
 calamari B-ASP -999
 were O -999
 superb O -999
@@ -35339,7 +34374,7 @@ evening O -999
 
 mussles B-ASP Positive
 live O -999
-and B-ASP -999
+and O -999
 calamari B-ASP -999
 were O -999
 superb O -999
@@ -35349,7 +34384,7 @@ evening O -999
 
 mussles B-ASP -999
 live O -999
-and B-ASP -999
+and O -999
 calamari B-ASP Positive
 were O -999
 superb O -999
@@ -35358,22 +34393,20 @@ evening O -999
 . O -999
 
 mussles B-ASP Positive
-live O -999
-and B-ASP -999
+and O -999
 calamari B-ASP -999
 were O -999
 superb O -999
-saturday O -999
+Saturday O -999
 evening O -999
 . O -999
 
 mussles B-ASP -999
-live O -999
-and B-ASP Positive
-calamari B-ASP -999
+and O -999
+calamari B-ASP Positive
 were O -999
 superb O -999
-saturday O -999
+Saturday O -999
 evening O -999
 . O -999
 
@@ -35812,9 +34845,7 @@ at O -999
 bark B-ASP Negative
 average O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 just O -999
 get O -999
 your O -999
@@ -36017,83 +35048,63 @@ night O -999
 . O -999
 
 do O -999
-n O -999
-’ O -999
-t O -999
-go B-ASP -999
+n’t O -999
+go O -999
 triiodothyronine O -999
 to O -999
-this B-ASP -999
+this O -999
 place B-ASP Negative
 ! O -999
 
 do O -999
-n O -999
-’ O -999
-t O -999
-go B-ASP -999
+n’t O -999
+go O -999
 triiodothyronine O -999
 to O -999
-this B-ASP -999
+this O -999
 place B-ASP Negative
 ! O -999
 
 do O -999
-n O -999
-’ O -999
-t O -999
+to’t O -999
 go B-ASP -999
-triiodothyronine O -999
-to O -999
-this B-ASP Negative
-place B-ASP -999
+n O -999
+this O -999
+place B-ASP Negative
 ! O -999
 
 do O -999
-n O -999
-’ O -999
-t O -999
+to’t O -999
 go B-ASP Negative
-triiodothyronine O -999
-to O -999
-this B-ASP -999
+n O -999
+this O -999
 place B-ASP -999
 ! O -999
 
 do O -999
-n O -999
-’ O -999
-t O -999
+to’t O -999
 go B-ASP -999
-triiodothyronine O -999
-to O -999
-this B-ASP Negative
-place B-ASP -999
+n O -999
+this O -999
+place B-ASP Negative
 ! O -999
 
 do O -999
-n O -999
-’ O -999
-t O -999
+to’t O -999
 go B-ASP -999
-triiodothyronine O -999
-to O -999
-this B-ASP Negative
-place B-ASP -999
+n O -999
+this O -999
+place B-ASP Negative
 ! O -999
 
-n O -999
-’ O -999
-t O -999
+n’t O -999
 go O -999
 to O -999
 this O -999
 place B-ASP Negative
 ! O -999
 
-n O -999
-’ O -999
-t O -999
+n’t O -999
 go O -999
 to O -999
 this O -999
@@ -36304,10 +35315,8 @@ poorly O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36315,7 +35324,7 @@ nyc B-ASP -999
 restaurant B-ASP Negative
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36324,10 +35333,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36335,7 +35342,7 @@ nyc B-ASP -999
 restaurant B-ASP Negative
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36344,10 +35351,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36355,7 +35360,7 @@ nyc B-ASP -999
 restaurant B-ASP Negative
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36364,10 +35369,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36375,7 +35378,7 @@ nyc B-ASP -999
 restaurant B-ASP Negative
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36384,10 +35387,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP Negative
-believe O -999
+n’t O -999
+believe B-ASP Negative
 how O -999
 an O -999
 expensive O -999
@@ -36395,7 +35396,7 @@ nyc B-ASP -999
 restaurant B-ASP -999
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36404,10 +35405,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36415,7 +35414,7 @@ nyc B-ASP -999
 restaurant B-ASP Negative
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36424,10 +35423,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36435,7 +35432,7 @@ nyc B-ASP Negative
 restaurant B-ASP -999
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36444,10 +35441,8 @@ clients O -999
 . O -999
 
 ca O -999
-n O -999
-’ O -999
-t B-ASP -999
-believe O -999
+n’t O -999
+believe B-ASP -999
 how O -999
 an O -999
 expensive O -999
@@ -36455,7 +35450,7 @@ nyc B-ASP Negative
 restaurant B-ASP -999
 can O -999
 be O -999
-an O -999
+AN O -999
 so O -999
 disrespectful O -999
 to O -999
@@ -36963,9 +35958,7 @@ have O -999
 enough O -999
 sauce O -999
 though O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 flavor O -999
 . O -999
 
@@ -37780,7 +36773,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -37828,7 +36821,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -37876,7 +36869,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -37924,7 +36917,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -37972,7 +36965,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -38020,7 +37013,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -38068,7 +37061,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999
@@ -38116,7 +37109,7 @@ the O -999
 plates O -999
 while O -999
 half O -999
-america O -999
+America O -999
 of O -999
 us O -999
 were O -999

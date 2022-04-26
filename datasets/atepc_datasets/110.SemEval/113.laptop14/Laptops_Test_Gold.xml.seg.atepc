@@ -1,4 +1,4 @@
-boot B-ASP Positive
+Boot B-ASP Positive
 time I-ASP Positive
 is O -999
 super O -999
@@ -7,8 +7,7 @@ fast O -999
 around O -999
 anywhere O -999
 from O -999
-3 O -999
-5 O -999
+35 O -999
 seconds O -999
 to O -999
 1 O -999
@@ -23,49 +22,47 @@ fix O -999
 the O -999
 problem O -999
 unless O -999
-i O -999
+I O -999
 bought O -999
 your O -999
 plan O -999
 for O -999
 $ O -999
-1 O -999
-5 O -999
-0 O -999
+150 O -999
 plus O -999
 . O -999
 
-set B-ASP Positive
+Set B-ASP Positive
 up I-ASP Positive
 was O -999
 easy O -999
 . O -999
 
-did O -999
+Did O -999
 not O -999
 enjoy O -999
 the O -999
 new O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
 and O -999
 touchscreen B-ASP -999
 functions I-ASP -999
 . O -999
 
-did O -999
+Did O -999
 not O -999
 enjoy O -999
 the O -999
 new O -999
-windows B-ASP -999
+Windows B-ASP -999
 8 I-ASP -999
 and O -999
 touchscreen B-ASP Negative
 functions I-ASP Negative
 . O -999
 
-other O -999
+Other O -999
 than O -999
 not O -999
 being O -999
@@ -74,16 +71,12 @@ fan O -999
 of O -999
 click B-ASP -999
 pads I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 industry O -999
 standard O -999
 these O -999
 days O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 the O -999
 lousy O -999
@@ -91,8 +84,7 @@ internal B-ASP Negative
 speakers I-ASP Negative
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 hard O -999
 for O -999
 me O -999
@@ -102,25 +94,21 @@ things O -999
 about O -999
 this O -999
 notebook O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 , O -999
 especially O -999
 considering O -999
 the O -999
 $ O -999
-3 O -999
-5 O -999
-0 O -999
+350 O -999
 price B-ASP -999
 tag I-ASP -999
 . O -999
 
-other O -999
+Other O -999
 than O -999
 not O -999
 being O -999
@@ -129,16 +117,12 @@ fan O -999
 of O -999
 click B-ASP -999
 pads I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 industry O -999
 standard O -999
 these O -999
 days O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 the O -999
 lousy O -999
@@ -146,8 +130,7 @@ internal B-ASP -999
 speakers I-ASP -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 hard O -999
 for O -999
 me O -999
@@ -157,25 +140,21 @@ things O -999
 about O -999
 this O -999
 notebook O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 , O -999
 especially O -999
 considering O -999
 the O -999
 $ O -999
-3 O -999
-5 O -999
-0 O -999
+350 O -999
 price B-ASP Positive
 tag I-ASP Positive
 . O -999
 
-other O -999
+Other O -999
 than O -999
 not O -999
 being O -999
@@ -184,16 +163,12 @@ fan O -999
 of O -999
 click B-ASP Negative
 pads I-ASP Negative
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 industry O -999
 standard O -999
 these O -999
 days O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 the O -999
 lousy O -999
@@ -201,8 +176,7 @@ internal B-ASP -999
 speakers I-ASP -999
 , O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 hard O -999
 for O -999
 me O -999
@@ -212,37 +186,30 @@ things O -999
 about O -999
 this O -999
 notebook O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 like O -999
 , O -999
 especially O -999
 considering O -999
 the O -999
 $ O -999
-3 O -999
-5 O -999
-0 O -999
+350 O -999
 price B-ASP -999
 tag I-ASP -999
 . O -999
 
-no O -999
+No O -999
 installation B-ASP Neutral
 disk I-ASP Neutral
-( I-ASP Neutral
-dvd I-ASP Neutral
-) I-ASP Neutral
+(DVD) I-ASP Neutral
 is O -999
 included O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 fast O -999
 , O -999
 light O -999
@@ -253,11 +220,11 @@ to O -999
 use B-ASP Positive
 . O -999
 
-works B-ASP Positive
+Works B-ASP Positive
 well O -999
 , O -999
 and O -999
-i O -999
+I O -999
 am O -999
 extremely O -999
 happy O -999
@@ -267,14 +234,14 @@ back O -999
 to O -999
 an O -999
 apple B-ASP -999
-os I-ASP -999
+OS I-ASP -999
 . O -999
 
-works B-ASP -999
+Works B-ASP -999
 well O -999
 , O -999
 and O -999
-i O -999
+I O -999
 am O -999
 extremely O -999
 happy O -999
@@ -284,13 +251,12 @@ back O -999
 to O -999
 an O -999
 apple B-ASP Positive
-os I-ASP Positive
+OS I-ASP Positive
 . O -999
 
-sure O -999
+Sure O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 not O -999
 light O -999
 and O -999
@@ -302,13 +268,11 @@ make O -999
 up O -999
 for O -999
 it O -999
-1 O -999
-0 O -999
-0 O -999
+100 O -999
 % O -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 pleased O -999
 with O -999
@@ -318,25 +282,21 @@ log B-ASP Positive
 on I-ASP Positive
 , O -999
 speedy O -999
-wifi B-ASP -999
+WiFi B-ASP -999
 connection I-ASP -999
 and O -999
 the O -999
 long O -999
 battery B-ASP -999
 life I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 > O -999
 6 O -999
 hrs O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 pleased O -999
 with O -999
@@ -346,25 +306,21 @@ log B-ASP -999
 on I-ASP -999
 , O -999
 speedy O -999
-wifi B-ASP Positive
+WiFi B-ASP Positive
 connection I-ASP Positive
 and O -999
 the O -999
 long O -999
 battery B-ASP -999
 life I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 > O -999
 6 O -999
 hrs O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 pleased O -999
 with O -999
@@ -374,26 +330,22 @@ log B-ASP -999
 on I-ASP -999
 , O -999
 speedy O -999
-wifi B-ASP -999
+WiFi B-ASP -999
 connection I-ASP -999
 and O -999
 the O -999
 long O -999
 battery B-ASP Positive
 life I-ASP Positive
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 > O -999
 6 O -999
 hrs O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 . O -999
 
-the O -999
-apple O -999
+The O -999
+Apple O -999
 engineers O -999
 have O -999
 not O -999
@@ -404,25 +356,21 @@ delete B-ASP Negative
 key I-ASP Negative
 . O -999
 
-made O -999
+Made O -999
 interneting B-ASP Negative
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 part O -999
 of O -999
 my O -999
 business O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 very O -999
 difficult O -999
 to O -999
 maintain O -999
 . O -999
 
-luckily O -999
+Luckily O -999
 , O -999
 for O -999
 all O -999
@@ -433,15 +381,15 @@ the O -999
 decision O -999
 , O -999
 the O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 is O -999
 priced B-ASP Positive
 just O -999
 right O -999
 . O -999
 
-super O -999
+Super O -999
 light O -999
 , O -999
 super O -999
@@ -452,10 +400,10 @@ just O -999
 works B-ASP Positive
 . O -999
 
-only O -999
+Only O -999
 problem O -999
 that O -999
-i O -999
+I O -999
 had O -999
 was O -999
 that O -999
@@ -469,7 +417,7 @@ good O -999
 for O -999
 me O -999
 , O -999
-i O -999
+I O -999
 only O -999
 had O -999
 a O -999
@@ -480,7 +428,7 @@ twice O -999
 with O -999
 it O -999
 , O -999
-but O -999
+But O -999
 probably O -999
 my O -999
 computer O -999
@@ -490,7 +438,7 @@ bit O -999
 defective O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 super O -999
 fast O -999
@@ -500,7 +448,7 @@ outstanding O -999
 graphics B-ASP Positive
 . O -999
 
-but O -999
+But O -999
 the O -999
 mountain B-ASP Negative
 lion I-ASP Negative
@@ -510,7 +458,7 @@ too O -999
 slow O -999
 . O -999
 
-strong O -999
+Strong O -999
 build B-ASP -999
 though O -999
 which O -999
@@ -521,7 +469,7 @@ its O -999
 durability B-ASP Positive
 . O -999
 
-strong O -999
+Strong O -999
 build B-ASP Positive
 though O -999
 which O -999
@@ -532,23 +480,20 @@ its O -999
 durability B-ASP -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP Positive
 life I-ASP Positive
 is O -999
 excellent O -999
 - O -999
-6 O -999
-- O -999
-7 O -999
+6-7 O -999
 hours O -999
 without O -999
 charging O -999
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 had O -999
 my O -999
 computer O -999
@@ -562,30 +507,30 @@ works B-ASP Positive
 perfectly O -999
 . O -999
 
-and O -999
-i O -999
+And O -999
+I O -999
 may O -999
 be O -999
 the O -999
 only O -999
 one O -999
 but O -999
-i O -999
+I O -999
 am O -999
 really O -999
 liking O -999
-windows B-ASP Positive
+Windows B-ASP Positive
 8 I-ASP Positive
 . O -999
 
-the O -999
+The O -999
 baterry B-ASP Positive
 is O -999
 very O -999
 longer O -999
 . O -999
 
-its O -999
+Its O -999
 size B-ASP Positive
 is O -999
 ideal O -999
@@ -596,7 +541,7 @@ is O -999
 acceptable O -999
 . O -999
 
-its O -999
+Its O -999
 size B-ASP -999
 is O -999
 ideal O -999
@@ -607,11 +552,11 @@ is O -999
 acceptable O -999
 . O -999
 
-i O -999
+I O -999
 can O -999
 say O -999
 that O -999
-i O -999
+I O -999
 am O -999
 fully O -999
 satisfied O -999
@@ -625,12 +570,12 @@ has O -999
 supplied O -999
 . O -999
 
-this O -999
+This O -999
 laptop O -999
 has O -999
 only O -999
 2 O -999
-usb B-ASP Negative
+USB B-ASP Negative
 ports I-ASP Negative
 , O -999
 and O -999
@@ -643,7 +588,7 @@ same O -999
 side O -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 so O -999
 much O -999
@@ -657,7 +602,7 @@ very O -999
 sharp O -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 so O -999
 much O -999
@@ -671,12 +616,12 @@ very O -999
 sharp O -999
 . O -999
 
-everything O -999
-i O -999
+Everything O -999
+I O -999
 wanted O -999
 and O -999
 everything O -999
-i O -999
+I O -999
 needed O -999
 and O -999
 the O -999
@@ -685,14 +630,13 @@ was O -999
 great O -999
 ! O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 not O -999
 inexpensive O -999
 but O -999
 the O -999
-hardware B-ASP Positive
+Hardware B-ASP Positive
 performance I-ASP Positive
 is O -999
 impressive O -999
@@ -703,7 +647,7 @@ this O -999
 small O -999
 . O -999
 
-this O -999
+This O -999
 thing O -999
 is O -999
 awesome O -999
@@ -727,13 +671,13 @@ compatible O -999
 its O -999
 literally O -999
 everything O -999
-i O -999
+I O -999
 could O -999
 ask O -999
 for O -999
 . O -999
 
-this O -999
+This O -999
 thing O -999
 is O -999
 awesome O -999
@@ -757,28 +701,28 @@ compatible O -999
 its O -999
 literally O -999
 everything O -999
-i O -999
+I O -999
 could O -999
 ask O -999
 for O -999
 . O -999
 
-keyboard B-ASP Positive
+Keyboard B-ASP Positive
 responds O -999
 well O -999
 to O -999
 presses O -999
 . O -999
 
-lastly O -999
+Lastly O -999
 , O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
 is O -999
 annoying O -999
 . O -999
 
-everything O -999
+Everything O -999
 is O -999
 so O -999
 easy O -999
@@ -790,7 +734,7 @@ or O -999
 configure B-ASP -999
 . O -999
 
-everything O -999
+Everything O -999
 is O -999
 so O -999
 easy O -999
@@ -802,30 +746,26 @@ or O -999
 configure B-ASP Positive
 . O -999
 
-biggest O -999
+Biggest O -999
 complaint O -999
 is O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
 . O -999
 
-only O -999
+Only O -999
 2 O -999
 usb B-ASP Negative
 ports I-ASP Negative
-. O -999
-. O -999
-. O -999
+... O -999
 seems O -999
 kind O -999
 of O -999
-. O -999
-. O -999
-. O -999
+... O -999
 limited O -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 all O -999
 the O -999
@@ -845,7 +785,7 @@ roomy O -999
 keyboard B-ASP -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 all O -999
 the O -999
@@ -865,7 +805,7 @@ roomy O -999
 keyboard B-ASP -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 all O -999
 the O -999
@@ -885,17 +825,17 @@ roomy O -999
 keyboard B-ASP Positive
 . O -999
 
-amazing O -999
-performance B-ASP Positive
+Amazing O -999
+Performance B-ASP Positive
 for O -999
 anything O -999
-i O -999
+I O -999
 throw O -999
 at O -999
 it O -999
 . O -999
 
-the O -999
+The O -999
 receiver O -999
 was O -999
 full O -999
@@ -908,7 +848,7 @@ and O -999
 performance B-ASP -999
 . O -999
 
-the O -999
+The O -999
 receiver O -999
 was O -999
 full O -999
@@ -921,19 +861,19 @@ and O -999
 performance B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 was O -999
 extremely O -999
 happy O -999
 with O -999
 the O -999
-os B-ASP Positive
+OS B-ASP Positive
 itself O -999
 . O -999
 
-the O -999
+The O -999
 new O -999
-mbp O -999
+MBP O -999
 offers O -999
 great O -999
 portability B-ASP Positive
@@ -954,35 +894,33 @@ a O -999
 new O -999
 laptop O -999
 in O -999
-1 O -999
-8 O -999
+18 O -999
 months O -999
 . O -999
 
-the O -999
+The O -999
 criticism O -999
 has O -999
 waned O -999
 , O -999
 and O -999
 now O -999
-i O -999
-' O -999
-d O -999
+I O -999
+'d O -999
 be O -999
 the O -999
 first O -999
 to O -999
 recommend O -999
 an O -999
-air O -999
+Air O -999
 for O -999
 truly O -999
 portable B-ASP Positive
 computing I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 would O -999
 have O -999
 given O -999
@@ -998,17 +936,14 @@ fact O -999
 that O -999
 it O -999
 had O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
 
-ms B-ASP Positive
-office I-ASP Positive
-2 I-ASP Positive
-0 I-ASP Positive
-1 I-ASP Positive
-1 I-ASP Positive
+MS B-ASP Positive
+Office I-ASP Positive
+2011 I-ASP Positive
 for I-ASP Positive
-mac I-ASP Positive
+Mac I-ASP Positive
 is O -999
 wonderful O -999
 , O -999
@@ -1017,23 +952,21 @@ worth O -999
 it O -999
 . O -999
 
-but O -999
+But O -999
 the O -999
 performance B-ASP Negative
 of O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 is O -999
 a O -999
 huge O -999
 disappointment O -999
 . O -999
 
-they O -999
+They O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 just O -999
 look B-ASP Positive
 good O -999
@@ -1044,11 +977,9 @@ excellent O -999
 performance B-ASP -999
 . O -999
 
-they O -999
+They O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 just O -999
 look B-ASP -999
 good O -999
@@ -1059,7 +990,7 @@ excellent O -999
 performance B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 have O -999
 had O -999
 it O -999
@@ -1070,13 +1001,13 @@ now O -999
 with O -999
 out O -999
 a O -999
-glitch O -999
+Glitch O -999
 of O -999
 any O -999
 kind O -999
 . O -999
 . O -999
-i O -999
+I O -999
 love O -999
 the O -999
 lit B-ASP Positive
@@ -1085,13 +1016,11 @@ keys I-ASP Positive
 and O -999
 screen B-ASP -999
 display I-ASP -999
-. O -999
-. O -999
-. O -999
+... O -999
 this O -999
 thing O -999
 is O -999
-fast O -999
+Fast O -999
 and O -999
 clear O -999
 as O -999
@@ -1099,7 +1028,7 @@ can O -999
 be O -999
 . O -999
 
-i O -999
+I O -999
 have O -999
 had O -999
 it O -999
@@ -1110,13 +1039,13 @@ now O -999
 with O -999
 out O -999
 a O -999
-glitch O -999
+Glitch O -999
 of O -999
 any O -999
 kind O -999
 . O -999
 . O -999
-i O -999
+I O -999
 love O -999
 the O -999
 lit B-ASP -999
@@ -1125,13 +1054,11 @@ keys I-ASP -999
 and O -999
 screen B-ASP Positive
 display I-ASP Positive
-. O -999
-. O -999
-. O -999
+... O -999
 this O -999
 thing O -999
 is O -999
-fast O -999
+Fast O -999
 and O -999
 clear O -999
 as O -999
@@ -1139,10 +1066,10 @@ can O -999
 be O -999
 . O -999
 
-the O -999
-mountain B-ASP Positive
-lion I-ASP Positive
-os I-ASP Positive
+The O -999
+Mountain B-ASP Positive
+Lion I-ASP Positive
+OS I-ASP Positive
 is O -999
 not O -999
 hard O -999
@@ -1154,14 +1081,14 @@ you O -999
 are O -999
 familiar O -999
 with O -999
-microsoft B-ASP -999
-windows I-ASP -999
+Microsoft B-ASP -999
+Windows I-ASP -999
 . O -999
 
-the O -999
-mountain B-ASP -999
-lion I-ASP -999
-os I-ASP -999
+The O -999
+Mountain B-ASP -999
+Lion I-ASP -999
+OS I-ASP -999
 is O -999
 not O -999
 hard O -999
@@ -1173,61 +1100,57 @@ you O -999
 are O -999
 familiar O -999
 with O -999
-microsoft B-ASP Neutral
-windows I-ASP Neutral
+Microsoft B-ASP Neutral
+Windows I-ASP Neutral
 . O -999
 
-however O -999
+However O -999
 , O -999
-i O -999
+I O -999
 can O -999
 refute O -999
 that O -999
-osx B-ASP Negative
+OSX B-ASP Negative
 is O -999
-` O -999
-` O -999
-fast O -999
-' O -999
-' O -999
+`` O -999
+FAST O -999
+'' O -999
 . O -999
 
-enjoy O -999
+Enjoy O -999
 using O -999
-microsoft B-ASP Positive
-office I-ASP Positive
+Microsoft B-ASP Positive
+Office I-ASP Positive
 ! O -999
 
-incredible O -999
+Incredible O -999
 graphics B-ASP Positive
 and O -999
 brilliant O -999
 colors B-ASP -999
 . O -999
 
-incredible O -999
+Incredible O -999
 graphics B-ASP -999
 and O -999
 brilliant O -999
 colors B-ASP Positive
 . O -999
 
-built B-ASP Positive
-- I-ASP Positive
-in I-ASP Positive
+Built-in B-ASP Positive
 apps I-ASP Positive
 are O -999
 purely O -999
 amazing O -999
 . O -999
 
-cons O -999
+Cons O -999
 : O -999
-screen B-ASP Negative
+Screen B-ASP Negative
 resolution I-ASP Negative
 . O -999
 
-from O -999
+From O -999
 the O -999
 speed B-ASP -999
 to O -999
@@ -1239,11 +1162,11 @@ this O -999
 operating B-ASP Positive
 system I-ASP Positive
 beats O -999
-windows B-ASP -999
+Windows B-ASP -999
 easily O -999
 . O -999
 
-from O -999
+From O -999
 the O -999
 speed B-ASP -999
 to O -999
@@ -1255,11 +1178,11 @@ this O -999
 operating B-ASP -999
 system I-ASP -999
 beats O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 easily O -999
 . O -999
 
-from O -999
+From O -999
 the O -999
 speed B-ASP Positive
 to O -999
@@ -1271,11 +1194,11 @@ this O -999
 operating B-ASP -999
 system I-ASP -999
 beats O -999
-windows B-ASP -999
+Windows B-ASP -999
 easily O -999
 . O -999
 
-from O -999
+From O -999
 the O -999
 speed B-ASP -999
 to O -999
@@ -1287,125 +1210,91 @@ this O -999
 operating B-ASP -999
 system I-ASP -999
 beats O -999
-windows B-ASP -999
+Windows B-ASP -999
 easily O -999
 . O -999
 
-i O -999
+I O -999
 really O -999
 like O -999
 the O -999
 size B-ASP Positive
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 a O -999
 fan O -999
 of O -999
 the O -999
-acers O -999
+ACERS O -999
 . O -999
 
-i O -999
+I O -999
 opted O -999
 for O -999
 the O -999
-squaretrade B-ASP Positive
-3 I-ASP Positive
-- I-ASP Positive
-year I-ASP Positive
-computer I-ASP Positive
-accidental I-ASP Positive
-protection I-ASP Positive
-warranty I-ASP Positive
-- O -999
-lrb O -999
-- O -999
+SquareTrade B-ASP Positive
+3-Year I-ASP Positive
+Computer I-ASP Positive
+Accidental I-ASP Positive
+Protection I-ASP Positive
+Warranty I-ASP Positive
+-LRB- O -999
 $ O -999
-1 O -999
-5 O -999
-0 O -999
-0 O -999
-- O -999
-2 O -999
-0 O -999
-0 O -999
-0 O -999
-- O -999
-rrb O -999
-- O -999
+1500-2000 O -999
+-RRB- O -999
 which O -999
 also O -999
 support O -999
-` O -999
-` O -999
+`` O -999
 accidents O -999
-' O -999
-' O -999
+'' O -999
 like O -999
 drops O -999
 and O -999
 spills O -999
 that O -999
 are O -999
-not O -999
+NOT O -999
 covered O -999
 by O -999
-applecare B-ASP -999
+AppleCare B-ASP -999
 . O -999
 
-i O -999
+I O -999
 opted O -999
 for O -999
 the O -999
-squaretrade B-ASP -999
-3 I-ASP -999
-- I-ASP -999
-year I-ASP -999
-computer I-ASP -999
-accidental I-ASP -999
-protection I-ASP -999
-warranty I-ASP -999
-- O -999
-lrb O -999
-- O -999
+SquareTrade B-ASP -999
+3-Year I-ASP -999
+Computer I-ASP -999
+Accidental I-ASP -999
+Protection I-ASP -999
+Warranty I-ASP -999
+-LRB- O -999
 $ O -999
-1 O -999
-5 O -999
-0 O -999
-0 O -999
-- O -999
-2 O -999
-0 O -999
-0 O -999
-0 O -999
-- O -999
-rrb O -999
-- O -999
+1500-2000 O -999
+-RRB- O -999
 which O -999
 also O -999
 support O -999
-` O -999
-` O -999
+`` O -999
 accidents O -999
-' O -999
-' O -999
+'' O -999
 like O -999
 drops O -999
 and O -999
 spills O -999
 that O -999
 are O -999
-not O -999
+NOT O -999
 covered O -999
 by O -999
-applecare B-ASP Negative
+AppleCare B-ASP Negative
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 light O -999
 and O -999
 easy O -999
@@ -1413,7 +1302,7 @@ to O -999
 transport B-ASP Positive
 . O -999
 
-once O -999
+Once O -999
 you O -999
 get O -999
 past O -999
@@ -1424,20 +1313,17 @@ use O -999
 the O -999
 poorly O -999
 designed O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
-set I-ASP Negative
-- I-ASP Negative
-up I-ASP Negative
+Set-Up I-ASP Negative
 you O -999
 may O -999
 feel O -999
 frustrated O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 been O -999
 time O -999
 for O -999
@@ -1454,7 +1340,7 @@ which O -999
 size B-ASP Neutral
 of O -999
 the O -999
-mac O -999
+Mac O -999
 laptops O -999
 , O -999
 and O -999
@@ -1467,9 +1353,8 @@ retina B-ASP -999
 display I-ASP -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 been O -999
 time O -999
 for O -999
@@ -1486,7 +1371,7 @@ which O -999
 size B-ASP -999
 of O -999
 the O -999
-mac O -999
+Mac O -999
 laptops O -999
 , O -999
 and O -999
@@ -1499,13 +1384,13 @@ retina B-ASP Neutral
 display I-ASP Neutral
 . O -999
 
-the O -999
+The O -999
 reason O -999
 why O -999
-i O -999
+I O -999
 choose O -999
 apple O -999
-macbook O -999
+MacBook O -999
 because O -999
 of O -999
 their O -999
@@ -1516,13 +1401,13 @@ aluminum B-ASP -999
 casing I-ASP -999
 . O -999
 
-the O -999
+The O -999
 reason O -999
 why O -999
-i O -999
+I O -999
 choose O -999
 apple O -999
-macbook O -999
+MacBook O -999
 because O -999
 of O -999
 their O -999
@@ -1533,7 +1418,7 @@ aluminum B-ASP Positive
 casing I-ASP Positive
 . O -999
 
-the O -999
+The O -999
 aluminum B-ASP Positive
 body I-ASP Positive
 sure O -999
@@ -1543,7 +1428,7 @@ stand O -999
 out O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 very O -999
 easy O -999
@@ -1553,7 +1438,7 @@ bluetooth I-ASP Positive
 devices I-ASP Positive
 , O -999
 and O -999
-usb B-ASP -999
+USB B-ASP -999
 devices I-ASP -999
 are O -999
 recognized O -999
@@ -1561,7 +1446,7 @@ almost O -999
 instantly O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 very O -999
 easy O -999
@@ -1571,7 +1456,7 @@ bluetooth I-ASP -999
 devices I-ASP -999
 , O -999
 and O -999
-usb B-ASP Positive
+USB B-ASP Positive
 devices I-ASP Positive
 are O -999
 recognized O -999
@@ -1579,58 +1464,46 @@ almost O -999
 instantly O -999
 . O -999
 
-and O -999
+And O -999
 the O -999
 fact O -999
 that O -999
-apple O -999
+Apple O -999
 is O -999
 driving O -999
 the O -999
-1 O -999
-3 O -999
-' O -999
-' O -999
-rmbp O -999
+13 O -999
+'' O -999
+RMBP O -999
 with O -999
 the O -999
-intel B-ASP Negative
-4 I-ASP Negative
-0 I-ASP Negative
-0 I-ASP Negative
-0 I-ASP Negative
+Intel4000 B-ASP Negative
 graphic I-ASP Negative
 chip I-ASP Negative
 seems O -999
 underpowered O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 to O -999
 me O -999
 . O -999
 
-apple O -999
+Apple O -999
 removed O -999
 the O -999
-dvd B-ASP Neutral
+DVD B-ASP Neutral
 drive I-ASP Neutral
-firewire I-ASP Neutral
+Firewire I-ASP Neutral
 port I-ASP Neutral
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 will O -999
 work O -999
 with O -999
 adapter B-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 put O -999
 the O -999
-sdxc B-ASP -999
+SDXC B-ASP -999
 slot I-ASP -999
 in O -999
 a O -999
@@ -1641,27 +1514,23 @@ the O -999
 back O -999
 . O -999
 
-apple O -999
+Apple O -999
 removed O -999
 the O -999
-dvd B-ASP -999
+DVD B-ASP -999
 drive I-ASP -999
-firewire I-ASP -999
+Firewire I-ASP -999
 port I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 will O -999
 work O -999
 with O -999
 adapter B-ASP Neutral
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 put O -999
 the O -999
-sdxc B-ASP -999
+SDXC B-ASP -999
 slot I-ASP -999
 in O -999
 a O -999
@@ -1672,27 +1541,23 @@ the O -999
 back O -999
 . O -999
 
-apple O -999
+Apple O -999
 removed O -999
 the O -999
-dvd B-ASP -999
+DVD B-ASP -999
 drive I-ASP -999
-firewire I-ASP -999
+Firewire I-ASP -999
 port I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 will O -999
 work O -999
 with O -999
 adapter B-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 put O -999
 the O -999
-sdxc B-ASP Negative
+SDXC B-ASP Negative
 slot I-ASP Negative
 in O -999
 a O -999
@@ -1703,7 +1568,7 @@ the O -999
 back O -999
 . O -999
 
-the O -999
+The O -999
 durability B-ASP Positive
 of O -999
 the O -999
@@ -1716,14 +1581,14 @@ the O -999
 money O -999
 . O -999
 
-well O -999
+Well O -999
 designed B-ASP Positive
 and O -999
 fast O -999
 . O -999
 
-but O -999
-i O -999
+But O -999
+I O -999
 was O -999
 completely O -999
 wrong O -999
@@ -1731,7 +1596,7 @@ wrong O -999
 this O -999
 computer O -999
 is O -999
-unbelievable O -999
+UNBELIEVABLE O -999
 amazing O -999
 and O -999
 easy O -999
@@ -1739,7 +1604,7 @@ to O -999
 use B-ASP Positive
 . O -999
 
-exactly O -999
+Exactly O -999
 as O -999
 posted O -999
 plus O -999
@@ -1748,7 +1613,7 @@ great O -999
 value B-ASP Positive
 . O -999
 
-the O -999
+The O -999
 specs B-ASP Positive
 are O -999
 pretty O -999
@@ -1756,7 +1621,7 @@ good O -999
 too O -999
 . O -999
 
-apple O -999
+Apple O -999
 is O -999
 unmatched O -999
 in O -999
@@ -1772,7 +1637,7 @@ customer B-ASP -999
 service I-ASP -999
 . O -999
 
-apple O -999
+Apple O -999
 is O -999
 unmatched O -999
 in O -999
@@ -1788,7 +1653,7 @@ customer B-ASP -999
 service I-ASP -999
 . O -999
 
-apple O -999
+Apple O -999
 is O -999
 unmatched O -999
 in O -999
@@ -1804,7 +1669,7 @@ customer B-ASP -999
 service I-ASP -999
 . O -999
 
-apple O -999
+Apple O -999
 is O -999
 unmatched O -999
 in O -999
@@ -1820,7 +1685,7 @@ customer B-ASP Positive
 service I-ASP Positive
 . O -999
 
-it O -999
+It O -999
 is O -999
 a O -999
 great O -999
@@ -1832,7 +1697,7 @@ windows B-ASP -999
 included O -999
 ! O -999
 
-it O -999
+It O -999
 is O -999
 a O -999
 great O -999
@@ -1844,17 +1709,17 @@ windows B-ASP Positive
 included O -999
 ! O -999
 
-i O -999
+I O -999
 do O -999
 not O -999
 like O -999
 too O -999
 much O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
 . O -999
 
-startup B-ASP Negative
+Startup B-ASP Negative
 times I-ASP Negative
 are O -999
 incredibly O -999
@@ -1865,7 +1730,7 @@ two O -999
 minutes O -999
 . O -999
 
-also O -999
+Also O -999
 stunning O -999
 colors B-ASP Positive
 and O -999
@@ -1881,8 +1746,7 @@ can O -999
 i O -999
 ask O -999
 for O -999
-! O -999
-! O -999
+!! O -999
 
 great O -999
 price B-ASP -999
@@ -1894,16 +1758,15 @@ can O -999
 i O -999
 ask O -999
 for O -999
-! O -999
-! O -999
+!! O -999
 
-this O -999
+This O -999
 mouse B-ASP Positive
 is O -999
 terrific O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 really O -999
 thick O -999
@@ -1912,7 +1775,7 @@ the O -999
 battery B-ASP Neutral
 . O -999
 
-and O -999
+And O -999
 windows B-ASP Positive
 7 I-ASP Positive
 works O -999
@@ -1921,11 +1784,8 @@ a O -999
 charm O -999
 . O -999
 
-: O -999
-- O -999
-rrb O -999
-- O -999
-great O -999
+:-RRB- O -999
+Great O -999
 product O -999
 , O -999
 great O -999
@@ -1939,11 +1799,8 @@ great O -999
 service B-ASP -999
 . O -999
 
-: O -999
-- O -999
-rrb O -999
-- O -999
-great O -999
+:-RRB- O -999
+Great O -999
 product O -999
 , O -999
 great O -999
@@ -1957,11 +1814,8 @@ great O -999
 service B-ASP -999
 . O -999
 
-: O -999
-- O -999
-rrb O -999
-- O -999
-great O -999
+:-RRB- O -999
+Great O -999
 product O -999
 , O -999
 great O -999
@@ -1975,9 +1829,8 @@ great O -999
 service B-ASP Positive
 . O -999
 
-: O -999
-] O -999
-it O -999
+:] O -999
+It O -999
 arrived O -999
 so O -999
 fast O -999
@@ -1994,27 +1847,24 @@ windows B-ASP Negative
 and O -999
 hated O -999
 it O -999
-! O -999
-! O -999
-! O -999
+!!! O -999
 
-set B-ASP Positive
+Set B-ASP Positive
 up I-ASP Positive
 was O -999
 a O -999
 breeze O -999
 . O -999
 
-but O -999
-i O -999
+But O -999
+I O -999
 do O -999
-not O -999
+NOT O -999
 like O -999
-win B-ASP Negative
-8 I-ASP Negative
+Win8 B-ASP Negative
 . O -999
 
-i O -999
+I O -999
 am O -999
 still O -999
 in O -999
@@ -2027,14 +1877,14 @@ its O -999
 features B-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 had O -999
 the O -999
 same O -999
 reasons O -999
 as O -999
 most O -999
-pc O -999
+PC O -999
 users O -999
 : O -999
 the O -999
@@ -2044,7 +1894,7 @@ the O -999
 overbearing O -999
 restrictions O -999
 of O -999
-osx B-ASP -999
+OSX B-ASP -999
 and O -999
 lack O -999
 of O -999
@@ -2053,14 +1903,14 @@ for I-ASP -999
 games I-ASP -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 the O -999
 same O -999
 reasons O -999
 as O -999
 most O -999
-pc O -999
+PC O -999
 users O -999
 : O -999
 the O -999
@@ -2070,7 +1920,7 @@ the O -999
 overbearing O -999
 restrictions O -999
 of O -999
-osx B-ASP Negative
+OSX B-ASP Negative
 and O -999
 lack O -999
 of O -999
@@ -2079,14 +1929,14 @@ for I-ASP -999
 games I-ASP -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 the O -999
 same O -999
 reasons O -999
 as O -999
 most O -999
-pc O -999
+PC O -999
 users O -999
 : O -999
 the O -999
@@ -2096,7 +1946,7 @@ the O -999
 overbearing O -999
 restrictions O -999
 of O -999
-osx B-ASP -999
+OSX B-ASP -999
 and O -999
 lack O -999
 of O -999
@@ -2105,13 +1955,12 @@ for I-ASP Negative
 games I-ASP Negative
 . O -999
 
-i O -999
+I O -999
 wanted O -999
 it O -999
 for O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 mobility B-ASP Positive
 and O -999
 man O -999
@@ -2125,42 +1974,39 @@ very O -999
 nice O -999
 . O -999
 
-i O -999
+I O -999
 found O -999
 the O -999
 mini O -999
 to O -999
 be O -999
 : O -999
-exceptionally O -999
+Exceptionally O -999
 easy O -999
 to O -999
 set B-ASP Positive
 up I-ASP Positive
 
-having O -999
-usb B-ASP Positive
-3 I-ASP Positive
+Having O -999
+USB3 B-ASP Positive
 is O -999
 why O -999
-i O -999
+I O -999
 bought O -999
 this O -999
-mini O -999
+Mini O -999
 . O -999
 
-the O -999
+The O -999
 sound B-ASP Positive
 is O -999
 nice O -999
 and O -999
 loud O -999
 ; O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 any O -999
 problems O -999
@@ -2169,7 +2015,7 @@ hearing O -999
 anything O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 very O -999
 slim O -999
@@ -2185,23 +2031,21 @@ with O -999
 me O -999
 . O -999
 
-the O -999
+The O -999
 settings B-ASP Negative
 are O -999
 not O -999
-user O -999
-- O -999
-friendly O -999
+user-friendly O -999
 either O -999
 . O -999
 
-thank O -999
+Thank O -999
 goodness O -999
 for O -999
-openoffice B-ASP Positive
+OpenOffice B-ASP Positive
 ! O -999
 
-awesome O -999
+Awesome O -999
 form B-ASP Positive
 factor I-ASP Positive
 , O -999
@@ -2210,10 +2054,10 @@ battery B-ASP -999
 life I-ASP -999
 , O -999
 wonderful O -999
-ux B-ASP -999
+UX B-ASP -999
 . O -999
 
-awesome O -999
+Awesome O -999
 form B-ASP -999
 factor I-ASP -999
 , O -999
@@ -2222,10 +2066,10 @@ battery B-ASP Positive
 life I-ASP Positive
 , O -999
 wonderful O -999
-ux B-ASP -999
+UX B-ASP -999
 . O -999
 
-awesome O -999
+Awesome O -999
 form B-ASP -999
 factor I-ASP -999
 , O -999
@@ -2234,7 +2078,7 @@ battery B-ASP -999
 life I-ASP -999
 , O -999
 wonderful O -999
-ux B-ASP Positive
+UX B-ASP Positive
 . O -999
 
 i O -999
@@ -2255,11 +2099,11 @@ the O -999
 screen B-ASP Positive
 . O -999
 
-however O -999
+However O -999
 , O -999
 there O -999
 are O -999
-major O -999
+MAJOR O -999
 issues O -999
 with O -999
 the O -999
@@ -2272,15 +2116,14 @@ nearly O -999
 useless O -999
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 already O -999
 upgraded O -999
 o O -999
-mavericks B-ASP Positive
+Mavericks B-ASP Positive
 and O -999
-i O -999
+I O -999
 am O -999
 impressed O -999
 with O -999
@@ -2290,18 +2133,17 @@ this O -999
 computer O -999
 . O -999
 
-not O -999
+Not O -999
 as O -999
 fast O -999
 as O -999
-i O -999
+I O -999
 would O -999
 have O -999
 expect O -999
 for O -999
 an O -999
-i B-ASP Negative
-5 I-ASP Negative
+i5 B-ASP Negative
 . O -999
 
 thanks O -999
@@ -2320,19 +2162,17 @@ and O -999
 shipping B-ASP Positive
 ! O -999
 
-the O -999
+The O -999
 performance B-ASP Positive
 seems O -999
 quite O -999
 good O -999
 , O -999
 and O -999
-built B-ASP -999
-- I-ASP -999
-in I-ASP -999
+built-in B-ASP -999
 applications I-ASP -999
 like O -999
-iphoto B-ASP -999
+iPhoto B-ASP -999
 work O -999
 great O -999
 with O -999
@@ -2342,19 +2182,17 @@ and O -999
 camera O -999
 . O -999
 
-the O -999
+The O -999
 performance B-ASP -999
 seems O -999
 quite O -999
 good O -999
 , O -999
 and O -999
-built B-ASP Positive
-- I-ASP Positive
-in I-ASP Positive
+built-in B-ASP Positive
 applications I-ASP Positive
 like O -999
-iphoto B-ASP -999
+iPhoto B-ASP -999
 work O -999
 great O -999
 with O -999
@@ -2364,19 +2202,17 @@ and O -999
 camera O -999
 . O -999
 
-the O -999
+The O -999
 performance B-ASP -999
 seems O -999
 quite O -999
 good O -999
 , O -999
 and O -999
-built B-ASP -999
-- I-ASP -999
-in I-ASP -999
+built-in B-ASP -999
 applications I-ASP -999
 like O -999
-iphoto B-ASP Positive
+iPhoto B-ASP Positive
 work O -999
 great O -999
 with O -999
@@ -2386,7 +2222,7 @@ and O -999
 camera O -999
 . O -999
 
-i O -999
+I O -999
 did O -999
 swap O -999
 out O -999
@@ -2395,38 +2231,34 @@ hard B-ASP Neutral
 drive I-ASP Neutral
 for O -999
 a O -999
-samsung O -999
-8 O -999
-3 O -999
-0 O -999
-ssd O -999
+Samsung B-ASP -999
+830 I-ASP -999
+SSD I-ASP -999
 which O -999
-i O -999
+I O -999
 highly O -999
 recommend O -999
 . O -999
 
-i O -999
+I O -999
 did O -999
 swap O -999
 out O -999
 the O -999
-hard O -999
-drive O -999
+hard B-ASP -999
+drive I-ASP -999
 for O -999
 a O -999
-samsung B-ASP Positive
-8 I-ASP Positive
-3 I-ASP Positive
-0 I-ASP Positive
-ssd I-ASP Positive
+Samsung B-ASP Positive
+830 I-ASP Positive
+SSD I-ASP Positive
 which O -999
-i O -999
+I O -999
 highly O -999
 recommend O -999
 . O -999
 
-starts B-ASP Positive
+Starts B-ASP Positive
 up I-ASP Positive
 in O -999
 a O -999
@@ -2439,19 +2271,17 @@ to O -999
 go O -999
 . O -999
 
-yes O -999
+Yes O -999
 , O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 a O -999
 good O -999
 thing O -999
 , O -999
 but O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 made O -999
 from O -999
 aluminum B-ASP Negative
@@ -2460,7 +2290,7 @@ scratches O -999
 easily O -999
 . O -999
 
-quick O -999
+Quick O -999
 and O -999
 has O -999
 built B-ASP Positive
@@ -2469,7 +2299,7 @@ virus I-ASP Positive
 control I-ASP Positive
 . O -999
 
-took O -999
+Took O -999
 a O -999
 long O -999
 time O -999
@@ -2486,7 +2316,7 @@ one O -999
 without O -999
 . O -999
 
-i O -999
+I O -999
 was O -999
 also O -999
 informed O -999
@@ -2495,8 +2325,8 @@ the O -999
 components B-ASP Negative
 of O -999
 the O -999
-mac O -999
-book O -999
+Mac O -999
+Book O -999
 were O -999
 dirty O -999
 . O -999
@@ -2511,9 +2341,7 @@ bad O -999
 , O -999
 i O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 wait O -999
 till O -999
 it O -999
@@ -2523,12 +2351,11 @@ in O -999
 3 O -999
 years O -999
 , O -999
-tops O -999
+TOPS O -999
 ! O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 so O -999
 nice O -999
 that O -999
@@ -2547,9 +2374,8 @@ snow B-ASP -999
 lion I-ASP -999
 ! O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 so O -999
 nice O -999
 that O -999
@@ -2568,8 +2394,8 @@ snow B-ASP Positive
 lion I-ASP Positive
 ! O -999
 
-however O -999
-i O -999
+HOWEVER O -999
+I O -999
 chose O -999
 two O -999
 day O -999
@@ -2585,8 +2411,7 @@ arrive O -999
 . O -999
 
 it O -999
-' O -999
-s O -999
+'s O -999
 exactly O -999
 what O -999
 i O -999
@@ -2603,7 +2428,7 @@ and O -999
 whatnot O -999
 . O -999
 
-can O -999
+Can O -999
 you O -999
 buy O -999
 any O -999
@@ -2614,10 +2439,10 @@ the O -999
 quality B-ASP Positive
 of O -999
 a O -999
-macbook O -999
+MacBook O -999
 ? O -999
 
-it O -999
+It O -999
 feels O -999
 cheap O -999
 , O -999
@@ -2629,7 +2454,7 @@ very O -999
 sensitive O -999
 . O -999
 
-though O -999
+Though O -999
 please O -999
 note O -999
 that O -999
@@ -2645,7 +2470,7 @@ isnt O -999
 superb O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 very O -999
 easy O -999
@@ -2657,9 +2482,9 @@ a O -999
 novice O -999
 . O -999
 
-does O -999
+Does O -999
 everything O -999
-i O -999
+I O -999
 need O -999
 it O -999
 to O -999
@@ -2670,88 +2495,86 @@ wonderful O -999
 battery B-ASP Positive
 life I-ASP Positive
 and O -999
-i O -999
+I O -999
 could O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 be O -999
 happier O -999
 . O -999
 
-great O -999
-performance B-ASP Positive
+Great O -999
+Performance B-ASP Positive
 and O -999
-quality B-ASP -999
+Quality B-ASP -999
 . O -999
 
-great O -999
-performance B-ASP -999
+Great O -999
+Performance B-ASP -999
 and O -999
-quality B-ASP Positive
+Quality B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 used O -999
 windows B-ASP Neutral
-xp I-ASP Neutral
+XP I-ASP Neutral
 , O -999
 windows B-ASP -999
-vista I-ASP -999
+Vista I-ASP -999
 , O -999
 and O -999
-windows B-ASP -999
+Windows B-ASP -999
 7 I-ASP -999
 extensively O -999
 . O -999
 
-i O -999
+I O -999
 used O -999
 windows B-ASP -999
-xp I-ASP -999
+XP I-ASP -999
 , O -999
 windows B-ASP Neutral
-vista I-ASP Neutral
+Vista I-ASP Neutral
 , O -999
 and O -999
-windows B-ASP -999
+Windows B-ASP -999
 7 I-ASP -999
 extensively O -999
 . O -999
 
-i O -999
+I O -999
 used O -999
 windows B-ASP -999
-xp I-ASP -999
+XP I-ASP -999
 , O -999
 windows B-ASP -999
-vista I-ASP -999
+Vista I-ASP -999
 , O -999
 and O -999
-windows B-ASP Neutral
+Windows B-ASP Neutral
 7 I-ASP Neutral
 extensively O -999
 . O -999
 
-i O -999
+I O -999
 did O -999
 add O -999
 a O -999
-ssd B-ASP Neutral
+SSD B-ASP Neutral
 drive I-ASP Neutral
 and O -999
 memory O -999
 
-i O -999
+I O -999
 did O -999
 add O -999
 a O -999
-ssd O -999
+SSD O -999
 drive O -999
 and O -999
 memory B-ASP Neutral
 
-on O -999
+On O -999
 start B-ASP Negative
 up I-ASP Negative
 it O -999
@@ -2770,7 +2593,7 @@ their O -999
 products O -999
 . O -999
 
-on O -999
+On O -999
 start B-ASP -999
 up I-ASP -999
 it O -999
@@ -2789,11 +2612,11 @@ their O -999
 products O -999
 . O -999
 
-i O -999
-have O -999
+I O -999
+Have O -999
 been O -999
 a O -999
-pc O -999
+Pc O -999
 user O -999
 for O -999
 a O -999
@@ -2802,30 +2625,30 @@ long O -999
 time O -999
 now O -999
 but O -999
-i O -999
+I O -999
 will O -999
 get O -999
 used O -999
 to O -999
 this O -999
 new O -999
-os B-ASP Neutral
+OS B-ASP Neutral
 . O -999
 
-one O -999
+One O -999
 more O -999
 thing O -999
 , O -999
 this O -999
 mac O -999
 does O -999
-not O -999
+NOT O -999
 come O -999
 with O -999
 restore B-ASP Negative
 disks I-ASP Negative
 and O -999
-i O -999
+I O -999
 am O -999
 not O -999
 sure O -999
@@ -2843,9 +2666,8 @@ you O -999
 can O -999
 with O -999
 newer O -999
-pc O -999
-' O -999
-s O -999
+PC O -999
+'s O -999
 , O -999
 also O -999
 the O -999
@@ -2860,27 +2682,25 @@ cheap O -999
 material B-ASP -999
 as O -999
 the O -999
-iphone O -999
-/ O -999
-ipod O -999
+iPhone/iPod O -999
 touch O -999
 cables O -999
 . O -999
 
-one O -999
+One O -999
 more O -999
 thing O -999
 , O -999
 this O -999
 mac O -999
 does O -999
-not O -999
+NOT O -999
 come O -999
 with O -999
 restore B-ASP -999
 disks I-ASP -999
 and O -999
-i O -999
+I O -999
 am O -999
 not O -999
 sure O -999
@@ -2898,9 +2718,8 @@ you O -999
 can O -999
 with O -999
 newer O -999
-pc O -999
-' O -999
-s O -999
+PC O -999
+'s O -999
 , O -999
 also O -999
 the O -999
@@ -2915,27 +2734,25 @@ cheap O -999
 material B-ASP -999
 as O -999
 the O -999
-iphone O -999
-/ O -999
-ipod O -999
+iPhone/iPod O -999
 touch O -999
 cables O -999
 . O -999
 
-one O -999
+One O -999
 more O -999
 thing O -999
 , O -999
 this O -999
 mac O -999
 does O -999
-not O -999
+NOT O -999
 come O -999
 with O -999
 restore B-ASP -999
 disks I-ASP -999
 and O -999
-i O -999
+I O -999
 am O -999
 not O -999
 sure O -999
@@ -2953,9 +2770,8 @@ you O -999
 can O -999
 with O -999
 newer O -999
-pc O -999
-' O -999
-s O -999
+PC O -999
+'s O -999
 , O -999
 also O -999
 the O -999
@@ -2970,14 +2786,12 @@ cheap O -999
 material B-ASP Negative
 as O -999
 the O -999
-iphone O -999
-/ O -999
-ipod O -999
+iPhone/iPod O -999
 touch O -999
 cables O -999
 . O -999
 
-i O -999
+I O -999
 bought O -999
 it O -999
 to O -999
@@ -2991,7 +2805,7 @@ graphic B-ASP Neutral
 design I-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 never O -999
 tried O -999
 any O -999
@@ -2999,10 +2813,10 @@ external B-ASP Neutral
 mics I-ASP Neutral
 with O -999
 that O -999
-imac O -999
+iMac O -999
 . O -999
 
-the O -999
+The O -999
 new O -999
 os B-ASP Positive
 is O -999
@@ -3013,7 +2827,7 @@ macbook O -999
 pro O -999
 ! O -999
 
-i O -999
+I O -999
 have O -999
 experienced O -999
 no O -999
@@ -3024,13 +2838,13 @@ as O -999
 anticipated O -999
 . O -999
 
-system B-ASP Positive
+System B-ASP Positive
 is O -999
 running O -999
 great O -999
 . O -999
 
-easy O -999
+Easy O -999
 to O -999
 customize B-ASP Positive
 setting I-ASP Positive
@@ -3042,7 +2856,7 @@ own O -999
 bookmarks O -999
 . O -999
 
-easy O -999
+Easy O -999
 to O -999
 customize O -999
 setting O -999
@@ -3054,9 +2868,9 @@ own I-ASP Positive
 bookmarks I-ASP Positive
 . O -999
 
-the O -999
-mac O -999
-mini O -999
+The O -999
+MAC O -999
+Mini O -999
 , O -999
 wireless B-ASP Neutral
 keyboard I-ASP Neutral
@@ -3064,11 +2878,11 @@ keyboard I-ASP Neutral
 mouse I-ASP Neutral
 and O -999
 a O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 cable I-ASP -999
 is O -999
 all O -999
-i O -999
+I O -999
 need O -999
 to O -999
 get O -999
@@ -3078,9 +2892,9 @@ work O -999
 done O -999
 . O -999
 
-the O -999
-mac O -999
-mini O -999
+The O -999
+MAC O -999
+Mini O -999
 , O -999
 wireless B-ASP -999
 keyboard I-ASP -999
@@ -3088,11 +2902,11 @@ keyboard I-ASP -999
 mouse I-ASP -999
 and O -999
 a O -999
-hdmi B-ASP Neutral
+HDMI B-ASP Neutral
 cable I-ASP Neutral
 is O -999
 all O -999
-i O -999
+I O -999
 need O -999
 to O -999
 get O -999
@@ -3162,7 +2976,7 @@ so O -999
 far O -999
 . O -999
 
-i O -999
+I O -999
 work O -999
 as O -999
 a O -999
@@ -3170,7 +2984,7 @@ designer O -999
 and O -999
 coder O -999
 and O -999
-i O -999
+I O -999
 needed O -999
 a O -999
 new O -999
@@ -3183,7 +2997,7 @@ not O -999
 gaming B-ASP Neutral
 . O -999
 
-the O -999
+The O -999
 new O -999
 operating B-ASP Positive
 system I-ASP Positive
@@ -3193,10 +3007,10 @@ computer O -999
 into O -999
 a O -999
 super O -999
-ipad O -999
+iPad O -999
 . O -999
 
-easy O -999
+Easy O -999
 to O -999
 set B-ASP Positive
 up I-ASP Positive
@@ -3204,11 +3018,9 @@ and O -999
 go O -999
 ! O -999
 
-i O -999
+I O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 believe O -999
 how O -999
 quiet O -999
@@ -3225,11 +3037,9 @@ boots B-ASP -999
 up I-ASP -999
 . O -999
 
-i O -999
+I O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 believe O -999
 how O -999
 quiet O -999
@@ -3246,12 +3056,12 @@ boots B-ASP Positive
 up I-ASP Positive
 . O -999
 
-the O -999
+The O -999
 only O -999
 issue O -999
 came O -999
 when O -999
-i O -999
+I O -999
 tried O -999
 scanning B-ASP Negative
 to O -999
@@ -3259,7 +3069,7 @@ the O -999
 mac O -999
 . O -999
 
-i O -999
+I O -999
 think O -999
 this O -999
 is O -999
@@ -3278,9 +3088,8 @@ price B-ASP Neutral
 point I-ASP Neutral
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 just O -999
 what O -999
 we O -999
@@ -3293,9 +3102,8 @@ works B-ASP Positive
 great O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 so O -999
 quick O -999
 and O -999
@@ -3315,9 +3123,8 @@ more O -999
 pleasurable O -999
 ! O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 so O -999
 quick O -999
 and O -999
@@ -3337,7 +3144,7 @@ more O -999
 pleasurable O -999
 ! O -999
 
-it O -999
+It O -999
 works B-ASP Positive
 fine O -999
 , O -999
@@ -3352,7 +3159,7 @@ pretty O -999
 well O -999
 . O -999
 
-it O -999
+It O -999
 works B-ASP -999
 fine O -999
 , O -999
@@ -3367,9 +3174,8 @@ pretty O -999
 well O -999
 . O -999
 
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 using O -999
 this O -999
 computer O -999
@@ -3384,16 +3190,14 @@ some O -999
 gaming B-ASP -999
 , O -999
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 learning O -999
 programming B-ASP -999
 . O -999
 
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 using O -999
 this O -999
 computer O -999
@@ -3408,16 +3212,14 @@ some O -999
 gaming B-ASP -999
 , O -999
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 learning O -999
 programming B-ASP -999
 . O -999
 
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 using O -999
 this O -999
 computer O -999
@@ -3432,16 +3234,14 @@ some O -999
 gaming B-ASP Neutral
 , O -999
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 learning O -999
 programming B-ASP -999
 . O -999
 
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 using O -999
 this O -999
 computer O -999
@@ -3456,14 +3256,13 @@ some O -999
 gaming B-ASP -999
 , O -999
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 learning O -999
 programming B-ASP Neutral
 . O -999
 
-my O -999
+My O -999
 wife O -999
 was O -999
 so O -999
@@ -3488,7 +3287,7 @@ it O -999
 should O -999
 . O -999
 
-i O -999
+I O -999
 wanted O -999
 a O -999
 computer O -999
@@ -3506,24 +3305,22 @@ great O -999
 performance B-ASP Neutral
 . O -999
 
-apple B-ASP Negative
-" I-ASP Negative
-help I-ASP Negative
-" I-ASP Negative
+Apple B-ASP Negative
+"Help" I-ASP Negative
 is O -999
 a O -999
 mixed O -999
 bag O -999
 . O -999
 
-it O -999
+It O -999
 suddenly O -999
 can O -999
 not O -999
 work B-ASP Negative
 . O -999
 
-harddrive B-ASP Negative
+Harddrive B-ASP Negative
 was O -999
 in O -999
 poor O -999
@@ -3535,10 +3332,8 @@ replace O -999
 it O -999
 . O -999
 
-the O -999
-on B-ASP Negative
-/ I-ASP Negative
-off I-ASP Negative
+The O -999
+on/off B-ASP Negative
 switch I-ASP Negative
 is O -999
 a O -999
@@ -3550,7 +3345,7 @@ rear O -999
 corner O -999
 . O -999
 
-my O -999
+My O -999
 only O -999
 complaint O -999
 is O -999
@@ -3567,7 +3362,7 @@ mac O -999
 mini O -999
 . O -999
 
-the O -999
+The O -999
 only O -999
 task O -999
 that O -999
@@ -3586,11 +3381,8 @@ gaming B-ASP Negative
 otherwise O -999
 the O -999
 integrated O -999
-intel O -999
-4 O -999
-0 O -999
-0 O -999
-0 O -999
+Intel O -999
+4000 O -999
 graphics O -999
 work O -999
 well O -999
@@ -3599,110 +3391,94 @@ other O -999
 tasks O -999
 . O -999
 
-i O -999
+I O -999
 use O -999
 it O -999
 mostly O -999
 for O -999
 content B-ASP Positive
 creation I-ASP Positive
-- O -999
-lrb O -999
-- O -999
-audio B-ASP -999
+-LRB- O -999
+Audio B-ASP -999
 , O -999
 video B-ASP -999
 , O -999
 photo B-ASP -999
 editing I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 its O -999
 reliable O -999
 . O -999
 
-i O -999
+I O -999
 use O -999
 it O -999
 mostly O -999
 for O -999
 content B-ASP -999
 creation I-ASP -999
-- O -999
-lrb O -999
-- O -999
-audio B-ASP Positive
+-LRB- O -999
+Audio B-ASP Positive
 , O -999
 video B-ASP -999
 , O -999
 photo B-ASP -999
 editing I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 its O -999
 reliable O -999
 . O -999
 
-i O -999
+I O -999
 use O -999
 it O -999
 mostly O -999
 for O -999
 content B-ASP -999
 creation I-ASP -999
-- O -999
-lrb O -999
-- O -999
-audio B-ASP -999
+-LRB- O -999
+Audio B-ASP -999
 , O -999
 video B-ASP Positive
 , O -999
 photo B-ASP -999
 editing I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 its O -999
 reliable O -999
 . O -999
 
-i O -999
+I O -999
 use O -999
 it O -999
 mostly O -999
 for O -999
 content B-ASP -999
 creation I-ASP -999
-- O -999
-lrb O -999
-- O -999
-audio B-ASP -999
+-LRB- O -999
+Audio B-ASP -999
 , O -999
 video B-ASP -999
 , O -999
 photo B-ASP Positive
 editing I-ASP Positive
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 and O -999
 its O -999
 reliable O -999
 . O -999
 
-screen B-ASP Positive
+Screen B-ASP Positive
 is O -999
 bright O -999
 and O -999
 gorgeous O -999
 . O -999
 
-the O -999
+The O -999
 only O -999
 solution O -999
 is O -999
@@ -3712,24 +3488,21 @@ the O -999
 brightness B-ASP Neutral
 down O -999
 , O -999
-etc O -999
-. O -999
+etc. O -999
 . O -999
 
-if O -999
+If O -999
 you O -999
 want O -999
 more O -999
 information O -999
 on O -999
 macs O -999
-i O -999
+I O -999
 suggest O -999
 going O -999
 to O -999
-apple O -999
-. O -999
-com O -999
+apple.com O -999
 and O -999
 heading O -999
 towards O -999
@@ -3744,7 +3517,7 @@ the O -999
 applications B-ASP Neutral
 . O -999
 
-it O -999
+It O -999
 is O -999
 robust O -999
 , O -999
@@ -3754,11 +3527,11 @@ friendly O -999
 use B-ASP Positive
 as O -999
 all O -999
-apple O -999
+Apple O -999
 products O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 fast O -999
 and O -999
@@ -3767,7 +3540,7 @@ to O -999
 use B-ASP Positive
 . O -999
 
-and O -999
+And O -999
 the O -999
 fact O -999
 that O -999
@@ -3775,18 +3548,17 @@ it O -999
 comes O -999
 with O -999
 an O -999
-i B-ASP Positive
-5 I-ASP Positive
+i5 B-ASP Positive
 processor I-ASP Positive
 definitely O -999
 speeds O -999
 things O -999
 up O -999
 
-i O -999
+I O -999
 have O -999
 been O -999
-pc O -999
+PC O -999
 for O -999
 years O -999
 but O -999
@@ -3804,7 +3576,7 @@ a O -999
 great O -999
 help O -999
 
-nice O -999
+Nice O -999
 screen B-ASP Positive
 , O -999
 keyboard B-ASP -999
@@ -3812,7 +3584,7 @@ works O -999
 great O -999
 ! O -999
 
-nice O -999
+Nice O -999
 screen B-ASP -999
 , O -999
 keyboard B-ASP Positive
@@ -3820,7 +3592,7 @@ works O -999
 great O -999
 ! O -999
 
-i O -999
+I O -999
 was O -999
 amazed O -999
 at O -999
@@ -3831,37 +3603,31 @@ delivery B-ASP Positive
 was O -999
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 installed O -999
 to O -999
 it O -999
 additional O -999
-ssd B-ASP Neutral
+SSD B-ASP Neutral
 and O -999
-1 O -999
-6 O -999
-gb O -999
-ram O -999
+16Gb B-ASP -999
+RAM I-ASP -999
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 installed O -999
 to O -999
 it O -999
 additional O -999
-ssd O -999
+SSD B-ASP -999
 and O -999
-1 B-ASP Neutral
-6 I-ASP Neutral
-gb I-ASP Neutral
-ram I-ASP Neutral
+16Gb B-ASP Neutral
+RAM I-ASP Neutral
 . O -999
 
-the O -999
+The O -999
 memory B-ASP Negative
 was O -999
 gone O -999
@@ -3875,20 +3641,20 @@ be O -999
 used O -999
 . O -999
 
-it O -999
+It O -999
 works B-ASP Positive
 great O -999
 and O -999
-i O -999
+I O -999
 am O -999
 so O -999
 happy O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 design B-ASP Positive
@@ -3905,7 +3671,7 @@ of O -999
 ports B-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 design B-ASP -999
@@ -3922,7 +3688,7 @@ of O -999
 ports B-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 design B-ASP -999
@@ -3952,27 +3718,27 @@ was O -999
 great O -999
 . O -999
 
-web B-ASP Positive
+Web B-ASP Positive
 browsing I-ASP Positive
 is O -999
 very O -999
 quick O -999
 with O -999
-safari O -999
+Safari O -999
 browser O -999
 . O -999
 
-web O -999
+Web O -999
 browsing O -999
 is O -999
 very O -999
 quick O -999
 with O -999
-safari B-ASP Positive
+Safari B-ASP Positive
 browser I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 lighted B-ASP Positive
@@ -3981,7 +3747,7 @@ at O -999
 night O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 really O -999
 easy O -999
@@ -3996,7 +3762,7 @@ start B-ASP -999
 up I-ASP -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 really O -999
 easy O -999
@@ -4011,9 +3777,8 @@ start B-ASP Positive
 up I-ASP Positive
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 lived O -999
 with O -999
 the O -999
@@ -4025,38 +3790,36 @@ and O -999
 restarts O -999
 . O -999
 
-usb B-ASP Positive
-3 I-ASP Positive
-peripherals I-ASP Positive
+USB3 B-ASP Positive
+Peripherals I-ASP Positive
 are O -999
 noticably O -999
 less O -999
 expensive O -999
 than O -999
 the O -999
-thunderbolt B-ASP -999
+ThunderBolt B-ASP -999
 ones O -999
 . O -999
 
-usb B-ASP -999
-3 I-ASP -999
-peripherals I-ASP -999
+USB3 B-ASP -999
+Peripherals I-ASP -999
 are O -999
 noticably O -999
 less O -999
 expensive O -999
 than O -999
 the O -999
-thunderbolt B-ASP Negative
+ThunderBolt B-ASP Negative
 ones O -999
 . O -999
 
-and O -999
+And O -999
 mine O -999
 had O -999
 broke O -999
 but O -999
-i O -999
+I O -999
 sent O -999
 it O -999
 in O -999
@@ -4067,9 +3830,8 @@ no O -999
 problems O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 fast O -999
 , O -999
 light O -999
@@ -4085,7 +3847,7 @@ which O -999
 is O -999
 mostly O -999
 why O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 in O -999
@@ -4094,26 +3856,18 @@ first O -999
 place O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP Positive
 lasts O -999
 as O -999
 advertised O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 give O -999
 or O -999
 take O -999
-1 O -999
-5 O -999
-- O -999
-2 O -999
-0 O -999
+15-20 O -999
 minutes O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 the O -999
@@ -4125,26 +3879,18 @@ very O -999
 elegant O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP -999
 lasts O -999
 as O -999
 advertised O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 give O -999
 or O -999
 take O -999
-1 O -999
-5 O -999
-- O -999
-2 O -999
-0 O -999
+15-20 O -999
 minutes O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 the O -999
@@ -4156,7 +3902,7 @@ very O -999
 elegant O -999
 . O -999
 
-thanks O -999
+Thanks O -999
 for O -999
 the O -999
 fast O -999
@@ -4166,7 +3912,7 @@ great O -999
 price B-ASP -999
 . O -999
 
-thanks O -999
+Thanks O -999
 for O -999
 the O -999
 fast O -999
@@ -4177,7 +3923,7 @@ price B-ASP Positive
 . O -999
 
 ! O -999
-excelent O -999
+Excelent O -999
 performance B-ASP Positive
 , O -999
 usability B-ASP -999
@@ -4189,7 +3935,7 @@ response I-ASP -999
 . O -999
 
 ! O -999
-excelent O -999
+Excelent O -999
 performance B-ASP -999
 , O -999
 usability B-ASP Positive
@@ -4201,7 +3947,7 @@ response I-ASP -999
 . O -999
 
 ! O -999
-excelent O -999
+Excelent O -999
 performance B-ASP -999
 , O -999
 usability B-ASP -999
@@ -4213,7 +3959,7 @@ response I-ASP -999
 . O -999
 
 ! O -999
-excelent O -999
+Excelent O -999
 performance B-ASP -999
 , O -999
 usability B-ASP -999
@@ -4224,7 +3970,7 @@ time B-ASP Positive
 response I-ASP Positive
 . O -999
 
-the O -999
+The O -999
 smaller O -999
 size B-ASP Positive
 was O -999
@@ -4236,155 +3982,134 @@ space O -999
 restrictions O -999
 . O -999
 
-i O -999
+I O -999
 blame O -999
 the O -999
-mac B-ASP Negative
-os I-ASP Negative
+Mac B-ASP Negative
+OS I-ASP Negative
 . O -999
 
-in O -999
+In O -999
 fact O -999
-i O -999
+I O -999
 still O -999
 use O -999
 many O -999
-legacy B-ASP Neutral
+Legacy B-ASP Neutral
 programs I-ASP Neutral
-- O -999
-lrb O -999
-- B-ASP -999
-appleworks O -999
+-LRB- B-ASP -999
+Appleworks O -999
 , B-ASP -999
-filemaker I-ASP -999
-pro O -999
+FileMaker I-ASP -999
+Pro O -999
 , B-ASP -999
-quicken O -999
+Quicken O -999
 , B-ASP -999
-photoshop O -999
+Photoshop O -999
 etc O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 ! O -999
 
-in O -999
+In O -999
 fact O -999
-i O -999
+I O -999
 still O -999
 use O -999
 many O -999
-legacy B-ASP -999
+Legacy B-ASP -999
 programs I-ASP -999
-- O -999
-lrb O -999
-- B-ASP Neutral
-appleworks O -999
+-LRB- B-ASP Neutral
+Appleworks O -999
 , B-ASP -999
-filemaker I-ASP -999
-pro O -999
+FileMaker I-ASP -999
+Pro O -999
 , B-ASP -999
-quicken O -999
+Quicken O -999
 , B-ASP -999
-photoshop O -999
+Photoshop O -999
 etc O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 ! O -999
 
-in O -999
+In O -999
 fact O -999
-i O -999
+I O -999
 still O -999
 use O -999
 many O -999
-legacy B-ASP -999
+Legacy B-ASP -999
 programs I-ASP -999
-- O -999
-lrb O -999
-- B-ASP -999
-appleworks O -999
+-LRB- B-ASP -999
+Appleworks O -999
 , B-ASP Neutral
-filemaker I-ASP Neutral
-pro O -999
+FileMaker I-ASP Neutral
+Pro O -999
 , B-ASP -999
-quicken O -999
+Quicken O -999
 , B-ASP -999
-photoshop O -999
+Photoshop O -999
 etc O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 ! O -999
 
-in O -999
+In O -999
 fact O -999
-i O -999
+I O -999
 still O -999
 use O -999
 many O -999
-legacy B-ASP -999
+Legacy B-ASP -999
 programs I-ASP -999
-- O -999
-lrb O -999
-- B-ASP -999
-appleworks O -999
+-LRB- B-ASP -999
+Appleworks O -999
 , B-ASP -999
-filemaker I-ASP -999
-pro O -999
+FileMaker I-ASP -999
+Pro O -999
 , B-ASP Neutral
-quicken O -999
+Quicken O -999
 , B-ASP -999
-photoshop O -999
+Photoshop O -999
 etc O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 ! O -999
 
-in O -999
+In O -999
 fact O -999
-i O -999
+I O -999
 still O -999
 use O -999
 many O -999
-legacy B-ASP -999
+Legacy B-ASP -999
 programs I-ASP -999
-- O -999
-lrb O -999
-- B-ASP -999
-appleworks O -999
+-LRB- B-ASP -999
+Appleworks O -999
 , B-ASP -999
-filemaker I-ASP -999
-pro O -999
+FileMaker I-ASP -999
+Pro O -999
 , B-ASP -999
-quicken O -999
+Quicken O -999
 , B-ASP Neutral
-photoshop O -999
+Photoshop O -999
 etc O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 ! O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 operating B-ASP Positive
 system I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 operating B-ASP Positive
 system I-ASP Positive
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 fast O -999
 at O -999
 loading B-ASP Positive
@@ -4392,7 +4117,7 @@ the I-ASP Positive
 internet I-ASP Positive
 . O -999
 
-so O -999
+So O -999
 much O -999
 faster O -999
 and O -999
@@ -4400,51 +4125,49 @@ sleeker O -999
 looking B-ASP Positive
 . O -999
 
-unfortunately O -999
+Unfortunately O -999
 , O -999
 it O -999
 runs O -999
-xp B-ASP Neutral
+XP B-ASP Neutral
 and O -999
-microsoft O -999
+Microsoft O -999
 is O -999
 dropping O -999
 support B-ASP -999
 next O -999
-april O -999
+April O -999
 . O -999
 
-unfortunately O -999
+Unfortunately O -999
 , O -999
 it O -999
 runs O -999
-xp B-ASP -999
+XP B-ASP -999
 and O -999
-microsoft O -999
+Microsoft O -999
 is O -999
 dropping O -999
 support B-ASP Negative
 next O -999
-april O -999
+April O -999
 . O -999
 
-first O -999
+First O -999
 off O -999
 , O -999
-i O -999
+I O -999
 really O -999
 do O -999
 like O -999
 my O -999
-mbp O -999
-. O -999
-. O -999
-. O -999
+MBP O -999
+... O -999
 once O -999
 used O -999
 to O -999
 the O -999
-os B-ASP Positive
+OS B-ASP Positive
 it O -999
 is O -999
 pretty O -999
@@ -4459,9 +4182,7 @@ overall B-ASP -999
 build I-ASP -999
 is O -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 eg O -999
 the O -999
 keyboard B-ASP -999
@@ -4475,23 +4196,21 @@ type O -999
 on O -999
 . O -999
 
-first O -999
+First O -999
 off O -999
 , O -999
-i O -999
+I O -999
 really O -999
 do O -999
 like O -999
 my O -999
-mbp O -999
-. O -999
-. O -999
-. O -999
+MBP O -999
+... O -999
 once O -999
 used O -999
 to O -999
 the O -999
-os B-ASP -999
+OS B-ASP -999
 it O -999
 is O -999
 pretty O -999
@@ -4506,9 +4225,7 @@ overall B-ASP Positive
 build I-ASP Positive
 is O -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 eg O -999
 the O -999
 keyboard B-ASP -999
@@ -4522,23 +4239,21 @@ type O -999
 on O -999
 . O -999
 
-first O -999
+First O -999
 off O -999
 , O -999
-i O -999
+I O -999
 really O -999
 do O -999
 like O -999
 my O -999
-mbp O -999
-. O -999
-. O -999
-. O -999
+MBP O -999
+... O -999
 once O -999
 used O -999
 to O -999
 the O -999
-os B-ASP -999
+OS B-ASP -999
 it O -999
 is O -999
 pretty O -999
@@ -4553,9 +4268,7 @@ overall B-ASP -999
 build I-ASP -999
 is O -999
 great O -999
-. O -999
-. O -999
-. O -999
+... O -999
 eg O -999
 the O -999
 keyboard B-ASP Positive
@@ -4569,7 +4282,7 @@ type O -999
 on O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 made O -999
 of O -999
@@ -4578,15 +4291,15 @@ solid O -999
 construction B-ASP Positive
 and O -999
 since O -999
-i O -999
+I O -999
 have O -999
 never O -999
 had O -999
 a O -999
-mac O -999
+Mac O -999
 using O -999
 my O -999
-iphone O -999
+iPhone O -999
 helped O -999
 me O -999
 get O -999
@@ -4598,7 +4311,7 @@ a O -999
 bit O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 made O -999
 of O -999
@@ -4607,15 +4320,15 @@ solid O -999
 construction B-ASP -999
 and O -999
 since O -999
-i O -999
+I O -999
 have O -999
 never O -999
 had O -999
 a O -999
-mac O -999
+Mac O -999
 using O -999
 my O -999
-iphone O -999
+iPhone O -999
 helped O -999
 me O -999
 get O -999
@@ -4627,15 +4340,15 @@ a O -999
 bit O -999
 . O -999
 
-very O -999
+Very O -999
 nice O -999
 unibody B-ASP Positive
 construction I-ASP Positive
 . O -999
 
-this O -999
-macbook O -999
-pro O -999
+This O -999
+Macbook O -999
+Pro O -999
 is O -999
 fast O -999
 , O -999
@@ -4649,44 +4362,39 @@ and O -999
 cool O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 ok O -999
 but O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 a O -999
 disk B-ASP Neutral
 drive I-ASP Neutral
 which O -999
-i O -999
+I O -999
 did O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 know O -999
 until O -999
 after O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 . O -999
 
-there O -999
+There O -999
 is O -999
 no O -999
-hdmi B-ASP Neutral
+HDMI B-ASP Neutral
 receptacle I-ASP Neutral
 , O -999
 nor O -999
 is O -999
 there O -999
 an O -999
-sd B-ASP -999
+SD B-ASP -999
 card I-ASP -999
 slot I-ASP -999
 located O -999
@@ -4696,17 +4404,17 @@ the O -999
 device O -999
 . O -999
 
-there O -999
+There O -999
 is O -999
 no O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 receptacle I-ASP -999
 , O -999
 nor O -999
 is O -999
 there O -999
 an O -999
-sd B-ASP Neutral
+SD B-ASP Neutral
 card I-ASP Neutral
 slot I-ASP Neutral
 located O -999
@@ -4716,7 +4424,7 @@ the O -999
 device O -999
 . O -999
 
-it O -999
+It O -999
 came O -999
 in O -999
 brand O -999
@@ -4726,20 +4434,16 @@ works B-ASP Positive
 perfectly O -999
 . O -999
 
-it O -999
+It O -999
 should O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 happen O -999
 like O -999
 that O -999
 , O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 any O -999
 design B-ASP Neutral
@@ -4749,14 +4453,14 @@ or O -999
 anything O -999
 . O -999
 
-my O -999
-trackpad B-ASP Negative
-is O -999
-not O -999
-working O -999
+MY O -999
+TRACKPAD B-ASP Negative
+IS O -999
+NOT O -999
+WORKING O -999
 . O -999
 
-it O -999
+It O -999
 looks B-ASP -999
 and O -999
 feels B-ASP -999
@@ -4768,7 +4472,7 @@ flawless O -999
 finish B-ASP Positive
 . O -999
 
-it O -999
+It O -999
 looks B-ASP Positive
 and O -999
 feels B-ASP -999
@@ -4780,7 +4484,7 @@ flawless O -999
 finish B-ASP -999
 . O -999
 
-it O -999
+It O -999
 looks B-ASP -999
 and O -999
 feels B-ASP Positive
@@ -4792,49 +4496,49 @@ flawless O -999
 finish B-ASP -999
 . O -999
 
-price B-ASP Negative
+Price B-ASP Negative
 was O -999
 higher O -999
 when O -999
 purchased O -999
 on O -999
-mac O -999
+MAC O -999
 when O -999
 compared O -999
 to O -999
 price B-ASP -999
 showing O -999
 on O -999
-pc O -999
+PC O -999
 when O -999
-i O -999
+I O -999
 bought O -999
 this O -999
 product O -999
 . O -999
 
-price B-ASP -999
+Price B-ASP -999
 was O -999
 higher O -999
 when O -999
 purchased O -999
 on O -999
-mac O -999
+MAC O -999
 when O -999
 compared O -999
 to O -999
 price B-ASP Positive
 showing O -999
 on O -999
-pc O -999
+PC O -999
 when O -999
-i O -999
+I O -999
 bought O -999
 this O -999
 product O -999
 . O -999
 
-then O -999
+Then O -999
 the O -999
 system B-ASP Negative
 would O -999
@@ -4846,12 +4550,10 @@ down I-ASP -999
 without O -999
 a O -999
 forced O -999
-power O -999
-- O -999
-off O -999
+power-off O -999
 . O -999
 
-then O -999
+Then O -999
 the O -999
 system B-ASP -999
 would O -999
@@ -4863,12 +4565,10 @@ down I-ASP Negative
 without O -999
 a O -999
 forced O -999
-power O -999
-- O -999
-off O -999
+power-off O -999
 . O -999
 
-the O -999
+The O -999
 configuration B-ASP Positive
 is O -999
 perfect O -999
@@ -4886,7 +4586,7 @@ worst O -999
 ever O -999
 . O -999
 
-its O -999
+Its O -999
 the O -999
 best O -999
 , O -999
@@ -4912,7 +4612,7 @@ trackpad B-ASP -999
 . O -999
 . O -999
 
-its O -999
+Its O -999
 the O -999
 best O -999
 , O -999
@@ -4938,7 +4638,7 @@ trackpad B-ASP -999
 . O -999
 . O -999
 
-its O -999
+Its O -999
 the O -999
 best O -999
 , O -999
@@ -4964,7 +4664,7 @@ trackpad B-ASP Positive
 . O -999
 . O -999
 
-web B-ASP Positive
+Web B-ASP Positive
 surfuring I-ASP Positive
 is O -999
 smooth O -999
@@ -4972,9 +4672,8 @@ and O -999
 seamless O -999
 . O -999
 
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 overall O -999
 pleased O -999
 with O -999
@@ -4988,9 +4687,8 @@ this O -999
 product O -999
 . O -999
 
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 overall O -999
 pleased O -999
 with O -999
@@ -5004,7 +4702,7 @@ this O -999
 product O -999
 . O -999
 
-this O -999
+This O -999
 item O -999
 is O -999
 a O -999
@@ -5024,7 +4722,7 @@ and O -999
 handle B-ASP -999
 . O -999
 
-this O -999
+This O -999
 item O -999
 is O -999
 a O -999
@@ -5044,7 +4742,7 @@ and O -999
 handle B-ASP -999
 . O -999
 
-this O -999
+This O -999
 item O -999
 is O -999
 a O -999
@@ -5064,19 +4762,15 @@ and O -999
 handle B-ASP Positive
 . O -999
 
-it O -999
+It O -999
 was O -999
 also O -999
 suffering O -999
 from O -999
 hardware O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 keyboard O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 issues O -999
 , O -999
 relatively O -999
@@ -5088,19 +4782,15 @@ battery B-ASP -999
 lifetime I-ASP -999
 . O -999
 
-it O -999
+It O -999
 was O -999
 also O -999
 suffering O -999
 from O -999
 hardware O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 keyboard O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 issues O -999
 , O -999
 relatively O -999
@@ -5112,15 +4802,13 @@ battery B-ASP Negative
 lifetime I-ASP Negative
 . O -999
 
-it O -999
+It O -999
 was O -999
 also O -999
 suffering O -999
 from O -999
 hardware B-ASP Negative
-( I-ASP Negative
-keyboard I-ASP Negative
-) I-ASP Negative
+(keyboard) I-ASP Negative
 issues O -999
 , O -999
 relatively O -999
@@ -5132,7 +4820,7 @@ battery O -999
 lifetime O -999
 . O -999
 
-runs B-ASP Positive
+Runs B-ASP Positive
 good O -999
 and O -999
 does O -999
@@ -5140,17 +4828,14 @@ the O -999
 job O -999
 , O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 complain O -999
 about O -999
 that O -999
 ! O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 silent O -999
 and O -999
 has O -999
@@ -5163,14 +4848,14 @@ my O -999
 desk O -999
 . O -999
 
-the O -999
+The O -999
 exterior B-ASP Positive
 is O -999
 absolutely O -999
 gorgeous O -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 a O -999
 very O -999
@@ -5180,12 +4865,12 @@ performance B-ASP Positive
 just O -999
 for O -999
 what O -999
-i O -999
+I O -999
 needed O -999
 for O -999
 . O -999
 
-apple O -999
+Apple O -999
 is O -999
 aware O -999
 of O -999
@@ -5200,19 +4885,16 @@ stock O -999
 or O -999
 a O -999
 defective O -999
-design O -999
+design B-ASP -999
 involving O -999
 the O -999
 intel B-ASP Neutral
-4 I-ASP Neutral
-0 I-ASP Neutral
-0 I-ASP Neutral
-0 I-ASP Neutral
+4000 I-ASP Neutral
 graphics I-ASP Neutral
 chipset I-ASP Neutral
 . O -999
 
-apple O -999
+Apple O -999
 is O -999
 aware O -999
 of O -999
@@ -5230,58 +4912,51 @@ defective O -999
 design B-ASP Neutral
 involving O -999
 the O -999
-intel O -999
-4 O -999
-0 O -999
-0 O -999
-0 O -999
-graphics O -999
-chipset O -999
+intel B-ASP -999
+4000 I-ASP -999
+graphics I-ASP -999
+chipset I-ASP -999
 . O -999
 
-osx B-ASP Neutral
-mountain I-ASP Neutral
-lion I-ASP Neutral
+OSX B-ASP Neutral
+Mountain I-ASP Neutral
+Lion I-ASP Neutral
 soon O -999
 to O -999
 upgrade O -999
 to O -999
-mavericks O -999
+Mavericks O -999
 . O -999
 
-osx O -999
-mountain O -999
-lion O -999
+OSX O -999
+Mountain O -999
+Lion O -999
 soon O -999
 to O -999
 upgrade O -999
 to O -999
-mavericks B-ASP Neutral
+Mavericks B-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 just O -999
 bought O -999
 the O -999
 new O -999
-macbook O -999
-pro O -999
+MacBook O -999
+Pro O -999
 , O -999
 the O -999
-1 O -999
-3 O -999
-' O -999
-' O -999
+13 O -999
+'' O -999
 model O -999
 , O -999
 and O -999
-i O -999
+I O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 believe O -999
-apple O -999
+Apple O -999
 keeps O -999
 making O -999
 the O -999
@@ -5290,11 +4965,11 @@ mistake O -999
 with O -999
 regard O -999
 to O -999
-usb B-ASP Negative
+USB B-ASP Negative
 ports I-ASP Negative
 . O -999
 
-it O -999
+It O -999
 wakes B-ASP -999
 in O -999
 less O -999
@@ -5302,13 +4977,13 @@ than O -999
 a O -999
 second O -999
 when O -999
-i O -999
+I O -999
 open O -999
 the O -999
 lid B-ASP Neutral
 . O -999
 
-it O -999
+It O -999
 wakes B-ASP Positive
 in O -999
 less O -999
@@ -5316,13 +4991,13 @@ than O -999
 a O -999
 second O -999
 when O -999
-i O -999
+I O -999
 open O -999
 the O -999
 lid B-ASP -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 the O -999
 perfect O -999
@@ -5333,7 +5008,7 @@ for O -999
 me O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 the O -999
 perfect O -999
@@ -5344,24 +5019,21 @@ for O -999
 me O -999
 . O -999
 
-the O -999
-customer B-ASP Positive
-service I-ASP Positive
-is O -999
-terrific O -999
-! O -999
-! O -999
+THE O -999
+CUSTOMER B-ASP Positive
+SERVICE I-ASP Positive
+IS O -999
+TERRIFIC O -999
+!! O -999
 
-my O -999
+My O -999
 last O -999
 laptop O -999
 was O -999
 a O -999
-1 O -999
-7 O -999
-' O -999
-' O -999
-asus O -999
+17 O -999
+'' O -999
+ASUS O -999
 gaming O -999
 machine O -999
 , O -999
@@ -5384,7 +5056,7 @@ the O -999
 college O -999
 life O -999
 , O -999
-i O -999
+I O -999
 found O -999
 myself O -999
 wanting O -999
@@ -5399,7 +5071,7 @@ to O -999
 mention O -999
 that O -999
 the O -999
-asus O -999
+ASUS O -999
 had O -999
 been O -999
 slowly O -999
@@ -5407,7 +5079,7 @@ developing O -999
 problems O -999
 ever O -999
 since O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 about O -999
@@ -5416,7 +5088,7 @@ years O -999
 ago O -999
 . O -999
 
-however O -999
+However O -999
 , O -999
 it O -999
 did O -999
@@ -5425,18 +5097,14 @@ have O -999
 any O -999
 scratches O -999
 , O -999
-zero O -999
+ZERO O -999
 battery B-ASP Positive
 cycle I-ASP Positive
 count I-ASP Positive
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 pretty O -999
 surprised O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 all O -999
@@ -5449,7 +5117,7 @@ working O -999
 perfectly O -999
 . O -999
 
-however O -999
+However O -999
 , O -999
 it O -999
 did O -999
@@ -5458,18 +5126,14 @@ have O -999
 any O -999
 scratches O -999
 , O -999
-zero O -999
+ZERO O -999
 battery B-ASP -999
 cycle I-ASP -999
 count I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 pretty O -999
 surprised O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 all O -999
@@ -5482,13 +5146,13 @@ working O -999
 perfectly O -999
 . O -999
 
-after O -999
+After O -999
 fumbling O -999
 around O -999
 with O -999
 the O -999
-os B-ASP Negative
-i O -999
+OS B-ASP Negative
+I O -999
 started O -999
 searching O -999
 the O -999
@@ -5508,7 +5172,7 @@ the O -999
 issue O -999
 . O -999
 
-and O -999
+And O -999
 as O -999
 for O -999
 all O -999
@@ -5516,9 +5180,8 @@ the O -999
 fancy O -999
 finger B-ASP Negative
 swipes I-ASP Negative
-- O -999
-- O -999
-i O -999
+-- O -999
+I O -999
 just O -999
 gave O -999
 up O -999
@@ -5528,7 +5191,7 @@ a O -999
 mouse B-ASP -999
 . O -999
 
-and O -999
+And O -999
 as O -999
 for O -999
 all O -999
@@ -5536,9 +5199,8 @@ the O -999
 fancy O -999
 finger B-ASP -999
 swipes I-ASP -999
-- O -999
-- O -999
-i O -999
+-- O -999
+I O -999
 just O -999
 gave O -999
 up O -999
@@ -5548,7 +5210,7 @@ a O -999
 mouse B-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 needed O -999
 a O -999
 laptop O -999
@@ -5562,7 +5224,7 @@ screen B-ASP -999
 and O -999
 fast O -999
 so O -999
-i O -999
+I O -999
 can O -999
 photoshop B-ASP -999
 without O -999
@@ -5570,7 +5232,7 @@ any O -999
 problem O -999
 . O -999
 
-i O -999
+I O -999
 needed O -999
 a O -999
 laptop O -999
@@ -5584,7 +5246,7 @@ screen B-ASP Neutral
 and O -999
 fast O -999
 so O -999
-i O -999
+I O -999
 can O -999
 photoshop B-ASP -999
 without O -999
@@ -5592,7 +5254,7 @@ any O -999
 problem O -999
 . O -999
 
-i O -999
+I O -999
 needed O -999
 a O -999
 laptop O -999
@@ -5606,7 +5268,7 @@ screen B-ASP -999
 and O -999
 fast O -999
 so O -999
-i O -999
+I O -999
 can O -999
 photoshop B-ASP Neutral
 without O -999
@@ -5614,13 +5276,13 @@ any O -999
 problem O -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 coming O -999
 back O -999
 to O -999
-mac B-ASP Positive
-os I-ASP Positive
+Mac B-ASP Positive
+OS I-ASP Positive
 but O -999
 this O -999
 laptop O -999
@@ -5633,21 +5295,19 @@ compared O -999
 to O -999
 my O -999
 $ O -999
-4 O -999
-0 O -999
-0 O -999
+400 O -999
 old O -999
-hp O -999
+HP O -999
 laptop O -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 coming O -999
 back O -999
 to O -999
-mac B-ASP -999
-os I-ASP -999
+Mac B-ASP -999
+OS I-ASP -999
 but O -999
 this O -999
 laptop O -999
@@ -5660,29 +5320,27 @@ compared O -999
 to O -999
 my O -999
 $ O -999
-4 O -999
-0 O -999
-0 O -999
+400 O -999
 old O -999
-hp O -999
+HP O -999
 laptop O -999
 . O -999
 
-shipped B-ASP Positive
+Shipped B-ASP Positive
 very O -999
 quickly O -999
 and O -999
 safely O -999
 . O -999
 
-the O -999
+The O -999
 thunderbolt B-ASP Positive
 port I-ASP Positive
 is O -999
 awesome O -999
 ! O -999
 
-the O -999
+The O -999
 performance B-ASP Positive
 is O -999
 definitely O -999
@@ -5690,9 +5348,8 @@ superior O -999
 to O -999
 any O -999
 computer O -999
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 ever O -999
 put O -999
 my O -999
@@ -5700,9 +5357,8 @@ hands O -999
 on O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 great O -999
 for O -999
 streaming B-ASP Positive
@@ -5713,9 +5369,8 @@ entertainment B-ASP -999
 uses I-ASP -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 great O -999
 for O -999
 streaming B-ASP -999
@@ -5726,7 +5381,7 @@ entertainment B-ASP Positive
 uses I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 design B-ASP Positive
@@ -5737,7 +5392,7 @@ but O -999
 there O -999
 are O -999
 somethings O -999
-i O -999
+I O -999
 think O -999
 needs O -999
 to O -999
@@ -5745,7 +5400,7 @@ be O -999
 improved O -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 design B-ASP -999
@@ -5756,7 +5411,7 @@ but O -999
 there O -999
 are O -999
 somethings O -999
-i O -999
+I O -999
 think O -999
 needs O -999
 to O -999
@@ -5764,29 +5419,27 @@ be O -999
 improved O -999
 . O -999
 
-there O -999
+There O -999
 were O -999
 small O -999
 problems O -999
 with O -999
-mac B-ASP Negative
+Mac B-ASP Negative
 office I-ASP Negative
 . O -999
 
-i O -999
+I O -999
 understand O -999
-i O -999
+I O -999
 should O -999
 call O -999
-apple B-ASP Neutral
-tech I-ASP Neutral
-support I-ASP Neutral
+Apple B-ASP Neutral
+Tech I-ASP Neutral
+Support I-ASP Neutral
 about O -999
 any O -999
 variables O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 which O -999
 is O -999
 my O -999
@@ -5795,9 +5448,7 @@ of O -999
 writing O -999
 this O -999
 con O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 as O -999
 variables O -999
 could O -999
@@ -5808,13 +5459,10 @@ future O -999
 problem O -999
 . O -999
 
-i O -999
+I O -999
 ordered O -999
 my O -999
-2 O -999
-0 O -999
-1 O -999
-2 O -999
+2012 O -999
 mac O -999
 mini O -999
 after O -999
@@ -5825,26 +5473,23 @@ spec B-ASP Negative
 of O -999
 the O -999
 new O -999
-2 O -999
-7 O -999
-' O -999
-' O -999
-imacs O -999
+27 O -999
+'' O -999
+Imacs O -999
 . O -999
 
-it O -999
+It O -999
 still O -999
 works B-ASP Positive
 and O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 extremely O -999
 user O -999
 friendly O -999
 , O -999
 so O -999
-i O -999
+I O -999
 would O -999
 recommend O -999
 it O -999
@@ -5869,7 +5514,7 @@ to O -999
 do O -999
 things O -999
 
-its O -999
+Its O -999
 fast O -999
 , O -999
 easy O -999
@@ -5881,7 +5526,7 @@ looks B-ASP -999
 great O -999
 . O -999
 
-its O -999
+Its O -999
 fast O -999
 , O -999
 easy O -999
@@ -5893,100 +5538,91 @@ looks B-ASP Positive
 great O -999
 . O -999
 
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 but O -999
-office B-ASP Neutral
+Office B-ASP Neutral
 can O -999
 be O -999
 purchased O -999
-- O -999
-rrb O -999
-- O -999
-if O -999
-i O -999
+-RRB- O -999
+IF O -999
+I O -999
 ever O -999
 need O -999
 a O -999
 laptop O -999
 again O -999
-i O -999
+I O -999
 am O -999
 for O -999
 sure O -999
 purchasing O -999
 another O -999
-toshiba O -999
-! O -999
-! O -999
+Toshiba O -999
+!! O -999
 
-i O -999
+I O -999
 have O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 tried O -999
 the O -999
 one O -999
 with O -999
 retina B-ASP Neutral
 display I-ASP Neutral
-. O -999
-. O -999
-. O -999
-maybe O -999
+... O -999
+Maybe O -999
 in O -999
 the O -999
 future O -999
 . O -999
 
-performance B-ASP Positive
+Performance B-ASP Positive
 is O -999
 much O -999
 much O -999
 better O -999
 on O -999
 the O -999
-pro O -999
+Pro O -999
 , O -999
 especially O -999
 if O -999
 you O -999
 install O -999
 an O -999
-ssd B-ASP -999
+SSD B-ASP -999
 on O -999
 it O -999
 . O -999
 
-performance B-ASP -999
+Performance B-ASP -999
 is O -999
 much O -999
 much O -999
 better O -999
 on O -999
 the O -999
-pro O -999
+Pro O -999
 , O -999
 especially O -999
 if O -999
 you O -999
 install O -999
 an O -999
-ssd B-ASP Positive
+SSD B-ASP Positive
 on O -999
 it O -999
 . O -999
 
-note O -999
+Note O -999
 , O -999
 however O -999
 , O -999
 that O -999
 any O -999
 existing O -999
-magsafe B-ASP Neutral
+MagSafe B-ASP Neutral
 accessories I-ASP Neutral
 you O -999
 have O -999
@@ -5995,19 +5631,19 @@ not O -999
 work O -999
 with O -999
 the O -999
-magsafe B-ASP -999
+MagSafe B-ASP -999
 2 I-ASP -999
 connection I-ASP -999
 . O -999
 
-note O -999
+Note O -999
 , O -999
 however O -999
 , O -999
 that O -999
 any O -999
 existing O -999
-magsafe B-ASP -999
+MagSafe B-ASP -999
 accessories I-ASP -999
 you O -999
 have O -999
@@ -6016,15 +5652,15 @@ not O -999
 work O -999
 with O -999
 the O -999
-magsafe B-ASP Negative
+MagSafe B-ASP Negative
 2 I-ASP Negative
 connection I-ASP Negative
 . O -999
 
-the O -999
+The O -999
 only O -999
 thing O -999
-i O -999
+I O -999
 dislike O -999
 is O -999
 the O -999
@@ -6039,13 +5675,13 @@ unresponsive O -999
 and O -999
 does O -999
 things O -999
-i O -999
+I O -999
 dont O -999
 want O -999
 it O -999
 too O -999
 , O -999
-i O -999
+I O -999
 would O -999
 recommend O -999
 using O -999
@@ -6055,10 +5691,10 @@ with O -999
 it O -999
 . O -999
 
-the O -999
+The O -999
 only O -999
 thing O -999
-i O -999
+I O -999
 dislike O -999
 is O -999
 the O -999
@@ -6073,13 +5709,13 @@ unresponsive O -999
 and O -999
 does O -999
 things O -999
-i O -999
+I O -999
 dont O -999
 want O -999
 it O -999
 too O -999
 , O -999
-i O -999
+I O -999
 would O -999
 recommend O -999
 using O -999
@@ -6089,13 +5725,12 @@ with O -999
 it O -999
 . O -999
 
-the O -999
-mac O -999
+The O -999
+Mac O -999
 mini O -999
 is O -999
 about O -999
-8 O -999
-x O -999
+8x O -999
 smaller O -999
 than O -999
 my O -999
@@ -6115,22 +5750,19 @@ actually O -999
 the O -999
 fans B-ASP -999
 are O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 audible O -999
 unlike O -999
 my O -999
 old O -999
 pc O -999
 
-the O -999
-mac O -999
+The O -999
+Mac O -999
 mini O -999
 is O -999
 about O -999
-8 O -999
-x O -999
+8x O -999
 smaller O -999
 than O -999
 my O -999
@@ -6150,31 +5782,29 @@ actually O -999
 the O -999
 fans B-ASP Positive
 are O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 audible O -999
 unlike O -999
 my O -999
 old O -999
 pc O -999
 
-maybe O -999
-the O -999
-mac B-ASP Negative
-os I-ASP Negative
+MAYBE O -999
+The O -999
+Mac B-ASP Negative
+OS I-ASP Negative
 improvement O -999
 were O -999
 not O -999
-the O -999
+The O -999
 product O -999
 they O -999
-want O -999
+Want O -999
 to O -999
 offer O -999
 . O -999
 
-i O -999
+I O -999
 thought O -999
 the O -999
 transition O -999
@@ -6195,13 +5825,12 @@ myself O -999
 with O -999
 the O -999
 new O -999
-mac B-ASP Neutral
+Mac B-ASP Neutral
 ecosystem I-ASP Neutral
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 absolutely O -999
 wonderful O -999
 and O -999
@@ -6210,7 +5839,7 @@ the O -999
 price B-ASP Positive
 ! O -999
 
-i O -999
+I O -999
 am O -999
 please O -999
 with O -999
@@ -6231,7 +5860,7 @@ and O -999
 functionality B-ASP -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 please O -999
 with O -999
@@ -6252,7 +5881,7 @@ and O -999
 functionality B-ASP -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 please O -999
 with O -999
@@ -6273,16 +5902,15 @@ and O -999
 functionality B-ASP Positive
 . O -999
 
-perfect O -999
+Perfect O -999
 for O -999
 all O -999
 my O -999
 graphic B-ASP Positive
 design I-ASP Positive
 classes O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 taking O -999
 this O -999
 year O -999
@@ -6290,11 +5918,9 @@ in O -999
 college O -999
 : O -999
 - O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 
-i O -999
+I O -999
 will O -999
 not O -999
 be O -999
@@ -6304,8 +5930,8 @@ slot B-ASP Negative
 again O -999
 . O -999
 
-the O -999
-os B-ASP Positive
+The O -999
+OS B-ASP Positive
 is O -999
 fast O -999
 and O -999
@@ -6316,13 +5942,12 @@ is O -999
 organized O -999
 and O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 just O -999
 beautiful O -999
 . O -999
 
-they O -999
+They O -999
 are O -999
 simpler O -999
 to O -999
@@ -6344,17 +5969,15 @@ now O -999
 i O -999
 got O -999
 my O -999
-ssd B-ASP Positive
+SSD B-ASP Positive
 ! O -999
 
-also O -999
+Also O -999
 , O -999
 in O -999
 using O -999
 the O -999
-built B-ASP Neutral
-- I-ASP Neutral
-in I-ASP Neutral
+built-in B-ASP Neutral
 camera I-ASP Neutral
 , O -999
 my O -999
@@ -6370,23 +5993,19 @@ interplanetary O -999
 transmissions O -999
 in O -999
 the O -999
-` O -999
-` O -999
-star O -999
-wars O -999
-' O -999
-' O -999
+`` O -999
+Star O -999
+Wars O -999
+'' O -999
 saga O -999
 . O -999
 
-also O -999
+Also O -999
 , O -999
 in O -999
 using O -999
 the O -999
-built B-ASP -999
-- I-ASP -999
-in I-ASP -999
+built-in B-ASP -999
 camera I-ASP -999
 , O -999
 my O -999
@@ -6402,16 +6021,14 @@ interplanetary O -999
 transmissions O -999
 in O -999
 the O -999
-` O -999
-` O -999
-star O -999
-wars O -999
-' O -999
-' O -999
+`` O -999
+Star O -999
+Wars O -999
+'' O -999
 saga O -999
 . O -999
 
-i O -999
+I O -999
 love O -999
 the O -999
 quick O -999
@@ -6419,7 +6036,7 @@ start B-ASP Positive
 up I-ASP Positive
 . O -999
 
-you O -999
+You O -999
 just O -999
 can O -999
 not O -999
@@ -6428,11 +6045,11 @@ the O -999
 functionality B-ASP Positive
 of O -999
 an O -999
-apple O -999
+Apple O -999
 device O -999
 . O -999
 
-yet O -999
+Yet O -999
 my O -999
 mac O -999
 continues O -999
@@ -6441,13 +6058,13 @@ function B-ASP Positive
 properly O -999
 . O -999
 
-graphics B-ASP Positive
+Graphics B-ASP Positive
 are O -999
 much O -999
 improved O -999
 . O -999
 
-here O -999
+Here O -999
 are O -999
 the O -999
 things O -999
@@ -6459,23 +6076,21 @@ with O -999
 my O -999
 purchase O -999
 : O -999
-build B-ASP Positive
-quality I-ASP Positive
+Build B-ASP Positive
+Quality I-ASP Positive
 - O -999
-seriously O -999
+Seriously O -999
 , O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 beat O -999
 a O -999
 unibody B-ASP -999
 construction I-ASP -999
 . O -999
 
-here O -999
+Here O -999
 are O -999
 the O -999
 things O -999
@@ -6487,23 +6102,21 @@ with O -999
 my O -999
 purchase O -999
 : O -999
-build B-ASP -999
-quality I-ASP -999
+Build B-ASP -999
+Quality I-ASP -999
 - O -999
-seriously O -999
+Seriously O -999
 , O -999
 you O -999
 ca O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 beat O -999
 a O -999
 unibody B-ASP Positive
 construction I-ASP Positive
 . O -999
 
-it O -999
+It O -999
 provides O -999
 much O -999
 more O -999
@@ -6512,7 +6125,7 @@ for I-ASP Positive
 connectivity I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 want O -999
 the O -999
 portability B-ASP Positive
@@ -6528,8 +6141,7 @@ a O -999
 tablet O -999
 and O -999
 that O -999
-' O -999
-s O -999
+'s O -999
 where O -999
 this O -999
 laptop O -999
@@ -6538,13 +6150,13 @@ into O -999
 play O -999
 . O -999
 
-mac B-ASP Positive
+Mac B-ASP Positive
 tutorials I-ASP Positive
 do O -999
 help O -999
 . O -999
 
-the O -999
+The O -999
 technical B-ASP Negative
 support I-ASP Negative
 was O -999
@@ -6554,7 +6166,7 @@ as O -999
 well O -999
 . O -999
 
-i O -999
+I O -999
 got O -999
 the O -999
 new O -999
@@ -6573,9 +6185,9 @@ technical B-ASP Neutral
 support I-ASP Neutral
 . O -999
 
-came O -999
+Came O -999
 with O -999
-iphoto B-ASP Neutral
+iPhoto B-ASP Neutral
 and O -999
 garage O -999
 band O -999
@@ -6583,9 +6195,9 @@ already O -999
 loaded O -999
 . O -999
 
-came O -999
+Came O -999
 with O -999
-iphoto O -999
+iPhoto O -999
 and O -999
 garage B-ASP Neutral
 band I-ASP Neutral
@@ -6593,7 +6205,7 @@ already O -999
 loaded O -999
 . O -999
 
-logic B-ASP Positive
+Logic B-ASP Positive
 board I-ASP Positive
 utterly O -999
 fried O -999
@@ -6607,7 +6219,7 @@ and O -999
 died O -999
 . O -999
 
-the O -999
+The O -999
 sound B-ASP Negative
 was O -999
 crappy O -999
@@ -6624,7 +6236,7 @@ same O -999
 results O -999
 . O -999
 
-the O -999
+The O -999
 sound B-ASP -999
 was O -999
 crappy O -999
@@ -6641,8 +6253,8 @@ same O -999
 results O -999
 . O -999
 
-osx B-ASP Positive
-lion I-ASP Positive
+OSX B-ASP Positive
+Lion I-ASP Positive
 is O -999
 a O -999
 great O -999
@@ -6655,7 +6267,7 @@ and O -999
 reliable O -999
 . O -999
 
-having O -999
+Having O -999
 heard O -999
 from O -999
 friends O -999
@@ -6665,11 +6277,11 @@ about O -999
 how O -999
 reliable O -999
 a O -999
-mac O -999
+Mac O -999
 product O -999
 is O -999
 , O -999
-i O -999
+I O -999
 never O -999
 expected O -999
 to O -999
@@ -6683,37 +6295,30 @@ first O -999
 month O -999
 , O -999
 but O -999
-i O -999
+I O -999
 did O -999
 . O -999
 
-the O -999
-macbook O -999
+The O -999
+Macbook O -999
 pro O -999
-' O -999
-s O -999
+'s O -999
 physical B-ASP Positive
 form I-ASP Positive
 is O -999
 wonderful O -999
 . O -999
 
-the O -999
-mini O -999
-' O -999
-s O -999
+The O -999
+Mini O -999
+'s O -999
 body B-ASP Positive
 has O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 changed O -999
 since O -999
 late O -999
-2 O -999
-0 O -999
-1 O -999
-0 O -999
+2010 O -999
 - O -999
 and O -999
 for O -999
@@ -6722,7 +6327,7 @@ good O -999
 reason O -999
 . O -999
 
-the O -999
+The O -999
 unibody B-ASP Positive
 construction I-ASP Positive
 really O -999
@@ -6732,15 +6337,13 @@ lot O -999
 more O -999
 solid O -999
 than O -999
-apple O -999
-' O -999
-s O -999
+Apple O -999
+'s O -999
 previous O -999
 laptops O -999
 . O -999
 
-3 B-ASP Negative
-d I-ASP Negative
+3D B-ASP Negative
 rendering I-ASP Negative
 slows O -999
 it O -999
@@ -6748,15 +6351,15 @@ down O -999
 considerably O -999
 . O -999
 
-got O -999
+Got O -999
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 with O -999
-os B-ASP Neutral
-x I-ASP Neutral
-mountain I-ASP Neutral
-lion I-ASP Neutral
+OS B-ASP Neutral
+X I-ASP Neutral
+Mountain I-ASP Neutral
+Lion I-ASP Neutral
 for O -999
 my O -999
 wife O -999
@@ -6775,10 +6378,7 @@ laptop O -999
 ; O -999
 priced B-ASP -999
 at O -999
-1 O -999
-1 O -999
-0 O -999
-0 O -999
+1100 O -999
 on O -999
 the O -999
 apple O -999
@@ -6788,10 +6388,7 @@ amazon O -999
 had O -999
 it O -999
 for O -999
-1 O -999
-0 O -999
-9 O -999
-8 O -999
+1098 O -999
 + O -999
 tax O -999
 - O -999
@@ -6799,28 +6396,20 @@ plus O -999
 i O -999
 had O -999
 a O -999
-1 O -999
-0 O -999
+10 O -999
 % O -999
 off O -999
 coupon O -999
 from O -999
-amazon O -999
-- O -999
-cost B-ASP -999
+amazon-cost O -999
 me O -999
-9 O -999
-9 O -999
-8 O -999
+998 B-ASP -999
 plus O -999
 tax O -999
 - O -999
-1 O -999
-0 O -999
-7 O -999
-0 O -999
+1070 O -999
 - O -999
-otd O -999
+OTD O -999
 ! O -999
 
 fast O -999
@@ -6836,10 +6425,7 @@ laptop O -999
 ; O -999
 priced B-ASP -999
 at O -999
-1 O -999
-1 O -999
-0 O -999
-0 O -999
+1100 O -999
 on O -999
 the O -999
 apple O -999
@@ -6849,10 +6435,7 @@ amazon O -999
 had O -999
 it O -999
 for O -999
-1 O -999
-0 O -999
-9 O -999
-8 O -999
+1098 O -999
 + O -999
 tax O -999
 - O -999
@@ -6860,28 +6443,20 @@ plus O -999
 i O -999
 had O -999
 a O -999
-1 O -999
-0 O -999
+10 O -999
 % O -999
 off O -999
 coupon O -999
 from O -999
-amazon O -999
-- O -999
-cost B-ASP -999
+amazon-cost O -999
 me O -999
-9 O -999
-9 O -999
-8 O -999
+998 B-ASP -999
 plus O -999
 tax O -999
 - O -999
-1 O -999
-0 O -999
-7 O -999
-0 O -999
+1070 O -999
 - O -999
-otd O -999
+OTD O -999
 ! O -999
 
 fast O -999
@@ -6897,10 +6472,7 @@ laptop O -999
 ; O -999
 priced B-ASP Neutral
 at O -999
-1 O -999
-1 O -999
-0 O -999
-0 O -999
+1100 O -999
 on O -999
 the O -999
 apple O -999
@@ -6910,10 +6482,7 @@ amazon O -999
 had O -999
 it O -999
 for O -999
-1 O -999
-0 O -999
-9 O -999
-8 O -999
+1098 O -999
 + O -999
 tax O -999
 - O -999
@@ -6921,28 +6490,20 @@ plus O -999
 i O -999
 had O -999
 a O -999
-1 O -999
-0 O -999
+10 O -999
 % O -999
 off O -999
 coupon O -999
 from O -999
-amazon O -999
-- O -999
-cost B-ASP -999
+amazon-cost O -999
 me O -999
-9 O -999
-9 O -999
-8 O -999
+998 B-ASP -999
 plus O -999
 tax O -999
 - O -999
-1 O -999
-0 O -999
-7 O -999
-0 O -999
+1070 O -999
 - O -999
-otd O -999
+OTD O -999
 ! O -999
 
 fast O -999
@@ -6958,10 +6519,7 @@ laptop O -999
 ; O -999
 priced B-ASP -999
 at O -999
-1 O -999
-1 O -999
-0 O -999
-0 O -999
+1100 O -999
 on O -999
 the O -999
 apple O -999
@@ -6971,10 +6529,7 @@ amazon O -999
 had O -999
 it O -999
 for O -999
-1 O -999
-0 O -999
-9 O -999
-8 O -999
+1098 O -999
 + O -999
 tax O -999
 - O -999
@@ -6982,41 +6537,29 @@ plus O -999
 i O -999
 had O -999
 a O -999
-1 O -999
-0 O -999
+10 O -999
 % O -999
 off O -999
 coupon O -999
 from O -999
-amazon O -999
-- O -999
-cost B-ASP Neutral
+amazon-cost O -999
 me O -999
-9 O -999
-9 O -999
-8 O -999
+998 B-ASP Neutral
 plus O -999
 tax O -999
 - O -999
-1 O -999
-0 O -999
-7 O -999
-0 O -999
+1070 O -999
 - O -999
-otd O -999
+OTD O -999
 ! O -999
 
-1 O -999
-2 O -999
-. O -999
-4 O -999
-4 O -999
+12.44 O -999
 seconds O -999
 to O -999
 boot B-ASP Neutral
 . O -999
 
-all O -999
+All O -999
 the O -999
 ports B-ASP Neutral
 are O -999
@@ -7030,28 +6573,20 @@ main O -999
 computer O -999
 . O -999
 
-the O -999
-like O -999
-new O -999
+The O -999
+Like O -999
+New O -999
 condition O -999
 of O -999
 the O -999
-imac O -999
-mc O -999
-3 O -999
-0 O -999
-9 O -999
-ll O -999
-/ O -999
-a O -999
+iMac O -999
+MC309LL/A O -999
 on O -999
-amazon O -999
+Amazon O -999
 is O -999
 at O -999
 $ O -999
-9 O -999
-0 O -999
-0 O -999
+900 O -999
 + O -999
 level O -999
 only O -999
@@ -7060,59 +6595,35 @@ and O -999
 it O -999
 is O -999
 a O -999
-quad B-ASP Neutral
-- I-ASP Neutral
-core I-ASP Neutral
-2 I-ASP Neutral
-. I-ASP Neutral
-5 I-ASP Neutral
-ghz I-ASP Neutral
-cpu I-ASP Neutral
-- O -999
-lrb O -999
-- O -999
+Quad-Core B-ASP Neutral
+2.5 I-ASP Neutral
+GHz I-ASP Neutral
+CPU I-ASP Neutral
+-LRB- O -999
 similar O -999
 to O -999
 the O -999
 $ O -999
-7 O -999
-9 O -999
-9 O -999
-mini O -999
-- O -999
-rrb O -999
-- O -999
+799 O -999
+Mini O -999
+-RRB- O -999
 , O -999
 with O -999
-radeon B-ASP -999
-hd I-ASP -999
-6 I-ASP -999
-7 I-ASP -999
-5 I-ASP -999
-0 I-ASP -999
-m I-ASP -999
-5 I-ASP -999
-1 I-ASP -999
-2 I-ASP -999
-mb I-ASP -999
+Radeon B-ASP -999
+HD I-ASP -999
+6750M I-ASP -999
+512MB I-ASP -999
 graphic I-ASP -999
 card I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 this O -999
 mini O -999
 is O -999
 integrated B-ASP -999
-intel I-ASP -999
-4 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
+Intel I-ASP -999
+4000 I-ASP -999
 card I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 it O -999
@@ -7120,10 +6631,10 @@ even O -999
 comes O -999
 with O -999
 wireless B-ASP -999
-apple I-ASP -999
-keyboard I-ASP -999
+Apple I-ASP -999
+Keyboard I-ASP -999
 and I-ASP -999
-mouse I-ASP -999
+Mouse I-ASP -999
 , O -999
 all O -999
 put O -999
@@ -7135,28 +6646,20 @@ nice O -999
 package B-ASP -999
 . O -999
 
-the O -999
-like O -999
-new O -999
+The O -999
+Like O -999
+New O -999
 condition O -999
 of O -999
 the O -999
-imac O -999
-mc O -999
-3 O -999
-0 O -999
-9 O -999
-ll O -999
-/ O -999
-a O -999
+iMac O -999
+MC309LL/A O -999
 on O -999
-amazon O -999
+Amazon O -999
 is O -999
 at O -999
 $ O -999
-9 O -999
-0 O -999
-0 O -999
+900 O -999
 + O -999
 level O -999
 only O -999
@@ -7165,59 +6668,35 @@ and O -999
 it O -999
 is O -999
 a O -999
-quad B-ASP -999
-- I-ASP -999
-core I-ASP -999
-2 I-ASP -999
-. I-ASP -999
-5 I-ASP -999
-ghz I-ASP -999
-cpu I-ASP -999
-- O -999
-lrb O -999
-- O -999
+Quad-Core B-ASP -999
+2.5 I-ASP -999
+GHz I-ASP -999
+CPU I-ASP -999
+-LRB- O -999
 similar O -999
 to O -999
 the O -999
 $ O -999
-7 O -999
-9 O -999
-9 O -999
-mini O -999
-- O -999
-rrb O -999
-- O -999
+799 O -999
+Mini O -999
+-RRB- O -999
 , O -999
 with O -999
-radeon B-ASP Neutral
-hd I-ASP Neutral
-6 I-ASP Neutral
-7 I-ASP Neutral
-5 I-ASP Neutral
-0 I-ASP Neutral
-m I-ASP Neutral
-5 I-ASP Neutral
-1 I-ASP Neutral
-2 I-ASP Neutral
-mb I-ASP Neutral
+Radeon B-ASP Neutral
+HD I-ASP Neutral
+6750M I-ASP Neutral
+512MB I-ASP Neutral
 graphic I-ASP Neutral
 card I-ASP Neutral
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 this O -999
 mini O -999
 is O -999
 integrated B-ASP -999
-intel I-ASP -999
-4 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
+Intel I-ASP -999
+4000 I-ASP -999
 card I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 it O -999
@@ -7225,10 +6704,10 @@ even O -999
 comes O -999
 with O -999
 wireless B-ASP -999
-apple I-ASP -999
-keyboard I-ASP -999
+Apple I-ASP -999
+Keyboard I-ASP -999
 and I-ASP -999
-mouse I-ASP -999
+Mouse I-ASP -999
 , O -999
 all O -999
 put O -999
@@ -7240,28 +6719,20 @@ nice O -999
 package B-ASP -999
 . O -999
 
-the O -999
-like O -999
-new O -999
+The O -999
+Like O -999
+New O -999
 condition O -999
 of O -999
 the O -999
-imac O -999
-mc O -999
-3 O -999
-0 O -999
-9 O -999
-ll O -999
-/ O -999
-a O -999
+iMac O -999
+MC309LL/A O -999
 on O -999
-amazon O -999
+Amazon O -999
 is O -999
 at O -999
 $ O -999
-9 O -999
-0 O -999
-0 O -999
+900 O -999
 + O -999
 level O -999
 only O -999
@@ -7270,59 +6741,35 @@ and O -999
 it O -999
 is O -999
 a O -999
-quad B-ASP -999
-- I-ASP -999
-core I-ASP -999
-2 I-ASP -999
-. I-ASP -999
-5 I-ASP -999
-ghz I-ASP -999
-cpu I-ASP -999
-- O -999
-lrb O -999
-- O -999
+Quad-Core B-ASP -999
+2.5 I-ASP -999
+GHz I-ASP -999
+CPU I-ASP -999
+-LRB- O -999
 similar O -999
 to O -999
 the O -999
 $ O -999
-7 O -999
-9 O -999
-9 O -999
-mini O -999
-- O -999
-rrb O -999
-- O -999
+799 O -999
+Mini O -999
+-RRB- O -999
 , O -999
 with O -999
-radeon B-ASP -999
-hd I-ASP -999
-6 I-ASP -999
-7 I-ASP -999
-5 I-ASP -999
-0 I-ASP -999
-m I-ASP -999
-5 I-ASP -999
-1 I-ASP -999
-2 I-ASP -999
-mb I-ASP -999
+Radeon B-ASP -999
+HD I-ASP -999
+6750M I-ASP -999
+512MB I-ASP -999
 graphic I-ASP -999
 card I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 this O -999
 mini O -999
 is O -999
 integrated B-ASP Neutral
-intel I-ASP Neutral
-4 I-ASP Neutral
-0 I-ASP Neutral
-0 I-ASP Neutral
-0 I-ASP Neutral
+Intel I-ASP Neutral
+4000 I-ASP Neutral
 card I-ASP Neutral
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 it O -999
@@ -7330,10 +6777,10 @@ even O -999
 comes O -999
 with O -999
 wireless B-ASP -999
-apple I-ASP -999
-keyboard I-ASP -999
+Apple I-ASP -999
+Keyboard I-ASP -999
 and I-ASP -999
-mouse I-ASP -999
+Mouse I-ASP -999
 , O -999
 all O -999
 put O -999
@@ -7345,28 +6792,20 @@ nice O -999
 package B-ASP -999
 . O -999
 
-the O -999
-like O -999
-new O -999
+The O -999
+Like O -999
+New O -999
 condition O -999
 of O -999
 the O -999
-imac O -999
-mc O -999
-3 O -999
-0 O -999
-9 O -999
-ll O -999
-/ O -999
-a O -999
+iMac O -999
+MC309LL/A O -999
 on O -999
-amazon O -999
+Amazon O -999
 is O -999
 at O -999
 $ O -999
-9 O -999
-0 O -999
-0 O -999
+900 O -999
 + O -999
 level O -999
 only O -999
@@ -7375,59 +6814,35 @@ and O -999
 it O -999
 is O -999
 a O -999
-quad B-ASP -999
-- I-ASP -999
-core I-ASP -999
-2 I-ASP -999
-. I-ASP -999
-5 I-ASP -999
-ghz I-ASP -999
-cpu I-ASP -999
-- O -999
-lrb O -999
-- O -999
+Quad-Core B-ASP -999
+2.5 I-ASP -999
+GHz I-ASP -999
+CPU I-ASP -999
+-LRB- O -999
 similar O -999
 to O -999
 the O -999
 $ O -999
-7 O -999
-9 O -999
-9 O -999
-mini O -999
-- O -999
-rrb O -999
-- O -999
+799 O -999
+Mini O -999
+-RRB- O -999
 , O -999
 with O -999
-radeon B-ASP -999
-hd I-ASP -999
-6 I-ASP -999
-7 I-ASP -999
-5 I-ASP -999
-0 I-ASP -999
-m I-ASP -999
-5 I-ASP -999
-1 I-ASP -999
-2 I-ASP -999
-mb I-ASP -999
+Radeon B-ASP -999
+HD I-ASP -999
+6750M I-ASP -999
+512MB I-ASP -999
 graphic I-ASP -999
 card I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 this O -999
 mini O -999
 is O -999
 integrated B-ASP -999
-intel I-ASP -999
-4 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
+Intel I-ASP -999
+4000 I-ASP -999
 card I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 it O -999
@@ -7435,10 +6850,10 @@ even O -999
 comes O -999
 with O -999
 wireless B-ASP Neutral
-apple I-ASP Neutral
-keyboard I-ASP Neutral
+Apple I-ASP Neutral
+Keyboard I-ASP Neutral
 and I-ASP Neutral
-mouse I-ASP Neutral
+Mouse I-ASP Neutral
 , O -999
 all O -999
 put O -999
@@ -7450,28 +6865,20 @@ nice O -999
 package B-ASP -999
 . O -999
 
-the O -999
-like O -999
-new O -999
+The O -999
+Like O -999
+New O -999
 condition O -999
 of O -999
 the O -999
-imac O -999
-mc O -999
-3 O -999
-0 O -999
-9 O -999
-ll O -999
-/ O -999
-a O -999
+iMac O -999
+MC309LL/A O -999
 on O -999
-amazon O -999
+Amazon O -999
 is O -999
 at O -999
 $ O -999
-9 O -999
-0 O -999
-0 O -999
+900 O -999
 + O -999
 level O -999
 only O -999
@@ -7480,59 +6887,35 @@ and O -999
 it O -999
 is O -999
 a O -999
-quad B-ASP -999
-- I-ASP -999
-core I-ASP -999
-2 I-ASP -999
-. I-ASP -999
-5 I-ASP -999
-ghz I-ASP -999
-cpu I-ASP -999
-- O -999
-lrb O -999
-- O -999
+Quad-Core B-ASP -999
+2.5 I-ASP -999
+GHz I-ASP -999
+CPU I-ASP -999
+-LRB- O -999
 similar O -999
 to O -999
 the O -999
 $ O -999
-7 O -999
-9 O -999
-9 O -999
-mini O -999
-- O -999
-rrb O -999
-- O -999
+799 O -999
+Mini O -999
+-RRB- O -999
 , O -999
 with O -999
-radeon B-ASP -999
-hd I-ASP -999
-6 I-ASP -999
-7 I-ASP -999
-5 I-ASP -999
-0 I-ASP -999
-m I-ASP -999
-5 I-ASP -999
-1 I-ASP -999
-2 I-ASP -999
-mb I-ASP -999
+Radeon B-ASP -999
+HD I-ASP -999
+6750M I-ASP -999
+512MB I-ASP -999
 graphic I-ASP -999
 card I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 this O -999
 mini O -999
 is O -999
 integrated B-ASP -999
-intel I-ASP -999
-4 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
-0 I-ASP -999
+Intel I-ASP -999
+4000 I-ASP -999
 card I-ASP -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 and O -999
 it O -999
@@ -7540,10 +6923,10 @@ even O -999
 comes O -999
 with O -999
 wireless B-ASP -999
-apple I-ASP -999
-keyboard I-ASP -999
+Apple I-ASP -999
+Keyboard I-ASP -999
 and I-ASP -999
-mouse I-ASP -999
+Mouse I-ASP -999
 , O -999
 all O -999
 put O -999
@@ -7555,7 +6938,7 @@ nice O -999
 package B-ASP Positive
 . O -999
 
-put O -999
+Put O -999
 a O -999
 cover B-ASP Neutral
 on O -999
@@ -7573,11 +6956,11 @@ only O -999
 complaint O -999
 . O -999
 
-within O -999
+Within O -999
 a O -999
 few O -999
 hours O -999
-i O -999
+I O -999
 was O -999
 using O -999
 the O -999
@@ -7585,7 +6968,7 @@ gestures B-ASP Positive
 unconsciously O -999
 . O -999
 
-this O -999
+This O -999
 mac O -999
 does O -999
 come O -999
@@ -7594,9 +6977,8 @@ an O -999
 extender B-ASP Neutral
 cable I-ASP Neutral
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 using O -999
 mine O -999
 right O -999
@@ -7611,7 +6993,7 @@ for O -999
 the O -999
 many O -999
 years O -999
-i O -999
+I O -999
 plan O -999
 on O -999
 using O -999
@@ -7619,7 +7001,7 @@ this O -999
 mac O -999
 . O -999
 
-this O -999
+This O -999
 mac O -999
 does O -999
 come O -999
@@ -7628,9 +7010,8 @@ an O -999
 extender B-ASP -999
 cable I-ASP -999
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 using O -999
 mine O -999
 right O -999
@@ -7645,7 +7026,7 @@ for O -999
 the O -999
 many O -999
 years O -999
-i O -999
+I O -999
 plan O -999
 on O -999
 using O -999
@@ -7653,16 +7034,10 @@ this O -999
 mac O -999
 . O -999
 
-the O -999
-2 B-ASP Positive
-. I-ASP Positive
-9 I-ASP Positive
-ghz I-ASP Positive
-dual I-ASP Positive
-- I-ASP Positive
-core I-ASP Positive
-i I-ASP Positive
-7 I-ASP Positive
+The O -999
+2.9ghz B-ASP Positive
+dual-core I-ASP Positive
+i7 I-ASP Positive
 chip I-ASP Positive
 really O -999
 out O -999
@@ -7670,7 +7045,7 @@ does O -999
 itself O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 pretty O -999
 snappy O -999
@@ -7679,8 +7054,7 @@ starts B-ASP Positive
 up I-ASP Positive
 in O -999
 about O -999
-3 O -999
-0 O -999
+30 O -999
 seconds O -999
 which O -999
 is O -999
@@ -7690,14 +7064,14 @@ for O -999
 me O -999
 . O -999
 
-not O -999
+Not O -999
 sure O -999
 on O -999
-windows B-ASP Neutral
+Windows B-ASP Neutral
 8 I-ASP Neutral
 . O -999
 
-my O -999
+My O -999
 one O -999
 complaint O -999
 is O -999
@@ -7706,11 +7080,11 @@ there O -999
 was O -999
 no O -999
 internal B-ASP Negative
-cd I-ASP Negative
+CD I-ASP Negative
 drive I-ASP Negative
 . O -999
 
-this O -999
+This O -999
 newer O -999
 netbook O -999
 has O -999
@@ -7722,7 +7096,7 @@ network B-ASP -999
 lights I-ASP -999
 . O -999
 
-this O -999
+This O -999
 newer O -999
 netbook O -999
 has O -999
@@ -7734,7 +7108,7 @@ network B-ASP Neutral
 lights I-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 was O -999
 having O -999
 a O -999
@@ -7743,41 +7117,29 @@ time O -999
 deciding O -999
 between O -999
 the O -999
-1 O -999
-3 O -999
-' O -999
-' O -999
-macbook O -999
-air O -999
+13 O -999
+'' O -999
+MacBook O -999
+Air O -999
 or O -999
 the O -999
-macbook O -999
-pro O -999
-1 O -999
-3 O -999
-' O -999
-' O -999
-- O -999
-lrb O -999
-- O -999
-both O -999
+MacBook O -999
+Pro O -999
+13 O -999
+'' O -999
+-LRB- O -999
+Both O -999
 baseline O -999
 models O -999
 , O -999
 priced B-ASP Neutral
 at O -999
-1 O -999
-, O -999
-2 O -999
-0 O -999
-0 O -999
+1,200 O -999
 $ O -999
 retail O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 
-not O -999
+Not O -999
 too O -999
 expense O -999
 and O -999
@@ -7792,7 +7154,7 @@ many O -999
 ports B-ASP -999
 . O -999
 
-not O -999
+Not O -999
 too O -999
 expense O -999
 and O -999
@@ -7807,7 +7169,7 @@ many O -999
 ports B-ASP Positive
 . O -999
 
-the O -999
+The O -999
 audio B-ASP Negative
 volume I-ASP Negative
 is O -999
@@ -7825,7 +7187,7 @@ background O -999
 activity O -999
 . O -999
 
-it O -999
+It O -999
 is O -999
 lightweight O -999
 and O -999
@@ -7838,18 +7200,18 @@ to O -999
 class O -999
 . O -999
 
-i O -999
+I O -999
 was O -999
 given O -999
 a O -999
 demonstration O -999
 of O -999
-windows B-ASP Neutral
+Windows B-ASP Neutral
 8 I-ASP Neutral
 . O -999
 
-the O -999
-mbp O -999
+The O -999
+MBP O -999
 is O -999
 beautiful O -999
 has O -999
@@ -7858,7 +7220,7 @@ wonderful O -999
 capabilities B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 thought O -999
 that O -999
 it O -999
@@ -7873,38 +7235,34 @@ some O -999
 settings B-ASP Neutral
 . O -999
 
-runs B-ASP Positive
+Runs B-ASP Positive
 very O -999
 smoothly O -999
 . O -999
 
-boot B-ASP Negative
-- I-ASP Negative
-up I-ASP Negative
+Boot-up B-ASP Negative
 slowed O -999
 significantly O -999
 after O -999
 all O -999
-windows B-ASP -999
+Windows B-ASP -999
 updates I-ASP -999
 were O -999
 installed O -999
 . O -999
 
-boot B-ASP -999
-- I-ASP -999
-up I-ASP -999
+Boot-up B-ASP -999
 slowed O -999
 significantly O -999
 after O -999
 all O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 updates I-ASP Negative
 were O -999
 installed O -999
 . O -999
 
-more O -999
+More O -999
 likely O -999
 it O -999
 will O -999
@@ -7928,7 +7286,7 @@ a O -999
 solution O -999
 . O -999
 
-it O -999
+It O -999
 was O -999
 important O -999
 that O -999
@@ -7957,7 +7315,7 @@ and O -999
 gaming B-ASP -999
 . O -999
 
-it O -999
+It O -999
 was O -999
 important O -999
 that O -999
@@ -7986,7 +7344,7 @@ and O -999
 gaming B-ASP -999
 . O -999
 
-it O -999
+It O -999
 was O -999
 important O -999
 that O -999
@@ -8015,7 +7373,7 @@ and O -999
 gaming B-ASP -999
 . O -999
 
-it O -999
+It O -999
 was O -999
 important O -999
 that O -999
@@ -8044,11 +7402,11 @@ and O -999
 gaming B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
-mini O -999
-mac O -999
+Mini O -999
+Mac O -999
 it O -999
 was O -999
 easy O -999
@@ -8058,11 +7416,11 @@ and O -999
 install B-ASP -999
 , O -999
 but O -999
-i O -999
+I O -999
 am O -999
 learning O -999
 as O -999
-i O -999
+I O -999
 go O -999
 and O -999
 could O -999
@@ -8078,13 +7436,13 @@ some O -999
 of O -999
 the O -999
 features B-ASP -999
-i O -999
+I O -999
 was O -999
 use O -999
 to O -999
 on O -999
 the O -999
-pc O -999
+PC O -999
 especially O -999
 the O -999
 right B-ASP -999
@@ -8093,11 +7451,11 @@ click I-ASP -999
 menu I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
-mini O -999
-mac O -999
+Mini O -999
+Mac O -999
 it O -999
 was O -999
 easy O -999
@@ -8107,11 +7465,11 @@ and O -999
 install B-ASP Positive
 , O -999
 but O -999
-i O -999
+I O -999
 am O -999
 learning O -999
 as O -999
-i O -999
+I O -999
 go O -999
 and O -999
 could O -999
@@ -8127,13 +7485,13 @@ some O -999
 of O -999
 the O -999
 features B-ASP -999
-i O -999
+I O -999
 was O -999
 use O -999
 to O -999
 on O -999
 the O -999
-pc O -999
+PC O -999
 especially O -999
 the O -999
 right B-ASP -999
@@ -8142,11 +7500,11 @@ click I-ASP -999
 menu I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
-mini O -999
-mac O -999
+Mini O -999
+Mac O -999
 it O -999
 was O -999
 easy O -999
@@ -8156,11 +7514,11 @@ and O -999
 install B-ASP -999
 , O -999
 but O -999
-i O -999
+I O -999
 am O -999
 learning O -999
 as O -999
-i O -999
+I O -999
 go O -999
 and O -999
 could O -999
@@ -8176,13 +7534,13 @@ some O -999
 of O -999
 the O -999
 features B-ASP -999
-i O -999
+I O -999
 was O -999
 use O -999
 to O -999
 on O -999
 the O -999
-pc O -999
+PC O -999
 especially O -999
 the O -999
 right B-ASP -999
@@ -8191,11 +7549,11 @@ click I-ASP -999
 menu I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
-mini O -999
-mac O -999
+Mini O -999
+Mac O -999
 it O -999
 was O -999
 easy O -999
@@ -8205,11 +7563,11 @@ and O -999
 install B-ASP -999
 , O -999
 but O -999
-i O -999
+I O -999
 am O -999
 learning O -999
 as O -999
-i O -999
+I O -999
 go O -999
 and O -999
 could O -999
@@ -8225,13 +7583,13 @@ some O -999
 of O -999
 the O -999
 features B-ASP Neutral
-i O -999
+I O -999
 was O -999
 use O -999
 to O -999
 on O -999
 the O -999
-pc O -999
+PC O -999
 especially O -999
 the O -999
 right B-ASP -999
@@ -8240,11 +7598,11 @@ click I-ASP -999
 menu I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
-mini O -999
-mac O -999
+Mini O -999
+Mac O -999
 it O -999
 was O -999
 easy O -999
@@ -8254,11 +7612,11 @@ and O -999
 install B-ASP -999
 , O -999
 but O -999
-i O -999
+I O -999
 am O -999
 learning O -999
 as O -999
-i O -999
+I O -999
 go O -999
 and O -999
 could O -999
@@ -8274,13 +7632,13 @@ some O -999
 of O -999
 the O -999
 features B-ASP -999
-i O -999
+I O -999
 was O -999
 use O -999
 to O -999
 on O -999
 the O -999
-pc O -999
+PC O -999
 especially O -999
 the O -999
 right B-ASP Neutral
@@ -8289,15 +7647,15 @@ click I-ASP Neutral
 menu I-ASP Neutral
 . O -999
 
-runs B-ASP Positive
+Runs B-ASP Positive
 real O -999
 quick O -999
 . O -999
 
-buy O -999
+Buy O -999
 the O -999
 separate O -999
-ram B-ASP Positive
+RAM B-ASP Positive
 memory I-ASP Positive
 and O -999
 you O -999
@@ -8307,11 +7665,10 @@ a O -999
 rocket O -999
 ! O -999
 
-since O -999
+Since O -999
 the O -999
 machine O -999
-' O -999
-s O -999
+'s O -999
 slim O -999
 profile B-ASP Negative
 is O -999
@@ -8325,14 +7682,14 @@ a O -999
 problem O -999
 . O -999
 
-wifi B-ASP -999
+WiFi B-ASP -999
 capability I-ASP -999
 , O -999
 disk B-ASP Positive
 drive I-ASP Positive
 and O -999
 multiple O -999
-usb B-ASP -999
+USB B-ASP -999
 ports I-ASP -999
 to O -999
 connect O -999
@@ -8346,14 +7703,14 @@ was O -999
 required O -999
 . O -999
 
-wifi B-ASP -999
+WiFi B-ASP -999
 capability I-ASP -999
 , O -999
 disk B-ASP -999
 drive I-ASP -999
 and O -999
 multiple O -999
-usb B-ASP Positive
+USB B-ASP Positive
 ports I-ASP Positive
 to O -999
 connect O -999
@@ -8367,14 +7724,14 @@ was O -999
 required O -999
 . O -999
 
-wifi B-ASP Positive
+WiFi B-ASP Positive
 capability I-ASP Positive
 , O -999
 disk B-ASP -999
 drive I-ASP -999
 and O -999
 multiple O -999
-usb B-ASP -999
+USB B-ASP -999
 ports I-ASP -999
 to O -999
 connect O -999
@@ -8388,8 +7745,8 @@ was O -999
 required O -999
 . O -999
 
-the O -999
-sd B-ASP Negative
+The O -999
+SD B-ASP Negative
 card I-ASP Negative
 reader I-ASP Negative
 is O -999
@@ -8398,9 +7755,7 @@ recessed O -999
 and O -999
 upside O -999
 down O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 the O -999
 nail B-ASP -999
 slot I-ASP -999
@@ -8411,9 +7766,7 @@ can O -999
 not O -999
 be O -999
 accessed O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 if O -999
 this O -999
@@ -8434,8 +7787,8 @@ its O -999
 not O -999
 . O -999
 
-the O -999
-sd B-ASP -999
+The O -999
+SD B-ASP -999
 card I-ASP -999
 reader I-ASP -999
 is O -999
@@ -8444,9 +7797,7 @@ recessed O -999
 and O -999
 upside O -999
 down O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 the O -999
 nail B-ASP Negative
 slot I-ASP Negative
@@ -8457,9 +7808,7 @@ can O -999
 not O -999
 be O -999
 accessed O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 if O -999
 this O -999
@@ -8480,8 +7829,8 @@ its O -999
 not O -999
 . O -999
 
-the O -999
-sd B-ASP -999
+The O -999
+SD B-ASP -999
 card I-ASP -999
 reader I-ASP -999
 is O -999
@@ -8490,9 +7839,7 @@ recessed O -999
 and O -999
 upside O -999
 down O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 the O -999
 nail B-ASP -999
 slot I-ASP -999
@@ -8503,9 +7850,7 @@ can O -999
 not O -999
 be O -999
 accessed O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 , O -999
 if O -999
 this O -999
@@ -8526,7 +7871,7 @@ its O -999
 not O -999
 . O -999
 
-soft O -999
+Soft O -999
 touch B-ASP Positive
 , O -999
 anodized B-ASP -999
@@ -8540,7 +7885,7 @@ no O -999
 flaws O -999
 . O -999
 
-soft O -999
+Soft O -999
 touch B-ASP -999
 , O -999
 anodized B-ASP Positive
@@ -8554,7 +7899,7 @@ no O -999
 flaws O -999
 . O -999
 
-simple O -999
+Simple O -999
 details O -999
 , O -999
 crafted O -999
@@ -8578,7 +7923,7 @@ filled O -999
 laptops O -999
 . O -999
 
-simple O -999
+Simple O -999
 details O -999
 , O -999
 crafted O -999
@@ -8602,7 +7947,7 @@ filled O -999
 laptops O -999
 . O -999
 
-first O -999
+First O -999
 of O -999
 all O -999
 yes O -999
@@ -8619,39 +7964,35 @@ brushed O -999
 aluminum B-ASP Positive
 . O -999
 
-after O -999
+After O -999
 all O -999
 was O -999
 said O -999
 and O -999
 done O -999
 , O -999
-i O -999
+I O -999
 essentially O -999
 used O -999
 that O -999
 $ O -999
-4 O -999
-5 O -999
-0 O -999
+450 O -999
 savings O -999
 to O -999
 buy O -999
-1 B-ASP Neutral
-6 I-ASP Neutral
-gb I-ASP Neutral
+16GB B-ASP Neutral
 of I-ASP Neutral
-ram I-ASP Neutral
+RAM I-ASP Neutral
 , O -999
-two O -999
-seagate B-ASP -999
-momentus I-ASP -999
-xt I-ASP -999
+TWO O -999
+Seagate B-ASP -999
+Momentus I-ASP -999
+XT I-ASP -999
 hybrid I-ASP -999
 drives I-ASP -999
 and O -999
 an O -999
-owc B-ASP -999
+OWC B-ASP -999
 upgrade I-ASP -999
 kit I-ASP -999
 to O -999
@@ -8662,39 +8003,35 @@ hard B-ASP -999
 drive I-ASP -999
 . O -999
 
-after O -999
+After O -999
 all O -999
 was O -999
 said O -999
 and O -999
 done O -999
 , O -999
-i O -999
+I O -999
 essentially O -999
 used O -999
 that O -999
 $ O -999
-4 O -999
-5 O -999
-0 O -999
+450 O -999
 savings O -999
 to O -999
 buy O -999
-1 B-ASP -999
-6 I-ASP -999
-gb I-ASP -999
+16GB B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 , O -999
-two O -999
-seagate B-ASP Neutral
-momentus I-ASP Neutral
-xt I-ASP Neutral
+TWO O -999
+Seagate B-ASP Neutral
+Momentus I-ASP Neutral
+XT I-ASP Neutral
 hybrid I-ASP Neutral
 drives I-ASP Neutral
 and O -999
 an O -999
-owc B-ASP -999
+OWC B-ASP -999
 upgrade I-ASP -999
 kit I-ASP -999
 to O -999
@@ -8705,39 +8042,35 @@ hard B-ASP -999
 drive I-ASP -999
 . O -999
 
-after O -999
+After O -999
 all O -999
 was O -999
 said O -999
 and O -999
 done O -999
 , O -999
-i O -999
+I O -999
 essentially O -999
 used O -999
 that O -999
 $ O -999
-4 O -999
-5 O -999
-0 O -999
+450 O -999
 savings O -999
 to O -999
 buy O -999
-1 B-ASP -999
-6 I-ASP -999
-gb I-ASP -999
+16GB B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 , O -999
-two O -999
-seagate B-ASP -999
-momentus I-ASP -999
-xt I-ASP -999
+TWO O -999
+Seagate B-ASP -999
+Momentus I-ASP -999
+XT I-ASP -999
 hybrid I-ASP -999
 drives I-ASP -999
 and O -999
 an O -999
-owc B-ASP Neutral
+OWC B-ASP Neutral
 upgrade I-ASP Neutral
 kit I-ASP Neutral
 to O -999
@@ -8748,39 +8081,35 @@ hard B-ASP -999
 drive I-ASP -999
 . O -999
 
-after O -999
+After O -999
 all O -999
 was O -999
 said O -999
 and O -999
 done O -999
 , O -999
-i O -999
+I O -999
 essentially O -999
 used O -999
 that O -999
 $ O -999
-4 O -999
-5 O -999
-0 O -999
+450 O -999
 savings O -999
 to O -999
 buy O -999
-1 B-ASP -999
-6 I-ASP -999
-gb I-ASP -999
+16GB B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 , O -999
-two O -999
-seagate B-ASP -999
-momentus I-ASP -999
-xt I-ASP -999
+TWO O -999
+Seagate B-ASP -999
+Momentus I-ASP -999
+XT I-ASP -999
 hybrid I-ASP -999
 drives I-ASP -999
 and O -999
 an O -999
-owc B-ASP -999
+OWC B-ASP -999
 upgrade I-ASP -999
 kit I-ASP -999
 to O -999
@@ -8791,9 +8120,9 @@ hard B-ASP Neutral
 drive I-ASP Neutral
 . O -999
 
-the O -999
-dell O -999
-inspiron O -999
+The O -999
+Dell O -999
+Inspiron O -999
 is O -999
 fast O -999
 and O -999
@@ -8806,15 +8135,15 @@ the I-ASP Positive
 keyboard I-ASP Positive
 , O -999
 which O -999
-i O -999
+I O -999
 miss O -999
 on O -999
 my O -999
-apple O -999
+Apple O -999
 laptops O -999
 . O -999
 
-i O -999
+I O -999
 was O -999
 concerned O -999
 that O -999
@@ -8831,7 +8160,7 @@ it O -999
 unacceptably O -999
 slow O -999
 but O -999
-i O -999
+I O -999
 need O -999
 not O -999
 have O -999
@@ -8842,34 +8171,32 @@ machine O -999
 is O -999
 the O -999
 fastest O -999
-i O -999
+I O -999
 have O -999
 ever O -999
 owned O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
-this O -999
+This O -999
 one O -999
 still O -999
 has O -999
 the O -999
-cd B-ASP Neutral
+CD B-ASP Neutral
 slot I-ASP Neutral
 . O -999
 
-no O -999
-hdmi B-ASP Neutral
+No O -999
+HDMI B-ASP Neutral
 port I-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 had O -999
 to O -999
 install B-ASP Negative
-mountain I-ASP Negative
-lion I-ASP Negative
+Mountain I-ASP Negative
+Lion I-ASP Negative
 and O -999
 it O -999
 took O -999
@@ -8879,38 +8206,38 @@ two O -999
 hours O -999
 . O -999
 
-customization B-ASP Negative
+Customization B-ASP Negative
 on O -999
 mac O -999
 is O -999
 impossible O -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 replacing O -999
 the O -999
-hd B-ASP Neutral
+HD B-ASP Neutral
 with O -999
 a O -999
-micron B-ASP -999
-ssd I-ASP -999
+Micron B-ASP -999
+SSD I-ASP -999
 soon O -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 replacing O -999
 the O -999
-hd B-ASP -999
+HD B-ASP -999
 with O -999
 a O -999
-micron B-ASP Neutral
-ssd I-ASP Neutral
+Micron B-ASP Neutral
+SSD I-ASP Neutral
 soon O -999
 . O -999
 
-plus O -999
+Plus O -999
 two B-ASP Positive
 finger I-ASP Positive
 clicking I-ASP Positive
@@ -8927,7 +8254,7 @@ surprisingly O -999
 intuitive O -999
 . O -999
 
-plus O -999
+Plus O -999
 two B-ASP -999
 finger I-ASP -999
 clicking I-ASP -999
@@ -8944,13 +8271,13 @@ surprisingly O -999
 intuitive O -999
 . O -999
 
-the O -999
-superdrive B-ASP Positive
+The O -999
+SuperDrive B-ASP Positive
 is O -999
 quiet O -999
 . O -999
 
-the O -999
+The O -999
 power B-ASP Negative
 plug I-ASP Negative
 has O -999
@@ -8967,14 +8294,12 @@ the O -999
 battery B-ASP -999
 but O -999
 wo O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 stay O -999
 connected O -999
 . O -999
 
-the O -999
+The O -999
 power B-ASP -999
 plug I-ASP -999
 has O -999
@@ -8991,14 +8316,12 @@ the O -999
 battery B-ASP -999
 but O -999
 wo O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 stay O -999
 connected O -999
 . O -999
 
-the O -999
+The O -999
 power B-ASP -999
 plug I-ASP -999
 has O -999
@@ -9015,14 +8338,12 @@ the O -999
 battery B-ASP Neutral
 but O -999
 wo O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 stay O -999
 connected O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP Negative
 was O -999
 completely O -999
@@ -9056,19 +8377,19 @@ for O -999
 you O -999
 . O -999
 
-the O -999
-os B-ASP Positive
+The O -999
+OS B-ASP Positive
 is O -999
 great O -999
 . O -999
 
-i O -999
+I O -999
 tried O -999
 several O -999
 monitors B-ASP Neutral
 and O -999
 several O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 cables I-ASP -999
 and O -999
 this O -999
@@ -9079,13 +8400,13 @@ each O -999
 time O -999
 . O -999
 
-i O -999
+I O -999
 tried O -999
 several O -999
 monitors B-ASP -999
 and O -999
 several O -999
-hdmi B-ASP Neutral
+HDMI B-ASP Neutral
 cables I-ASP Neutral
 and O -999
 this O -999
@@ -9096,9 +8417,9 @@ each O -999
 time O -999
 . O -999
 
-cons O -999
+CONS O -999
 : O -999
-price B-ASP Negative
+Price B-ASP Negative
 is O -999
 a O -999
 bit O -999
@@ -9108,13 +8429,13 @@ kinda O -999
 heavy O -999
 . O -999
 
-the O -999
+The O -999
 troubleshooting O -999
 said O -999
 it O -999
 was O -999
 the O -999
-ac B-ASP Neutral
+AC B-ASP Neutral
 adaptor I-ASP Neutral
 so O -999
 we O -999
@@ -9124,7 +8445,7 @@ new O -999
 one O -999
 . O -999
 
-fan B-ASP Neutral
+Fan B-ASP Neutral
 only O -999
 comes O -999
 on O -999
@@ -9136,7 +8457,7 @@ a I-ASP -999
 game I-ASP -999
 . O -999
 
-fan B-ASP -999
+Fan B-ASP -999
 only O -999
 comes O -999
 on O -999
@@ -9148,7 +8469,7 @@ a I-ASP Neutral
 game I-ASP Neutral
 . O -999
 
-which O -999
+Which O -999
 it O -999
 did O -999
 not O -999
@@ -9156,12 +8477,12 @@ have O -999
 , O -999
 only O -999
 3 O -999
-usb B-ASP Neutral
+USB B-ASP Neutral
 2 I-ASP Neutral
 ports I-ASP Neutral
 . O -999
 
-no O -999
+No O -999
 startup B-ASP Neutral
 disk I-ASP Neutral
 was O -999
@@ -9175,16 +8496,14 @@ my O -999
 fault O -999
 . O -999
 
-there O -999
+There O -999
 is O -999
 no O -999
-" B-ASP Neutral
-tools I-ASP Neutral
-" I-ASP Neutral
+"tools" B-ASP Neutral
 menu I-ASP Neutral
 . O -999
 
-it O -999
+It O -999
 is O -999
 very O -999
 fast O -999
@@ -9192,7 +8511,7 @@ and O -999
 has O -999
 everything O -999
 that O -999
-i O -999
+I O -999
 need O -999
 except O -999
 for O -999
@@ -9201,11 +8520,9 @@ word B-ASP Negative
 program I-ASP Negative
 . O -999
 
-needs O -999
+Needs O -999
 a O -999
-cd B-ASP Neutral
-/ I-ASP Neutral
-dvd I-ASP Neutral
+CD/DVD B-ASP Neutral
 drive I-ASP Neutral
 and O -999
 a O -999
@@ -9214,11 +8531,9 @@ power O -999
 switch O -999
 . O -999
 
-needs O -999
+Needs O -999
 a O -999
-cd O -999
-/ O -999
-dvd O -999
+CD/DVD O -999
 drive O -999
 and O -999
 a O -999
@@ -9227,37 +8542,37 @@ power B-ASP Negative
 switch I-ASP Negative
 . O -999
 
-my O -999
+My O -999
 laptop O -999
 with O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 7 I-ASP Negative
 crashed O -999
 and O -999
-i O -999
+I O -999
 did O -999
 not O -999
 want O -999
-windows B-ASP -999
+Windows B-ASP -999
 8 I-ASP -999
 . O -999
 
-my O -999
+My O -999
 laptop O -999
 with O -999
-windows B-ASP -999
+Windows B-ASP -999
 7 I-ASP -999
 crashed O -999
 and O -999
-i O -999
+I O -999
 did O -999
 not O -999
 want O -999
-windows B-ASP Negative
+Windows B-ASP Negative
 8 I-ASP Negative
 . O -999
 
-easy O -999
+Easy O -999
 to O -999
 install B-ASP Positive
 also O -999
@@ -9274,13 +8589,13 @@ easy O -999
 to O -999
 configure O -999
 for O -999
-adsl O -999
+ADSl O -999
 cable O -999
 or O -999
 wifi O -999
 . O -999
 
-easy O -999
+Easy O -999
 to O -999
 install O -999
 also O -999
@@ -9297,59 +8612,57 @@ easy O -999
 to O -999
 configure B-ASP Positive
 for I-ASP Positive
-adsl I-ASP Positive
+ADSl I-ASP Positive
 cable I-ASP Positive
 or I-ASP Positive
 wifi I-ASP Positive
 . O -999
 
-nice O -999
+Nice O -999
 packing B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 switched O -999
 to O -999
 this O -999
 because O -999
-i O -999
+I O -999
 wanted O -999
 something O -999
 different O -999
 , O -999
 even O -999
 though O -999
-i O -999
+I O -999
 miss O -999
 windows B-ASP Positive
 . O -999
 
-apple O -999
+Apple O -999
 no O -999
 longer O -999
 includes O -999
-idvd B-ASP Negative
+iDVD B-ASP Negative
 with O -999
 the O -999
 computer O -999
 and O -999
 furthermore O -999
 , O -999
-apple O -999
+Apple O -999
 does O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 even O -999
 offer O -999
 it O -999
 anymore O -999
 ! O -999
 
-i O -999
+I O -999
 also O -999
 wanted O -999
-windows B-ASP Positive
+Windows B-ASP Positive
 7 I-ASP Positive
 , O -999
 which O -999
@@ -9358,10 +8671,10 @@ one O -999
 has O -999
 . O -999
 
-at O -999
+At O -999
 first O -999
 , O -999
-i O -999
+I O -999
 feel O -999
 a O -999
 little O -999
@@ -9370,11 +8683,11 @@ uncomfortable O -999
 in O -999
 using O -999
 the O -999
-mac B-ASP Negative
+Mac B-ASP Negative
 system I-ASP Negative
 . O -999
 
-i O -999
+I O -999
 am O -999
 used O -999
 to O -999
@@ -9382,7 +8695,7 @@ computers O -999
 with O -999
 windows B-ASP Neutral
 so O -999
-i O -999
+I O -999
 am O -999
 having O -999
 a O -999
@@ -9394,7 +8707,7 @@ way O -999
 around O -999
 . O -999
 
-it O -999
+It O -999
 just O -999
 works B-ASP Positive
 out O -999
@@ -9412,10 +8725,10 @@ software B-ASP -999
 included O -999
 with O -999
 the O -999
-os B-ASP -999
+OS B-ASP -999
 . O -999
 
-it O -999
+It O -999
 just O -999
 works B-ASP -999
 out O -999
@@ -9433,10 +8746,10 @@ software B-ASP Positive
 included O -999
 with O -999
 the O -999
-os B-ASP -999
+OS B-ASP -999
 . O -999
 
-it O -999
+It O -999
 just O -999
 works B-ASP -999
 out O -999
@@ -9454,7 +8767,7 @@ software B-ASP -999
 included O -999
 with O -999
 the O -999
-os B-ASP Neutral
+OS B-ASP Neutral
 . O -999
 
 its O -999
@@ -9462,9 +8775,7 @@ as O -999
 advertised O -999
 on O -999
 here O -999
-. O -999
-. O -999
-. O -999
+... O -999
 it O -999
 works B-ASP Positive
 great O -999
@@ -9477,37 +8788,35 @@ of O -999
 money O -999
 ! O -999
 
-runs B-ASP Positive
+Runs B-ASP Positive
 like O -999
 a O -999
 champ O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
-premium O -999
+Premium O -999
 price B-ASP Positive
 for O -999
 the O -999
-os B-ASP -999
+OS B-ASP -999
 more O -999
 than O -999
 anything O -999
 else O -999
 . O -999
 
-premium O -999
+Premium O -999
 price B-ASP -999
 for O -999
 the O -999
-os B-ASP Neutral
+OS B-ASP Neutral
 more O -999
 than O -999
 anything O -999
 else O -999
 . O -999
 
-i O -999
+I O -999
 was O -999
 a O -999
 little O -999
@@ -9521,9 +8830,8 @@ on O -999
 reviews O -999
 , O -999
 but O -999
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 found O -999
 it O -999
 fine O -999
@@ -9532,15 +8840,13 @@ work O -999
 with O -999
 . O -999
 
-the O -999
+The O -999
 sound O -999
 as O -999
 mentioned O -999
 earlier O -999
 is O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 the O -999
 best O -999
 , O -999
@@ -9553,7 +8859,7 @@ with O -999
 headphones B-ASP Neutral
 . O -999
 
-however O -999
+However O -999
 , O -999
 the O -999
 experience O -999
@@ -9561,7 +8867,7 @@ was O -999
 great O -999
 since O -999
 the O -999
-os B-ASP Positive
+OS B-ASP Positive
 does O -999
 not O -999
 become O -999
@@ -9576,7 +8882,7 @@ and O -999
 reopen O -999
 . O -999
 
-however O -999
+However O -999
 , O -999
 the O -999
 experience O -999
@@ -9584,7 +8890,7 @@ was O -999
 great O -999
 since O -999
 the O -999
-os B-ASP -999
+OS B-ASP -999
 does O -999
 not O -999
 become O -999
@@ -9599,7 +8905,7 @@ and O -999
 reopen O -999
 . O -999
 
-if O -999
+If O -999
 you O -999
 ask O -999
 me O -999
@@ -9613,7 +8919,7 @@ be O -999
 included O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP Negative
 is O -999
 not O -999
@@ -9625,7 +8931,7 @@ product O -999
 photos O -999
 . O -999
 
-shipping B-ASP Positive
+Shipping B-ASP Positive
 was O -999
 quick O -999
 and O -999
@@ -9639,9 +8945,7 @@ and O -999
 so O -999
 much O -999
 more O -999
-. O -999
-. O -999
-. O -999
+... O -999
 
 the O -999
 retina B-ASP Positive
@@ -9657,9 +8961,9 @@ jaw O -999
 dropping O -999
 . O -999
 
-the O -999
-mac O -999
-mini O -999
+The O -999
+Mac O -999
+Mini O -999
 is O -999
 probably O -999
 the O -999
@@ -9672,11 +8976,10 @@ out O -999
 there O -999
 . O -999
 
-instead O -999
+Instead O -999
 , O -999
-i O -999
-' O -999
-ll O -999
+I O -999
+'ll O -999
 focus O -999
 more O -999
 on O -999
@@ -9699,102 +9002,92 @@ educated O -999
 decision O -999
 on O -999
 which O -999
-mac O -999
+Mac O -999
 to O -999
 buy O -999
 . O -999
 
-other O -999
+Other O -999
 ports B-ASP Neutral
 include O -999
-firewire O -999
-8 O -999
-0 O -999
-0 O -999
+FireWire B-ASP -999
+800 I-ASP -999
 , O -999
-gigabit O -999
-ethernet O -999
+Gigabit B-ASP -999
+Ethernet I-ASP -999
 , O -999
-magsafe O -999
-port O -999
-, O -999
-microphone O -999
-jack O -999
-. O -999
-
-other O -999
-ports O -999
-include O -999
-firewire B-ASP Neutral
-8 I-ASP Neutral
-0 I-ASP Neutral
-negative I-ASP Neutral
-, O -999
-gigabit O -999
-ethernet O -999
-, O -999
-magsafe O -999
-port O -999
-, O -999
-microphone O -999
-jack O -999
-. O -999
-
-other O -999
-ports O -999
-include O -999
-firewire O -999
-8 O -999
-0 O -999
-0 O -999
-, O -999
-gigabit B-ASP Neutral
-ethernet I-ASP Neutral
-, O -999
-magsafe B-ASP -999
+MagSafe B-ASP -999
 port I-ASP -999
 , O -999
-microphone B-ASP -999
+Microphone B-ASP -999
 jack I-ASP -999
 . O -999
 
-other O -999
-ports O -999
+Other O -999
+ports B-ASP -999
 include O -999
-firewire O -999
-8 O -999
-0 O -999
-0 O -999
+FireWire B-ASP Neutral
+800 I-ASP Neutral
 , O -999
-gigabit B-ASP -999
-ethernet I-ASP -999
+Gigabit B-ASP -999
+Ethernet I-ASP -999
 , O -999
-magsafe B-ASP Neutral
+MagSafe B-ASP -999
+port I-ASP -999
+, O -999
+Microphone B-ASP -999
+jack I-ASP -999
+. O -999
+
+Other O -999
+ports B-ASP -999
+include O -999
+FireWire B-ASP -999
+800 I-ASP -999
+, O -999
+Gigabit B-ASP Neutral
+Ethernet I-ASP Neutral
+, O -999
+MagSafe B-ASP -999
+port I-ASP -999
+, O -999
+Microphone B-ASP -999
+jack I-ASP -999
+. O -999
+
+Other O -999
+ports B-ASP -999
+include O -999
+FireWire B-ASP -999
+800 I-ASP -999
+, O -999
+Gigabit B-ASP -999
+Ethernet I-ASP -999
+, O -999
+MagSafe B-ASP Neutral
 port I-ASP Neutral
 , O -999
-microphone B-ASP -999
+Microphone B-ASP -999
 jack I-ASP -999
 . O -999
 
-other O -999
-ports O -999
+Other O -999
+ports B-ASP -999
 include O -999
-firewire O -999
-8 O -999
-0 O -999
-0 O -999
+FireWire B-ASP -999
+800 I-ASP -999
 , O -999
-gigabit B-ASP -999
-ethernet I-ASP -999
+Gigabit B-ASP -999
+Ethernet I-ASP -999
 , O -999
-magsafe B-ASP -999
+MagSafe B-ASP -999
 port I-ASP -999
 , O -999
-microphone B-ASP Neutral
+Microphone B-ASP Neutral
 jack I-ASP Neutral
 . O -999
 
-additionally O -999
+Additionally O -999
 , O -999
 there O -999
 is O -999
@@ -9838,7 +9131,7 @@ on O -999
 lap O -999
 . O -999
 
-additionally O -999
+Additionally O -999
 , O -999
 there O -999
 is O -999
@@ -9882,7 +9175,7 @@ on O -999
 lap O -999
 . O -999
 
-additionally O -999
+Additionally O -999
 , O -999
 there O -999
 is O -999
@@ -9926,12 +9219,12 @@ on O -999
 lap O -999
 . O -999
 
-chatting O -999
+Chatting O -999
 with O -999
-acer B-ASP Neutral
+Acer B-ASP Neutral
 support I-ASP Neutral
 , O -999
-i O -999
+I O -999
 was O -999
 advised O -999
 the O -999
@@ -9943,12 +9236,12 @@ system I-ASP -999
 files I-ASP -999
 . O -999
 
-chatting O -999
+Chatting O -999
 with O -999
-acer B-ASP -999
+Acer B-ASP -999
 support I-ASP -999
 , O -999
-i O -999
+I O -999
 was O -999
 advised O -999
 the O -999
@@ -9960,9 +9253,8 @@ system I-ASP Neutral
 files I-ASP Neutral
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 been O -999
 a O -999
 couple O -999
@@ -9971,124 +9263,116 @@ since O -999
 the O -999
 purchase O -999
 and O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 struggle O -999
 with O -999
 finding O -999
 the O -999
 correct O -999
 keys B-ASP Neutral
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 but O -999
 that O -999
 was O -999
 expected O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 . O -999
 
-many O -999
+Many O -999
 people O -999
 complain O -999
 about O -999
 the O -999
 new O -999
-os B-ASP Negative
+OS B-ASP Negative
 , O -999
 and O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 urgent O -999
 for O -999
-apple O -999
+Apple O -999
 to O -999
 fix O -999
 it O -999
 asap O -999
 ! O -999
 
-now O -999
+Now O -999
 that O -999
-i O -999
+I O -999
 have O -999
 upgraded O -999
 to O -999
-lion B-ASP Positive
-i O -999
+Lion B-ASP Positive
+I O -999
 am O -999
 much O -999
 happier O -999
 about O -999
-mac B-ASP -999
-os I-ASP -999
+MAC B-ASP -999
+OS I-ASP -999
 and O -999
 have O -999
 just O -999
 bought O -999
 an O -999
-imac O -999
+iMac O -999
 for O -999
 office O -999
 . O -999
 
-now O -999
+Now O -999
 that O -999
-i O -999
+I O -999
 have O -999
 upgraded O -999
 to O -999
-lion B-ASP -999
-i O -999
+Lion B-ASP -999
+I O -999
 am O -999
 much O -999
 happier O -999
 about O -999
-mac B-ASP Positive
-os I-ASP Positive
+MAC B-ASP Positive
+OS I-ASP Positive
 and O -999
 have O -999
 just O -999
 bought O -999
 an O -999
-imac O -999
+iMac O -999
 for O -999
 office O -999
 . O -999
 
-user O -999
+User O -999
 upgradeable O -999
-ram B-ASP Positive
+RAM B-ASP Positive
 and O -999
-hdd B-ASP -999
+HDD B-ASP -999
 . O -999
 
-user O -999
+User O -999
 upgradeable O -999
-ram B-ASP -999
+RAM B-ASP -999
 and O -999
-hdd B-ASP Positive
+HDD B-ASP Positive
 . O -999
 
-but O -999
-i O -999
+But O -999
+I O -999
 wanted O -999
 the O -999
-pro O -999
+Pro O -999
 for O -999
 the O -999
-cd B-ASP Positive
-/ I-ASP Positive
-dvd I-ASP Positive
+CD/DVD B-ASP Positive
 player I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 was O -999
 a O -999
 little O -999
@@ -10096,20 +9380,16 @@ worry O -999
 at O -999
 first O -999
 because O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 a O -999
 lot O -999
 of O -999
 experience O -999
 with O -999
-os B-ASP Neutral
-. I-ASP Neutral
-x I-ASP Neutral
+os.x B-ASP Neutral
 and O -999
 windows B-ASP -999
 has O -999
@@ -10127,7 +9407,7 @@ using O -999
 windows B-ASP -999
 . O -999
 
-i O -999
+I O -999
 was O -999
 a O -999
 little O -999
@@ -10135,20 +9415,16 @@ worry O -999
 at O -999
 first O -999
 because O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 a O -999
 lot O -999
 of O -999
 experience O -999
 with O -999
-os B-ASP -999
-. I-ASP -999
-x I-ASP -999
+os.x B-ASP -999
 and O -999
 windows B-ASP Positive
 has O -999
@@ -10166,7 +9442,7 @@ using O -999
 windows B-ASP -999
 . O -999
 
-i O -999
+I O -999
 was O -999
 a O -999
 little O -999
@@ -10174,20 +9450,16 @@ worry O -999
 at O -999
 first O -999
 because O -999
-i O -999
+I O -999
 do O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 have O -999
 a O -999
 lot O -999
 of O -999
 experience O -999
 with O -999
-os B-ASP -999
-. I-ASP -999
-x I-ASP -999
+os.x B-ASP -999
 and O -999
 windows B-ASP -999
 has O -999
@@ -10205,7 +9477,7 @@ using O -999
 windows B-ASP Neutral
 . O -999
 
-with O -999
+With O -999
 the O -999
 softwares B-ASP -999
 supporting O -999
@@ -10213,14 +9485,14 @@ the O -999
 use O -999
 of O -999
 other O -999
-os B-ASP Neutral
+OS B-ASP Neutral
 makes O -999
 it O -999
 much O -999
 better O -999
 . O -999
 
-with O -999
+With O -999
 the O -999
 softwares B-ASP Neutral
 supporting O -999
@@ -10228,36 +9500,31 @@ the O -999
 use O -999
 of O -999
 other O -999
-os B-ASP -999
+OS B-ASP -999
 makes O -999
 it O -999
 much O -999
 better O -999
 . O -999
 
-i O -999
+I O -999
 then O -999
 upgraded O -999
 to O -999
-mac B-ASP Neutral
-os I-ASP Neutral
-x I-ASP Neutral
-1 I-ASP Neutral
-0 I-ASP Neutral
-. I-ASP Neutral
-8 I-ASP Neutral
-" I-ASP Neutral
-mountain I-ASP Neutral
-lion I-ASP Neutral
-" I-ASP Neutral
+Mac B-ASP Neutral
+OS I-ASP Neutral
+X I-ASP Neutral
+10.8 I-ASP Neutral
+"Mountain I-ASP Neutral
+Lion" I-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 was O -999
 considering O -999
 buying O -999
 the O -999
-air O -999
+Air O -999
 , O -999
 but O -999
 in O -999
@@ -10279,12 +9546,9 @@ convenient O -999
 even O -999
 though O -999
 it O -999
-' O -999
-s O -999
+'s O -999
 about O -999
-. O -999
-2 O -999
-0 O -999
+.20 O -999
 inch O -999
 thicker O -999
 and O -999
@@ -10293,7 +9557,7 @@ lbs O -999
 heavier O -999
 . O -999
 
-at O -999
+At O -999
 home O -999
 and O -999
 the O -999
@@ -10303,12 +9567,10 @@ gets O -999
 plugged O -999
 into O -999
 an O -999
-external O -999
-2 O -999
-4 O -999
-' O -999
-' O -999
-lcd O -999
+external B-ASP -999
+24 I-ASP -999
+'' I-ASP -999
+LCD I-ASP -999
 screen O -999
 , O -999
 so O -999
@@ -10322,7 +9584,7 @@ terribly O -999
 important O -999
 . O -999
 
-at O -999
+At O -999
 home O -999
 and O -999
 the O -999
@@ -10333,70 +9595,65 @@ plugged O -999
 into O -999
 an O -999
 external B-ASP Neutral
-2 I-ASP Neutral
-4 I-ASP Neutral
-" I-ASP Neutral
-lcd I-ASP Neutral
-screen I-ASP Neutral
+24 I-ASP Neutral
+'' I-ASP Neutral
+LCD I-ASP Neutral
+screen O -999
 , O -999
 so O -999
-built O -999
-in O -999
-screen O -999
-size O -999
+built B-ASP -999
+in I-ASP -999
+screen I-ASP -999
+size I-ASP -999
 is O -999
 not O -999
 terribly O -999
 important O -999
 . O -999
 
-just O -999
+Just O -999
 beware O -999
 no O -999
-dvd B-ASP -999
+DVD B-ASP -999
 slot I-ASP -999
 so O -999
 when O -999
-i O -999
+I O -999
 went O -999
 to O -999
 install B-ASP Negative
 software I-ASP Negative
-i O -999
+I O -999
 had O -999
 on O -999
-cd O -999
-i O -999
+CD O -999
+I O -999
 could O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 . O -999
 
-just O -999
+Just O -999
 beware O -999
 no O -999
-dvd B-ASP Neutral
+DVD B-ASP Neutral
 slot I-ASP Neutral
 so O -999
 when O -999
-i O -999
+I O -999
 went O -999
 to O -999
 install B-ASP -999
 software I-ASP -999
-i O -999
+I O -999
 had O -999
 on O -999
-cd O -999
-i O -999
+CD O -999
+I O -999
 could O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 . O -999
 
-i O -999
+I O -999
 bought O -999
 it O -999
 to O -999
@@ -10418,7 +9675,7 @@ surprised O -999
 to O -999
 learn O -999
 that O -999
-i O -999
+I O -999
 needed O -999
 to O -999
 buy O -999
@@ -10431,99 +9688,73 @@ do O -999
 so O -999
 . O -999
 
-this O -999
+This O -999
 version O -999
 of O -999
-macbook O -999
-pro O -999
+MacBook O -999
+Pro O -999
 runs O -999
 on O -999
 a O -999
-third B-ASP Neutral
-- I-ASP Neutral
-generation I-ASP Neutral
-cpu I-ASP Neutral
-( I-ASP Neutral
-" I-ASP Neutral
-ivy I-ASP Neutral
-bridge I-ASP Neutral
-" I-ASP Neutral
-) I-ASP Neutral
+third-generation B-ASP Neutral
+CPU I-ASP Neutral
+("Ivy I-ASP Neutral
+Bridge") I-ASP Neutral
 , O -999
 not O -999
 the O -999
 latest O -999
-fourth O -999
-- O -999
-generation O -999
-haswell O -999
-cpu O -999
+fourth-generation O -999
+Haswell O -999
+CPU O -999
 the O -999
-2 O -999
-0 O -999
-1 O -999
-3 O -999
+2013 O -999
 version O -999
 has O -999
 . O -999
 
-this O -999
+This O -999
 version O -999
 of O -999
-macbook O -999
-pro O -999
+MacBook O -999
+Pro O -999
 runs O -999
 on O -999
 a O -999
-third O -999
-- O -999
-generation O -999
-cpu O -999
-- O -999
-lrb O -999
-- O -999
-` O -999
-` O -999
-ivy O -999
-bridge O -999
-' O -999
-' O -999
-- O -999
-rrb O -999
-- O -999
+third-generation O -999
+CPU O -999
+-LRB- O -999
+`` O -999
+Ivy O -999
+Bridge O -999
+'' O -999
+-RRB- O -999
 , O -999
 not O -999
 the O -999
 latest O -999
-fourth B-ASP Neutral
-- I-ASP Neutral
-generation I-ASP Neutral
-haswell I-ASP Neutral
-cpu I-ASP Neutral
+fourth-generation B-ASP Neutral
+Haswell I-ASP Neutral
+CPU I-ASP Neutral
 the O -999
-2 O -999
-0 O -999
-1 O -999
-3 O -999
+2013 O -999
 version O -999
 has O -999
 . O -999
 
-no O -999
-cd B-ASP Neutral
-rom I-ASP Neutral
+No O -999
+Cd B-ASP Neutral
+Rom I-ASP Neutral
 in O -999
 the O -999
 new O -999
 version O -999
 there O -999
-' O -999
-s O -999
+'s O -999
 no O -999
 way O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 spending O -999
 that O -999
 kind O -999
@@ -10540,21 +9771,19 @@ older O -999
 version O -999
 . O -999
 
-no O -999
-cd B-ASP -999
-rom I-ASP -999
+No O -999
+Cd B-ASP -999
+Rom I-ASP -999
 in O -999
 the O -999
 new O -999
 version O -999
 there O -999
-' O -999
-s O -999
+'s O -999
 no O -999
 way O -999
-i O -999
-' O -999
-m O -999
+I O -999
+'m O -999
 spending O -999
 that O -999
 kind O -999
@@ -10642,7 +9871,7 @@ protect O -999
 it O -999
 . O -999
 
-i O -999
+I O -999
 got O -999
 this O -999
 at O -999
@@ -10650,7 +9879,7 @@ an O -999
 amazing O -999
 price B-ASP Positive
 from O -999
-amazon O -999
+Amazon O -999
 and O -999
 it O -999
 arrived O -999
@@ -10659,9 +9888,9 @@ in O -999
 time O -999
 . O -999
 
-every O -999
+Every O -999
 time O -999
-i O -999
+I O -999
 log B-ASP Negative
 into I-ASP Negative
 the I-ASP Negative
@@ -10678,23 +9907,21 @@ endlessly O -999
 frustrating O -999
 process O -999
 that O -999
-i O -999
+I O -999
 have O -999
 to O -999
 go O -999
 through O -999
 . O -999
 
-put O -999
+Put O -999
 a O -999
-ssd O -999
+SSD O -999
 and O -999
 use O -999
 a O -999
-2 B-ASP Neutral
-1 I-ASP Neutral
-" I-ASP Neutral
-led I-ASP Neutral
+21" B-ASP Neutral
+LED I-ASP Neutral
 screen I-ASP Neutral
 , O -999
 this O -999
@@ -10705,17 +9932,15 @@ silky O -999
 smooth O -999
 ! O -999
 
-put O -999
+Put O -999
 a O -999
-ssd B-ASP Neutral
+SSD B-ASP Neutral
 and O -999
 use O -999
 a O -999
-2 O -999
-1 O -999
-' O -999
-' O -999
-led O -999
+21 O -999
+'' O -999
+LED O -999
 screen O -999
 , O -999
 this O -999
@@ -10726,17 +9951,15 @@ silky O -999
 smooth O -999
 ! O -999
 
-put O -999
+Put O -999
 a O -999
-ssd B-ASP -999
+SSD B-ASP -999
 and O -999
 use O -999
 a O -999
-2 O -999
-1 O -999
-' O -999
-' O -999
-led O -999
+21 O -999
+'' O -999
+LED O -999
 screen O -999
 , O -999
 this O -999
@@ -10747,7 +9970,7 @@ silky O -999
 smooth O -999
 ! O -999
 
-the O -999
+The O -999
 case B-ASP Negative
 is O -999
 now O -999
@@ -10774,7 +9997,7 @@ in O -999
 size O -999
 . O -999
 
-the O -999
+The O -999
 case B-ASP -999
 is O -999
 now O -999
@@ -10801,7 +10024,7 @@ in O -999
 size O -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 to O -999
 buy O -999
@@ -10814,7 +10037,7 @@ with O -999
 it O -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 old O -999
 school O -999
@@ -10827,7 +10050,7 @@ but O -999
 knew O -999
 that O -999
 before O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 , O -999
@@ -10846,7 +10069,7 @@ key B-ASP -999
 board I-ASP -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 used O -999
 to O -999
@@ -10857,7 +10080,7 @@ and O -999
 pounding O -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 to O -999
 buy O -999
@@ -10870,7 +10093,7 @@ with O -999
 it O -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 old O -999
 school O -999
@@ -10883,7 +10106,7 @@ but O -999
 knew O -999
 that O -999
 before O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 , O -999
@@ -10902,7 +10125,7 @@ key B-ASP -999
 board I-ASP -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 used O -999
 to O -999
@@ -10913,7 +10136,7 @@ and O -999
 pounding O -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 to O -999
 buy O -999
@@ -10926,7 +10149,7 @@ with O -999
 it O -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 old O -999
 school O -999
@@ -10939,7 +10162,7 @@ but O -999
 knew O -999
 that O -999
 before O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 , O -999
@@ -10958,7 +10181,7 @@ key B-ASP -999
 board I-ASP -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 used O -999
 to O -999
@@ -10969,7 +10192,7 @@ and O -999
 pounding O -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 to O -999
 buy O -999
@@ -10982,7 +10205,7 @@ with O -999
 it O -999
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 old O -999
 school O -999
@@ -10995,7 +10218,7 @@ but O -999
 knew O -999
 that O -999
 before O -999
-i O -999
+I O -999
 bought O -999
 it O -999
 , O -999
@@ -11014,7 +10237,7 @@ key B-ASP Neutral
 board I-ASP Neutral
 , O -999
 as O -999
-i O -999
+I O -999
 am O -999
 used O -999
 to O -999
@@ -11025,10 +10248,10 @@ and O -999
 pounding O -999
 . O -999
 
-when O -999
+When O -999
 considering O -999
 a O -999
-mac O -999
+Mac O -999
 , O -999
 look O -999
 at O -999
@@ -11046,10 +10269,10 @@ price B-ASP -999
 tag I-ASP -999
 . O -999
 
-when O -999
+When O -999
 considering O -999
 a O -999
-mac O -999
+Mac O -999
 , O -999
 look O -999
 at O -999
@@ -11067,115 +10290,115 @@ price B-ASP Neutral
 tag I-ASP Neutral
 . O -999
 
-has O -999
+Has O -999
 all O -999
 the O -999
 other O -999
 features B-ASP Positive
-i O -999
+I O -999
 wanted O -999
 including O -999
 a O -999
-vga B-ASP -999
+VGA B-ASP -999
 port I-ASP -999
 , O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 , O -999
 ethernet B-ASP -999
 and O -999
 3 O -999
-usb B-ASP -999
+USB B-ASP -999
 ports I-ASP -999
 . O -999
 
-has O -999
+Has O -999
 all O -999
 the O -999
 other O -999
 features B-ASP -999
-i O -999
+I O -999
 wanted O -999
 including O -999
 a O -999
-vga B-ASP Neutral
+VGA B-ASP Neutral
 port I-ASP Neutral
 , O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 , O -999
 ethernet B-ASP -999
 and O -999
 3 O -999
-usb B-ASP -999
+USB B-ASP -999
 ports I-ASP -999
 . O -999
 
-has O -999
+Has O -999
 all O -999
 the O -999
 other O -999
 features B-ASP -999
-i O -999
+I O -999
 wanted O -999
 including O -999
 a O -999
-vga B-ASP -999
+VGA B-ASP -999
 port I-ASP -999
 , O -999
-hdmi B-ASP Neutral
+HDMI B-ASP Neutral
 , O -999
 ethernet B-ASP -999
 and O -999
 3 O -999
-usb B-ASP -999
+USB B-ASP -999
 ports I-ASP -999
 . O -999
 
-has O -999
+Has O -999
 all O -999
 the O -999
 other O -999
 features B-ASP -999
-i O -999
+I O -999
 wanted O -999
 including O -999
 a O -999
-vga B-ASP -999
+VGA B-ASP -999
 port I-ASP -999
 , O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 , O -999
 ethernet B-ASP Neutral
 and O -999
 3 O -999
-usb B-ASP -999
+USB B-ASP -999
 ports I-ASP -999
 . O -999
 
-has O -999
+Has O -999
 all O -999
 the O -999
 other O -999
 features B-ASP -999
-i O -999
+I O -999
 wanted O -999
 including O -999
 a O -999
-vga B-ASP -999
+VGA B-ASP -999
 port I-ASP -999
 , O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 , O -999
 ethernet B-ASP -999
 and O -999
 3 O -999
-usb B-ASP Neutral
+USB B-ASP Neutral
 ports I-ASP Neutral
 . O -999
 
-the O -999
+The O -999
 only O -999
 thing O -999
-i O -999
+I O -999
 dislike O -999
 about O -999
 this O -999
@@ -11195,9 +10418,8 @@ for O -999
 grip O -999
 . O -999
 
-it O -999
-' O -999
-s O -999
+It O -999
+'s O -999
 a O -999
 decent O -999
 computer O -999
@@ -11214,7 +10436,7 @@ long O -999
 time O -999
 . O -999
 
-the O -999
+The O -999
 nicest O -999
 part O -999
 is O -999
@@ -11228,7 +10450,7 @@ quiet O -999
 operation B-ASP -999
 . O -999
 
-the O -999
+The O -999
 nicest O -999
 part O -999
 is O -999
@@ -11242,15 +10464,13 @@ quiet O -999
 operation B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 will O -999
 upgrade B-ASP Positive
 the I-ASP Positive
 ram I-ASP Positive
 myself O -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 because O -999
 with O -999
 this O -999
@@ -11261,33 +10481,27 @@ you O -999
 can O -999
 do O -999
 it O -999
-- O -999
-rrb O -999
-- O -999
+-RRB- O -999
 later O -999
 on O -999
 . O -999
 
-the O -999
+The O -999
 price B-ASP Positive
 is O -999
-2 O -999
-0 O -999
-0 O -999
+200 O -999
 dollars O -999
 down O -999
 . O -999
 
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 does O -999
 not O -999
 have O -999
 a O -999
-built B-ASP Neutral
-- I-ASP Neutral
-in I-ASP Neutral
+built-in B-ASP Neutral
 mic I-ASP Neutral
 , O -999
 and O -999
@@ -11296,12 +10510,9 @@ would O -999
 seem O -999
 that O -999
 its O -999
-mac B-ASP -999
-os I-ASP -999
-1 I-ASP -999
-0 I-ASP -999
-. I-ASP -999
-9 I-ASP -999
+Mac B-ASP -999
+OS I-ASP -999
+10.9 I-ASP -999
 does O -999
 not O -999
 handle O -999
@@ -11311,15 +10522,13 @@ properly O -999
 . O -999
 
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 does O -999
 not O -999
 have O -999
 a O -999
-built B-ASP -999
-- I-ASP -999
-in I-ASP -999
+built-in B-ASP -999
 mic I-ASP -999
 , O -999
 and O -999
@@ -11328,12 +10537,9 @@ would O -999
 seem O -999
 that O -999
 its O -999
-mac B-ASP Negative
-os I-ASP Negative
-1 I-ASP Negative
-0 I-ASP Negative
-. I-ASP Negative
-9 I-ASP Negative
+Mac B-ASP Negative
+OS I-ASP Negative
+10.9 I-ASP Negative
 does O -999
 not O -999
 handle O -999
@@ -11343,15 +10549,13 @@ properly O -999
 . O -999
 
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 does O -999
 not O -999
 have O -999
 a O -999
-built B-ASP -999
-- I-ASP -999
-in I-ASP -999
+built-in B-ASP -999
 mic I-ASP -999
 , O -999
 and O -999
@@ -11360,12 +10564,9 @@ would O -999
 seem O -999
 that O -999
 its O -999
-mac B-ASP -999
-os I-ASP -999
-1 I-ASP -999
-0 I-ASP -999
-. I-ASP -999
-9 I-ASP -999
+Mac B-ASP -999
+OS I-ASP -999
+10.9 I-ASP -999
 does O -999
 not O -999
 handle O -999
@@ -11374,7 +10575,7 @@ microphones I-ASP Neutral
 properly O -999
 . O -999
 
-a O -999
+A O -999
 lot O -999
 of O -999
 features B-ASP Neutral
@@ -11382,9 +10583,9 @@ and O -999
 shortcuts B-ASP -999
 on O -999
 the O -999
-mbp O -999
+MBP O -999
 that O -999
-i O -999
+I O -999
 was O -999
 never O -999
 exposed O -999
@@ -11392,10 +10593,10 @@ to O -999
 on O -999
 a O -999
 normal O -999
-pc O -999
+PC O -999
 . O -999
 
-a O -999
+A O -999
 lot O -999
 of O -999
 features B-ASP -999
@@ -11403,9 +10604,9 @@ and O -999
 shortcuts B-ASP Neutral
 on O -999
 the O -999
-mbp O -999
+MBP O -999
 that O -999
-i O -999
+I O -999
 was O -999
 never O -999
 exposed O -999
@@ -11413,16 +10614,14 @@ to O -999
 on O -999
 a O -999
 normal O -999
-pc O -999
+PC O -999
 . O -999
 
-was O -999
-n O -999
-' O -999
-t O -999
+Was O -999
+n't O -999
 sure O -999
 if O -999
-i O -999
+I O -999
 was O -999
 going O -999
 to O -999
@@ -11433,7 +10632,7 @@ less O -999
 love O -999
 it O -999
 so O -999
-i O -999
+I O -999
 went O -999
 to O -999
 a O -999
@@ -11445,12 +10644,12 @@ played O -999
 around O -999
 with O -999
 the O -999
-ios B-ASP Positive
+IOS B-ASP Positive
 system I-ASP Positive
 on O -999
 a O -999
-mac O -999
-pro O -999
+Mac O -999
+Pro O -999
 and O -999
 it O -999
 was O -999
@@ -11484,7 +10683,7 @@ small O -999
 
 working B-ASP Positive
 with O -999
-mac O -999
+Mac O -999
 is O -999
 so O -999
 much O -999
@@ -11498,7 +10697,7 @@ features B-ASP -999
 
 working B-ASP -999
 with O -999
-mac O -999
+Mac O -999
 is O -999
 so O -999
 much O -999
@@ -11510,7 +10709,7 @@ cool O -999
 features B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 brightness B-ASP Positive
@@ -11518,7 +10717,7 @@ and O -999
 adjustments B-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
 the O -999
 brightness B-ASP -999
@@ -11526,56 +10725,50 @@ and O -999
 adjustments B-ASP Positive
 . O -999
 
-i O -999
+I O -999
 only O -999
 wish O -999
 this O -999
 mac O -999
 had O -999
 a O -999
-cd B-ASP Neutral
-/ I-ASP Neutral
-dvd I-ASP Neutral
+CD/DVD B-ASP Neutral
 player I-ASP Neutral
 built O -999
 in O -999
 . O -999
 
-the O -999
+The O -999
 only O -999
 thing O -999
-i O -999
+I O -999
 miss O -999
 is O -999
 that O -999
 my O -999
 old O -999
-alienware O -999
+Alienware O -999
 laptop O -999
 had O -999
 backlit B-ASP Negative
 keys I-ASP Negative
 . O -999
 
-the O -999
+The O -999
 only O -999
 thing O -999
-i O -999
+I O -999
 miss O -999
 are O -999
 the O -999
-" B-ASP Neutral
-home I-ASP Neutral
-/ I-ASP Neutral
-end I-ASP Neutral
-" I-ASP Neutral
+"Home/End" B-ASP Neutral
 type I-ASP Neutral
 keys I-ASP Neutral
 and O -999
 other O -999
 things O -999
 that O -999
-i O -999
+I O -999
 grew O -999
 accustomed O -999
 to O -999
@@ -11584,23 +10777,23 @@ so O -999
 long O -999
 . O -999
 
-so O -999
+So O -999
 happy O -999
 with O -999
 this O -999
 purchase O -999
 , O -999
-i O -999
+I O -999
 just O -999
 wish O -999
 it O -999
 came O -999
 with O -999
-microsoft B-ASP Neutral
-word I-ASP Neutral
+Microsoft B-ASP Neutral
+Word I-ASP Neutral
 . O -999
 
-it O -999
+It O -999
 has O -999
 enough O -999
 memory B-ASP Positive
@@ -11621,7 +10814,7 @@ a O -999
 laptop O -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 enough O -999
 memory B-ASP -999
@@ -11642,7 +10835,7 @@ a O -999
 laptop O -999
 . O -999
 
-it O -999
+It O -999
 has O -999
 enough O -999
 memory B-ASP -999
@@ -11663,7 +10856,7 @@ a O -999
 laptop O -999
 . O -999
 
-the O -999
+The O -999
 speed B-ASP Positive
 , O -999
 the O -999
@@ -11679,14 +10872,14 @@ lightyears O -999
 ahead O -999
 of O -999
 any O -999
-pc O -999
-i O -999
+PC O -999
+I O -999
 have O -999
 ever O -999
 owned O -999
 . O -999
 
-the O -999
+The O -999
 speed B-ASP -999
 , O -999
 the O -999
@@ -11702,14 +10895,14 @@ lightyears O -999
 ahead O -999
 of O -999
 any O -999
-pc O -999
-i O -999
+PC O -999
+I O -999
 have O -999
 ever O -999
 owned O -999
 . O -999
 
-the O -999
+The O -999
 speed B-ASP -999
 , O -999
 the O -999
@@ -11725,14 +10918,14 @@ lightyears O -999
 ahead O -999
 of O -999
 any O -999
-pc O -999
-i O -999
+PC O -999
+I O -999
 have O -999
 ever O -999
 owned O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP Positive
 life I-ASP Positive
 is O -999
@@ -11751,7 +10944,7 @@ a O -999
 breeze O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP -999
 life I-ASP -999
 is O -999
@@ -11770,7 +10963,7 @@ a O -999
 breeze O -999
 . O -999
 
-the O -999
+The O -999
 battery B-ASP -999
 life I-ASP -999
 is O -999
@@ -11789,7 +10982,7 @@ a O -999
 breeze O -999
 . O -999
 
-the O -999
+The O -999
 screen B-ASP Positive
 , O -999
 the O -999
@@ -11803,7 +10996,7 @@ operating B-ASP -999
 system I-ASP -999
 . O -999
 
-the O -999
+The O -999
 screen B-ASP -999
 , O -999
 the O -999
@@ -11817,7 +11010,7 @@ operating B-ASP -999
 system I-ASP -999
 . O -999
 
-the O -999
+The O -999
 screen B-ASP -999
 , O -999
 the O -999
@@ -11848,16 +11041,16 @@ covering O -999
 it O -999
 . O -999
 
-i O -999
+I O -999
 also O -999
 made O -999
 a O -999
 recovery B-ASP Neutral
-usb I-ASP Neutral
+USB I-ASP Neutral
 stick I-ASP Neutral
 . O -999
 
-but O -999
+But O -999
 with O -999
 this O -999
 laptop O -999
@@ -11876,7 +11069,7 @@ sounding O -999
 tinny O -999
 . O -999
 
-but O -999
+But O -999
 with O -999
 this O -999
 laptop O -999
@@ -11895,25 +11088,25 @@ sounding O -999
 tinny O -999
 . O -999
 
-the O -999
+The O -999
 built B-ASP Positive
 quality I-ASP Positive
 is O -999
 really O -999
 good O -999
 , O -999
-i O -999
+I O -999
 was O -999
 so O -999
-happy O -999
+Happy O -999
 and O -999
 excited O -999
 about O -999
 this O -999
-product O -999
+Product O -999
 . O -999
 
-i O -999
+I O -999
 am O -999
 loving O -999
 the O -999
@@ -11922,27 +11115,23 @@ performance B-ASP Positive
 also O -999
 . O -999
 
-further O -999
+Further O -999
 , O -999
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 has O -999
 a O -999
 sloppy O -999
-bluetooth B-ASP Negative
+Bluetooth B-ASP Negative
 interface I-ASP Negative
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 courtesy O -999
 of O -999
 the O -999
-mac B-ASP -999
-os I-ASP -999
-- O -999
-rrb O -999
-- O -999
+Mac B-ASP -999
+OS I-ASP -999
+-RRB- O -999
 and O -999
 the O -999
 range B-ASP -999
@@ -11950,27 +11139,23 @@ is O -999
 poor O -999
 . O -999
 
-further O -999
+Further O -999
 , O -999
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 has O -999
 a O -999
 sloppy O -999
-bluetooth B-ASP -999
+Bluetooth B-ASP -999
 interface I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 courtesy O -999
 of O -999
 the O -999
-mac B-ASP Negative
-os I-ASP Negative
-- O -999
-rrb O -999
-- O -999
+Mac B-ASP Negative
+OS I-ASP Negative
+-RRB- O -999
 and O -999
 the O -999
 range B-ASP -999
@@ -11978,27 +11163,23 @@ is O -999
 poor O -999
 . O -999
 
-further O -999
+Further O -999
 , O -999
 this O -999
-mac O -999
-mini O -999
+Mac O -999
+Mini O -999
 has O -999
 a O -999
 sloppy O -999
-bluetooth B-ASP -999
+Bluetooth B-ASP -999
 interface I-ASP -999
-- O -999
-lrb O -999
-- O -999
+-LRB- O -999
 courtesy O -999
 of O -999
 the O -999
-mac B-ASP -999
-os I-ASP -999
-- O -999
-rrb O -999
-- O -999
+Mac B-ASP -999
+OS I-ASP -999
+-RRB- O -999
 and O -999
 the O -999
 range B-ASP Negative
@@ -12006,7 +11187,7 @@ is O -999
 poor O -999
 . O -999
 
-if O -999
+If O -999
 you O -999
 start O -999
 on O -999
@@ -12028,7 +11209,7 @@ come O -999
 up O -999
 . O -999
 
-my O -999
+My O -999
 only O -999
 gripe O -999
 would O -999
@@ -12038,10 +11219,10 @@ need O -999
 to O -999
 add O -999
 more O -999
-ram B-ASP Negative
+RAM B-ASP Negative
 . O -999
 
-fine O -999
+Fine O -999
 if O -999
 you O -999
 have O -999
@@ -12050,103 +11231,83 @@ touch B-ASP Neutral
 screen I-ASP Neutral
 . O -999
 
-as O -999
+As O -999
 far O -999
 as O -999
 user O -999
 type O -999
 - O -999
-i O -999
+I O -999
 dabble O -999
 in O -999
 everything O -999
 from O -999
 games B-ASP Neutral
-- O -999
-lrb O -999
-- O -999
-wow O -999
-- O -999
-rrb O -999
-- O -999
+-LRB- O -999
+WoW O -999
+-RRB- O -999
 to O -999
-photoshop B-ASP -999
+Photoshop B-ASP -999
 , O -999
 but O -999
 nothing O -999
 professionally O -999
 . O -999
 
-as O -999
+As O -999
 far O -999
 as O -999
 user O -999
 type O -999
 - O -999
-i O -999
+I O -999
 dabble O -999
 in O -999
 everything O -999
 from O -999
 games B-ASP -999
-- O -999
-lrb O -999
-- O -999
-wow O -999
-- O -999
-rrb O -999
-- O -999
+-LRB- O -999
+WoW O -999
+-RRB- O -999
 to O -999
-photoshop B-ASP Neutral
+Photoshop B-ASP Neutral
 , O -999
 but O -999
 nothing O -999
 professionally O -999
 . O -999
 
-i O -999
-re O -999
-- O -999
-seated O -999
+I O -999
+re-seated O -999
 the O -999
-" B-ASP Neutral
-wlan I-ASP Neutral
-" I-ASP Neutral
+"WLAN" B-ASP Neutral
 card I-ASP Neutral
 inside O -999
 and O -999
-re O -999
-- O -999
-installed O -999
+re-installed O -999
 the O -999
-lan O -999
+LAN O -999
 device O -999
 drivers O -999
 . O -999
 
-i O -999
-re O -999
-- O -999
-seated O -999
+I O -999
+re-seated O -999
 the O -999
-` O -999
-` O -999
-wlan O -999
-' O -999
-' O -999
+`` O -999
+WLAN O -999
+'' O -999
 card O -999
 inside O -999
 and O -999
-re O -999
-- O -999
-installed O -999
+re-installed O -999
 the O -999
-lan B-ASP Neutral
+LAN B-ASP Neutral
 device I-ASP Neutral
 drivers I-ASP Neutral
 . O -999
 
-this O -999
+This O -999
 by O -999
 far O -999
 beats O -999
@@ -12162,10 +11323,10 @@ well O -999
 , O -999
 battery B-ASP -999
 life I-ASP -999
-amazing O -999
+AMAZING O -999
 . O -999
 
-this O -999
+This O -999
 by O -999
 far O -999
 beats O -999
@@ -12181,11 +11342,11 @@ well O -999
 , O -999
 battery B-ASP Positive
 life I-ASP Positive
-amazing O -999
+AMAZING O -999
 . O -999
 
-the O -999
-os B-ASP Positive
+The O -999
+OS B-ASP Positive
 is O -999
 easy O -999
 , O -999
@@ -12197,27 +11358,25 @@ of O -999
 surprises O -999
 . O -999
 
-i O -999
+I O -999
 had O -999
 to O -999
 get O -999
-apple B-ASP Neutral
-customer I-ASP Neutral
-support I-ASP Neutral
+Apple B-ASP Neutral
+Customer I-ASP Neutral
+Support I-ASP Neutral
 to O -999
 correct O -999
 the O -999
 problem O -999
 . O -999
 
-a O -999
+A O -999
 veryimportant O -999
 feature O -999
 is O -999
-firewire B-ASP Positive
-8 I-ASP Positive
-0 I-ASP Positive
-negative I-ASP Positive
+Firewire B-ASP Positive
+80Negative I-ASP Positive
 which O -999
 in O -999
 my O -999
@@ -12225,30 +11384,24 @@ experience O -999
 works O -999
 better O -999
 then O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-lrb O -999
-- O -999
+USB3 B-ASP -999
+-LRB- O -999
 in O -999
-pc O -999
+PC O -999
 enabled O -999
 with O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-rrb O -999
-- O -999
-i O -999
+USB3 B-ASP -999
+-RRB- O -999
+I O -999
 was O -999
 not O -999
 originally O -999
 sold O -999
 on O -999
 the O -999
-mac B-ASP -999
-os I-ASP -999
-i O -999
+MAC B-ASP -999
+OS I-ASP -999
+I O -999
 felt O -999
 it O -999
 was O -999
@@ -12256,19 +11409,17 @@ inferior O -999
 in O -999
 many O -999
 ways O -999
-to O -999
-windows B-ASP -999
+To O -999
+Windows B-ASP -999
 7 I-ASP -999
 . O -999
 
-a O -999
+A O -999
 veryimportant O -999
 feature O -999
 is O -999
-firewire B-ASP -999
-8 I-ASP -999
-0 I-ASP -999
-negative I-ASP -999
+Firewire B-ASP -999
+80Negative I-ASP -999
 which O -999
 in O -999
 my O -999
@@ -12276,30 +11427,24 @@ experience O -999
 works O -999
 better O -999
 then O -999
-usb B-ASP Negative
-3 I-ASP Negative
-- O -999
-lrb O -999
-- O -999
+USB3 B-ASP Negative
+-LRB- O -999
 in O -999
-pc O -999
+PC O -999
 enabled O -999
 with O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-rrb O -999
-- O -999
-i O -999
+USB3 B-ASP -999
+-RRB- O -999
+I O -999
 was O -999
 not O -999
 originally O -999
 sold O -999
 on O -999
 the O -999
-mac B-ASP -999
-os I-ASP -999
-i O -999
+MAC B-ASP -999
+OS I-ASP -999
+I O -999
 felt O -999
 it O -999
 was O -999
@@ -12307,19 +11452,17 @@ inferior O -999
 in O -999
 many O -999
 ways O -999
-to O -999
-windows B-ASP -999
+To O -999
+Windows B-ASP -999
 7 I-ASP -999
 . O -999
 
-a O -999
+A O -999
 veryimportant O -999
 feature O -999
 is O -999
-firewire B-ASP -999
-8 I-ASP -999
-0 I-ASP -999
-negative I-ASP -999
+Firewire B-ASP -999
+80Negative I-ASP -999
 which O -999
 in O -999
 my O -999
@@ -12327,30 +11470,24 @@ experience O -999
 works O -999
 better O -999
 then O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-lrb O -999
-- O -999
+USB3 B-ASP -999
+-LRB- O -999
 in O -999
-pc O -999
+PC O -999
 enabled O -999
 with O -999
-usb B-ASP Neutral
-3 I-ASP Neutral
-- O -999
-rrb O -999
-- O -999
-i O -999
+USB3 B-ASP Neutral
+-RRB- O -999
+I O -999
 was O -999
 not O -999
 originally O -999
 sold O -999
 on O -999
 the O -999
-mac B-ASP -999
-os I-ASP -999
-i O -999
+MAC B-ASP -999
+OS I-ASP -999
+I O -999
 felt O -999
 it O -999
 was O -999
@@ -12358,19 +11495,17 @@ inferior O -999
 in O -999
 many O -999
 ways O -999
-to O -999
-windows B-ASP -999
+To O -999
+Windows B-ASP -999
 7 I-ASP -999
 . O -999
 
-a O -999
+A O -999
 veryimportant O -999
 feature O -999
 is O -999
-firewire B-ASP -999
-8 I-ASP -999
-0 I-ASP -999
-negative I-ASP -999
+Firewire B-ASP -999
+80Negative I-ASP -999
 which O -999
 in O -999
 my O -999
@@ -12378,30 +11513,24 @@ experience O -999
 works O -999
 better O -999
 then O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-lrb O -999
-- O -999
+USB3 B-ASP -999
+-LRB- O -999
 in O -999
-pc O -999
+PC O -999
 enabled O -999
 with O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-rrb O -999
-- O -999
-i O -999
+USB3 B-ASP -999
+-RRB- O -999
+I O -999
 was O -999
 not O -999
 originally O -999
 sold O -999
 on O -999
 the O -999
-mac B-ASP Negative
-os I-ASP Negative
-i O -999
+MAC B-ASP Negative
+OS I-ASP Negative
+I O -999
 felt O -999
 it O -999
 was O -999
@@ -12409,19 +11538,17 @@ inferior O -999
 in O -999
 many O -999
 ways O -999
-to O -999
-windows B-ASP -999
+To O -999
+Windows B-ASP -999
 7 I-ASP -999
 . O -999
 
-a O -999
+A O -999
 veryimportant O -999
 feature O -999
 is O -999
-firewire B-ASP -999
-8 I-ASP -999
-0 I-ASP -999
-negative I-ASP -999
+Firewire B-ASP -999
+80Negative I-ASP -999
 which O -999
 in O -999
 my O -999
@@ -12429,30 +11556,24 @@ experience O -999
 works O -999
 better O -999
 then O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-lrb O -999
-- O -999
+USB3 B-ASP -999
+-LRB- O -999
 in O -999
-pc O -999
+PC O -999
 enabled O -999
 with O -999
-usb B-ASP -999
-3 I-ASP -999
-- O -999
-rrb O -999
-- O -999
-i O -999
+USB3 B-ASP -999
+-RRB- O -999
+I O -999
 was O -999
 not O -999
 originally O -999
 sold O -999
 on O -999
 the O -999
-mac B-ASP -999
-os I-ASP -999
-i O -999
+MAC B-ASP -999
+OS I-ASP -999
+I O -999
 felt O -999
 it O -999
 was O -999
@@ -12460,21 +11581,21 @@ inferior O -999
 in O -999
 many O -999
 ways O -999
-to O -999
-windows B-ASP Positive
+To O -999
+Windows B-ASP Positive
 7 I-ASP Positive
 . O -999
 
-i O -999
+I O -999
 like O -999
-itunes B-ASP Positive
+iTunes B-ASP Positive
 , O -999
 the O -999
 apparent O -999
 security B-ASP -999
 , O -999
 the O -999
-mini B-ASP -999
+Mini B-ASP -999
 form I-ASP -999
 factor I-ASP -999
 , O -999
@@ -12485,16 +11606,16 @@ graphics B-ASP -999
 stuff I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
-itunes B-ASP -999
+iTunes B-ASP -999
 , O -999
 the O -999
 apparent O -999
 security B-ASP Positive
 , O -999
 the O -999
-mini B-ASP -999
+Mini B-ASP -999
 form I-ASP -999
 factor I-ASP -999
 , O -999
@@ -12505,16 +11626,16 @@ graphics B-ASP -999
 stuff I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
-itunes B-ASP -999
+iTunes B-ASP -999
 , O -999
 the O -999
 apparent O -999
 security B-ASP -999
 , O -999
 the O -999
-mini B-ASP Positive
+Mini B-ASP Positive
 form I-ASP Positive
 factor I-ASP Positive
 , O -999
@@ -12525,16 +11646,16 @@ graphics B-ASP -999
 stuff I-ASP -999
 . O -999
 
-i O -999
+I O -999
 like O -999
-itunes B-ASP -999
+iTunes B-ASP -999
 , O -999
 the O -999
 apparent O -999
 security B-ASP -999
 , O -999
 the O -999
-mini B-ASP -999
+Mini B-ASP -999
 form I-ASP -999
 factor I-ASP -999
 , O -999
@@ -12545,10 +11666,10 @@ graphics B-ASP Positive
 stuff I-ASP Positive
 . O -999
 
-the O -999
+The O -999
 first O -999
 time O -999
-i O -999
+I O -999
 used O -999
 the O -999
 card B-ASP Negative
@@ -12569,10 +11690,10 @@ the I-ASP -999
 card I-ASP -999
 . O -999
 
-the O -999
+The O -999
 first O -999
 time O -999
-i O -999
+I O -999
 used O -999
 the O -999
 card B-ASP -999
@@ -12593,7 +11714,7 @@ the I-ASP Negative
 card I-ASP Negative
 . O -999
 
-after O -999
+After O -999
 replacing O -999
 the O -999
 spinning B-ASP Neutral
@@ -12611,7 +11732,7 @@ just O -999
 flying O -999
 . O -999
 
-after O -999
+After O -999
 replacing O -999
 the O -999
 spinning B-ASP -999
@@ -12629,13 +11750,13 @@ just O -999
 flying O -999
 . O -999
 
-i O -999
+I O -999
 know O -999
 some O -999
 people O -999
 complained O -999
 about O -999
-hdmi B-ASP Neutral
+HDMI B-ASP Neutral
 issues O -999
 but O -999
 they O -999
@@ -12649,13 +11770,13 @@ that O -999
 issue O -999
 . O -999
 
-i O -999
+I O -999
 know O -999
 some O -999
 people O -999
 complained O -999
 about O -999
-hdmi B-ASP -999
+HDMI B-ASP -999
 issues O -999
 but O -999
 they O -999
@@ -12669,14 +11790,14 @@ that O -999
 issue O -999
 . O -999
 
-with O -999
+With O -999
 the O -999
 needs O -999
 of O -999
 a O -999
 professional O -999
 photographer O -999
-i O -999
+I O -999
 generally O -999
 need O -999
 to O -999
@@ -12694,11 +11815,11 @@ everything O -999
 was O -999
 perfect O -999
 
-i O -999
+I O -999
 called O -999
-toshiba O -999
+Toshiba O -999
 where O -999
-i O -999
+I O -999
 gave O -999
 them O -999
 the O -999
@@ -12719,7 +11840,7 @@ mother B-ASP Neutral
 boards I-ASP Neutral
 . O -999
 
-i O -999
+I O -999
 seem O -999
 to O -999
 be O -999
@@ -12728,8 +11849,8 @@ repeat O -999
 problems O -999
 as O -999
 the O -999
-mother B-ASP Negative
-board I-ASP Negative
+Mother B-ASP Negative
+Board I-ASP Negative
 in O -999
 this O -999
 one O -999
@@ -12745,7 +11866,7 @@ graphics B-ASP -999
 card I-ASP -999
 . O -999
 
-i O -999
+I O -999
 seem O -999
 to O -999
 be O -999
@@ -12754,8 +11875,8 @@ repeat O -999
 problems O -999
 as O -999
 the O -999
-mother B-ASP -999
-board I-ASP -999
+Mother B-ASP -999
+Board I-ASP -999
 in O -999
 this O -999
 one O -999
@@ -12771,19 +11892,17 @@ graphics B-ASP Negative
 card I-ASP Negative
 . O -999
 
-it O -999
+It O -999
 also O -999
 comes O -999
 with O -999
-4 B-ASP Neutral
-g I-ASP Neutral
+4G B-ASP Neutral
 of I-ASP Neutral
-ram I-ASP Neutral
+RAM I-ASP Neutral
 but O -999
 if O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 like O -999
 me O -999
 you O -999
@@ -12793,19 +11912,17 @@ max O -999
 that O -999
 out O -999
 so O -999
-i O -999
+I O -999
 immediately O -999
 put O -999
-8 B-ASP -999
-g I-ASP -999
+8G B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 in O -999
 her O -999
 and O -999
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 never O -999
 used O -999
 a O -999
@@ -12815,19 +11932,17 @@ performs B-ASP -999
 better O -999
 . O -999
 
-it O -999
+It O -999
 also O -999
 comes O -999
 with O -999
-4 B-ASP -999
-g I-ASP -999
+4G B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 but O -999
 if O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 like O -999
 me O -999
 you O -999
@@ -12837,19 +11952,17 @@ max O -999
 that O -999
 out O -999
 so O -999
-i O -999
+I O -999
 immediately O -999
 put O -999
-8 B-ASP Neutral
-g I-ASP Neutral
+8G B-ASP Neutral
 of I-ASP Neutral
-ram I-ASP Neutral
+RAM I-ASP Neutral
 in O -999
 her O -999
 and O -999
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 never O -999
 used O -999
 a O -999
@@ -12859,19 +11972,17 @@ performs B-ASP -999
 better O -999
 . O -999
 
-it O -999
+It O -999
 also O -999
 comes O -999
 with O -999
-4 B-ASP -999
-g I-ASP -999
+4G B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 but O -999
 if O -999
 you O -999
-' O -999
-re O -999
+'re O -999
 like O -999
 me O -999
 you O -999
@@ -12881,19 +11992,17 @@ max O -999
 that O -999
 out O -999
 so O -999
-i O -999
+I O -999
 immediately O -999
 put O -999
-8 B-ASP -999
-g I-ASP -999
+8G B-ASP -999
 of I-ASP -999
-ram I-ASP -999
+RAM I-ASP -999
 in O -999
 her O -999
 and O -999
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 never O -999
 used O -999
 a O -999
@@ -12903,7 +12012,7 @@ performs B-ASP Positive
 better O -999
 . O -999
 
-this O -999
+This O -999
 computer O -999
 is O -999
 also O -999
@@ -12916,7 +12025,7 @@ home I-ASP Positive
 schooling I-ASP Positive
 . O -999
 
-cost B-ASP Negative
+Cost B-ASP Negative
 is O -999
 more O -999
 as O -999
@@ -12927,9 +12036,7 @@ brands O -999
 . O -999
 
 also O -999
-. O -999
-. O -999
-. O -999
+... O -999
 - O -999
 excellent O -999
 operating B-ASP Positive
@@ -12963,9 +12070,7 @@ brand O -999
 - O -999
 
 also O -999
-. O -999
-. O -999
-. O -999
+... O -999
 - O -999
 excellent O -999
 operating B-ASP -999
@@ -12999,9 +12104,7 @@ brand O -999
 - O -999
 
 also O -999
-. O -999
-. O -999
-. O -999
+... O -999
 - O -999
 excellent O -999
 operating B-ASP -999
@@ -13035,9 +12138,7 @@ brand O -999
 - O -999
 
 also O -999
-. O -999
-. O -999
-. O -999
+... O -999
 - O -999
 excellent O -999
 operating B-ASP -999
@@ -13071,9 +12172,7 @@ brand O -999
 - O -999
 
 also O -999
-. O -999
-. O -999
-. O -999
+... O -999
 - O -999
 excellent O -999
 operating B-ASP -999
@@ -13107,9 +12206,7 @@ brand O -999
 - O -999
 
 also O -999
-. O -999
-. O -999
-. O -999
+... O -999
 - O -999
 excellent O -999
 operating B-ASP -999
@@ -13142,7 +12239,7 @@ other O -999
 brand O -999
 - O -999
 
-this O -999
+This O -999
 hardware B-ASP Positive
 seems O -999
 to O -999
@@ -13150,26 +12247,20 @@ be O -999
 better O -999
 than O -999
 the O -999
-imac O -999
+iMac O -999
 in O -999
 that O -999
 it O -999
 is O -999
-n O -999
-' O -999
-t O -999
+n't O -999
 $ O -999
-1 O -999
-4 O -999
-0 O -999
-0 O -999
+1400 O -999
 and O -999
 smaller O -999
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 had O -999
 it O -999
 for O -999
@@ -13187,9 +12278,8 @@ or O -999
 updates B-ASP -999
 . O -999
 
-i O -999
-' O -999
-ve O -999
+I O -999
+'ve O -999
 had O -999
 it O -999
 for O -999
@@ -13218,7 +12308,7 @@ disc B-ASP Neutral
 drive I-ASP Neutral
 . O -999
 
-screen B-ASP Positive
+Screen B-ASP Positive
 - O -999
 although O -999
 some O -999
@@ -13229,13 +12319,13 @@ about O -999
 low O -999
 res B-ASP -999
 which O -999
-i O -999
+I O -999
 think O -999
 is O -999
 ridiculous O -999
 . O -999
 
-screen B-ASP -999
+Screen B-ASP -999
 - O -999
 although O -999
 some O -999
@@ -13246,7 +12336,7 @@ about O -999
 low O -999
 res B-ASP Positive
 which O -999
-i O -999
+I O -999
 think O -999
 is O -999
 ridiculous O -999

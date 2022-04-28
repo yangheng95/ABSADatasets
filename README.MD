@@ -102,4 +102,4 @@ Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
 
 Yelp: [WeiLi9811@GitHub](https://github.com/WeiLi9811)
 
-SemEval2016Task5: [YaxinCui@GitHub](ihttps://github.com/YaxinCui/ABSADataset)
+SemEval2016Task5: [YaxinCui@GitHub](https://github.com/YaxinCui/ABSADataset)

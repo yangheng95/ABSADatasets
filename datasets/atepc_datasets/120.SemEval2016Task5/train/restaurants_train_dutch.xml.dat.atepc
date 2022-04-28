@@ -1,9 +1,9 @@
 Lange O -999
-wachttijd B-ASP negative
+wachttijd B-ASP Negative
 . O -999
 
 Zelfde O -999
-dessert B-ASP negative
+dessert B-ASP Negative
 , O -999
 2 O -999
 dagen O -999
@@ -14,7 +14,7 @@ Maar O -999
 eens O -999
 in O -999
 het O -999
-kasteelrestaurant B-ASP positive
+kasteelrestaurant B-ASP Positive
 aangekomen O -999
 werd O -999
 het O -999
@@ -23,7 +23,7 @@ feest. O -999
 
 Vooreerst O -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 uitzonderlijk O -999
 vriendelijk O -999
@@ -37,7 +37,7 @@ Zelden O -999
 meegemaakt, O -999
 tussen O -999
 het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 was O -999
 er O -999
 een O -999
@@ -53,7 +53,7 @@ tussen O -999
 een O -999
 beperkt O -999
 aantal O -999
-menus B-ASP negative
+menus B-ASP Negative
 . O -999
 
 Als O -999
@@ -63,7 +63,7 @@ vraagt O -999
 over O -999
 dit O -999
 lekkere O -999
-rundvlees B-ASP positive
+rundvlees B-ASP Positive
 wordt O -999
 het O -999
 vlees O -999
@@ -85,7 +85,7 @@ bent O -999
 is O -999
 er O -999
 een O -999
-visalternatief B-ASP positive
+visalternatief B-ASP Positive
 , B-ASP -999
 eend O -999
 en B-ASP -999
@@ -104,7 +104,7 @@ is O -999
 er O -999
 een O -999
 visalternatief B-ASP -999
-, B-ASP positive
+, B-ASP Positive
 eend O -999
 en B-ASP -999
 lam O -999
@@ -124,14 +124,14 @@ een O -999
 visalternatief B-ASP -999
 , B-ASP -999
 eend O -999
-en B-ASP positive
+en B-ASP Positive
 lam O -999
 aan O -999
 aanvaardbare O -999
 prijzen. O -999
 
 De O -999
-wijnkaart B-ASP positive
+wijnkaart B-ASP Positive
 is O -999
 een O -999
 goede O -999
@@ -150,7 +150,7 @@ selectie O -999
 van O -999
 lekkere O -999
 kwaliteitsvolle O -999
-wijnen. B-ASP positive
+wijnen. B-ASP Positive
 
 Op O -999
 de O -999
@@ -167,7 +167,7 @@ geëten O -999
 in O -999
 een O -999
 sfeervolle O -999
-omgeving B-ASP positive
+omgeving B-ASP Positive
 met O -999
 een O -999
 livebandje O -999
@@ -188,7 +188,7 @@ Het O -999
 is O -999
 een O -999
 fantastische O -999
-gelegenheid B-ASP positive
+gelegenheid B-ASP Positive
 . O -999
 
 Op O -999
@@ -200,13 +200,13 @@ men O -999
 met O -999
 verse O -999
 eerlijke O -999
-producten B-ASP positive
+producten B-ASP Positive
 . O -999
 
 Er O -999
 is O -999
 geen O -999
-menukaart B-ASP negative
+menukaart B-ASP Negative
 . O -999
 
 Op O -999
@@ -214,9 +214,9 @@ zondag O -999
 is O -999
 er O -999
 een O -999
-3 B-ASP positive
-gang I-ASP positive
-menu I-ASP positive
+3 B-ASP Positive
+gang I-ASP Positive
+menu I-ASP Positive
 voor O -999
 27,50 O -999
 wat O -999
@@ -230,9 +230,9 @@ zondag O -999
 is O -999
 er O -999
 een O -999
-3 B-ASP positive
-gang I-ASP positive
-menu I-ASP positive
+3 B-ASP Positive
+gang I-ASP Positive
+menu I-ASP Positive
 voor O -999
 27,50 O -999
 wat O -999
@@ -246,14 +246,14 @@ is O -999
 dat O -999
 er O -999
 geen O -999
-menukaart B-ASP negative
+menukaart B-ASP Negative
 is O -999
 zelfs O -999
 geen O -999
 dagelijkse. O -999
 
 Het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 is O -999
 zeer O -999
 vriendelijk O -999
@@ -268,7 +268,7 @@ Zo O -999
 heerlijk O -999
 fantasievol O -999
 opgedient O -999
-eten B-ASP positive
+eten B-ASP Positive
 in O -999
 een O -999
 fijne O -999
@@ -282,12 +282,12 @@ eten B-ASP -999
 in O -999
 een O -999
 fijne O -999
-ambiance. B-ASP positive
+ambiance. B-ASP Positive
 
 Spijtig, O -999
 zo O -999
 een O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 , O -999
 prachtig O -999
 gelegen, O -999
@@ -313,7 +313,7 @@ zaak B-ASP -999
 , O -999
 prachtig O -999
 gelegen, O -999
-goede B-ASP positive
+goede B-ASP Positive
 keuken, O -999
 maar O -999
 de O -999
@@ -341,7 +341,7 @@ maar O -999
 de O -999
 vriendelijkheid O -999
 van O -999
-de B-ASP negative
+de B-ASP Negative
 ober O -999
 is O -999
 een O -999
@@ -351,7 +351,7 @@ en O -999
 onproffesioneel, O -999
 
 De O -999
-ober B-ASP negative
+ober B-ASP Negative
 was O -999
 juist O -999
 ontslagen O -999
@@ -359,7 +359,7 @@ dacht O -999
 ik. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 veel O -999
 ook O -999
 niet O -999
@@ -384,7 +384,7 @@ mee O -999
 of O -999
 speelde O -999
 de O -999
-bediening B-ASP neutral
+bediening B-ASP Neutral
 hier O -999
 bij O -999
 een O -999
@@ -393,7 +393,7 @@ rol. O -999
 Zo O -999
 lang O -999
 die O -999
-ober B-ASP negative
+ober B-ASP Negative
 daar O -999
 blijft O -999
 werken O -999
@@ -403,7 +403,7 @@ meer O -999
 gezien. O -999
 
 De O -999
-ober B-ASP negative
+ober B-ASP Negative
 was O -999
 ronduit O -999
 onbeleefd O -999
@@ -453,7 +453,7 @@ door O -999
 de O -999
 oor O -999
 de O -999
-ober B-ASP negative
+ober B-ASP Negative
 die O -999
 zich O -999
 dan O -999
@@ -464,7 +464,7 @@ ging. O -999
 
 Als O -999
 deze O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 het O -999
 hoofd O -999
 niet O -999
@@ -482,7 +482,7 @@ crisis! O -999
 Eigenaar, O -999
 leer O -999
 uw O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 manieren. O -999
 
 We O -999
@@ -491,12 +491,12 @@ hier O -999
 vaker O -999
 eten: O -999
 degelijke O -999
-brasserie B-ASP neutral
+brasserie B-ASP Neutral
 zonder O -999
 meer. O -999
 
 De O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 kreeg O -999
 van O -999
 ons O -999
@@ -531,7 +531,7 @@ de O -999
 vrije O -999
 keuze O -999
 aan O -999
-tapagerechtjes, B-ASP neutral
+tapagerechtjes, B-ASP Neutral
 zij O -999
 leverde O -999
 snel O -999
@@ -569,7 +569,7 @@ helemaal O -999
 niet O -999
 op O -999
 ingegaan: O -999
-iberico B-ASP neutral
+iberico B-ASP Neutral
 , B-ASP -999
 chorizo, B-ASP -999
 manchego, O -999
@@ -607,7 +607,7 @@ niet O -999
 op O -999
 ingegaan: O -999
 iberico B-ASP -999
-, B-ASP neutral
+, B-ASP Neutral
 chorizo, B-ASP -999
 manchego, O -999
 Russiisch O -999
@@ -645,7 +645,7 @@ op O -999
 ingegaan: O -999
 iberico B-ASP -999
 , B-ASP -999
-chorizo, B-ASP neutral
+chorizo, B-ASP Neutral
 manchego, O -999
 Russiisch O -999
 ei, B-ASP -999
@@ -685,7 +685,7 @@ iberico B-ASP -999
 chorizo, B-ASP -999
 manchego, O -999
 Russiisch O -999
-ei, B-ASP neutral
+ei, B-ASP Neutral
 champignons, B-ASP -999
 tomaatjes...., B-ASP -999
 gehaktballetjes I-ASP -999
@@ -723,7 +723,7 @@ chorizo, B-ASP -999
 manchego, O -999
 Russiisch O -999
 ei, B-ASP -999
-champignons, B-ASP neutral
+champignons, B-ASP Neutral
 tomaatjes...., B-ASP -999
 gehaktballetjes I-ASP -999
 in I-ASP -999
@@ -761,9 +761,9 @@ manchego, O -999
 Russiisch O -999
 ei, B-ASP -999
 champignons, B-ASP -999
-tomaatjes...., B-ASP neutral
-gehaktballetjes I-ASP neutral
-in I-ASP neutral
+tomaatjes...., B-ASP Neutral
+gehaktballetjes I-ASP Neutral
+in I-ASP Neutral
 tomatensaus, O -999
 allemaal O -999
 lekker, O -999
@@ -772,7 +772,7 @@ niet O -999
 authentiek... O -999
 
 De O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 was O -999
 lekker, O -999
 duurste O -999
@@ -786,7 +786,7 @@ van O -999
 eur..... O -999
 
 De O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 was O -999
 lekker, O -999
 duurste O -999
@@ -804,7 +804,7 @@ is O -999
 dus O -999
 een O -999
 leuk O -999
-adresje B-ASP positive
+adresje B-ASP Positive
 voor O -999
 gezellige O -999
 babbel O -999
@@ -829,14 +829,14 @@ eenvoudige O -999
 maar O -999
 toch O -999
 lekkere O -999
-tapàs B-ASP neutral
+tapàs B-ASP Neutral
 
 Zuiderse O -999
-sfeer B-ASP neutral
+sfeer B-ASP Neutral
 ... O -999
 
 Geweldig O -999
-concept B-ASP positive
+concept B-ASP Positive
 voor O -999
 een O -999
 geweldige O -999
@@ -846,7 +846,7 @@ Spaanse O -999
 decor!! O -999
 
 Prachtige O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 en O -999
 heel O -999
 gezellig O -999
@@ -857,11 +857,11 @@ wijnen O -999
 en O -999
 heel O -999
 gezellig O -999
-ambiente B-ASP positive
+ambiente B-ASP Positive
 . O -999
 
 Authentieke O -999
-recepten B-ASP neutral
+recepten B-ASP Neutral
 (als O -999
 spanje O -999
 kenners O -999
@@ -880,7 +880,7 @@ Leuk O -999
 concept, B-ASP -999
 zeer O -999
 lekkere O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 en O -999
 tapas, B-ASP -999
 deze O -999
@@ -899,7 +899,7 @@ zeer O -999
 lekkere O -999
 wijnen B-ASP -999
 en O -999
-tapas, B-ASP positive
+tapas, B-ASP Positive
 deze O -999
 wisselen O -999
 regelmatig O -999
@@ -911,7 +911,7 @@ gewoon O -999
 goed. O -999
 
 Leuk O -999
-concept, B-ASP positive
+concept, B-ASP Positive
 zeer O -999
 lekkere O -999
 wijnen B-ASP -999
@@ -942,7 +942,7 @@ hapje O -999
 en O -999
 drankje, O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 zou O -999
 soms O -999
 sneller O -999
@@ -984,20 +984,20 @@ de O -999
 klok O -999
 smaakparadijzen O -999
 van O -999
-schotels B-ASP positive
+schotels B-ASP Positive
 voor O -999
 gastronomen. O -999
 
 Gewoonweg O -999
 het O -999
 beste O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 in O -999
 de O -999
 buurt! O -999
 
 De O -999
-menukaart B-ASP negative
+menukaart B-ASP Negative
 is O -999
 veel O -999
 te O -999
@@ -1019,7 +1019,7 @@ is O -999
 veel O -999
 te O -999
 beperkt, O -999
-suggesties B-ASP negative
+suggesties B-ASP Negative
 zijn O -999
 verdwenen, O -999
 net O -999
@@ -1045,11 +1045,11 @@ de O -999
 creativiteit O -999
 op O -999
 het O -999
-bord. B-ASP negative
+bord. B-ASP Negative
 
 Een O -999
 simpele O -999
-sla B-ASP negative
+sla B-ASP Negative
 als O -999
 bijgerecht O -999
 is O -999
@@ -1068,7 +1068,7 @@ zelfs O -999
 met O -999
 deze O -999
 beperkte O -999
-kaart B-ASP negative
+kaart B-ASP Negative
 (4 O -999
 hoofdgerechten, O -999
 4 O -999
@@ -1092,7 +1092,7 @@ de O -999
 kwaliteit O -999
 van O -999
 de O -999
-producten B-ASP neutral
+producten B-ASP Neutral
 ok O -999
 is O -999
 en O -999
@@ -1108,18 +1108,18 @@ Zeer O -999
 vriendelijke O -999
 en O -999
 vlotte O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Lekker O -999
-broodje B-ASP positive
-met I-ASP positive
-vol-au-vent I-ASP positive
+broodje B-ASP Positive
+met I-ASP Positive
+vol-au-vent I-ASP Positive
 Aan O -999
 8,5€! O -999
 
 Gezellige O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 , O -999
 vriendelijke B-ASP -999
 bediening O -999
@@ -1132,7 +1132,7 @@ TOP! O -999
 Gezellige O -999
 sfeer B-ASP -999
 , O -999
-vriendelijke B-ASP positive
+vriendelijke B-ASP Positive
 bediening O -999
 en O -999
 het B-ASP -999
@@ -1146,7 +1146,7 @@ sfeer B-ASP -999
 vriendelijke B-ASP -999
 bediening O -999
 en O -999
-het B-ASP positive
+het B-ASP Positive
 eten O -999
 is O -999
 TOP! O -999
@@ -1155,7 +1155,7 @@ Mooie O -999
 aankleding O -999
 van O -999
 de O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 , O -999
 super O -999
 vriendelijke B-ASP -999
@@ -1176,7 +1176,7 @@ de O -999
 zaak B-ASP -999
 , O -999
 super O -999
-vriendelijke B-ASP positive
+vriendelijke B-ASP Positive
 bediening O -999
 en O -999
 voor O -999
@@ -1202,7 +1202,7 @@ ieder O -999
 wat O -999
 wils O -999
 op O -999
-de B-ASP positive
+de B-ASP Positive
 kaart. O -999
 
 Wat O -999
@@ -1227,7 +1227,7 @@ met I-ASP -999
 bijhorende I-ASP -999
 saus, I-ASP -999
 hun O -999
-mosselen B-ASP positive
+mosselen B-ASP Positive
 en O -999
 de O -999
 legendarische O -999
@@ -1253,11 +1253,11 @@ schotel, O -999
 maar O -999
 ook O -999
 hun O -999
-village B-ASP positive
-gras I-ASP positive
-met I-ASP positive
-bijhorende I-ASP positive
-saus, I-ASP positive
+village B-ASP Positive
+gras I-ASP Positive
+met I-ASP Positive
+bijhorende I-ASP Positive
+saus, I-ASP Positive
 hun O -999
 mosselen B-ASP -999
 en O -999
@@ -1291,9 +1291,9 @@ zeer O -999
 goed O -999
 ontvangen O -999
 de O -999
-garcon B-ASP positive
-van I-ASP positive
-dienst I-ASP positive
+garcon B-ASP Positive
+van I-ASP Positive
+dienst I-ASP Positive
 was O -999
 dan O -999
 ook O -999
@@ -1305,7 +1305,7 @@ de O -999
 zaak! O -999
 
 De O -999
-zaak B-ASP neutral
+zaak B-ASP Neutral
 is O -999
 mooi O -999
 maar O -999
@@ -1336,7 +1336,7 @@ te O -999
 vertoeven O -999
 was: O -999
 het O -999
-eten B-ASP negative
+eten B-ASP Negative
 gewoon O -999
 SCHANDALIG!!!! O -999
 
@@ -1350,7 +1350,7 @@ was O -999
 slecht O -999
 en O -999
 de O -999
-dressing B-ASP negative
+dressing B-ASP Negative
 was O -999
 al O -999
 precies O -999
@@ -1359,9 +1359,9 @@ over O -999
 datum! O -999
 
 De O -999
-huisbereide B-ASP negative
-garnaal I-ASP negative
-kroketten I-ASP negative
+huisbereide B-ASP Negative
+garnaal I-ASP Negative
+kroketten I-ASP Negative
 kwamen O -999
 van O -999
 de O -999
@@ -1369,8 +1369,8 @@ makro!!!! O -999
 
 Stond O -999
 een O -999
-vrouwelijk B-ASP negative
-personeelslid I-ASP negative
+vrouwelijk B-ASP Negative
+personeelslid I-ASP Negative
 gewoon O -999
 te O -999
 roken O -999
@@ -1399,7 +1399,7 @@ te O -999
 roken O -999
 in O -999
 de O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 dit O -999
 is O -999
 allemaal O -999
@@ -1415,7 +1415,7 @@ vatbaar. O -999
 
 zowel O -999
 het O -999
-concept B-ASP positive
+concept B-ASP Positive
 als O -999
 het O -999
 Interieur O -999
@@ -1424,7 +1424,7 @@ orgineel. O -999
 
 Daarom O -999
 kleine O -999
-kaart B-ASP neutral
+kaart B-ASP Neutral
 met O -999
 enkel O -999
 super O -999
@@ -1438,11 +1438,11 @@ met O -999
 enkel O -999
 super O -999
 verse O -999
-bordjes B-ASP positive
+bordjes B-ASP Positive
 . O -999
 
 De O -999
-wijnkeuze B-ASP positive
+wijnkeuze B-ASP Positive
 is O -999
 fantastisch O -999
 en O -999
@@ -1473,7 +1473,7 @@ ook O -999
 zeker O -999
 eens O -999
 proberen!), O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 aangepast O -999
 aan O -999
 je O -999
@@ -1483,7 +1483,7 @@ smaak,... O -999
 Leuke O -999
 sfeer, B-ASP -999
 gemoedelijke O -999
-ontvangst, B-ASP neutral
+ontvangst, B-ASP Neutral
 de O -999
 beste O -999
 steak B-ASP -999
@@ -1514,8 +1514,8 @@ gemoedelijke O -999
 ontvangst, B-ASP -999
 de O -999
 beste O -999
-steak B-ASP positive
-tartare I-ASP positive
+steak B-ASP Positive
+tartare I-ASP Positive
 die O -999
 we O -999
 ooit O -999
@@ -1537,7 +1537,7 @@ eigen O -999
 smaak,... O -999
 
 Leuke O -999
-sfeer, B-ASP positive
+sfeer, B-ASP Positive
 gemoedelijke O -999
 ontvangst, B-ASP -999
 de O -999
@@ -1578,7 +1578,7 @@ ooit O -999
 hebben O -999
 gegeten O -999
 (de O -999
-gebakken B-ASP positive
+gebakken B-ASP Positive
 moet O -999
 je O -999
 ook O -999
@@ -1593,7 +1593,7 @@ eigen O -999
 smaak,... O -999
 
 Geweldig O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 buiten O -999
 het O -999
 echte O -999
@@ -1603,7 +1603,7 @@ Antwerpen. O -999
 
 Sublieme, O -999
 ongedwongen O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 , O -999
 weinig B-ASP -999
 couverts O -999
@@ -1619,7 +1619,7 @@ Sublieme, O -999
 ongedwongen O -999
 sfeer B-ASP -999
 , O -999
-weinig B-ASP neutral
+weinig B-ASP Neutral
 couverts O -999
 (reserveren O -999
 is O -999
@@ -1640,7 +1640,7 @@ is O -999
 noodzakelijk) O -999
 en O -999
 een O -999
-fantastische B-ASP positive
+fantastische B-ASP Positive
 bediening. O -999
 
 Het O -999
@@ -1648,8 +1648,8 @@ eten B-ASP -999
 is O -999
 top O -999
 (die O -999
-steak B-ASP positive
-tartaar I-ASP positive
+steak B-ASP Positive
+tartaar I-ASP Positive
 !) O -999
 en O -999
 het O -999
@@ -1665,7 +1665,7 @@ hun B-ASP -999
 wijnkeuze. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 is O -999
 top O -999
 (die O -999
@@ -1703,12 +1703,12 @@ te O -999
 laten O -999
 verrassen O -999
 door O -999
-hun B-ASP positive
+hun B-ASP Positive
 wijnkeuze. O -999
 
 Geen O -999
 goedkope O -999
-zaak B-ASP neutral
+zaak B-ASP Neutral
 , O -999
 maar O -999
 prijs/kwaliteit O -999
@@ -1717,7 +1717,7 @@ correct. O -999
 
 Geen O -999
 goedkope O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 , O -999
 maar O -999
 prijs/kwaliteit O -999
@@ -1725,10 +1725,10 @@ zeer O -999
 correct. O -999
 
 De O -999
-koffies B-ASP negative
-en I-ASP negative
-warme I-ASP negative
-choco I-ASP negative
+koffies B-ASP Negative
+en I-ASP Negative
+warme I-ASP Negative
+choco I-ASP Negative
 waren O -999
 naar O -999
 mijn O -999
@@ -1744,10 +1744,10 @@ koud O -999
 opgediend. O -999
 
 De O -999
-koffies B-ASP negative
-en I-ASP negative
-warme I-ASP negative
-choco I-ASP negative
+koffies B-ASP Negative
+en I-ASP Negative
+warme I-ASP Negative
+choco I-ASP Negative
 waren O -999
 naar O -999
 mijn O -999
@@ -1763,14 +1763,14 @@ koud O -999
 opgediend. O -999
 
 Lauwe O -999
-koffie B-ASP negative
+koffie B-ASP Negative
 is O -999
 gewoon O -999
 niet O -999
 accepteerbaar. O -999
 
 Portie O -999
-taart B-ASP neutral
+taart B-ASP Neutral
 was O -999
 voldoende O -999
 groot O -999
@@ -1786,7 +1786,7 @@ te O -999
 merken. O -999
 
 Portie O -999
-taart B-ASP neutral
+taart B-ASP Neutral
 was O -999
 voldoende O -999
 groot O -999
@@ -1819,7 +1819,7 @@ en O -999
 op O -999
 dikke O -999
 sneden O -999
-brood B-ASP neutral
+brood B-ASP Neutral
 . O -999
 
 Enig O -999
@@ -1827,7 +1827,7 @@ adresje O -999
 waar O -999
 je O -999
 lekkere O -999
-pastrami B-ASP positive
+pastrami B-ASP Positive
 kan O -999
 eten, O -999
 wordt O -999
@@ -1856,7 +1856,7 @@ geserveerd O -999
 met O -999
 een O -999
 speciaal O -999
-sausje B-ASP neutral
+sausje B-ASP Neutral
 en O -999
 op O -999
 dikke O -999
@@ -1875,12 +1875,12 @@ er O -999
 heerst O -999
 een O -999
 gezellige O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 . O -999
 
 Ook O -999
 de O -999
-koffie B-ASP positive
+koffie B-ASP Positive
 is O -999
 er O -999
 lekker O -999
@@ -1904,7 +1904,7 @@ we O -999
 naar O -999
 het O -999
 gezellige O -999
-cafe B-ASP positive
+cafe B-ASP Positive
 getogen. O -999
 
 Hier O -999
@@ -1917,14 +1917,14 @@ van O -999
 een O -999
 goede O -999
 kop O -999
-koffie B-ASP positive
+koffie B-ASP Positive
 genoten. O -999
 
 De O -999
 kwaliteit O -999
 van O -999
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 heerlijk O -999
 en O -999
@@ -1952,7 +1952,7 @@ en O -999
 net O -999
 als O -999
 de O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 alsof O -999
 je O -999
 bij O -999
@@ -1963,7 +1963,7 @@ bezoek O -999
 was. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 was O -999
 vriendelijk O -999
 en O -999
@@ -1978,8 +1978,8 @@ de O -999
 chef O -999
 ons O -999
 zijn O -999
-culinaire B-ASP positive
-creaties I-ASP positive
+culinaire B-ASP Positive
+creaties I-ASP Positive
 waar O -999
 zijn O -999
 persoonlijke O -999
@@ -2005,7 +2005,7 @@ en O -999
 uiterlijk O -999
 van O -999
 lekker O -999
-eten. B-ASP positive
+eten. B-ASP Positive
 
 Marc O -999
 is O -999
@@ -2023,16 +2023,16 @@ en O -999
 uiterlijk O -999
 van O -999
 lekker O -999
-eten. B-ASP positive
+eten. B-ASP Positive
 
 Het O -999
-concept B-ASP positive
+concept B-ASP Positive
 is O -999
 zeer O -999
 origineel. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 is O -999
 fantastisch, O -999
 zeer O -999
@@ -2046,13 +2046,13 @@ woorden O -999
 voor. O -999
 
 Vriendelijke O -999
-service B-ASP positive
+service B-ASP Positive
 . O -999
 
 Spijtig O -999
 dat O -999
 de O -999
-wachttijden B-ASP negative
+wachttijden B-ASP Negative
 zo O -999
 lang O -999
 zijn. O -999
@@ -2061,20 +2061,20 @@ Voor O -999
 mij O -999
 verdient O -999
 de O -999
-chef B-ASP positive
+chef B-ASP Positive
 4 O -999
 sterren. O -999
 
 Leuk O -999
 ingericht, O -999
 genoeg O -999
-keuze B-ASP neutral
+keuze B-ASP Neutral
 , O -999
 goed O -999
 prijs/kwaliteitverhouding. O -999
 
 De O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 was O -999
 zéér O -999
 vriendelijk O -999
@@ -2087,11 +2087,11 @@ was O -999
 héél O -999
 lekker, O -999
 de O -999
-hoofdschotel B-ASP positive
+hoofdschotel B-ASP Positive
 ook. O -999
 
 Het O -999
-voorgerecht B-ASP positive
+voorgerecht B-ASP Positive
 was O -999
 héél O -999
 lekker, O -999
@@ -2101,14 +2101,14 @@ ook. O -999
 
 Verschillende O -999
 superlekkere O -999
-gerechtjes B-ASP positive
+gerechtjes B-ASP Positive
 met O -999
 rijst O -999
 apart. O -999
 
 Heel O -999
 veel O -999
-groenten B-ASP positive
+groenten B-ASP Positive
 . O -999
 
 Zeker O -999
@@ -2120,7 +2120,7 @@ enig O -999
 minmuntje: O -999
 wat O -999
 weinig O -999
-kip B-ASP negative
+kip B-ASP Negative
 en O -999
 scampi's. B-ASP -999
 
@@ -2135,10 +2135,10 @@ wat O -999
 weinig O -999
 kip B-ASP -999
 en O -999
-scampi's. B-ASP negative
+scampi's. B-ASP Negative
 
 Het O -999
-nagerechtje B-ASP negative
+nagerechtje B-ASP Negative
 was O -999
 wat O -999
 taai O -999
@@ -2155,10 +2155,10 @@ taai O -999
 en O -999
 geen O -999
 verse O -999
-chocoladesaus. B-ASP negative
+chocoladesaus. B-ASP Negative
 
 De O -999
-kaart B-ASP positive
+kaart B-ASP Positive
 is O -999
 zéér O -999
 uitgebreid, O -999
@@ -2173,8 +2173,8 @@ Er O -999
 zou O -999
 juist O -999
 een O -999
-nieuwe B-ASP positive
-eigenaar I-ASP positive
+nieuwe B-ASP Positive
+eigenaar I-ASP Positive
 zijn, O -999
 vandaar O -999
 misschien O -999
@@ -2189,7 +2189,7 @@ is O -999
 een O -999
 klein O -999
 leuk O -999
-restaurantje B-ASP positive
+restaurantje B-ASP Positive
 en O -999
 ze O -999
 serveren O -999
@@ -2213,7 +2213,7 @@ en O -999
 ze O -999
 serveren O -999
 prima O -999
-sushi B-ASP positive
+sushi B-ASP Positive
 maar O -999
 daar O -999
 is O -999
@@ -2227,7 +2227,7 @@ vliegen O -999
 er O -999
 rondom O -999
 de O -999
-bar B-ASP negative
+bar B-ASP Negative
 allemaal O -999
 vieze O -999
 vliegjes O -999
@@ -2243,7 +2243,7 @@ gaan O -999
 zitten. O -999
 
 De O -999
-dame B-ASP positive
+dame B-ASP Positive
 was O -999
 wel O -999
 vriendelijk O -999
@@ -2266,7 +2266,7 @@ drukker O -999
 wordt O -999
 hebben O -999
 de O -999
-mensen B-ASP negative
+mensen B-ASP Negative
 in O -999
 zowel O -999
 de O -999
@@ -2281,7 +2281,7 @@ kort. O -999
 Wel O -999
 proberen O -999
 de O -999
-mensen B-ASP positive
+mensen B-ASP Positive
 jou O -999
 met O -999
 de O -999
@@ -2293,7 +2293,7 @@ ze O -999
 kunnen. O -999
 
 De O -999
-tafels B-ASP negative
+tafels B-ASP Negative
 lijken O -999
 niet O -999
 altijd O -999
@@ -2316,14 +2316,14 @@ krakende O -999
 luidspreker). O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 is O -999
 echt O -999
 lekker. O -999
 
 Zoveel O -999
 verschillende O -999
-keuze B-ASP positive
+keuze B-ASP Positive
 , O -999
 en O -999
 de B-ASP -999
@@ -2336,13 +2336,13 @@ verschillende O -999
 keuze B-ASP -999
 , O -999
 en O -999
-de B-ASP positive
+de B-ASP Positive
 smaken O -999
 zitten O -999
 goed. O -999
 
 Het O -999
-concept B-ASP negative
+concept B-ASP Negative
 op O -999
 zich O -999
 lijkt O -999
@@ -2364,7 +2364,7 @@ hebben. O -999
 We O -999
 mochten O -999
 zoooveel O -999
-eten B-ASP positive
+eten B-ASP Positive
 , O -999
 perfect!!!! O -999
 
@@ -2375,7 +2375,7 @@ uit O -999
 magnetron O -999
 vooral O -999
 de O -999
-spiezen B-ASP negative
+spiezen B-ASP Negative
 en O -999
 spareribs B-ASP -999
 waren O -999
@@ -2390,7 +2390,7 @@ vooral O -999
 de O -999
 spiezen B-ASP -999
 en O -999
-spareribs B-ASP negative
+spareribs B-ASP Negative
 waren O -999
 onsmakelijk. O -999
 
@@ -2403,7 +2403,7 @@ eeter O -999
 bent O -999
 sla O -999
 deze O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 dan O -999
 over. O -999
 
@@ -2411,7 +2411,7 @@ Aangetrokken O -999
 door O -999
 het O -999
 leuke O -999
-terras B-ASP positive
+terras B-ASP Positive
 aan O -999
 de O -999
 straatzijde O -999
@@ -2442,7 +2442,7 @@ straatzijde O -999
 en O -999
 de O -999
 heerlijke O -999
-kazen B-ASP positive
+kazen B-ASP Positive
 in O -999
 de O -999
 vitrine, O -999
@@ -2469,9 +2469,9 @@ koeltoog, O -999
 ik O -999
 nam O -999
 een O -999
-tortellini B-ASP positive
-met I-ASP positive
-pancetta I-ASP positive
+tortellini B-ASP Positive
+met I-ASP Positive
+pancetta I-ASP Positive
 aangeprezen O -999
 door O -999
 de O -999
@@ -2483,7 +2483,7 @@ in O -999
 combinatie O -999
 met O -999
 fijne O -999
-muziek B-ASP positive
+muziek B-ASP Positive
 op O -999
 de O -999
 achtergrond O -999
@@ -2512,7 +2512,7 @@ en O -999
 een O -999
 heerlijk O -999
 glas O -999
-wit B-ASP positive
+wit B-ASP Positive
 voor O -999
 voor O -999
 een O -999
@@ -2533,7 +2533,7 @@ en O -999
 een O -999
 heerlijk O -999
 glas O -999
-wit B-ASP positive
+wit B-ASP Positive
 voor O -999
 voor O -999
 een O -999
@@ -2549,8 +2549,8 @@ lunch O -999
 maar O -999
 ook O -999
 voor O -999
-iets B-ASP positive
-lekkers I-ASP positive
+iets B-ASP Positive
+lekkers I-ASP Positive
 te O -999
 halen O -999
 om O -999
@@ -2571,7 +2571,7 @@ kaas O -999
 erbij! O -999
 
 Leuk O -999
-adres B-ASP positive
+adres B-ASP Positive
 voor O -999
 n O -999
 lunch O -999
@@ -2619,7 +2619,7 @@ of O -999
 n O -999
 lekker O -999
 glas O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 te O -999
 drinken O -999
 met O -999
@@ -2635,7 +2635,7 @@ een O -999
 van O -999
 de O -999
 zalige O -999
-taarten B-ASP positive
+taarten B-ASP Positive
 of O -999
 quiches, B-ASP -999
 ze O -999
@@ -2657,7 +2657,7 @@ de O -999
 zalige O -999
 taarten B-ASP -999
 of O -999
-quiches, B-ASP positive
+quiches, B-ASP Positive
 ze O -999
 zijn O -999
 om O -999
@@ -2670,7 +2670,7 @@ likken! O -999
 
 Maar O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 sloeg O -999
 hier O -999
 alles. O -999
@@ -2680,7 +2680,7 @@ leek O -999
 alsof O -999
 we O -999
 de O -999
-kok B-ASP negative
+kok B-ASP Negative
 stoorden, O -999
 hoewel O -999
 er O -999
@@ -2711,7 +2711,7 @@ aanvaarden) O -999
 was O -999
 een O -999
 stukje O -999
-focaccia B-ASP negative
+focaccia B-ASP Negative
 van O -999
 5x5 O -999
 cm O -999
@@ -2733,7 +2733,7 @@ euro O -999
 voor O -999
 een O -999
 glas O -999
-wijn B-ASP neutral
+wijn B-ASP Neutral
 konden O -999
 we O -999
 nog O -999
@@ -2759,7 +2759,7 @@ gedweept O -999
 wordt, O -999
 was O -999
 m'n O -999
-soep B-ASP negative
+soep B-ASP Negative
 even O -999
 flauw O -999
 als O -999
@@ -2769,7 +2769,7 @@ doorsnee O -999
 brasseriekeuken. O -999
 
 De O -999
-focaccia B-ASP positive
+focaccia B-ASP Positive
 was O -999
 lekker, O -999
 maar O -999
@@ -2781,7 +2781,7 @@ een O -999
 fortuin. O -999
 
 De O -999
-focaccia B-ASP negative
+focaccia B-ASP Negative
 was O -999
 lekker, O -999
 maar O -999
@@ -2798,7 +2798,7 @@ hoe O -999
 lang O -999
 deze O -999
 omhooggevallen O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 stand O -999
 houdt... O -999
 
@@ -2810,7 +2810,7 @@ bent O -999
 naar O -999
 een O -999
 originelere O -999
-plaats B-ASP positive
+plaats B-ASP Positive
 om O -999
 's O -999
 middags O -999
@@ -2825,10 +2825,10 @@ juiste O -999
 adres. O -999
 
 De O -999
-winkel B-ASP positive
-met I-ASP positive
-open I-ASP positive
-keuken I-ASP positive
+winkel B-ASP Positive
+met I-ASP Positive
+open I-ASP Positive
+keuken I-ASP Positive
 is O -999
 mooi O -999
 ingericht O -999
@@ -2857,7 +2857,7 @@ mooi O -999
 ingericht O -999
 en O -999
 de O -999
-uitbater B-ASP positive
+uitbater B-ASP Positive
 is O -999
 zeer O -999
 vriendelijk O -999
@@ -2888,7 +2888,7 @@ een O -999
 ruim O -999
 aanbod O -999
 van O -999
-kazen B-ASP positive
+kazen B-ASP Positive
 . O -999
 
 Elke O -999
@@ -2897,7 +2897,7 @@ zijn O -999
 er O -999
 dagvers O -999
 bereide O -999
-soepen, B-ASP positive
+soepen, B-ASP Positive
 lichte O -999
 maaltijd-gerechten, B-ASP -999
 quiches O -999
@@ -2920,7 +2920,7 @@ dagvers O -999
 bereide O -999
 soepen, B-ASP -999
 lichte O -999
-maaltijd-gerechten, B-ASP positive
+maaltijd-gerechten, B-ASP Positive
 quiches O -999
 en O -999
 er O -999
@@ -2940,7 +2940,7 @@ echt O -999
 super O -999
 en O -999
 de O -999
-kazen B-ASP positive
+kazen B-ASP Positive
 , O -999
 die O -999
 de O -999
@@ -2954,7 +2954,7 @@ in O -999
 orde. O -999
 
 De O -999
-soep B-ASP positive
+soep B-ASP Positive
 was O -999
 echt O -999
 super O -999
@@ -2978,7 +2978,7 @@ gegeten, O -999
 goe O -999
 gedronken, O -999
 goeie O -999
-service B-ASP positive
+service B-ASP Positive
 , O -999
 eerlijke B-ASP -999
 keuken, O -999
@@ -2994,7 +2994,7 @@ gedronken, O -999
 goeie O -999
 service B-ASP -999
 , O -999
-eerlijke B-ASP positive
+eerlijke B-ASP Positive
 keuken, O -999
 toffen B-ASP -999
 baas--->leve O -999
@@ -3010,17 +3010,17 @@ service B-ASP -999
 , O -999
 eerlijke B-ASP -999
 keuken, O -999
-toffen B-ASP positive
+toffen B-ASP Positive
 baas--->leve O -999
 de O -999
 Steve!! O -999
 
 Leuk O -999
-restaurantje B-ASP positive
+restaurantje B-ASP Positive
 . O -999
 
 Het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 casual O -999
 qua O -999
 stijl, O -999
@@ -3028,7 +3028,7 @@ en O -999
 vriendelijk. O -999
 
 De O -999
-tafeltjes B-ASP negative
+tafeltjes B-ASP Negative
 zijn O -999
 als O -999
 op O -999
@@ -3040,13 +3040,13 @@ erg O -999
 klein. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 echter O -999
 prima. O -999
 
 Lekkere O -999
-kaaskroketjes B-ASP positive
+kaaskroketjes B-ASP Positive
 vooraf O -999
 gehad. O -999
 
@@ -3066,13 +3066,13 @@ dat O -999
 hierachter O -999
 een O -999
 gezellig O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 schuil O -999
 gaat. O -999
 
 De O -999
 achterliggende O -999
-tuin B-ASP positive
+tuin B-ASP Positive
 met O -999
 vijver O -999
 is O -999
@@ -3098,7 +3098,7 @@ Dit O -999
 is O -999
 een O -999
 lekkere O -999
-cava B-ASP positive
+cava B-ASP Positive
 en O -999
 inbegrepen O -999
 in O -999
@@ -3111,7 +3111,7 @@ per O -999
 persoon. O -999
 
 Het O -999
-geheel B-ASP positive
+geheel B-ASP Positive
 biedt O -999
 een O -999
 hoog O -999
@@ -3125,7 +3125,7 @@ hier. O -999
 
 De O -999
 2 O -999
-hapjes B-ASP positive
+hapjes B-ASP Positive
 vooraf O -999
 zijn O -999
 fris O -999
@@ -3140,7 +3140,7 @@ is O -999
 een O -999
 vrij O -999
 pittig O -999
-soepje B-ASP positive
+soepje B-ASP Positive
 , O -999
 aanvaardbaar O -999
 gekruid O -999
@@ -3150,14 +3150,14 @@ qua O -999
 smaak. O -999
 
 Dit O -999
-gerecht B-ASP positive
+gerecht B-ASP Positive
 is O -999
 het O -999
 betere O -999
 werk. O -999
 
 De O -999
-hoeveelheid B-ASP negative
+hoeveelheid B-ASP Negative
 eten O -999
 is O -999
 te O -999
@@ -3185,7 +3185,7 @@ tussen O -999
 de O -999
 (té) O -999
 talrijke O -999
-ingrediënten B-ASP negative
+ingrediënten B-ASP Negative
 gaat O -999
 volledig O -999
 de O -999
@@ -3203,7 +3203,7 @@ tussen O -999
 de O -999
 (té) O -999
 talrijke O -999
-ingrediënten B-ASP negative
+ingrediënten B-ASP Negative
 gaat O -999
 volledig O -999
 de O -999
@@ -3213,7 +3213,7 @@ in. O -999
 Jammer, O -999
 maar O -999
 dit O -999
-gerecht B-ASP negative
+gerecht B-ASP Negative
 is O -999
 niet O -999
 geslaagd. O -999
@@ -3223,15 +3223,15 @@ doen O -999
 we O -999
 met O -999
 een O -999
-ijs B-ASP positive
-compositie I-ASP positive
+ijs B-ASP Positive
+compositie I-ASP Positive
 die O -999
 erg O -999
 lekker O -999
 is. O -999
 
 De O -999
-dienstverlening B-ASP neutral
+dienstverlening B-ASP Neutral
 is O -999
 voorkomend O -999
 en O -999
@@ -3245,7 +3245,7 @@ kant. O -999
 
 De O -999
 gebruikte O -999
-ingrediënten B-ASP positive
+ingrediënten B-ASP Positive
 zijn O -999
 vers O -999
 en O -999
@@ -3263,7 +3263,7 @@ niet O -999
 altijd O -999
 en O -999
 de O -999
-porties B-ASP negative
+porties B-ASP Negative
 zijn O -999
 te O -999
 ruim O -999
@@ -3271,7 +3271,7 @@ bemeten. O -999
 
 Maar O -999
 de O -999
-harmonie B-ASP negative
+harmonie B-ASP Negative
 klopt O -999
 niet O -999
 altijd O -999
@@ -3285,7 +3285,7 @@ bemeten. O -999
 
 Gastvrijheid O -999
 top, O -999
-omgeving B-ASP positive
+omgeving B-ASP Positive
 binnen O -999
 en O -999
 buiten O -999
@@ -3318,7 +3318,7 @@ te O -999
 komen O -999
 en O -999
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 om O -999
 bij O -999
 weg O -999
@@ -3326,7 +3326,7 @@ te O -999
 dromen. O -999
 
 Het O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 is O -999
 stijlvol O -999
 en O -999
@@ -3351,7 +3351,7 @@ gezellig O -999
 ingericht, O -999
 alsook O -999
 de O -999
-tuin B-ASP positive
+tuin B-ASP Positive
 waar O -999
 we O -999
 het O -999
@@ -3360,7 +3360,7 @@ hebben O -999
 genuttigd. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 (4 O -999
 gangen O -999
 menu O -999
@@ -3379,7 +3379,7 @@ De O -999
 gastheer B-ASP -999
 en O -999
 zijn O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 waren O -999
 zeer O -999
 voorkomend O -999
@@ -3387,7 +3387,7 @@ en O -999
 vriendelijk. O -999
 
 De O -999
-gastheer B-ASP positive
+gastheer B-ASP Positive
 en O -999
 zijn O -999
 personeel B-ASP -999
@@ -3403,7 +3403,7 @@ genoten O -999
 van O -999
 een O -999
 excellente O -999
-lunch B-ASP positive
+lunch B-ASP Positive
 met O -999
 een O -999
 super O -999
@@ -3421,16 +3421,16 @@ met O -999
 een O -999
 super O -999
 lekker O -999
-dessert. B-ASP positive
+dessert. B-ASP Positive
 
 De O -999
-aangepaste B-ASP positive
-wijnen I-ASP positive
+aangepaste B-ASP Positive
+wijnen I-ASP Positive
 waren O -999
 lekker. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 was O -999
 correct O -999
 en O -999
@@ -3464,7 +3464,7 @@ geluk O -999
 om O -999
 in O -999
 de O -999
-binnentuin B-ASP positive
+binnentuin B-ASP Positive
 te O -999
 kunnen O -999
 lunchen. O -999
@@ -3472,7 +3472,7 @@ lunchen. O -999
 Laat O -999
 de O -999
 drukke O -999
-omgeving B-ASP negative
+omgeving B-ASP Negative
 je O -999
 niet O -999
 afschrikken. O -999
@@ -3482,14 +3482,14 @@ amuses B-ASP -999
 en O -999
 ook O -999
 de O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 hadden O -999
 een O -999
 verfijnde O -999
 smaak. O -999
 
 De O -999
-amuses B-ASP positive
+amuses B-ASP Positive
 en O -999
 ook O -999
 de O -999
@@ -3500,7 +3500,7 @@ verfijnde O -999
 smaak. O -999
 
 De O -999
-porties B-ASP negative
+porties B-ASP Negative
 waren O -999
 wel O -999
 niet O -999
@@ -3513,7 +3513,7 @@ minuten O -999
 later O -999
 kwam O -999
 de O -999
-chef B-ASP positive
+chef B-ASP Positive
 met O -999
 4 O -999
 treffelijke O -999
@@ -3531,11 +3531,11 @@ met O -999
 4 O -999
 treffelijke O -999
 stukjes O -999
-vlees. B-ASP neutral
+vlees. B-ASP Neutral
 
 Ook O -999
 het O -999
-dessert B-ASP positive
+dessert B-ASP Positive
 was O -999
 voortreffelijk O -999
 van O -999
@@ -3547,13 +3547,13 @@ in O -999
 een O -999
 ongedwongen O -999
 vlotte O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 doch O -999
 met O -999
 stijl. O -999
 
 Het O -999
-adresje B-ASP positive
+adresje B-ASP Positive
 voor O -999
 die O -999
 ene O -999
@@ -3566,7 +3566,7 @@ verwend O -999
 worden. O -999
 
 De O -999
-ligging B-ASP negative
+ligging B-ASP Negative
 op O -999
 een O -999
 drukke O -999
@@ -3590,7 +3590,7 @@ is O -999
 een O -999
 afknapper, O -999
 het O -999
-terras B-ASP negative
+terras B-ASP Negative
 ook O -999
 geen O -999
 aanrader. O -999
@@ -3604,14 +3604,14 @@ heel O -999
 lekker O -999
 en O -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 ongelooflijk O -999
 vriendelijk. O -999
 
 Goei O -999
 mosselen, B-ASP -999
 goei O -999
-service B-ASP positive
+service B-ASP Positive
 , O -999
 da's O -999
 echte O -999
@@ -3619,7 +3619,7 @@ Hasseltse B-ASP -999
 gastvrijheid! O -999
 
 Goei O -999
-mosselen, B-ASP positive
+mosselen, B-ASP Positive
 goei O -999
 service B-ASP -999
 , O -999
@@ -3635,31 +3635,31 @@ service B-ASP -999
 , O -999
 da's O -999
 echte O -999
-Hasseltse B-ASP positive
+Hasseltse B-ASP Positive
 gastvrijheid! O -999
 
 Ook O -999
 een O -999
 geweldige O -999
-sfeer B-ASP positive
-muziek I-ASP positive
+sfeer B-ASP Positive
+muziek I-ASP Positive
 ! O -999
 
 Lekkere O -999
 broodjes B-ASP -999
 en O -999
-pasta's B-ASP positive
+pasta's B-ASP Positive
 . O -999
 
 Lekkere O -999
-broodjes B-ASP positive
+broodjes B-ASP Positive
 en O -999
 pasta's B-ASP -999
 . O -999
 
 Ook O -999
 de O -999
-menu B-ASP positive
+menu B-ASP Positive
 is O -999
 goed O -999
 en O -999
@@ -3667,7 +3667,7 @@ goedkoop. O -999
 
 Ook O -999
 de O -999
-menu B-ASP positive
+menu B-ASP Positive
 is O -999
 goed O -999
 en O -999
@@ -3680,7 +3680,7 @@ een O -999
 ruime O -999
 kuize O -999
 aan O -999
-gebak B-ASP positive
+gebak B-ASP Positive
 voor O -999
 een O -999
 eerlijke O -999
@@ -3693,14 +3693,14 @@ een O -999
 ruime O -999
 kuize O -999
 aan O -999
-gebak B-ASP positive
+gebak B-ASP Positive
 voor O -999
 een O -999
 eerlijke O -999
 prijs. O -999
 
 De O -999
-pannenkoeken B-ASP positive
+pannenkoeken B-ASP Positive
 zijn O -999
 zeker O -999
 aan O -999
@@ -3712,11 +3712,11 @@ is O -999
 echt O -999
 een O -999
 toffe O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 . O -999
 
 Supervriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 de O -999
 lekkere O -999
 pannenkoeken O -999
@@ -3736,7 +3736,7 @@ de O -999
 lekkere O -999
 pannenkoeken O -999
 en O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 echt O -999
 goed, O -999
@@ -3751,7 +3751,7 @@ de O -999
 lekkere O -999
 pannenkoeken O -999
 en O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 echt O -999
 goed, O -999
@@ -3765,7 +3765,7 @@ in O -999
 Hasselt O -999
 zijn O -999
 de O -999
-pannekoeken B-ASP positive
+pannekoeken B-ASP Positive
 zo O -999
 lekker O -999
 als O -999
@@ -3775,14 +3775,14 @@ Snelle O -999
 bediening B-ASP -999
 en O -999
 vriendelijke O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 moet O -999
 ook O -999
 gemeld O -999
 worden!! O -999
 
 Snelle O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 en O -999
 vriendelijke O -999
 personeel B-ASP -999
@@ -3812,25 +3812,25 @@ einde O -999
 nog O -999
 een O -999
 redelijke O -999
-rekening B-ASP positive
+rekening B-ASP Positive
 toe O -999
 
 Het O -999
 nagerecht O -999
 was O -999
-dame B-ASP positive
-blanche I-ASP positive
+dame B-ASP Positive
+blanche I-ASP Positive
 zeer O -999
 goed O -999
 mmm O -999
 
 Super O -999
 goed O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 . O -999
 
 Heerlijke O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 , O -999
 zeer O -999
 goede B-ASP -999
@@ -3840,12 +3840,12 @@ Heerlijke O -999
 gerechten B-ASP -999
 , O -999
 zeer O -999
-goede B-ASP positive
+goede B-ASP Positive
 wijnen. O -999
 
 Zeer O -999
 goede O -999
-ligging B-ASP positive
+ligging B-ASP Positive
 vlak O -999
 bij O -999
 het O -999
@@ -3856,7 +3856,7 @@ stad. O -999
 
 Super O -999
 goede O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 en O -999
 bediening. O -999
 
@@ -3864,11 +3864,11 @@ Super O -999
 goede O -999
 ontvangst O -999
 en O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Beste O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 in O -999
 de O -999
 stad O -999
@@ -3878,7 +3878,7 @@ daarbuiten O -999
 
 Originele O -999
 zwitserse O -999
-inkleding B-ASP positive
+inkleding B-ASP Positive
 , O -999
 met O -999
 grappige O -999
@@ -3890,7 +3890,7 @@ hout. O -999
 Vlotte O -999
 bediening, B-ASP -999
 lekkere O -999
-fondue B-ASP positive
+fondue B-ASP Positive
 (kaasfondue O -999
 is O -999
 lekker O -999
@@ -3903,7 +3903,7 @@ volonté. O -999
 Vlotte O -999
 bediening, B-ASP -999
 lekkere O -999
-fondue B-ASP positive
+fondue B-ASP Positive
 (kaasfondue O -999
 is O -999
 lekker O -999
@@ -3914,7 +3914,7 @@ a O -999
 volonté. O -999
 
 Vlotte O -999
-bediening, B-ASP positive
+bediening, B-ASP Positive
 lekkere O -999
 fondue B-ASP -999
 (kaasfondue O -999
@@ -3931,10 +3931,10 @@ eethuisje O -999
 waar O -999
 je O -999
 lekkere O -999
-fondue, B-ASP positive
-kaasfondue I-ASP positive
-of I-ASP positive
-raclette I-ASP positive
+fondue, B-ASP Positive
+kaasfondue I-ASP Positive
+of I-ASP Positive
+raclette I-ASP Positive
 kan O -999
 eten! O -999
 
@@ -3943,7 +3943,7 @@ sfeer B-ASP -999
 is O -999
 top, O -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 vriendelijk O -999
 en O -999
 de O -999
@@ -3951,7 +3951,7 @@ omgeving B-ASP -999
 gezellig! O -999
 
 De O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 is O -999
 top, O -999
 de O -999
@@ -3971,7 +3971,7 @@ bediening B-ASP -999
 vriendelijk O -999
 en O -999
 de O -999
-omgeving B-ASP positive
+omgeving B-ASP Positive
 gezellig! O -999
 
 De O -999
@@ -3980,13 +3980,13 @@ was O -999
 goed O -999
 en O -999
 het O -999
-interieur B-ASP neutral
+interieur B-ASP Neutral
 is O -999
 in O -999
 orde. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 was O -999
 goed O -999
 en O -999
@@ -3997,13 +3997,13 @@ in O -999
 orde. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 was O -999
 te O -999
 duur. O -999
 
 Weinig O -999
-eten B-ASP negative
+eten B-ASP Negative
 in O -999
 vergelijking O -999
 met O -999
@@ -4012,7 +4012,7 @@ je O -999
 betaalt. O -999
 
 De O -999
-frietjes B-ASP negative
+frietjes B-ASP Negative
 kwamen O -999
 uit O -999
 de O -999
@@ -4023,7 +4023,7 @@ weinig O -999
 smaak. O -999
 
 De O -999
-vissaus B-ASP negative
+vissaus B-ASP Negative
 was O -999
 flets O -999
 en O -999
@@ -4039,7 +4039,7 @@ geld O -999
 voor O -999
 4 O -999
 kleine O -999
-tongrolletjes B-ASP negative
+tongrolletjes B-ASP Negative
 , O -999
 zoute B-ASP -999
 saus O -999
@@ -4058,7 +4058,7 @@ voor O -999
 kleine O -999
 tongrolletjes B-ASP -999
 , O -999
-zoute B-ASP negative
+zoute B-ASP Negative
 saus O -999
 en O -999
 puree. O -999
@@ -4067,7 +4067,7 @@ puree. O -999
 euro O -999
 voor O -999
 een O -999
-visbrochette B-ASP negative
+visbrochette B-ASP Negative
 met O -999
 2 O -999
 droge O -999
@@ -4095,7 +4095,7 @@ met O -999
 2 O -999
 droge O -999
 brokjes O -999
-kabeljauw B-ASP negative
+kabeljauw B-ASP Negative
 en O -999
 2 O -999
 droge O -999
@@ -4123,7 +4123,7 @@ en O -999
 2 O -999
 droge O -999
 brokjes O -999
-zalm B-ASP negative
+zalm B-ASP Negative
 vind O -999
 ik O -999
 ook O -999
@@ -4146,7 +4146,7 @@ en O -999
 2 O -999
 droge O -999
 brokjes O -999
-zalm B-ASP negative
+zalm B-ASP Negative
 vind O -999
 ik O -999
 ook O -999
@@ -4162,7 +4162,7 @@ werden O -999
 wij O -999
 door O -999
 de O -999
-eigenaar B-ASP negative
+eigenaar B-ASP Negative
 , O -999
 tot O -999
 onze O -999
@@ -4177,7 +4177,7 @@ aangepakt. O -999
 Wij O -999
 hebben O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 onmiddellijk O -999
 verlaten O -999
 om O -999
@@ -4194,7 +4194,7 @@ kunnen O -999
 we O -999
 over O -999
 de O -999
-keuken B-ASP neutral
+keuken B-ASP Neutral
 geen O -999
 oordeel O -999
 vellen. O -999
@@ -4205,7 +4205,7 @@ van O -999
 een O -999
 totaal O -999
 mislukt O -999
-etentje B-ASP negative
+etentje B-ASP Negative
 in O -999
 dit O -999
 restaurant. O -999
@@ -4221,7 +4221,7 @@ en O -999
 hoofdgerecht, O -999
 na O -999
 simpele/lekkere O -999
-garnaalkroket B-ASP neutral
+garnaalkroket B-ASP Neutral
 , O -999
 om O -999
 14u45 O -999
@@ -4244,14 +4244,14 @@ kregen). O -999
 
 Slechte O -999
 kwaliteit O -999
-vlees B-ASP negative
+vlees B-ASP Negative
 (geprikte O -999
 pseudo O -999
 filetpur O -999
 =>... O -999
 
 Het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 is O -999
 eigenlijk O -999
 een O -999
@@ -4273,7 +4273,7 @@ binnenrijven. O -999
 Hier O -999
 denkt O -999
 de O -999
-kelner B-ASP negative
+kelner B-ASP Negative
 dat O -999
 hij O -999
 god O -999
@@ -4300,7 +4300,7 @@ dit O -999
 restaurant O -999
 zeer O -999
 uitgebreide) O -999
-menukaart B-ASP positive
+menukaart B-ASP Positive
 op O -999
 een O -999
 krijtbord O -999
@@ -4315,7 +4315,7 @@ uitgestald O -999
 staan. O -999
 
 De O -999
-setting B-ASP positive
+setting B-ASP Positive
 ziet O -999
 er O -999
 leuk O -999
@@ -4352,8 +4352,8 @@ is O -999
 een O -999
 indrukwekkende O -999
 verzameling O -999
-grand B-ASP positive
-crus I-ASP positive
+grand B-ASP Positive
+crus I-ASP Positive
 uit O -999
 de O -999
 Bourgogne O -999
@@ -4373,7 +4373,7 @@ uit O -999
 de O -999
 Bourgogne O -999
 en O -999
-topwijnen B-ASP positive
+topwijnen B-ASP Positive
 uit O -999
 Bordeaux. O -999
 
@@ -4383,7 +4383,7 @@ de O -999
 chef O -999
 een O -999
 bepaalde O -999
-sfeer B-ASP negative
+sfeer B-ASP Negative
 scheppen, O -999
 hoewel O -999
 ik O -999
@@ -4422,7 +4422,7 @@ kreeg O -999
 in O -999
 van O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 de O -999
 keuze O -999
 tussen O -999
@@ -4464,14 +4464,14 @@ handvol O -999
 niet O -999
 meer) O -999
 beschikbare O -999
-gins B-ASP negative
+gins B-ASP Negative
 in O -999
 de O -999
 gekozen O -999
 categorie. O -999
 
 De O -999
-apero B-ASP positive
+apero B-ASP Positive
 was O -999
 goed O -999
 bereid, O -999
@@ -4501,7 +4501,7 @@ de O -999
 5 O -999
 flinters O -999
 rauwe O -999
-ham B-ASP negative
+ham B-ASP Negative
 ), O -999
 maar O -999
 soit. O -999
@@ -4526,7 +4526,7 @@ erg O -999
 vindt O -999
 dat O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 zich O -999
 nogal O -999
 verwaand O -999
@@ -4536,7 +4536,7 @@ Dus, O -999
 waarschijnlijk O -999
 een O -999
 OK O -999
-restaurant B-ASP neutral
+restaurant B-ASP Neutral
 als O -999
 je O -999
 er O -999
@@ -4568,7 +4568,7 @@ kritiek O -999
 verdragen, O -999
 en O -999
 een O -999
-baas B-ASP negative
+baas B-ASP Negative
 (kok) O -999
 die O -999
 niet O -999
@@ -4583,7 +4583,7 @@ Gamba's O -999
 waren O -999
 ok O -999
 maar O -999
-frieten B-ASP negative
+frieten B-ASP Negative
 waren O -999
 niet O -999
 te O -999
@@ -4609,7 +4609,7 @@ zogezegd O -999
 (veel O -999
 te O -999
 duur) O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 . O -999
 
 Ben O -999
@@ -4619,7 +4619,7 @@ een O -999
 paar O -999
 keer O -999
 gaan O -999
-eten B-ASP negative
+eten B-ASP Negative
 en O -999
 telkens O -999
 zelfde O -999
@@ -4641,7 +4641,7 @@ een O -999
 paar O -999
 keer O -999
 gaan O -999
-eten B-ASP positive
+eten B-ASP Positive
 en O -999
 telkens O -999
 zelfde O -999
@@ -4657,7 +4657,7 @@ niet O -999
 waard. O -999
 
 Qua O -999
-wijn B-ASP negative
+wijn B-ASP Negative
 hebben O -999
 ze O -999
 enkel O -999
@@ -4675,7 +4675,7 @@ kleins O -999
 te O -999
 eten, O -999
 de O -999
-keuken B-ASP negative
+keuken B-ASP Negative
 is O -999
 wel O -999
 traag O -999
@@ -4691,7 +4691,7 @@ wel O -999
 gezellig. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 is O -999
 lekker, O -999
 smaakvol O -999
@@ -4699,7 +4699,7 @@ en O -999
 vers. O -999
 
 Hun O -999
-brood B-ASP positive
+brood B-ASP Positive
 is O -999
 heerlijk O -999
 en O -999
@@ -4711,7 +4711,7 @@ met O -999
 boter. O -999
 
 De O -999
-dagsoep B-ASP positive
+dagsoep B-ASP Positive
 , O -999
 vegetarisch, O -999
 is O -999
@@ -4723,8 +4723,8 @@ seizoen O -999
 groenten. O -999
 
 Hun O -999
-spaghetti B-ASP positive
-bolo I-ASP positive
+spaghetti B-ASP Positive
+bolo I-ASP Positive
 was O -999
 correct, O -999
 goed O -999
@@ -4742,14 +4742,14 @@ of O -999
 acht O -999
 verschillende O -999
 soorten O -999
-taart B-ASP positive
+taart B-ASP Positive
 kiezen O -999
 bij O -999
 je O -999
 koffie. O -999
 
 De O -999
-chocoladetaart B-ASP positive
+chocoladetaart B-ASP Positive
 was O -999
 alvast O -999
 heel O -999
@@ -4766,11 +4766,11 @@ te O -999
 vinden O -999
 aan O -999
 de O -999
-vrijdagsmarkt B-ASP positive
+vrijdagsmarkt B-ASP Positive
 . O -999
 
 Ruime O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 met O -999
 eindelijk O -999
 eens O -999
@@ -4782,7 +4782,7 @@ op O -999
 past! O -999
 
 Mooie O -999
-all-in-menu's B-ASP positive
+all-in-menu's B-ASP Positive
 met O -999
 ruime O -999
 keuze O -999
@@ -4794,22 +4794,22 @@ volonté. O -999
 Verse O -999
 vis B-ASP -999
 en O -999
-vlees B-ASP positive
+vlees B-ASP Positive
 . O -999
 
 Verse O -999
-vis B-ASP positive
+vis B-ASP Positive
 en O -999
 vlees B-ASP -999
 . O -999
 
 Keurige O -999
-huiswijn B-ASP positive
+huiswijn B-ASP Positive
 . O -999
 
 Erg O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Per O -999
@@ -4829,7 +4829,7 @@ servies B-ASP -999
 en I-ASP -999
 glazen, I-ASP -999
 voortreffelijke O -999
-schotels B-ASP positive
+schotels B-ASP Positive
 , O -999
 betaalbaar. O -999
 
@@ -4838,7 +4838,7 @@ toeval O -999
 daar O -999
 beland, O -999
 mooi O -999
-interieur, B-ASP positive
+interieur, B-ASP Positive
 geen O -999
 lange O -999
 wachttijd O -999
@@ -4867,9 +4867,9 @@ ondanks O -999
 drukke O -999
 bezetting, O -999
 net O -999
-servies B-ASP positive
-en I-ASP positive
-glazen, I-ASP positive
+servies B-ASP Positive
+en I-ASP Positive
+glazen, I-ASP Positive
 voortreffelijke O -999
 schotels B-ASP -999
 , O -999
@@ -4879,13 +4879,13 @@ Ribbetjes O -999
 excellent O -999
 gekruid, O -999
 hartige O -999
-sausjes B-ASP positive
+sausjes B-ASP Positive
 . O -999
 
 Niemand O -999
 van O -999
 het O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 die O -999
 de O -999
 moeite O -999
@@ -4913,7 +4913,7 @@ na O -999
 min. O -999
 komt O -999
 de O -999
-ober B-ASP neutral
+ober B-ASP Neutral
 ons O -999
 vriendelijk O -999
 vertellen O -999
@@ -4929,7 +4929,7 @@ hebben O -999
 we O -999
 voor O -999
 deze O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 gekozen O -999
 omdat O -999
 het O -999
@@ -4948,13 +4948,13 @@ lang O -999
 moeten O -999
 wachten, O -999
 vlotte O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 De O -999
-ribbetjes B-ASP positive
-à I-ASP positive
-volonté I-ASP positive
+ribbetjes B-ASP Positive
+à I-ASP Positive
+volonté I-ASP Positive
 waren O -999
 super O -999
 lekker, O -999
@@ -4964,7 +4964,7 @@ niet O -999
 aangebrand. O -999
 
 De O -999
-service B-ASP positive
+service B-ASP Positive
 is O -999
 er O -999
 vlot O -999
@@ -4996,7 +4996,7 @@ en O -999
 goed O -999
 en O -999
 de O -999
-ribbetjes B-ASP positive
+ribbetjes B-ASP Positive
 zijn O -999
 er O -999
 heel O -999
@@ -5017,8 +5017,8 @@ aanrader, O -999
 toch O -999
 voor O -999
 de O -999
-chateaubriand B-ASP positive
-bouquetière I-ASP positive
+chateaubriand B-ASP Positive
+bouquetière I-ASP Positive
 : O -999
 meestal O -999
 heerlijk O -999
@@ -5042,7 +5042,7 @@ mond. O -999
 Jammer O -999
 dat O -999
 de O -999
-wijnen B-ASP negative
+wijnen B-ASP Negative
 recentelijk O -999
 nog O -999
 eens O -999
@@ -5073,10 +5073,10 @@ opgeslagen O -999
 zijn O -999
 (een O -999
 modale O -999
-2010 B-ASP negative
-châteauneuf I-ASP negative
-du I-ASP negative
-pape I-ASP negative
+2010 B-ASP Negative
+châteauneuf I-ASP Negative
+du I-ASP Negative
+pape I-ASP Negative
 kost O -999
 er O -999
 nu O -999
@@ -5084,9 +5084,9 @@ nu O -999
 euro). O -999
 
 De O -999
-bar/lounge B-ASP positive
-met I-ASP positive
-rokers-annex I-ASP positive
+bar/lounge B-ASP Positive
+met I-ASP Positive
+rokers-annex I-ASP Positive
 is O -999
 gezellig O -999
 en O -999
@@ -5103,7 +5103,7 @@ tevblijven O -999
 plakken. O -999
 
 Geen O -999
-top-restaurant B-ASP neutral
+top-restaurant B-ASP Neutral
 maar O -999
 toch O -999
 een O -999
@@ -5131,7 +5131,7 @@ de O -999
 kwaliteit O -999
 van O -999
 de O -999
-steaks B-ASP positive
+steaks B-ASP Positive
 top O -999
 is. O -999
 
@@ -5153,7 +5153,7 @@ opgenomen O -999
 door O -999
 een O -999
 vriendelijke O -999
-dame B-ASP positive
+dame B-ASP Positive
 . O -999
 
 Toen O -999
@@ -5165,7 +5165,7 @@ om O -999
 2u15 O -999
 wachten) O -999
 onze O -999
-steak B-ASP negative
+steak B-ASP Negative
 kregen O -999
 was O -999
 de O -999
@@ -5180,7 +5180,7 @@ koud. O -999
 
 Onze O -999
 vriendelijke O -999
-dame B-ASP positive
+dame B-ASP Positive
 heeft O -999
 echter O -999
 onmiddellijk O -999
@@ -5211,7 +5211,7 @@ onmiddellijk O -999
 ingegrepen O -999
 en O -999
 de O -999
-steak B-ASP positive
+steak B-ASP Positive
 terug O -999
 meegenomen O -999
 naar O -999
@@ -5229,7 +5229,7 @@ geserveerd. O -999
 We O -999
 hadden O -999
 de O -999
-chef B-ASP negative
+chef B-ASP Negative
 reeds O -999
 de O -999
 hele O -999
@@ -5268,7 +5268,7 @@ zijn O -999
 om O -999
 met O -999
 de O -999
-chef B-ASP negative
+chef B-ASP Negative
 te O -999
 kunnen O -999
 praten. O -999
@@ -5278,7 +5278,7 @@ kwaliteit O -999
 was O -999
 top O -999
 maar O -999
-zaakvoerder B-ASP negative
+zaakvoerder B-ASP Negative
 verlaagt O -999
 zich O -999
 niet O -999
@@ -5309,19 +5309,19 @@ stellen. O -999
 
 Zeker O -999
 de O -999
-kreeft B-ASP positive
-met I-ASP positive
-de I-ASP positive
-zes I-ASP positive
-verschillende I-ASP positive
-sausjes I-ASP positive
+kreeft B-ASP Positive
+met I-ASP Positive
+de I-ASP Positive
+zes I-ASP Positive
+verschillende I-ASP Positive
+sausjes I-ASP Positive
 eens O -999
 bestellen! O -999
 
 De O -999
 meest O -999
 uitgelezen O -999
-zondagsbrunch B-ASP positive
+zondagsbrunch B-ASP Positive
 die O -999
 ik O -999
 al O -999
@@ -5330,7 +5330,7 @@ ervaren. O -999
 
 Een O -999
 schitterend O -999
-kader B-ASP positive
+kader B-ASP Positive
 met O -999
 uitzicht O -999
 op O -999
@@ -5352,7 +5352,7 @@ Korenlei!). O -999
 
 Een O -999
 schitterend O -999
-kader B-ASP positive
+kader B-ASP Positive
 met O -999
 uitzicht O -999
 op O -999
@@ -5373,7 +5373,7 @@ de O -999
 Korenlei!). O -999
 
 Het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 is O -999
 jong, O -999
 spontaan, O -999
@@ -5387,7 +5387,7 @@ minder O -999
 goede O -999
 hoteleten O -999
 als O -999
-brunch B-ASP negative
+brunch B-ASP Negative
 
 35 O -999
 euro O -999
@@ -5395,7 +5395,7 @@ per O -999
 persoon O -999
 voor O -999
 minderwaardig O -999
-eten B-ASP negative
+eten B-ASP Negative
 -beperkte O -999
 keuze O -999
 als O -999
@@ -5411,12 +5411,12 @@ eten B-ASP -999
 -beperkte O -999
 keuze O -999
 als O -999
-brunch B-ASP negative
+brunch B-ASP Negative
 
 Enig O -999
 pluspunt: O -999
 vriendelljke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 
 Er O -999
 is O -999
@@ -5424,7 +5424,7 @@ een O -999
 ruime O -999
 keuze O -999
 aan O -999
-pizza's B-ASP positive
+pizza's B-ASP Positive
 , O -999
 zowel O -999
 vegetarisch, O -999
@@ -5434,14 +5434,14 @@ vis. O -999
 
 Probeer O -999
 de O -999
-pizza B-ASP positive
-'whisky' I-ASP positive
+pizza B-ASP Positive
+'whisky' I-ASP Positive
 , O -999
 een O -999
 aanrader! O -999
 
 Gezellig O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 , O -999
 plaatsen O -999
 op O -999
@@ -5455,19 +5455,19 @@ plaats. O -999
 Snelle O -999
 bediening, O -999
 lekkere O -999
-pizza's B-ASP neutral
+pizza's B-ASP Neutral
 normale O -999
 prijzen. O -999
 
 Snelle O -999
 bediening, O -999
 lekkere O -999
-pizza's B-ASP positive
+pizza's B-ASP Positive
 normale O -999
 prijzen. O -999
 
 Snelle O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 lekkere O -999
 pizza's O -999
@@ -5479,7 +5479,7 @@ is O -999
 het O -999
 aantal O -999
 soorten O -999
-pizza's B-ASP positive
+pizza's B-ASP Positive
 , O -999
 nooit O -999
 elders O -999
@@ -5510,7 +5510,7 @@ bollen O -999
 en O -999
 supervriendelijke O -999
 enthousiaste O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 ! O -999
 
 De O -999
@@ -5523,7 +5523,7 @@ met O -999
 echt, O -999
 met O -999
 versgemaakte O -999
-sorbets B-ASP positive
+sorbets B-ASP Positive
 waarin O -999
 ook O -999
 effectief O -999
@@ -5542,7 +5542,7 @@ bediening B-ASP -999
 ! O -999
 
 Overheerlijk O -999
-ijs B-ASP positive
+ijs B-ASP Positive
 in O -999
 centrum O -999
 Leuven. O -999
@@ -5557,19 +5557,19 @@ je O -999
 van O -999
 dit O -999
 heerlijk O -999
-ijs B-ASP positive
+ijs B-ASP Positive
 kunt O -999
 genieten. O -999
 
 de O -999
-bolletjes B-ASP positive
-ijs I-ASP positive
+bolletjes B-ASP Positive
+ijs I-ASP Positive
 worden O -999
 gul O -999
 uitgedeeld! O -999
 
 De O -999
-porties B-ASP negative
+porties B-ASP Negative
 zijn O -999
 voor O -999
 een O -999
@@ -5588,9 +5588,9 @@ amper O -999
 brood O -999
 bij O -999
 een O -999
-omelet B-ASP negative
-met I-ASP negative
-spek I-ASP negative
+omelet B-ASP Negative
+met I-ASP Negative
+spek I-ASP Negative
 . O -999
 
 2 O -999
@@ -5600,7 +5600,7 @@ broodjes I-ASP -999
 en O -999
 een O -999
 mini O -999
-omeletje B-ASP negative
+omeletje B-ASP Negative
 zijn O -999
 eigenlijk O -999
 een O -999
@@ -5608,8 +5608,8 @@ teleurstelling. O -999
 
 2 O -999
 Kleine O -999
-afgebakken B-ASP negative
-broodjes I-ASP negative
+afgebakken B-ASP Negative
+broodjes I-ASP Negative
 en O -999
 een O -999
 mini O -999
@@ -5620,7 +5620,7 @@ een O -999
 teleurstelling. O -999
 
 De O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 waren O -999
 wel O -999
 lekker. O -999
@@ -5637,7 +5637,7 @@ een O -999
 uitgebreid O -999
 assortiment O -999
 aan O -999
-bieren B-ASP negative
+bieren B-ASP Negative
 , O -999
 maar O -999
 dit O -999
@@ -5653,14 +5653,14 @@ niet O -999
 lekker O -999
 en O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 was O -999
 niet O -999
 erg O -999
 vriendelijk. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 was O -999
 niet O -999
 lekker O -999
@@ -5686,7 +5686,7 @@ uitstekende O -999
 ingrediënten B-ASP -999
 (super O -999
 mals O -999
-vlees B-ASP positive
+vlees B-ASP Positive
 ). O -999
 
 De O -999
@@ -5700,14 +5700,14 @@ maar O -999
 wel O -999
 met O -999
 uitstekende O -999
-ingrediënten B-ASP positive
+ingrediënten B-ASP Positive
 (super O -999
 mals O -999
 vlees B-ASP -999
 ). O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 zeer O -999
 vriendelijk O -999
@@ -5716,8 +5716,8 @@ snel. O -999
 
 Vooral O -999
 het O -999
-gegrilde B-ASP neutral
-vlees I-ASP neutral
+gegrilde B-ASP Neutral
+vlees I-ASP Neutral
 (cote O -999
 à O -999
 l'os, O -999
@@ -5728,7 +5728,7 @@ voorkeur O -999
 weg. O -999
 
 het O -999
-intérieur B-ASP neutral
+intérieur B-ASP Neutral
 is O -999
 niet O -999
 hip, O -999
@@ -5736,7 +5736,7 @@ maar O -999
 degelijk. O -999
 
 De O -999
-gerechten B-ASP negative
+gerechten B-ASP Negative
 zijn O -999
 ook O -999
 vrij O -999
@@ -5745,7 +5745,7 @@ maar O -999
 lekker. O -999
 
 De O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 ook O -999
 vrij O -999
@@ -5754,7 +5754,7 @@ maar O -999
 lekker. O -999
 
 Het O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 is O -999
 klassiek O -999
 ingericht O -999
@@ -5772,10 +5772,10 @@ van O -999
 de O -999
 maandsuggestie O -999
 " O -999
-filet B-ASP neutral
-pure I-ASP neutral
-met I-ASP neutral
-asperges I-ASP neutral
+filet B-ASP Neutral
+pure I-ASP Neutral
+met I-ASP Neutral
+asperges I-ASP Neutral
 "; O -999
 klassiek O -999
 bereid O -999
@@ -5792,10 +5792,10 @@ van O -999
 de O -999
 maandsuggestie O -999
 " O -999
-filet B-ASP positive
-pure I-ASP positive
-met I-ASP positive
-asperges I-ASP positive
+filet B-ASP Positive
+pure I-ASP Positive
+met I-ASP Positive
+asperges I-ASP Positive
 "; O -999
 klassiek O -999
 bereid O -999
@@ -5813,13 +5813,13 @@ attente O -999
 service O -999
 van O -999
 het O -999
-zaalpersoneel B-ASP positive
+zaalpersoneel B-ASP Positive
 bijzonder O -999
 te O -999
 waarderen. O -999
 
 Een O -999
-adresje B-ASP positive
+adresje B-ASP Positive
 in O -999
 Leuven O -999
 waar O -999
@@ -5831,7 +5831,7 @@ toe O -999
 gaan. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 vlot O -999
 en O -999
@@ -5845,7 +5845,7 @@ gezellige O -999
 drukte. O -999
 
 Dit O -999
-restaurant B-ASP neutral
+restaurant B-ASP Neutral
 bevindt O -999
 zich O -999
 aan O -999
@@ -5894,7 +5894,7 @@ zagen O -999
 we O -999
 een O -999
 gezellig O -999
-tentje B-ASP positive
+tentje B-ASP Positive
 en O -999
 besloten O -999
 naar O -999
@@ -5932,7 +5932,7 @@ grote O -999
 teleurstelling O -999
 kwam O -999
 de O -999
-pizza B-ASP negative
+pizza B-ASP Negative
 à O -999
 +/- O -999
 €13,50 O -999
@@ -5951,9 +5951,9 @@ voor O -999
 dunne O -999
 sneetjes O -999
 verbrand O -999
-stokbrood B-ASP negative
-met I-ASP negative
-knoflook I-ASP negative
+stokbrood B-ASP Negative
+met I-ASP Negative
+knoflook I-ASP Negative
 betaal O -999
 je O -999
 €5,50, O -999
@@ -5983,9 +5983,9 @@ voor O -999
 dunne O -999
 sneetjes O -999
 verbrand O -999
-stokbrood B-ASP negative
-met I-ASP negative
-knoflook I-ASP negative
+stokbrood B-ASP Negative
+met I-ASP Negative
+knoflook I-ASP Negative
 betaal O -999
 je O -999
 €5,50, O -999
@@ -6006,7 +6006,7 @@ diepvries! O -999
 
 Ook O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 laat O -999
 te O -999
 wensen O -999
@@ -6026,9 +6026,9 @@ je O -999
 vraagt O -999
 of O -999
 je O -999
-stokbrood B-ASP negative
-met I-ASP negative
-kruidenboter I-ASP negative
+stokbrood B-ASP Negative
+met I-ASP Negative
+kruidenboter I-ASP Negative
 wilt O -999
 hebben, O -999
 dit O -999
@@ -6063,9 +6063,9 @@ je O -999
 vraagt O -999
 of O -999
 je O -999
-stokbrood B-ASP negative
-met I-ASP negative
-kruidenboter I-ASP negative
+stokbrood B-ASP Negative
+met I-ASP Negative
+kruidenboter I-ASP Negative
 wilt O -999
 hebben, O -999
 dit O -999
@@ -6092,7 +6092,7 @@ meer O -999
 personen! O -999
 
 De O -999
-friet B-ASP negative
+friet B-ASP Negative
 die O -999
 je O -999
 apart O -999
@@ -6131,7 +6131,7 @@ kleine O -999
 portie O -999
 en O -999
 het O -999
-sausje B-ASP negative
+sausje B-ASP Negative
 van O -999
 €3,- O -999
 is O -999
@@ -6165,14 +6165,14 @@ ondertussen O -999
 wel O -999
 zonder O -999
 uitleg O -999
-bordjes B-ASP negative
-stokbrood I-ASP negative
+bordjes B-ASP Negative
+stokbrood I-ASP Negative
 verkopen O -999
 voor O -999
 €5,5 O -999
 
 Deze O -999
-ondernemer B-ASP negative
+ondernemer B-ASP Negative
 heeft O -999
 duidelijk O -999
 geen O -999
@@ -6246,7 +6246,7 @@ met O -999
 merk O -999
 en O -999
 kwaliteit O -999
-frites B-ASP negative
+frites B-ASP Negative
 maar O -999
 half O -999
 afgebakken, O -999
@@ -6310,7 +6310,7 @@ frites B-ASP -999
 maar O -999
 half O -999
 afgebakken, O -999
-saus B-ASP negative
+saus B-ASP Negative
 koud O -999
 en O -999
 op O -999
@@ -6370,7 +6370,7 @@ frites B-ASP -999
 maar O -999
 half O -999
 afgebakken, O -999
-saus B-ASP negative
+saus B-ASP Negative
 koud O -999
 en O -999
 op O -999
@@ -6437,7 +6437,7 @@ op O -999
 elk O -999
 gerecht O -999
 hetzelfde O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 is O -999
 beschaamd O -999
 voor O -999
@@ -6457,7 +6457,7 @@ ZEER O -999
 SLECHTE O -999
 ERVARING O -999
 slechte O -999
-wijn B-ASP negative
+wijn B-ASP Negative
 wordt O -999
 verkocht O -999
 als O -999
@@ -6535,7 +6535,7 @@ in O -999
 de O -999
 avond) O -999
 de O -999
-porties B-ASP neutral
+porties B-ASP Neutral
 waren O -999
 alleen O -999
 wat O -999
@@ -6573,7 +6573,7 @@ wat O -999
 kleiner O -999
 volgens O -999
 de O -999
-ober. B-ASP positive
+ober. B-ASP Positive
 
 Nee O -999
 dat O -999
@@ -6584,7 +6584,7 @@ we O -999
 zaten O -999
 gezellig, O -999
 leuke O -999
-locatie B-ASP positive
+locatie B-ASP Positive
 , O -999
 mensen O -999
 kijken, O -999
@@ -6598,7 +6598,7 @@ half O -999
 uurtje O -999
 kwam O -999
 mijn O -999
-vissoep B-ASP positive
+vissoep B-ASP Positive
 en O -999
 die O -999
 was O -999
@@ -6612,7 +6612,7 @@ zijn. O -999
 
 Ook O -999
 de O -999
-escargots B-ASP positive
+escargots B-ASP Positive
 van O -999
 mijn O -999
 partner O -999
@@ -6621,7 +6621,7 @@ heerlijk. O -999
 
 Daarna O -999
 de O -999
-mosselen B-ASP negative
+mosselen B-ASP Negative
 , O -999
 voor O -999
 mij O -999
@@ -6646,7 +6646,7 @@ kant. O -999
 
 Daarna O -999
 de O -999
-mosselen B-ASP positive
+mosselen B-ASP Positive
 , O -999
 voor O -999
 mij O -999
@@ -6670,7 +6670,7 @@ kleine O -999
 kant. O -999
 
 De O -999
-ober B-ASP positive
+ober B-ASP Positive
 was O -999
 correct O -999
 en O -999
@@ -6680,7 +6680,7 @@ Bar O -999
 en O -999
 bar O -999
 slechte O -999
-tent B-ASP negative
+tent B-ASP Negative
 . O -999
 
 Ik O -999
@@ -6695,7 +6695,7 @@ gewoon O -999
 uitgelachen O -999
 door O -999
 de O -999
-ober B-ASP negative
+ober B-ASP Negative
 omdat O -999
 we O -999
 "maar O -999
@@ -6705,7 +6705,7 @@ hadden O -999
 besteld. O -999
 
 Zelfingenomen O -999
-eikels B-ASP negative
+eikels B-ASP Negative
 ! O -999
 
 Het O -999
@@ -6736,13 +6736,13 @@ verschrikkelijk O -999
 wansmakelijk O -999
 uit, O -999
 het O -999
-stoofvlees B-ASP negative
+stoofvlees B-ASP Negative
 was O -999
 ongelofelijk O -999
 droog. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 (3 O -999
 gangen) O -999
 werden O -999
@@ -6783,7 +6783,7 @@ op O -999
 40 O -999
 minuten O -999
 gebracht, O -999
-voorgerecht B-ASP neutral
+voorgerecht B-ASP Neutral
 was O -999
 nog O -999
 eetbaar, O -999
@@ -6822,7 +6822,7 @@ nog O -999
 eetbaar, O -999
 maar O -999
 de O -999
-waterzooi B-ASP negative
+waterzooi B-ASP Negative
 was O -999
 meer O -999
 bot O -999
@@ -6855,7 +6855,7 @@ nog O -999
 eetbaar, O -999
 maar O -999
 de O -999
-waterzooi B-ASP negative
+waterzooi B-ASP Negative
 was O -999
 meer O -999
 bot O -999
@@ -6874,7 +6874,7 @@ ongelofelijk O -999
 droog. O -999
 
 Lachwekkende O -999
-vertoning B-ASP negative
+vertoning B-ASP Negative
 , O -999
 een O -999
 ander O -999
@@ -6898,7 +6898,7 @@ van O -999
 euro O -999
 genomen, O -999
 vooraf O -999
-paté B-ASP neutral
+paté B-ASP Neutral
 wat O -999
 wel O -999
 smaakte. O -999
@@ -6906,13 +6906,13 @@ smaakte. O -999
 Wat O -999
 een O -999
 zeldzame O -999
-ballentent B-ASP negative
+ballentent B-ASP Negative
 . O -999
 
 Was O -999
 niet O -999
 verkeerd, O -999
-smaak B-ASP neutral
+smaak B-ASP Neutral
 was O -999
 redelijk O -999
 tot O -999
@@ -6920,7 +6920,7 @@ goed. O -999
 
 Het O -999
 arme O -999
-wicht B-ASP neutral
+wicht B-ASP Neutral
 had O -999
 per O -999
 ongeluk O -999
@@ -6936,14 +6936,14 @@ geserveerd. O -999
 Wegblijven O -999
 bij O -999
 deze O -999
-ballentent B-ASP negative
+ballentent B-ASP Negative
 is O -999
 mijn O -999
 enige O -999
 advies. O -999
 
 De O -999
-kaart B-ASP negative
+kaart B-ASP Negative
 vermeld O -999
 geen O -999
 non-alcoholische O -999
@@ -6952,11 +6952,11 @@ dranken. O -999
 Wat O -999
 een O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Daarna O -999
-visgerechten B-ASP positive
+visgerechten B-ASP Positive
 , O -999
 ook O -999
 echt O -999
@@ -6969,14 +6969,14 @@ er O -999
 puur O -999
 Grieks, O -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 ontzettend O -999
 vriendelijk O -999
 en O -999
 attent. O -999
 
 Het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 is O -999
 er O -999
 puur O -999
@@ -6991,7 +6991,7 @@ attent. O -999
 Wij O -999
 kunnen O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 zowel O -999
 aan O -999
 de O -999
@@ -7007,7 +7007,7 @@ vriendelijk O -999
 onthaal O -999
 door O -999
 de O -999
-patron B-ASP positive
+patron B-ASP Positive
 en O -999
 kersverse O -999
 gerechten B-ASP -999
@@ -7023,7 +7023,7 @@ de O -999
 patron B-ASP -999
 en O -999
 kersverse O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 met O -999
 eerlijke O -999
 wijnen. B-ASP -999
@@ -7039,7 +7039,7 @@ kersverse O -999
 gerechten B-ASP -999
 met O -999
 eerlijke O -999
-wijnen. B-ASP positive
+wijnen. B-ASP Positive
 
 Mooie O -999
 porties B-ASP -999
@@ -7047,7 +7047,7 @@ in O -999
 een O -999
 zeer O -999
 gezellig O -999
-kader B-ASP positive
+kader B-ASP Positive
 , O -999
 vlak O -999
 aan O -999
@@ -7055,7 +7055,7 @@ de O -999
 markt. O -999
 
 Mooie O -999
-porties B-ASP positive
+porties B-ASP Positive
 in O -999
 een O -999
 zeer O -999
@@ -7069,7 +7069,7 @@ markt. O -999
 
 zeer O -999
 vriendelijke O -999
-uitbater B-ASP positive
+uitbater B-ASP Positive
 , O -999
 ik O -999
 heb O -999
@@ -7101,8 +7101,8 @@ uitbater B-ASP -999
 ik O -999
 heb O -999
 er O -999
-lekkere B-ASP positive
-gegrilde I-ASP positive
+lekkere B-ASP Positive
+gegrilde I-ASP Positive
 inktvis O -999
 gegeten, O -999
 door O -999
@@ -7133,7 +7133,7 @@ gegrilde I-ASP -999
 inktvis O -999
 gegeten, O -999
 door O -999
-zijn B-ASP negative
+zijn B-ASP Negative
 ligging O -999
 nogal O -999
 duur O -999
@@ -7153,7 +7153,7 @@ de O -999
 kaart B-ASP -999
 als O -999
 de O -999
-suggesties B-ASP positive
+suggesties B-ASP Positive
 brengen O -999
 je O -999
 op O -999
@@ -7167,7 +7167,7 @@ droomt. O -999
 
 Zowel O -999
 de O -999
-kaart B-ASP positive
+kaart B-ASP Positive
 als O -999
 de O -999
 suggesties B-ASP -999
@@ -7194,7 +7194,7 @@ geen O -999
 onbekende O -999
 en O -999
 de O -999
-desserts B-ASP positive
+desserts B-ASP Positive
 zijn O -999
 voor O -999
 duimen O -999
@@ -7212,23 +7212,23 @@ gunstig O -999
 prijsje O -999
 en O -999
 heerlijke O -999
-salade B-ASP positive
-met I-ASP positive
-crème I-ASP positive
-brulee I-ASP positive
-van I-ASP positive
-geitenkaas I-ASP positive
+salade B-ASP Positive
+met I-ASP Positive
+crème I-ASP Positive
+brulee I-ASP Positive
+van I-ASP Positive
+geitenkaas I-ASP Positive
 ! O -999
 
 Grappige O -999
 en O -999
 vriendelijke O -999
-ober B-ASP positive
+ober B-ASP Positive
 . O -999
 
 Ongelooflijk O -999
 lekkere O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 aan O -999
 een O -999
 ongelofelijke O -999
@@ -7236,7 +7236,7 @@ prijs! O -999
 
 Ongelooflijk O -999
 lekkere O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 aan O -999
 een O -999
 ongelofelijke O -999
@@ -7247,7 +7247,7 @@ gastvrouw O -999
 is O -999
 een O -999
 prima O -999
-kokkin B-ASP positive
+kokkin B-ASP Positive
 en O -999
 Tom O -999
 is O -999
@@ -7259,14 +7259,14 @@ Eén O -999
 van O -999
 de O -999
 betere O -999
-adressen B-ASP positive
+adressen B-ASP Positive
 in O -999
 Brugge! O -999
 
 Zeker O -999
 een O -999
 goed O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 . O -999
 
 Hierbij O -999
@@ -7276,7 +7276,7 @@ ook O -999
 nog O -999
 dusdanig O -999
 veel O -999
-amuses B-ASP positive
+amuses B-ASP Positive
 , O -999
 dat O -999
 het O -999
@@ -7293,11 +7293,11 @@ smaak, O -999
 leuke O -999
 en O -999
 verrassende O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 . O -999
 
 Het O -999
-toetje B-ASP positive
+toetje B-ASP Positive
 was O -999
 wat O -999
 aan O -999
@@ -7311,7 +7311,7 @@ was O -999
 top. O -999
 
 Het O -999
-toetje B-ASP negative
+toetje B-ASP Negative
 was O -999
 wat O -999
 aan O -999
@@ -7325,7 +7325,7 @@ was O -999
 top. O -999
 
 De O -999
-bediening B-ASP neutral
+bediening B-ASP Neutral
 vond O -999
 ik O -999
 vrij O -999
@@ -7340,13 +7340,13 @@ topkok, O -999
 wat O -999
 een O -999
 heerlijke O -999
-amuses B-ASP positive
+amuses B-ASP Positive
 
 Vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 
 Mooie O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 
 Alles O -999
 wordt O -999
@@ -7355,7 +7355,7 @@ origineel O -999
 gebracht O -999
 en O -999
 de O -999
-smaken B-ASP positive
+smaken B-ASP Positive
 zijn O -999
 top! O -999
 
@@ -7372,7 +7372,7 @@ bordje O -999
 met O -999
 een O -999
 lekkere O -999
-afsluiter B-ASP positive
+afsluiter B-ASP Positive
 . O -999
 
 Lekkere O -999
@@ -7380,11 +7380,11 @@ wijn B-ASP -999
 en O -999
 hele O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Lekkere O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 en O -999
 hele O -999
 vriendelijke O -999
@@ -7392,7 +7392,7 @@ bediening B-ASP -999
 . O -999
 
 Leuke O -999
-muziek B-ASP positive
+muziek B-ASP Positive
 , O -999
 kortom O -999
 een O -999
@@ -7401,7 +7401,7 @@ goede O -999
 keuze. O -999
 
 her O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 heeft O -999
 een O -999
 beperkte O -999
@@ -7422,7 +7422,7 @@ beperkte O -999
 kaart O -999
 maar O -999
 alle O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 copieus O -999
 en O -999
@@ -7436,14 +7436,14 @@ beperkte O -999
 kaart O -999
 maar O -999
 alle O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 copieus O -999
 en O -999
 lekker. O -999
 
 de O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 , O -999
 tevens O -999
 Brugse O -999
@@ -7455,7 +7455,7 @@ verschil. O -999
 Wat O -999
 een O -999
 romantisch O -999
-etentje B-ASP negative
+etentje B-ASP Negative
 met O -999
 een O -999
 Grouponbon O -999
@@ -7471,7 +7471,7 @@ uur O -999
 wachten O -999
 op O -999
 een O -999
-bruchetta B-ASP negative
+bruchetta B-ASP Negative
 , O -999
 die O -999
 een O -999
@@ -7487,9 +7487,9 @@ erbij! O -999
 
 Hoofdgerecht O -999
 was O -999
-pasta B-ASP negative
-met I-ASP negative
-diepvrieszeevruchtenmix I-ASP negative
+pasta B-ASP Negative
+met I-ASP Negative
+diepvrieszeevruchtenmix I-ASP Negative
 en O -999
 nul O -999
 komma O -999
@@ -7498,7 +7498,7 @@ smaak! O -999
 
 Echt O -999
 geen O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 waardig!!!! O -999
 
 De O -999
@@ -7507,7 +7507,7 @@ garnituur O -999
 was O -999
 wat O -999
 ongewassen O -999
-peterselie B-ASP negative
+peterselie B-ASP Negative
 die O -999
 het O -999
 gerecht B-ASP -999
@@ -7526,7 +7526,7 @@ ongewassen O -999
 peterselie B-ASP -999
 die O -999
 het O -999
-gerecht B-ASP negative
+gerecht B-ASP Negative
 volledig O -999
 naar O -999
 de O -999
@@ -7544,12 +7544,12 @@ bord O -999
 gesmeten O -999
 met O -999
 diepvries O -999
-rode B-ASP negative
-vruchten I-ASP negative
+rode B-ASP Negative
+vruchten I-ASP Negative
 !! O -999
 
 Het O -999
-kader B-ASP neutral
+kader B-ASP Neutral
 is O -999
 heel O -999
 typisch O -999
@@ -7558,13 +7558,13 @@ Italiaans. O -999
 Super O -999
 bediening B-ASP -999
 & O -999
-eten B-ASP positive
+eten B-ASP Positive
 heel O -999
 heel O -999
 lekker! O -999
 
 Super O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 & O -999
 eten B-ASP -999
 heel O -999
@@ -7572,7 +7572,7 @@ heel O -999
 lekker! O -999
 
 Vriendelijke O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 en O -999
 no O -999
 nonsense O -999
@@ -7583,21 +7583,21 @@ gastvrouw O -999
 en O -999
 no O -999
 nonsense O -999
-bediening B-ASP neutral
+bediening B-ASP Neutral
 . O -999
 
 De O -999
 pizza B-ASP -999
 en O -999
 de O -999
-pasta B-ASP neutral
+pasta B-ASP Neutral
 zijn O -999
 lekker O -999
 zonder O -999
 meer. O -999
 
 De O -999
-pizza B-ASP neutral
+pizza B-ASP Neutral
 en O -999
 de O -999
 pasta B-ASP -999
@@ -7607,13 +7607,13 @@ zonder O -999
 meer. O -999
 
 Dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 ademt O -999
 gezelligheid O -999
 uit. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 lekker.....mijn O -999
 zoon O -999
@@ -7630,7 +7630,7 @@ doen. O -999
 
 Heel O -999
 lekker O -999
-salaatje B-ASP positive
+salaatje B-ASP Positive
 met O -999
 mooie O -999
 verse O -999
@@ -7649,7 +7649,7 @@ zak! O -999
 
 Heel O -999
 lekker O -999
-salaatje B-ASP positive
+salaatje B-ASP Positive
 met O -999
 mooie O -999
 verse O -999
@@ -7670,7 +7670,7 @@ Slaatje O -999
 afgewerkt O -999
 met O -999
 lekkere O -999
-dressing B-ASP positive
+dressing B-ASP Positive
 , O -999
 gebakken O -999
 spekjes O -999
@@ -7687,7 +7687,7 @@ dressing B-ASP -999
 gebakken O -999
 spekjes O -999
 en O -999
-goede B-ASP positive
+goede B-ASP Positive
 feta. O -999
 
 Als O -999
@@ -7700,12 +7700,12 @@ met O -999
 krieltjes O -999
 en O -999
 verse O -999
-groentjes B-ASP positive
+groentjes B-ASP Positive
 ! O -999
 
 De O -999
 vriendeljke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 mogen O -999
 we O -999
 zeker O -999
@@ -7717,7 +7717,7 @@ te O -999
 vermelden. O -999
 
 Het O -999
-menu B-ASP positive
+menu B-ASP Positive
 van O -999
 €35,- O -999
 was O -999
@@ -7728,7 +7728,7 @@ De O -999
 smaken O -999
 van O -999
 de O -999
-gerechten B-ASP neutral
+gerechten B-ASP Neutral
 kwamen O -999
 goed O -999
 tot O -999
@@ -7736,7 +7736,7 @@ hun O -999
 recht. O -999
 
 De O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 in O -999
 dit O -999
 prachtige O -999
@@ -7749,7 +7749,7 @@ plezierig. O -999
 Wij O -999
 kunnen O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 in O -999
 Brugge O -999
 zeker O -999
@@ -7757,7 +7757,7 @@ aanbevelen. O -999
 
 Erg O -999
 vlotte O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 toffe B-ASP -999
 sfeer O -999
@@ -7771,7 +7771,7 @@ Erg O -999
 vlotte O -999
 bediening B-ASP -999
 , O -999
-toffe B-ASP positive
+toffe B-ASP Positive
 sfeer O -999
 en O -999
 daarenboven O -999
@@ -7788,7 +7788,7 @@ sfeer O -999
 en O -999
 daarenboven O -999
 zeer O -999
-lekkere B-ASP positive
+lekkere B-ASP Positive
 ribbetjes. O -999
 
 Enig O -999
@@ -7799,10 +7799,10 @@ te O -999
 vinden O -999
 in O -999
 de O -999
-buurt B-ASP negative
+buurt B-ASP Negative
 
 Vriendelijke O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 en O -999
 heel O -999
 vlotte O -999
@@ -7814,14 +7814,14 @@ ontvangst B-ASP -999
 en O -999
 heel O -999
 vlotte O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 achteraf. O -999
 
 De O -999
 kwaliteit O -999
 van O -999
 de O -999
-schotels B-ASP positive
+schotels B-ASP Positive
 is O -999
 heel O -999
 goed O -999
@@ -7851,7 +7851,7 @@ ribs O -999
 genomen) O -999
 en O -999
 de O -999
-porties B-ASP positive
+porties B-ASP Positive
 zijn O -999
 enorm. O -999
 
@@ -7874,24 +7874,24 @@ aan O -999
 deze O -999
 zoete O -999
 verleidingen.... O -999
-brownie B-ASP positive
-met I-ASP positive
-gember I-ASP positive
+brownie B-ASP Positive
+met I-ASP Positive
+gember I-ASP Positive
 was O -999
 superjammie!!!!! O -999
 
 hele O -999
 lekkere O -999
-patisserie B-ASP positive
+patisserie B-ASP Positive
 ! O -999
 
 ongelofelijke O -999
-eclairs B-ASP positive
+eclairs B-ASP Positive
 .. O -999
 
 Maar O -999
 het O -999
-brood B-ASP negative
+brood B-ASP Negative
 vind O -999
 ik O -999
 veeel O -999
@@ -7905,11 +7905,11 @@ kan O -999
 binnenkijken O -999
 in O -999
 de O -999
-atelier B-ASP positive
+atelier B-ASP Positive
 ! O -999
 
 Het O -999
-ontbijt B-ASP positive
+ontbijt B-ASP Positive
 is O -999
 verzorgd, O -999
 vers O -999
@@ -7918,13 +7918,13 @@ lekker. O -999
 
 Er O -999
 is O -999
-keuze B-ASP positive
+keuze B-ASP Positive
 tussen O -999
 verschillende O -999
 formules. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 vlot O -999
 en O -999
@@ -7943,7 +7943,7 @@ nogal O -999
 lang O -999
 totdat O -999
 de O -999
-man B-ASP neutral
+man B-ASP Neutral
 onze O -999
 bestelling O -999
 van O -999
@@ -7966,7 +7966,7 @@ handen O -999
 heeft, O -999
 maar O -999
 de O -999
-man B-ASP negative
+man B-ASP Negative
 stond O -999
 ondertussen O -999
 achter O -999
@@ -8000,7 +8000,7 @@ van O -999
 ons) O -999
 voor O -999
 de O -999
-man B-ASP negative
+man B-ASP Negative
 onze O -999
 borden O -999
 kwam O -999
@@ -8023,7 +8023,7 @@ de O -999
 rest O -999
 van O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 , O -999
 dus O -999
 zijn O -999
@@ -8036,7 +8036,7 @@ bar. O -999
 
 Pluspunt: O -999
 het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 lekker O -999
 en O -999
@@ -8051,7 +8051,7 @@ de O -999
 dure O -999
 kant O -999
 voor O -999
-lunch B-ASP negative
+lunch B-ASP Negative
 , O -999
 als O -999
 ik O -999
@@ -8083,7 +8083,7 @@ aangenaam O -999
 vertoefen, O -999
 heel O -999
 vriendelijk O -999
-mensen B-ASP positive
+mensen B-ASP Positive
 en O -999
 het O -999
 eten B-ASP -999
@@ -8105,7 +8105,7 @@ vriendelijk O -999
 mensen B-ASP -999
 en O -999
 het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 zeker O -999
 naar O -999
@@ -8120,9 +8120,9 @@ die O -999
 gek O -999
 is O -999
 op O -999
-self-made B-ASP positive
-ice I-ASP positive
-tea I-ASP positive
+self-made B-ASP Positive
+ice I-ASP Positive
+tea I-ASP Positive
 is O -999
 op O -999
 het O -999
@@ -8131,7 +8131,7 @@ adres. O -999
 
 Super O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 , O -999
 vers, O -999
 leuk O -999
@@ -8141,7 +8141,7 @@ portie. O -999
 
 Super O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 , O -999
 vers, O -999
 leuk O -999
@@ -8156,11 +8156,11 @@ eten B-ASP -999
 vers, O -999
 leuk O -999
 gebracht, O -999
-grote B-ASP positive
+grote B-ASP Positive
 portie. O -999
 
 Super O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 vriendelijk O -999
 en O -999
@@ -8168,7 +8168,7 @@ attent. O -999
 
 Uiterst O -999
 gezellige O -999
-familiezaak B-ASP positive
+familiezaak B-ASP Positive
 , O -999
 waar O -999
 ze O -999
@@ -8188,7 +8188,7 @@ familiezaak B-ASP -999
 , O -999
 waar O -999
 ze O -999
-'service B-ASP positive
+'service B-ASP Positive
 with O -999
 a O -999
 smile' O -999
@@ -8199,7 +8199,7 @@ vaandel O -999
 dragen. O -999
 
 De O -999
-uitbaters B-ASP positive
+uitbaters B-ASP Positive
 leggen O -999
 je O -999
 er O -999
@@ -8215,7 +8215,7 @@ terecht O -999
 voor O -999
 een O -999
 uitgebreid O -999
-ontbijt B-ASP positive
+ontbijt B-ASP Positive
 , O -999
 een O -999
 lichte O -999
@@ -8229,7 +8229,7 @@ Toppers O -999
 zijn O -999
 de O -999
 verse O -999
-chocolademelk B-ASP positive
+chocolademelk B-ASP Positive
 , O -999
 de O -999
 Victoria O -999
@@ -8248,7 +8248,7 @@ chocolademelk B-ASP -999
 , O -999
 de O -999
 Victoria O -999
-spongecake, B-ASP positive
+spongecake, B-ASP Positive
 cheesecake O -999
 en O -999
 de O -999
@@ -8267,13 +8267,13 @@ cheesecake O -999
 en O -999
 de O -999
 ' O -999
-scrambled B-ASP positive
-eggs'-bagel I-ASP positive
+scrambled B-ASP Positive
+eggs'-bagel I-ASP Positive
 . O -999
 
 De O -999
 seizoensgebonden O -999
-kaart B-ASP positive
+kaart B-ASP Positive
 , O -999
 geweldige B-ASP -999
 bediening O -999
@@ -8294,7 +8294,7 @@ De O -999
 seizoensgebonden O -999
 kaart B-ASP -999
 , O -999
-geweldige B-ASP positive
+geweldige B-ASP Positive
 bediening O -999
 en O -999
 de O -999
@@ -8317,7 +8317,7 @@ geweldige B-ASP -999
 bediening O -999
 en O -999
 de O -999
-prettige B-ASP positive
+prettige B-ASP Positive
 ambiance, O -999
 maakt O -999
 het O -999
@@ -8341,7 +8341,7 @@ ambiance, O -999
 maakt O -999
 het O -999
 dat O -999
-dit B-ASP positive
+dit B-ASP Positive
 restaurant O -999
 zeer O -999
 goed O -999
@@ -8352,7 +8352,7 @@ was O -999
 genieten O -999
 van B-ASP -999
 de O -999
-atmosfeer B-ASP positive
+atmosfeer B-ASP Positive
 en O -999
 het O -999
 eten. O -999
@@ -8360,7 +8360,7 @@ eten. O -999
 Het O -999
 was O -999
 genieten O -999
-van B-ASP positive
+van B-ASP Positive
 de O -999
 atmosfeer B-ASP -999
 en O -999
@@ -8376,7 +8376,7 @@ pure, O -999
 verfijnde O -999
 en O -999
 kwaliteitsvolle O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 in O -999
 een O -999
 sprookjesachtig O -999
@@ -8395,7 +8395,7 @@ keuken B-ASP -999
 in O -999
 een O -999
 sprookjesachtig O -999
-kader. B-ASP positive
+kader. B-ASP Positive
 
 Weinig O -999
 keus B-ASP -999
@@ -8406,13 +8406,13 @@ om O -999
 je O -999
 een O -999
 lekker O -999
-menuutje B-ASP positive
+menuutje B-ASP Positive
 te O -999
 laten O -999
 serveren. O -999
 
 Weinig O -999
-keus B-ASP neutral
+keus B-ASP Neutral
 maar O -999
 toch O -999
 voldoende O -999
@@ -8426,7 +8426,7 @@ laten O -999
 serveren. O -999
 
 De O -999
-service B-ASP neutral
+service B-ASP Neutral
 is O -999
 een O -999
 beetje O -999
@@ -8438,7 +8438,7 @@ correct. O -999
 Een O -999
 sfeervol, O -999
 gezellig O -999
-kader B-ASP positive
+kader B-ASP Positive
 . O -999
 
 We O -999
@@ -8451,7 +8451,7 @@ alleen O -999
 met O -999
 vrouwen, O -999
 want O -999
-peter B-ASP positive
+peter B-ASP Positive
 , O -999
 die O -999
 ons O -999
@@ -8465,7 +8465,7 @@ oog. O -999
 
 Super O -999
 toffe O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 aangepaste B-ASP -999
 wijntjes O -999
@@ -8492,7 +8492,7 @@ Super O -999
 toffe O -999
 bediening B-ASP -999
 , O -999
-aangepaste B-ASP neutral
+aangepaste B-ASP Neutral
 wijntjes O -999
 en O -999
 dat O -999
@@ -8525,7 +8525,7 @@ in O -999
 een O -999
 mooi O -999
 en O -999
-rustig B-ASP positive
+rustig B-ASP Positive
 kader, O -999
 weg O -999
 van O -999
@@ -8565,13 +8565,13 @@ genieten O -999
 van O -999
 een O -999
 heerlijke O -999
-maaltijd B-ASP positive
+maaltijd B-ASP Positive
 . O -999
 
 Al O -999
 in O -999
 het O -999
-menu B-ASP positive
+menu B-ASP Positive
 wordt O -999
 je O -999
 geïnformeerd O -999
@@ -8582,17 +8582,17 @@ glutenvrije O -999
 recepten. O -999
 
 De O -999
-combinatie B-ASP positive
-met I-ASP positive
-de I-ASP positive
-wijn I-ASP positive
-soorten I-ASP positive
+combinatie B-ASP Positive
+met I-ASP Positive
+de I-ASP Positive
+wijn I-ASP Positive
+soorten I-ASP Positive
 was O -999
 bijzonder. O -999
 
 In O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 lukt O -999
 het O -999
 wel. O -999
@@ -8603,7 +8603,7 @@ Brugge O -999
 wonend, O -999
 is O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 een O -999
 echte O -999
 aanrader O -999
@@ -8622,11 +8622,11 @@ verzorgd O -999
 en O -999
 heel O -999
 verse O -999
-voedsel B-ASP positive
+voedsel B-ASP Positive
 . O -999
 
 De O -999
-chef B-ASP positive
+chef B-ASP Positive
 toont O -999
 een O -999
 grote O -999
@@ -8656,7 +8656,7 @@ mooi O -999
 gepresenteerd O -999
 en O -999
 ruime O -999
-porties B-ASP positive
+porties B-ASP Positive
 ook. O -999
 
 Heb O -999
@@ -8668,7 +8668,7 @@ gegeten O -999
 en O -999
 telkens O -999
 vlotte O -999
-bediening, B-ASP positive
+bediening, B-ASP Positive
 heel O -999
 lekker O -999
 om O -999
@@ -8687,7 +8687,7 @@ van O -999
 prijs O -999
 en O -999
 veel O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 dat O -999
 je O -999
 ergens O -999
@@ -8701,7 +8701,7 @@ Niet O -999
 het O -999
 gewone O -999
 alledaagse O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 maar O -999
 eens O -999
 iets O -999
@@ -8709,7 +8709,7 @@ anders. O -999
 
 Mooi, O -999
 modern O -999
-interieur B-ASP positive
+interieur B-ASP Positive
 en O -999
 een O -999
 kok B-ASP -999
@@ -8731,7 +8731,7 @@ modern O -999
 interieur B-ASP -999
 en O -999
 een O -999
-kok B-ASP positive
+kok B-ASP Positive
 waar O -999
 je O -999
 aan O -999
@@ -8760,19 +8760,19 @@ in O -999
 ons O -999
 geval O -999
 een O -999
-salade B-ASP positive
-met I-ASP positive
-zalm I-ASP positive
-en I-ASP positive
-een I-ASP positive
-quiche I-ASP positive
+salade B-ASP Positive
+met I-ASP Positive
+zalm I-ASP Positive
+en I-ASP Positive
+een I-ASP Positive
+quiche I-ASP Positive
 smaakten O -999
 ongelooflijk O -999
 goed. O -999
 
 De O -999
 verse O -999
-limonade B-ASP negative
+limonade B-ASP Negative
 vonden O -999
 we O -999
 wat O -999
@@ -8805,7 +8805,7 @@ niet O -999
 gehad O -999
 over O -999
 het O -999
-dessert B-ASP positive
+dessert B-ASP Positive
 , O -999
 een O -999
 eigen O -999
@@ -8823,7 +8823,7 @@ binnen O -999
 stapt O -999
 in O -999
 dit O -999
-restaurantje B-ASP positive
+restaurantje B-ASP Positive
 wordt O -999
 je O -999
 onder O -999
@@ -8860,7 +8860,7 @@ en O -999
 zie O -999
 je O -999
 twee O -999
-mensen B-ASP positive
+mensen B-ASP Positive
 die O -999
 voor O -999
 100% O -999
@@ -8878,13 +8878,13 @@ genoten O -999
 van O -999
 de O -999
 lekkere O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 . O -999
 
 Bediening O -999
 was O -999
 keurig, O -999
-ambiance B-ASP positive
+ambiance B-ASP Positive
 sfeervol O -999
 en O -999
 gezellig. O -999
@@ -8907,7 +8907,7 @@ zeer O -999
 vriendelijke O -999
 en O -999
 persoonlijke O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 , O -999
 mooi, O -999
 gezellig O -999
@@ -8954,7 +8954,7 @@ ontvangst B-ASP -999
 mooi, O -999
 gezellig O -999
 en O -999
-stijlvol B-ASP positive
+stijlvol B-ASP Positive
 interieur, O -999
 warme B-ASP -999
 sfeer, O -999
@@ -8998,7 +8998,7 @@ gezellig O -999
 en O -999
 stijlvol B-ASP -999
 interieur, O -999
-warme B-ASP positive
+warme B-ASP Positive
 sfeer, O -999
 goede O -999
 achtergrondmuziek O -999
@@ -9016,7 +9016,7 @@ te O -999
 raden) O -999
 
 De O -999
-keuken B-ASP neutral
+keuken B-ASP Neutral
 is O -999
 op O -999
 het O -999
@@ -9030,7 +9030,7 @@ geen O -999
 topgastronomie. O -999
 
 De O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 heel O -999
 lekker O -999
@@ -9052,7 +9052,7 @@ heel O -999
 lekker O -999
 en O -999
 de O -999
-porties B-ASP positive
+porties B-ASP Positive
 ruim O -999
 er O -999
 wordt O -999
@@ -9062,7 +9062,7 @@ ingrediënten O -999
 gewerkt. O -999
 
 De O -999
-bediening B-ASP neutral
+bediening B-ASP Neutral
 is O -999
 vriendelijk O -999
 en O -999
@@ -9086,7 +9086,7 @@ misschien O -999
 1 O -999
 aandachtspunt: O -999
 het O -999
-sanitair B-ASP neutral
+sanitair B-ASP Neutral
 is O -999
 heel O -999
 netjes O -999
@@ -9108,7 +9108,7 @@ heren. O -999
 goed O -999
 eten B-ASP -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 ook O -999
 heel O -999
@@ -9132,7 +9132,7 @@ bord O -999
 krijgt O -999
 
 goed O -999
-eten B-ASP positive
+eten B-ASP Positive
 de O -999
 bediening B-ASP -999
 is O -999
@@ -9163,7 +9163,7 @@ persoonlijke O -999
 aandacht O -999
 van O -999
 de O -999
-chef B-ASP positive
+chef B-ASP Positive
 is O -999
 heel O -999
 leuk O -999
@@ -9197,7 +9197,7 @@ zou O -999
 iedereen O -999
 aanraden O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 een O -999
 keer O -999
 te O -999
@@ -9215,7 +9215,7 @@ van O -999
 te O -999
 smullen, O -999
 de O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 paste O -999
 uitstekend O -999
 bij O -999
@@ -9229,7 +9229,7 @@ vriendelijk O -999
 ontvangen. O -999
 
 Het O -999
-menu B-ASP positive
+menu B-ASP Positive
 was O -999
 om O -999
 van O -999
@@ -9250,7 +9250,7 @@ vriendelijk O -999
 ontvangen. O -999
 
 Onbeschofte O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 , O -999
 zeer O -999
 hoge O -999
@@ -9269,7 +9269,7 @@ cola. O -999
 Als O -999
 je O -999
 om O -999
-brood B-ASP negative
+brood B-ASP Negative
 vraag O -999
 krijg O -999
 je O -999
@@ -9285,7 +9285,7 @@ En O -999
 dat O -999
 tegen O -999
 de O -999
-prijzen B-ASP negative
+prijzen B-ASP Negative
 ; O -999
 4 O -999
 Euro O -999
@@ -9306,7 +9306,7 @@ huiswijn. O -999
 
 Mijden O -999
 dit O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 . O -999
 
 Prima O -999
@@ -9314,11 +9314,11 @@ ambiance B-ASP -999
 en O -999
 een O -999
 aantrekkelijke O -999
-kaart B-ASP positive
+kaart B-ASP Positive
 . O -999
 
 Prima O -999
-ambiance B-ASP positive
+ambiance B-ASP Positive
 en O -999
 een O -999
 aantrekkelijke O -999
@@ -9326,7 +9326,7 @@ kaart B-ASP -999
 . O -999
 
 De O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 is O -999
 bijzonder O -999
 attent. O -999
@@ -9360,7 +9360,7 @@ worden O -999
 overschaduwd O -999
 waren O -999
 de O -999
-hertennootjes B-ASP negative
+hertennootjes B-ASP Negative
 juist O -999
 nogal O -999
 'laf' O -999
@@ -9378,7 +9378,7 @@ van O -999
 kruiden; O -999
 waar O -999
 de O -999
-soep B-ASP negative
+soep B-ASP Negative
 naar O -999
 mijn O -999
 smaak O -999
@@ -9403,7 +9403,7 @@ gekruid. O -999
 
 Dit O -999
 kleine O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 in O -999
 een O -999
 Brugs O -999
@@ -9415,9 +9415,9 @@ aanrader. O -999
 
 Vooral O -999
 de O -999
-babykreeft B-ASP positive
-met I-ASP positive
-waterzooi I-ASP positive
+babykreeft B-ASP Positive
+met I-ASP Positive
+waterzooi I-ASP Positive
 heeft O -999
 me O -999
 zeer O -999
@@ -9429,7 +9429,7 @@ weer O -999
 eens O -999
 een O -999
 klassieke O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 , O -999
 vers O -999
 en O -999
@@ -9439,18 +9439,18 @@ alteveel O -999
 cinema! O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 was O -999
 zeer O -999
 vlot. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 lekker. O -999
 
 Veel O -999
-keuze B-ASP positive
+keuze B-ASP Positive
 en O -999
 iedereen O -999
 was O -999
@@ -9467,14 +9467,14 @@ was O -999
 tevreden O -999
 over O -999
 zijn/haar O -999
-gerecht. B-ASP positive
+gerecht. B-ASP Positive
 
 Een O -999
 dikke O -999
 pluim O -999
 voor O -999
 het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 van O -999
 deze O -999
 zaak! O -999
@@ -9499,7 +9499,7 @@ beneden O -999
 alle O -999
 peil: O -999
 klant-onvriendelijke O -999
-patron B-ASP negative
+patron B-ASP Negative
 , O -999
 slecht B-ASP -999
 eten O -999
@@ -9529,7 +9529,7 @@ peil: O -999
 klant-onvriendelijke O -999
 patron B-ASP -999
 , O -999
-slecht B-ASP negative
+slecht B-ASP Negative
 eten O -999
 en O -999
 geen B-ASP -999
@@ -9560,7 +9560,7 @@ patron B-ASP -999
 slecht B-ASP -999
 eten O -999
 en O -999
-geen B-ASP negative
+geen B-ASP Negative
 service... O -999
 
 Deze O -999
@@ -9568,9 +9568,9 @@ keer O -999
 nam O -999
 ik O -999
 de O -999
-vissoep B-ASP negative
-'kleine I-ASP negative
-bouillabaise I-ASP negative
+vissoep B-ASP Negative
+'kleine I-ASP Negative
+bouillabaise I-ASP Negative
 ' O -999
 deze O -999
 was O -999
@@ -9625,7 +9625,7 @@ zeggen O -999
 dat O -999
 we O -999
 deze O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 reeds O -999
 aanbevolen O -999
 aan O -999
@@ -9633,7 +9633,7 @@ vrienden. O -999
 
 Vlees O -999
 en O -999
-vis B-ASP positive
+vis B-ASP Positive
 van O -999
 de O -999
 beste O -999
@@ -9656,7 +9656,7 @@ de O -999
 kwaliteit O -999
 van O -999
 het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 maar O -999
 het O -999
 is O -999
@@ -9669,7 +9669,7 @@ irish B-ASP -999
 coffee I-ASP -999
 komt O -999
 de O -999
-baas B-ASP neutral
+baas B-ASP Neutral
 inderdaad O -999
 aan O -999
 tafel O -999
@@ -9689,8 +9689,8 @@ té O -999
 duur. O -999
 
 De O -999
-irish B-ASP negative
-coffee I-ASP negative
+irish B-ASP Negative
+coffee I-ASP Negative
 komt O -999
 de O -999
 baas B-ASP -999
@@ -9713,7 +9713,7 @@ té O -999
 duur. O -999
 
 Supervriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 heel O -999
 lekker B-ASP -999
@@ -9726,7 +9726,7 @@ Supervriendelijke O -999
 bediening B-ASP -999
 , O -999
 heel O -999
-lekker B-ASP positive
+lekker B-ASP Positive
 eten O -999
 en O -999
 zeer O -999
@@ -9771,8 +9771,8 @@ curry O -999
 met O -999
 brood O -999
 het O -999
-stukje B-ASP negative
-zalm I-ASP negative
+stukje B-ASP Negative
+zalm I-ASP Negative
 was O -999
 niet O -999
 om O -999
@@ -9805,7 +9805,7 @@ frietjes O -999
 1 O -999
 had O -999
 de O -999
-steak B-ASP negative
+steak B-ASP Negative
 (nog O -999
 geen O -999
 125 O -999
@@ -9860,7 +9860,7 @@ frietjes O -999
 1 O -999
 had O -999
 de O -999
-steak B-ASP negative
+steak B-ASP Negative
 (nog O -999
 geen O -999
 125 O -999
@@ -9899,7 +9899,7 @@ vinden. O -999
 
 1 O -999
 schotel O -999
-friet B-ASP negative
+friet B-ASP Negative
 voor O -999
 5 O -999
 volwassen O -999
@@ -9923,7 +9923,7 @@ was. O -999
 Nadat O -999
 wij O -999
 de O -999
-patroon B-ASP negative
+patroon B-ASP Negative
 van O -999
 ons O -999
 ongenoegen O -999
@@ -9956,7 +9956,7 @@ voorschotelt. O -999
 
 Hoofdgerechten O -999
 Gebakken O -999
-ribbetje B-ASP negative
+ribbetje B-ASP Negative
 s O -999
 met O -999
 3 O -999
@@ -9982,7 +9982,7 @@ vreemde O -999
 marinade. O -999
 
 De O -999
-sausjes B-ASP neutral
+sausjes B-ASP Neutral
 (huisgemaakt?) O -999
 hadden O -999
 precies O -999
@@ -10010,7 +10010,7 @@ veel O -999
 vet O -999
 aan O -999
 de O -999
-ribbetjes B-ASP negative
+ribbetjes B-ASP Negative
 . O -999
 
 De O -999
@@ -10034,7 +10034,7 @@ te O -999
 maken O -999
 antwoord O -999
 de O -999
-ober B-ASP negative
+ober B-ASP Negative
 , O -999
 oh O -999
 ik O -999
@@ -10058,7 +10058,7 @@ niet O -999
 zwart... O -999
 
 De O -999
-frietjes B-ASP negative
+frietjes B-ASP Negative
 ... O -999
 wel O -999
 om O -999
@@ -10079,7 +10079,7 @@ zijn O -999
 beter. O -999
 
 Het O -999
-slaatje B-ASP neutral
+slaatje B-ASP Neutral
 dat O -999
 er O -999
 werd O -999
@@ -10088,7 +10088,7 @@ was O -999
 ok. O -999
 
 Het O -999
-dessert B-ASP positive
+dessert B-ASP Positive
 was O -999
 nog O -999
 het O -999
@@ -10100,7 +10100,7 @@ geluk O -999
 blijkbaar. O -999
 
 Dezelfde O -999
-tiramisu B-ASP positive
+tiramisu B-ASP Positive
 bij O -999
 de O -999
 buren O -999
@@ -10121,7 +10121,7 @@ mij. O -999
 Mijn O -999
 vriendin O -999
 had O -999
-appeltaart B-ASP neutral
+appeltaart B-ASP Neutral
 , O -999
 die O -999
 ze O -999
@@ -10130,7 +10130,7 @@ ok O -999
 vond. O -999
 
 De O -999
-wijn B-ASP negative
+wijn B-ASP Negative
 ... O -999
 laat O -999
 ons O -999
@@ -10151,7 +10151,7 @@ dan O -999
 euro. O -999
 
 De O -999
-wijn B-ASP negative
+wijn B-ASP Negative
 ... O -999
 laat O -999
 ons O -999
@@ -10172,7 +10172,7 @@ dan O -999
 euro. O -999
 
 Deze O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 zou O -999
 moeten O -999
 gesloten O -999
@@ -10210,7 +10210,7 @@ elk O -999
 hap O -999
 van O -999
 ons O -999
-gerecht B-ASP negative
+gerecht B-ASP Negative
 om O -999
 dan O -999
 tot O -999
@@ -10242,7 +10242,7 @@ doorweekte O -999
 spaghetti, O -999
 en O -999
 de O -999
-pannenkoeken B-ASP negative
+pannenkoeken B-ASP Negative
 waren O -999
 precies O -999
 gemaakt O -999
@@ -10258,8 +10258,8 @@ hadden O -999
 gewassen. O -999
 
 De O -999
-pasta B-ASP negative
-carbonara I-ASP negative
+pasta B-ASP Negative
+carbonara I-ASP Negative
 was O -999
 niks O -999
 meer O -999
@@ -10310,7 +10310,7 @@ gewoon O -999
 terug, O -999
 en O -999
 de O -999
-chef B-ASP negative
+chef B-ASP Negative
 zei O -999
 dat O -999
 deze O -999
@@ -10343,7 +10343,7 @@ te O -999
 betalen, O -999
 waarna O -999
 het O -999
-keukenpersoneel B-ASP negative
+keukenpersoneel B-ASP Negative
 heel O -999
 frank O -999
 deed O -999
@@ -10362,7 +10362,7 @@ ik O -999
 het O -999
 aan O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 zelf O -999
 een O -999
 bordje O -999
@@ -10380,18 +10380,18 @@ Fijn O -999
 en O -999
 gezellig O -999
 familiaal O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 . O -999
 
 Klasse O -999
-maaltijden B-ASP positive
+maaltijden B-ASP Positive
 en O -999
 positief O -999
 qua O -999
 prijs/kwaliteit. O -999
 
 Toffe O -999
-mensen B-ASP positive
+mensen B-ASP Positive
 met O -999
 een O -999
 fijne, O -999
@@ -10403,7 +10403,7 @@ uitstraling. O -999
 Fijne O -999
 en O -999
 gezellige O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 klasse B-ASP -999
 maaltijden. O -999
@@ -10413,7 +10413,7 @@ en O -999
 gezellige O -999
 bediening B-ASP -999
 , O -999
-klasse B-ASP positive
+klasse B-ASP Positive
 maaltijden. O -999
 
 Voor O -999
@@ -10423,7 +10423,7 @@ het O -999
 tofste O -999
 en O -999
 leukste O -999
-restaurantje B-ASP positive
+restaurantje B-ASP Positive
 in O -999
 Oostende. O -999
 
@@ -10440,7 +10440,7 @@ alleen O -999
 voor O -999
 het O -999
 lekkere O -999
-eten B-ASP positive
+eten B-ASP Positive
 maar O -999
 ook O -999
 voor O -999
@@ -10456,27 +10456,27 @@ leuk O -999
 ontvangen O -999
 door O -999
 het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 . O -999
 
 Toen O -999
 kwam O -999
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 en O -999
 dat O -999
 was O -999
 perfect! O -999
 
 Lekkerste O -999
-lam B-ASP positive
-en I-ASP positive
-kip I-ASP positive
+lam B-ASP Positive
+en I-ASP Positive
+kip I-ASP Positive
 in O -999
 tijden. O -999
 
 De O -999
-couscous B-ASP positive
+couscous B-ASP Positive
 was O -999
 daarnaast O -999
 ook O -999
@@ -10489,7 +10489,7 @@ tip O -999
 top O -999
 in O -999
 orde... O -999
-eten B-ASP positive
+eten B-ASP Positive
 super O -999
 lekker... O -999
 hele O -999
@@ -10524,7 +10524,7 @@ super O -999
 lekker... O -999
 hele O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 en O -999
 nog O -999
 zoveel O -999
@@ -10546,7 +10546,7 @@ eten... O -999
 
 Gezellig O -999
 vernieuwd O -999
-terras B-ASP positive
+terras B-ASP Positive
 , O -999
 maar O -999
 omdat O -999
@@ -10561,7 +10561,7 @@ eten. O -999
 
 Zeer O -999
 verouderd O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 , O -999
 stoffige O -999
 gordijnen, O -999
@@ -10581,11 +10581,11 @@ gekregen, O -999
 zure O -999
 en O -999
 lopende O -999
-mayo B-ASP negative
+mayo B-ASP Negative
 . O -999
 
 Platte O -999
-frietjes B-ASP negative
+frietjes B-ASP Negative
 erbij O -999
 gekregen, O -999
 zure O -999
@@ -10596,9 +10596,9 @@ mayo B-ASP -999
 
 Vriendin O -999
 had O -999
-vol B-ASP negative
-au I-ASP negative
-vent I-ASP negative
+vol B-ASP Negative
+au I-ASP Negative
+vent I-ASP Negative
 , O -999
 maar O -999
 die O -999
@@ -10613,7 +10613,7 @@ was... O -999
 
 Zéér O -999
 onvriendelijk O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 eten B-ASP -999
 was O -999
 zeer O -999
@@ -10622,7 +10622,7 @@ matig. O -999
 Zéér O -999
 onvriendelijk O -999
 personeel B-ASP -999
-eten B-ASP negative
+eten B-ASP Negative
 was O -999
 zeer O -999
 matig. O -999
@@ -10633,7 +10633,7 @@ zeker O -999
 geen O -999
 aanrader, O -999
 het O -999
-eten B-ASP negative
+eten B-ASP Negative
 is O -999
 zeer O -999
 flauw O -999
@@ -10662,7 +10662,7 @@ Oostende, O -999
 spijtig O -999
 want O -999
 de O -999
-locatie B-ASP positive
+locatie B-ASP Positive
 is O -999
 prachtig... O -999
 op O -999
@@ -10679,7 +10679,7 @@ dit O -999
 zeker O -999
 niet O -999
 een O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 die O -999
 je O -999
 moet O -999
@@ -10716,7 +10716,7 @@ correcte O -999
 bediening B-ASP -999
 en O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 . O -999
 
 Stel O -999
@@ -10732,7 +10732,7 @@ ontvangen, O -999
 kregen O -999
 een O -999
 correcte O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 en O -999
 lekker O -999
 eten B-ASP -999
@@ -10759,7 +10759,7 @@ menu's, B-ASP -999
 kregen O -999
 een O -999
 mooie O -999
-tafel B-ASP positive
+tafel B-ASP Positive
 aan O -999
 het O -999
 venster O -999
@@ -10800,7 +10800,7 @@ kaarslicht, O -999
 goede O -999
 en O -999
 snelle O -999
-bediening. B-ASP positive
+bediening. B-ASP Positive
 
 zijn O -999
 er O -999
@@ -10819,7 +10819,7 @@ een O -999
 brede O -999
 keuze O -999
 uit O -999
-menu's, B-ASP positive
+menu's, B-ASP Positive
 kregen O -999
 een O -999
 mooie O -999
@@ -10835,7 +10835,7 @@ snelle O -999
 bediening. B-ASP -999
 
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 echt O -999
 lekker, O -999
 niets O -999
@@ -10848,7 +10848,7 @@ We O -999
 zaten O -999
 op O -999
 het O -999
-terras B-ASP positive
+terras B-ASP Positive
 vol O -999
 in O -999
 de O -999
@@ -10859,7 +10859,7 @@ plekje! O -999
 Wel O -999
 redelijk O -999
 lekkere O -999
-soep B-ASP neutral
+soep B-ASP Neutral
 en O -999
 garnalen O -999
 kroketten. O -999
@@ -10869,13 +10869,13 @@ redelijk O -999
 lekkere O -999
 soep O -999
 en O -999
-garnalen B-ASP neutral
-kroketten I-ASP neutral
+garnalen B-ASP Neutral
+kroketten I-ASP Neutral
 . O -999
 
 Maar O -999
 de O -999
-dame B-ASP negative
+dame B-ASP Negative
 uit O -999
 de O -999
 bediening O -999
@@ -10894,7 +10894,7 @@ bonnetje. O -999
 Inderdaad, O -999
 lang O -999
 wachten, O -999
-drank B-ASP negative
+drank B-ASP Negative
 niet O -999
 gekoeld, O -999
 onbeleefde, O -999
@@ -10929,7 +10929,7 @@ gekoeld, O -999
 onbeleefde, O -999
 neen, O -999
 onbeschofte O -999
-bediening, B-ASP negative
+bediening, B-ASP Negative
 aangebrand O -999
 voedsel B-ASP -999
 en O -999
@@ -10960,7 +10960,7 @@ neen, O -999
 onbeschofte O -999
 bediening, B-ASP -999
 aangebrand O -999
-voedsel B-ASP negative
+voedsel B-ASP Negative
 en O -999
 als O -999
 je O -999
@@ -10985,7 +10985,7 @@ persoonlijke O -999
 indruk O -999
 dat O -999
 deze O -999
-zaak B-ASP neutral
+zaak B-ASP Neutral
 draait O -999
 op O -999
 (dagjes-)toeristen O -999
@@ -11002,7 +11002,7 @@ nooit O -999
 meer. O -999
 
 Het O -999
-toiletbezoek B-ASP negative
+toiletbezoek B-ASP Negative
 (tja, O -999
 kinderen O -999
 kunnen O -999
@@ -11017,7 +11017,7 @@ vuile O -999
 vloeren, O -999
 stinken, O -999
 lange O -999
-wachtrij B-ASP negative
+wachtrij B-ASP Negative
 ... O -999
 
 Het O -999
@@ -11029,7 +11029,7 @@ proper O -999
 en O -999
 het O -999
 de O -999
-vloer B-ASP negative
+vloer B-ASP Negative
 is O -999
 er O -999
 ook O -999
@@ -11043,7 +11043,7 @@ je O -999
 veel O -999
 dat O -999
 het O -999
-eten B-ASP negative
+eten B-ASP Negative
 er O -999
 koud O -999
 is O -999
@@ -11070,7 +11070,7 @@ is O -999
 of O -999
 dat O -999
 er O -999
-machines B-ASP negative
+machines B-ASP Negative
 kapot O -999
 zijn O -999
 vb O -999
@@ -11079,7 +11079,7 @@ flurry. O -999
 
 Maar O -999
 het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 is O -999
 er O -999
 wel O -999
@@ -11092,7 +11092,7 @@ OK O -999
 nadien O -999
 komen O -999
 de O -999
-aperitief B-ASP neutral
+aperitief B-ASP Neutral
 hapjes...OK O -999
 kan O -999
 gebeuren. O -999
@@ -11100,7 +11100,7 @@ gebeuren. O -999
 Nadien O -999
 kwam O -999
 de O -999
-rogge B-ASP negative
+rogge B-ASP Negative
 : O -999
 zodanig O -999
 uitgedroogd O -999
@@ -11117,7 +11117,7 @@ te O -999
 krijgen. O -999
 
 Een O -999
-etentje B-ASP negative
+etentje B-ASP Negative
 dat O -999
 in O -999
 het O -999
@@ -11139,7 +11139,7 @@ ligt O -999
 in O -999
 heel O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 . O -999
 
 Na O -999
@@ -11148,7 +11148,7 @@ tijdje O -999
 dan O -999
 toch O -999
 de O -999
-menukaart B-ASP negative
+menukaart B-ASP Negative
 gekregen...... O -999
 deze O -999
 was O -999
@@ -11168,7 +11168,7 @@ een O -999
 klevertje O -999
 en O -999
 de O -999
-kaart B-ASP negative
+kaart B-ASP Negative
 blijft O -999
 aan O -999
 je O -999
@@ -11183,7 +11183,7 @@ zwijgen O -999
 over O -999
 de O -999
 de O -999
-wijnkaart B-ASP negative
+wijnkaart B-ASP Negative
 , O -999
 een O -999
 gore O -999
@@ -11203,7 +11203,7 @@ Was O -999
 duidelijk O -999
 2de O -999
 rangs O -999
-vlees B-ASP negative
+vlees B-ASP Negative
 en O -999
 was O -999
 nauwelijks O -999
@@ -11227,7 +11227,7 @@ en O -999
 was O -999
 nauwelijks O -999
 warm, O -999
-sauzen B-ASP positive
+sauzen B-ASP Positive
 zijn O -999
 te O -999
 verkrijgen O -999
@@ -11238,10 +11238,10 @@ de O -999
 frituur. O -999
 
 De O -999
-jongens B-ASP positive
-van I-ASP positive
-de I-ASP positive
-bediening I-ASP positive
+jongens B-ASP Positive
+van I-ASP Positive
+de I-ASP Positive
+bediening I-ASP Positive
 proberen O -999
 hun O -999
 best O -999
@@ -11266,11 +11266,11 @@ hondjes O -999
 mogen O -999
 mee O -999
 in O -999
-restaurant B-ASP neutral
+restaurant B-ASP Neutral
 ..... O -999
 
 De O -999
-mosselen B-ASP positive
+mosselen B-ASP Positive
 waren O -999
 lekker O -999
 en O -999
@@ -11284,7 +11284,7 @@ nagenoeg O -999
 nergens. O -999
 
 De O -999
-mosselen B-ASP positive
+mosselen B-ASP Positive
 waren O -999
 lekker O -999
 en O -999
@@ -11304,7 +11304,7 @@ was O -999
 inbegrepen O -999
 en O -999
 het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 was O -999
 vriendelijk. O -999
 
@@ -11317,7 +11317,7 @@ plekke O -999
 arriveerden, O -999
 bleek O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 dicht, O -999
 met O -999
 vakantie. O -999
@@ -11326,7 +11326,7 @@ Het O -999
 aan O -999
 bod O -999
 van O -999
-bieren B-ASP negative
+bieren B-ASP Negative
 en O -999
 andere O -999
 is O -999
@@ -11341,7 +11341,7 @@ hoge O -999
 kant O -999
 en O -999
 de O -999
-service B-ASP negative
+service B-ASP Negative
 is O -999
 zeer O -999
 traag. O -999
@@ -11354,12 +11354,12 @@ Kortrijk, O -999
 met O -999
 een O -999
 leuke O -999
-terras B-ASP positive
+terras B-ASP Positive
 . O -999
 
 Een O -999
 leuke O -999
-plek B-ASP positive
+plek B-ASP Positive
 op O -999
 een O -999
 prachtig O -999
@@ -11367,18 +11367,18 @@ Kortrijks O -999
 plein. O -999
 
 Mooi O -999
-kader B-ASP positive
+kader B-ASP Positive
 . O -999
 
 Goede O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Kwaliteit O -999
 van O -999
 de O -999
 geserveerde O -999
-wijnen B-ASP negative
+wijnen B-ASP Negative
 per O -999
 glas O -999
 kon O -999
@@ -11386,7 +11386,7 @@ beter. O -999
 
 Zeer O -999
 aangenaam O -999
-interieur B-ASP positive
+interieur B-ASP Positive
 . O -999
 
 Op O -999
@@ -11394,7 +11394,7 @@ het O -999
 krijtbord O -999
 waren O -999
 er O -999
-wijnsuggesties B-ASP positive
+wijnsuggesties B-ASP Positive
 aan O -999
 aan O -999
 aantrekkelijke O -999
@@ -11405,9 +11405,9 @@ hebben O -999
 gekozen O -999
 voor O -999
 de O -999
-tartaar B-ASP positive
-van I-ASP positive
-kingkrab I-ASP positive
+tartaar B-ASP Positive
+van I-ASP Positive
+kingkrab I-ASP Positive
 , O -999
 zeer O -999
 lekker O -999
@@ -11417,24 +11417,24 @@ bereid. O -999
 
 Daarna O -999
 een O -999
-filet B-ASP positive
-pur I-ASP positive
-met I-ASP positive
-pepersaus I-ASP positive
+filet B-ASP Positive
+pur I-ASP Positive
+met I-ASP Positive
+pepersaus I-ASP Positive
 perfect O -999
 gebakken. O -999
 
 Zeer O -999
 goede O -999
 gegaarde O -999
-risotto B-ASP positive
+risotto B-ASP Positive
 . O -999
 
 Zeker O -999
 een O -999
 aanrader O -999
 zowel O -999
-interieur B-ASP positive
+interieur B-ASP Positive
 , B-ASP -999
 bediening, O -999
 en B-ASP -999
@@ -11445,7 +11445,7 @@ een O -999
 aanrader O -999
 zowel O -999
 interieur B-ASP -999
-, B-ASP positive
+, B-ASP Positive
 bediening, O -999
 en B-ASP -999
 eten. O -999
@@ -11457,7 +11457,7 @@ zowel O -999
 interieur B-ASP -999
 , B-ASP -999
 bediening, O -999
-en B-ASP positive
+en B-ASP Positive
 eten. O -999
 
 Het O -999
@@ -11469,13 +11469,13 @@ en O -999
 veelbelovend O -999
 uit O -999
 maar O -999
-eten B-ASP negative
+eten B-ASP Negative
 is O -999
 een O -999
 ramp. O -999
 
 Het O -999
-onthaal B-ASP negative
+onthaal B-ASP Negative
 is O -999
 verre O -999
 van O -999
@@ -11496,16 +11496,16 @@ verre O -999
 van O -999
 hartelijk, O -999
 het O -999
-menu B-ASP negative
-van I-ASP negative
-de I-ASP negative
-maand I-ASP negative
+menu B-ASP Negative
+van I-ASP Negative
+de I-ASP Negative
+maand I-ASP Negative
 af O -999
 te O -999
 raden. O -999
 
 Het O -999
-voorgerecht B-ASP negative
+voorgerecht B-ASP Negative
 zit O -999
 vol; O -999
 bloemsaus O -999
@@ -11522,13 +11522,13 @@ vol; O -999
 bloemsaus O -999
 en O -999
 het O -999
-hoofdgerecht B-ASP negative
+hoofdgerecht B-ASP Negative
 een O -999
 puinhoop. O -999
 
 De O -999
-aangepaste B-ASP negative
-wijnen I-ASP negative
+aangepaste B-ASP Negative
+wijnen I-ASP Negative
 bij O -999
 het O -999
 menu O -999
@@ -11555,8 +11555,8 @@ menu O -999
 zijn O -999
 slecht, O -999
 de O -999
-witte B-ASP negative
-wijn I-ASP negative
+witte B-ASP Negative
+wijn I-ASP Negative
 niet O -999
 gekoeld, O -999
 de O -999
@@ -11580,7 +11580,7 @@ wijn I-ASP -999
 niet O -999
 gekoeld, O -999
 de O -999
-service B-ASP negative
+service B-ASP Negative
 is O -999
 gevoelloos O -999
 en O -999
@@ -11588,7 +11588,7 @@ onpersoonlijk. O -999
 
 Ook O -999
 de O -999
-langoest B-ASP positive
+langoest B-ASP Positive
 kon O -999
 onze O -999
 goedkeuring O -999
@@ -11599,13 +11599,13 @@ dikke O -999
 bravo O -999
 voor O -999
 de O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 ! O -999
 
 En O -999
 de O -999
-mango B-ASP positive
-tango-thee I-ASP positive
+mango B-ASP Positive
+tango-thee I-ASP Positive
 was O -999
 een O -999
 perfecte O -999
@@ -11628,7 +11628,7 @@ en O -999
 de O -999
 gastvrijheid O -999
 van O -999
-mevrouw B-ASP positive
+mevrouw B-ASP Positive
 is O -999
 hartverwarmend! O -999
 
@@ -11641,7 +11641,7 @@ tuin O -999
 van O -999
 dit O -999
 prachtig O -999
-herenhuis B-ASP positive
+herenhuis B-ASP Positive
 . O -999
 
 Hoewel O -999
@@ -11650,7 +11650,7 @@ gezellig O -999
 zitten, O -999
 heeft O -999
 de O -999
-tuin B-ASP neutral
+tuin B-ASP Neutral
 toch O -999
 wel O -999
 wat O -999
@@ -11666,22 +11666,22 @@ en O -999
 toch O -999
 liep O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 niet O -999
 echt O -999
 vlot. O -999
 
 Voorgerecht, O -999
 het O -999
-halve B-ASP positive
-kreeftje I-ASP positive
+halve B-ASP Positive
+kreeftje I-ASP Positive
 , O -999
 was O -999
 prima. O -999
 
 Hoofdgerecht, O -999
 de O -999
-steak B-ASP positive
+steak B-ASP Positive
 , O -999
 zeer O -999
 degelijk. O -999
@@ -11692,12 +11692,12 @@ deed O -999
 het O -999
 prima, O -999
 de O -999
-heer B-ASP negative
+heer B-ASP Negative
 nogal O -999
 geforceerd. O -999
 
 De O -999
-dame B-ASP positive
+dame B-ASP Positive
 deed O -999
 het O -999
 prima, O -999
@@ -11712,16 +11712,16 @@ gegeten O -999
 in O -999
 prachtig O -999
 oud O -999
-herenhuis B-ASP positive
+herenhuis B-ASP Positive
 . O -999
 
 Mooi O -999
 gedekte O -999
-tafels B-ASP positive
+tafels B-ASP Positive
 . O -999
 
 De O -999
-tomatensoep B-ASP positive
+tomatensoep B-ASP Positive
 was O -999
 lekker. O -999
 
@@ -11749,11 +11749,11 @@ we O -999
 erg O -999
 karige O -999
 portie O -999
-frietjes B-ASP negative
+frietjes B-ASP Negative
 . O -999
 
 De O -999
-pladijs B-ASP negative
+pladijs B-ASP Negative
 die O -999
 volgde O -999
 was O -999
@@ -11780,7 +11780,7 @@ frietjes B-ASP -999
 . O -999
 
 De O -999
-pladijs B-ASP negative
+pladijs B-ASP Negative
 die O -999
 volgde O -999
 was O -999
@@ -11812,7 +11812,7 @@ lukte O -999
 maar O -999
 nadat O -999
 de O -999
-ober B-ASP negative
+ober B-ASP Negative
 wel O -999
 al O -999
 10 O -999
@@ -11857,8 +11857,8 @@ en O -999
 een O -999
 ruime O -999
 portie O -999
-crème B-ASP positive
-fraiche I-ASP positive
+crème B-ASP Positive
+fraiche I-ASP Positive
 uit O -999
 de O -999
 spuitbus, O -999
@@ -11868,7 +11868,7 @@ een O -999
 glas. O -999
 
 Een O -999
-dessert B-ASP negative
+dessert B-ASP Negative
 van O -999
 een O -999
 lunch O -999
@@ -11902,7 +11902,7 @@ genieten O -999
 er B-ASP -999
 van O -999
 een O -999
-drankje B-ASP positive
+drankje B-ASP Positive
 of O -999
 lekker O -999
 eten. O -999
@@ -11914,7 +11914,7 @@ prima O -999
 bediend, O -999
 en O -999
 genieten O -999
-er B-ASP positive
+er B-ASP Positive
 van O -999
 een O -999
 drankje B-ASP -999
@@ -11924,13 +11924,13 @@ eten. O -999
 
 Maar O -999
 de O -999
-chocomelk B-ASP negative
+chocomelk B-ASP Negative
 is O -999
 niet O -999
 zelfgemaakt! O -999
 
 De O -999
-service B-ASP neutral
+service B-ASP Neutral
 is O -999
 oke! O -999
 (is O -999
@@ -11944,7 +11944,7 @@ regent O -999
 binnen O -999
 in O -999
 de O -999
-terras B-ASP negative
+terras B-ASP Negative
 ! O -999
 
 Dit O -999
@@ -11952,7 +11952,7 @@ is O -999
 het O -999
 vuilste, O -999
 slechtte O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 ooit O -999
 bezocht O -999
 en O -999
@@ -11968,7 +11968,7 @@ is O -999
 het O -999
 vuilste, O -999
 slechtte O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 ooit O -999
 bezocht O -999
 en O -999
@@ -11980,7 +11980,7 @@ per O -999
 jaar. O -999
 
 De O -999
-ober B-ASP negative
+ober B-ASP Negative
 hebben O -999
 ze O -999
 uit O -999
@@ -11990,17 +11990,17 @@ familie O -999
 gehaald. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 was O -999
 bedorven. O -999
 
 Sluiten O -999
 die O -999
-handel B-ASP negative
+handel B-ASP Negative
 
 Zeer O -999
 goede O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 met O -999
 zicht O -999
 op O -999
@@ -12012,7 +12012,7 @@ goed O -999
 ontvangen O -999
 door O -999
 de O -999
-uitbaatster B-ASP positive
+uitbaatster B-ASP Positive
 die O -999
 duidelijk O -999
 beter O -999
@@ -12022,7 +12022,7 @@ dan O -999
 voorheen. O -999
 
 Het O -999
-keuzemenu B-ASP positive
+keuzemenu B-ASP Positive
 is O -999
 van O -999
 uitstekende O -999
@@ -12033,16 +12033,16 @@ kwam O -999
 een O -999
 royale O -999
 portie O -999
-kabeljauw B-ASP positive
-met I-ASP positive
-jonge I-ASP positive
-spinazie I-ASP positive
-en I-ASP positive
-mousseline I-ASP positive
+kabeljauw B-ASP Positive
+met I-ASP Positive
+jonge I-ASP Positive
+spinazie I-ASP Positive
+en I-ASP Positive
+mousseline I-ASP Positive
 . O -999
 
 De O -999
-nagerechten B-ASP negative
+nagerechten B-ASP Negative
 kunnen O -999
 iets O -999
 beter O -999
@@ -12055,7 +12055,7 @@ een O -999
 detail. O -999
 
 Grote O -999
-familiezaak B-ASP positive
+familiezaak B-ASP Positive
 aan O -999
 de O -999
 kust. O -999
@@ -12063,10 +12063,10 @@ kust. O -999
 Keuze O -999
 uit O -999
 verschillende O -999
-voorgerechten, B-ASP positive
-hoofdgerechten I-ASP positive
-en I-ASP positive
-deserts I-ASP positive
+voorgerechten, B-ASP Positive
+hoofdgerechten I-ASP Positive
+en I-ASP Positive
+deserts I-ASP Positive
 voor O -999
 een O -999
 correcte O -999
@@ -12075,10 +12075,10 @@ prijs. O -999
 Keuze O -999
 uit O -999
 verschillende O -999
-voorgerechten, B-ASP positive
-hoofdgerechten I-ASP positive
-en I-ASP positive
-deserts I-ASP positive
+voorgerechten, B-ASP Positive
+hoofdgerechten I-ASP Positive
+en I-ASP Positive
+deserts I-ASP Positive
 voor O -999
 een O -999
 correcte O -999
@@ -12087,7 +12087,7 @@ prijs. O -999
 Attente O -999
 en O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 in O -999
 leuk O -999
 kader. O -999
@@ -12098,16 +12098,16 @@ vriendelijke O -999
 bediening O -999
 in O -999
 leuk O -999
-kader B-ASP positive
+kader B-ASP Positive
 . O -999
 
 Heel O -999
 goed O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 . O -999
 
 2 O -999
-lunchmenu's B-ASP positive
+lunchmenu's B-ASP Positive
 met O -999
 ruime O -999
 keuze O -999
@@ -12120,7 +12120,7 @@ correcte O -999
 prijs. O -999
 
 2 O -999
-lunchmenu's B-ASP positive
+lunchmenu's B-ASP Positive
 met O -999
 ruime O -999
 keuze O -999
@@ -12136,7 +12136,7 @@ Bovendien O -999
 vriendelijke O -999
 en O -999
 attente O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Een O -999
@@ -12144,13 +12144,13 @@ stel O -999
 stumpers O -999
 doet O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 . O -999
 
 We O -999
 kregen O -999
 matig O -999
-voer B-ASP negative
+voer B-ASP Negative
 tegen O -999
 Knokke- O -999
 prijzen, O -999
@@ -12172,7 +12172,7 @@ gegaan. O -999
 We O -999
 kregen O -999
 matig O -999
-voer B-ASP neutral
+voer B-ASP Neutral
 tegen O -999
 Knokke- O -999
 prijzen, O -999
@@ -12197,7 +12197,7 @@ nog O -999
 even O -999
 naar O -999
 het O -999
-toilet B-ASP negative
+toilet B-ASP Negative
 , O -999
 dat O -999
 is O -999
@@ -12206,7 +12206,7 @@ aanrader. O -999
 
 Nee, O -999
 dit O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 zal O -999
 geen O -999
 lang O -999
@@ -12219,7 +12219,7 @@ keer O -999
 was O -999
 zowel O -999
 het O -999
-eten B-ASP negative
+eten B-ASP Negative
 , B-ASP -999
 service O -999
 en B-ASP -999
@@ -12232,7 +12232,7 @@ was O -999
 zowel O -999
 het O -999
 eten B-ASP -999
-, B-ASP negative
+, B-ASP Negative
 service O -999
 en B-ASP -999
 restaurant O -999
@@ -12246,13 +12246,13 @@ het O -999
 eten B-ASP -999
 , B-ASP -999
 service O -999
-en B-ASP negative
+en B-ASP Negative
 restaurant O -999
 ondermaats!!!! O -999
 
 We O -999
 hadden O -999
-garnaalkroketten B-ASP negative
+garnaalkroketten B-ASP Negative
 genomen O -999
 waar O -999
 je O -999
@@ -12262,7 +12262,7 @@ moest O -999
 zoeken. O -999
 
 De O -999
-salade B-ASP negative
+salade B-ASP Negative
 die O -999
 erbij O -999
 geserveerd O -999
@@ -12285,7 +12285,7 @@ matig O -999
 niveau! O -999
 
 De O -999
-salade B-ASP negative
+salade B-ASP Negative
 die O -999
 erbij O -999
 geserveerd O -999
@@ -12322,8 +12322,8 @@ meer O -999
 en O -999
 erop O -999
 gegooid, O -999
-gefrituurde B-ASP neutral
-peterselie I-ASP neutral
+gefrituurde B-ASP Neutral
+peterselie I-ASP Neutral
 was O -999
 ook O -999
 van O -999
@@ -12331,7 +12331,7 @@ matig O -999
 niveau! O -999
 
 De O -999
-boter B-ASP negative
+boter B-ASP Negative
 die O -999
 bij O -999
 onze O -999
@@ -12349,7 +12349,7 @@ zaten O -999
 buiten O -999
 op O -999
 het O -999
-terras B-ASP neutral
+terras B-ASP Neutral
 wat O -999
 ok O -999
 was O -999
@@ -12364,7 +12364,7 @@ hadden). O -999
 Ook O -999
 in O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 lagen O -999
 de O -999
 pakjes O -999
@@ -12399,7 +12399,7 @@ beslag). O -999
 Er O -999
 waren O -999
 3 O -999
-zaalbediende B-ASP negative
+zaalbediende B-ASP Negative
 aanwezig O -999
 en O -999
 het O -999
@@ -12430,7 +12430,7 @@ sprak O -999
 één O -999
 van O -999
 de O -999
-zaalbediende B-ASP negative
+zaalbediende B-ASP Negative
 geen O -999
 woord O -999
 Nederlands O -999
@@ -12441,7 +12441,7 @@ Dit O -999
 is O -999
 NIET O -999
 de O -999
-service B-ASP negative
+service B-ASP Negative
 die O -999
 we O -999
 van O -999
@@ -12463,7 +12463,7 @@ plaats O -999
 was, O -999
 wou O -999
 een O -999
-ober B-ASP negative
+ober B-ASP Negative
 ons O -999
 helpen, O -999
 maar O -999
@@ -12493,7 +12493,7 @@ door O -999
 een O -999
 onbeschofte O -999
 (oude O -999
-man B-ASP negative
+man B-ASP Negative
 met O -999
 grijs O -999
 haar) O -999
@@ -12513,7 +12513,7 @@ hebben O -999
 besteld, O -999
 zagen O -999
 we O -999
-obers B-ASP negative
+obers B-ASP Negative
 klungelen O -999
 (zoeken O -999
 naar O -999
@@ -12541,7 +12541,7 @@ koffie O -999
 aan O -999
 de O -999
 oude O -999
-man B-ASP negative
+man B-ASP Negative
 en O -999
 zijn O -999
 antwoord O -999
@@ -12564,7 +12564,7 @@ terug. O -999
 Toen O -999
 kwam O -999
 die O -999
-ober B-ASP neutral
+ober B-ASP Neutral
 terug: O -999
 'Ik O -999
 wil O -999
@@ -12599,7 +12599,7 @@ aantrekken O -999
 EXCUUS!!!! O -999
 
 Het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 wel O -999
 lekker O -999
@@ -12632,7 +12632,7 @@ de O -999
 onhandigheid O -999
 van O -999
 de O -999
-obers B-ASP negative
+obers B-ASP Negative
 (minutenlang O -999
 zoeken O -999
 naar O -999
@@ -12655,7 +12655,7 @@ ik O -999
 hoop O -999
 dat O -999
 de O -999
-ober B-ASP negative
+ober B-ASP Negative
 (oude O -999
 man O -999
 met O -999
@@ -12668,7 +12668,7 @@ worden. O -999
 Er O -999
 zijn O -999
 5 O -999
-dames B-ASP negative
+dames B-ASP Negative
 om O -999
 te O -999
 bedienen, O -999
@@ -12698,7 +12698,7 @@ de O -999
 avond O -999
 was O -999
 een O -999
-serveerster B-ASP negative
+serveerster B-ASP Negative
 klaar O -999
 met O -999
 haar O -999
@@ -12717,7 +12717,7 @@ te O -999
 peuteren. O -999
 
 Het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 gewoon O -999
 goed, O -999
@@ -12729,7 +12729,7 @@ dan O -999
 dat. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 was O -999
 vriendelijk, O -999
 correct, O -999
@@ -12743,9 +12743,9 @@ hadden O -999
 alle O -999
 drie O -999
 een O -999
-3 B-ASP positive
-gangen I-ASP positive
-menu I-ASP positive
+3 B-ASP Positive
+gangen I-ASP Positive
+menu I-ASP Positive
 , O -999
 wat O -999
 echt O -999
@@ -12756,8 +12756,8 @@ Ik O -999
 had O -999
 er O -999
 een O -999
-wijn B-ASP positive
-arrangement I-ASP positive
+wijn B-ASP Positive
+arrangement I-ASP Positive
 bij O -999
 besteld, O -999
 wat O -999
@@ -12775,7 +12775,7 @@ enkel O -999
 vacuüm O -999
 maaltijden O -999
 en O -999
-service B-ASP negative
+service B-ASP Negative
 is O -999
 dus O -999
 ondermaats. O -999
@@ -12811,7 +12811,7 @@ rijker O -999
 maken O -999
 indien O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 vriendelijk O -999
 was O -999
 en O -999
@@ -12820,7 +12820,7 @@ wachttijden O -999
 respectabel. O -999
 
 De O -999
-tuin B-ASP positive
+tuin B-ASP Positive
 is O -999
 leuk, O -999
 maar O -999
@@ -12849,7 +12849,7 @@ duurt O -999
 lang O -999
 voor O -999
 je O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 hebt O -999
 en O -999
 het O -999
@@ -12863,7 +12863,7 @@ Zeer O -999
 leuk O -999
 is O -999
 de O -999
-tuin B-ASP positive
+tuin B-ASP Positive
 buiten, O -999
 het O -999
 eten B-ASP -999
@@ -12878,13 +12878,13 @@ de O -999
 tuin B-ASP -999
 buiten, O -999
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 is O -999
 ook O -999
 lekker. O -999
 
 De O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 buiten O -999
 gebeurt O -999
 nogal O -999
@@ -12912,7 +12912,7 @@ nog O -999
 steeds O -999
 getoverd, O -999
 de O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 is O -999
 stijlvol O -999
 en O -999
@@ -12958,7 +12958,7 @@ enthousiast O -999
 alom O -999
 aanwezig, O -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 vlekkeloos, O -999
 de O -999
@@ -13000,7 +13000,7 @@ bediening B-ASP -999
 is O -999
 vlekkeloos, O -999
 de O -999
-wijnkeuze B-ASP positive
+wijnkeuze B-ASP Positive
 van O -999
 de O -999
 sommelier O -999
@@ -13020,7 +13020,7 @@ heerlijk O -999
 genoten: O -999
 in O -999
 de O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 wordt O -999
 nog O -999
 steeds O -999
@@ -13075,14 +13075,14 @@ maar O -999
 geniet O -999
 van O -999
 de O -999
-smaaksensaties B-ASP positive
+smaaksensaties B-ASP Positive
 ! O -999
 
 Van O -999
 bij O -999
 de O -999
-amuse B-ASP positive
-gueule I-ASP positive
+amuse B-ASP Positive
+gueule I-ASP Positive
 tot O -999
 het O -999
 bij O -999
@@ -13106,7 +13106,7 @@ tot O -999
 het O -999
 bij O -999
 het O -999
-dessert B-ASP positive
+dessert B-ASP Positive
 is O -999
 het O -999
 ongelooflijk O -999
@@ -13119,7 +13119,7 @@ smaken. O -999
 De O -999
 ontvangst O -999
 en O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 zijn O -999
 vriendelijk O -999
 en O -999
@@ -13159,7 +13159,7 @@ leuk, O -999
 bovendien O -999
 een O -999
 ruime O -999
-kaart B-ASP positive
+kaart B-ASP Positive
 en O -999
 zeker O -999
 meer O -999
@@ -13168,7 +13168,7 @@ gemiddeld O -999
 lekker O -999
 
 Eerlijke O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 en O -999
 best O -999
 geschikt O -999
@@ -13210,7 +13210,7 @@ gemiddeld O -999
 lekker O -999
 
 Dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 heeft O -999
 een O -999
 leuk O -999
@@ -13225,7 +13225,7 @@ toeristisch O -999
 gelegen. O -999
 
 Dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 heeft O -999
 een O -999
 leuk O -999
@@ -13247,7 +13247,7 @@ leuk O -999
 concept, O -999
 een O -999
 warme O -999
-inrichting B-ASP positive
+inrichting B-ASP Positive
 en O -999
 is O -999
 niet O -999
@@ -13265,7 +13265,7 @@ restaurant O -999
 toegelaten O -999
 dan O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 aankan. O -999
 
 De O -999
@@ -13274,7 +13274,7 @@ bediening O -999
 wordt O -999
 aangevuld O -999
 met O -999
-student(en) B-ASP negative
+student(en) B-ASP Negative
 die O -999
 vooral O -999
 veel O -999
@@ -13292,7 +13292,7 @@ de O -999
 hand. O -999
 
 -vriendelijke O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 en O -999
 aperitief O -999
 aan O -999
@@ -13309,7 +13309,7 @@ gasten O -999
 aanwezig) O -999
 
 - O -999
-ijsblokjes B-ASP negative
+ijsblokjes B-ASP Negative
 en B-ASP -999
 garnituren O -999
 worden O -999
@@ -13322,7 +13322,7 @@ genomen. O -999
 
 - O -999
 ijsblokjes B-ASP -999
-en B-ASP negative
+en B-ASP Negative
 garnituren O -999
 worden O -999
 onhygiënisch O -999
@@ -13340,7 +13340,7 @@ vragen O -999
 komt O -999
 de O -999
 -originele- O -999
-wijnkaart B-ASP positive
+wijnkaart B-ASP Positive
 eraan. O -999
 
 -wijn O -999
@@ -13348,7 +13348,7 @@ bestellen O -999
 lukt O -999
 moeilijk, O -999
 de O -999
-opdienster B-ASP negative
+opdienster B-ASP Negative
 zegt O -999
 dat O -999
 ze O -999
@@ -13371,7 +13371,7 @@ een O -999
 tijdje O -999
 een O -999
 andere O -999
-ober B-ASP positive
+ober B-ASP Positive
 aan O -999
 die O -999
 wel O -999
@@ -13395,7 +13395,7 @@ te O -999
 onthouden. O -999
 
 -de O -999
-opdienster B-ASP negative
+opdienster B-ASP Negative
 die O -999
 geen O -999
 tijd O -999
@@ -13418,7 +13418,7 @@ klant O -999
 zat. O -999
 
 -het O -999
-hapje B-ASP neutral
+hapje B-ASP Neutral
 was O -999
 correct O -999
 en O -999
@@ -13426,16 +13426,16 @@ zurig O -999
 fris. O -999
 
 Het O -999
-brood B-ASP positive
+brood B-ASP Positive
 was O -999
 lekker. O -999
 
 -het O -999
 voorgerecht, O -999
-extra B-ASP neutral
-zachte I-ASP neutral
-gerookte I-ASP neutral
-zalm I-ASP neutral
+extra B-ASP Neutral
+zachte I-ASP Neutral
+gerookte I-ASP Neutral
+zalm I-ASP Neutral
 , O -999
 was O -999
 standaardkwaliteit O -999
@@ -13450,7 +13450,7 @@ het O -999
 staartstuk O -999
 van O -999
 de O -999
-zalm B-ASP negative
+zalm B-ASP Negative
 die O -999
 hard O -999
 wordt O -999
@@ -13469,14 +13469,14 @@ fondue B-ASP -999
 was O -999
 lekker, O -999
 de O -999
-frietjes B-ASP positive
+frietjes B-ASP Positive
 vers, O -999
 de O -999
 sausjes B-ASP -999
 industrieel. O -999
 
 -de O -999
-fondue B-ASP positive
+fondue B-ASP Positive
 was O -999
 lekker, O -999
 de O -999
@@ -13494,11 +13494,11 @@ de O -999
 frietjes B-ASP -999
 vers, O -999
 de O -999
-sausjes B-ASP neutral
+sausjes B-ASP Neutral
 industrieel. O -999
 
 De O -999
-frieten B-ASP negative
+frieten B-ASP Negative
 zijn O -999
 ondertussen O -999
 uiteraard O -999
@@ -13518,7 +13518,7 @@ ze O -999
 krijgen. O -999
 
 De O -999
-keuken B-ASP negative
+keuken B-ASP Negative
 is O -999
 overbemand O -999
 in O -999
@@ -13528,7 +13528,7 @@ de O -999
 zaal. O -999
 
 Het O -999
-zaalpersoneel B-ASP negative
+zaalpersoneel B-ASP Negative
 wordt O -999
 aan O -999
 hun O -999
@@ -13563,14 +13563,14 @@ de O -999
 sfeer O -999
 in O -999
 de O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 . O -999
 
 De O -999
 stress O -999
 van O -999
 het O -999
-zaalpersoneel B-ASP negative
+zaalpersoneel B-ASP Negative
 en O -999
 het O -999
 onnodig O -999
@@ -13595,7 +13595,7 @@ zaak B-ASP -999
 . O -999
 
 De O -999
-akoestiek B-ASP negative
+akoestiek B-ASP Negative
 is O -999
 een O -999
 heikel O -999
@@ -13614,7 +13614,7 @@ bediening O -999
 gehad O -999
 van O -999
 vriendelijk O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 . O -999
 
 Het O -999
@@ -13624,10 +13624,10 @@ ok, O -999
 ik O -999
 nam O -999
 de O -999
-vissuggestie B-ASP neutral
-van I-ASP neutral
-de I-ASP neutral
-dag I-ASP neutral
+vissuggestie B-ASP Neutral
+van I-ASP Neutral
+de I-ASP Neutral
+dag I-ASP Neutral
 en O -999
 dit O -999
 was O -999
@@ -13646,10 +13646,10 @@ ok, O -999
 ik O -999
 nam O -999
 de O -999
-vissuggestie B-ASP neutral
-van I-ASP neutral
-de I-ASP neutral
-dag I-ASP neutral
+vissuggestie B-ASP Neutral
+van I-ASP Neutral
+de I-ASP Neutral
+dag I-ASP Neutral
 en O -999
 dit O -999
 was O -999
@@ -13662,7 +13662,7 @@ correcte O -999
 prijs. O -999
 
 Het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 ok, O -999
 ik O -999
@@ -13686,10 +13686,10 @@ prijs. O -999
 We O -999
 hebben O -999
 allebei O -999
-pizza B-ASP neutral
-frutti I-ASP neutral
-di I-ASP neutral
-mare I-ASP neutral
+pizza B-ASP Neutral
+frutti I-ASP Neutral
+di I-ASP Neutral
+mare I-ASP Neutral
 gegeten O -999
 en O -999
 deze O -999
@@ -13702,10 +13702,10 @@ ok. O -999
 We O -999
 hebben O -999
 allebei O -999
-pizza B-ASP neutral
-frutti I-ASP neutral
-di I-ASP neutral
-mare I-ASP neutral
+pizza B-ASP Neutral
+frutti I-ASP Neutral
+di I-ASP Neutral
+mare I-ASP Neutral
 gegeten O -999
 en O -999
 deze O -999
@@ -13717,7 +13717,7 @@ ok. O -999
 
 Lekker O -999
 veel O -999
-kaas B-ASP positive
+kaas B-ASP Positive
 , O -999
 geen O -999
 uitgedroogde B-ASP -999
@@ -13736,7 +13736,7 @@ veel O -999
 kaas B-ASP -999
 , O -999
 geen O -999
-uitgedroogde B-ASP negative
+uitgedroogde B-ASP Negative
 korst O -999
 zoals O -999
 je O -999
@@ -13749,7 +13749,7 @@ luchtig. O -999
 
 Bij O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 liep O -999
 er O -999
 echter O -999
@@ -13773,7 +13773,7 @@ Wij O -999
 houden O -999
 van O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 vooral O -999
 omwille O -999
 van O -999
@@ -13793,7 +13793,7 @@ vooral O -999
 omwille O -999
 van O -999
 de O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 en O -999
 vriendelijkheid O -999
 van O -999
@@ -13802,7 +13802,7 @@ Abdel. O -999
 Maandmenu: O -999
 Het O -999
 ' O -999
-fijnproeversbordje B-ASP negative
+fijnproeversbordje B-ASP Negative
 ' O -999
 bestond O -999
 uit O -999
@@ -13825,7 +13825,7 @@ op O -999
 uienkonfijt. O -999
 
 De O -999
-boter B-ASP negative
+boter B-ASP Negative
 die O -999
 we O -999
 bij O -999
@@ -13848,7 +13848,7 @@ over O -999
 datum) O -999
 
 De O -999
-carpacio B-ASP negative
+carpacio B-ASP Negative
 (tataki O -999
 op O -999
 het O -999
@@ -13859,13 +13859,13 @@ en O -999
 inspiratieloos. O -999
 
 Het O -999
-hoofdgerecht B-ASP positive
+hoofdgerecht B-ASP Positive
 (varkenswangetjes) O -999
 was O -999
 lekker. O -999
 
 De O -999
-wijnen B-ASP negative
+wijnen B-ASP Negative
 kunnen O -999
 enkel O -999
 besteld O -999
@@ -13883,7 +13883,7 @@ huiswijn.. O -999
 De O -999
 zaak O -999
 ontbreekt O -999
-sfeer B-ASP negative
+sfeer B-ASP Negative
 , O -999
 wij O -999
 hebben O -999
@@ -13896,7 +13896,7 @@ dit O -999
 etentje. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 wel O -999
 lekker O -999
@@ -13908,7 +13908,7 @@ het O -999
 bord. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 wel O -999
 lekker O -999
@@ -13922,7 +13922,7 @@ bord. O -999
 Maar O -999
 van O -999
 het O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 kon O -999
 er O -999
 ook O -999
@@ -13936,7 +13936,7 @@ keer O -999
 heb O -999
 ik O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 bezocht O -999
 en O -999
 nooit O -999
@@ -13946,7 +13946,7 @@ ontgoocheling O -999
 gehad. O -999
 
 De O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 is O -999
 steeds O -999
 gastvrij O -999
@@ -13960,14 +13960,14 @@ weekend O -999
 genoten O -999
 van O -999
 het O -999
-degustatiemenu B-ASP positive
+degustatiemenu B-ASP Positive
 geënt O -999
 op O -999
 het O -999
 wildseizoen. O -999
 
 De O -999
-amuse B-ASP positive
+amuse B-ASP Positive
 is O -999
 reeds O -999
 verrassend O -999
@@ -13982,12 +13982,12 @@ menu. O -999
 Carpaccio O -999
 van O -999
 everzwijn, O -999
-patrijs B-ASP positive
-met I-ASP positive
-rode I-ASP positive
-biet I-ASP positive
-& I-ASP positive
-boschampignons I-ASP positive
+patrijs B-ASP Positive
+met I-ASP Positive
+rode I-ASP Positive
+biet I-ASP Positive
+& I-ASP Positive
+boschampignons I-ASP Positive
 zijn O -999
 stuk O -999
 voor O -999
@@ -14007,7 +14007,7 @@ prijs O -999
 voor O -999
 een O -999
 voorstreffelijk O -999
-menu B-ASP neutral
+menu B-ASP Neutral
 . O -999
 
 5 O -999
@@ -14022,11 +14022,11 @@ prijs O -999
 voor O -999
 een O -999
 voorstreffelijk O -999
-menu B-ASP positive
+menu B-ASP Positive
 . O -999
 
 Dit O -999
-restaurant B-ASP neutral
+restaurant B-ASP Neutral
 is O -999
 zeker O -999
 niet O -999
@@ -14042,7 +14042,7 @@ ruggesteuntje. O -999
 Wij O -999
 bezoeken O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 regelmatig O -999
 omdat O -999
 je O -999
@@ -14065,7 +14065,7 @@ je O -999
 hier O -999
 de O -999
 beste O -999
-pizza B-ASP positive
+pizza B-ASP Positive
 uit O -999
 de O -999
 streek O -999
@@ -14078,14 +14078,14 @@ van O -999
 de O -999
 gezellige O -999
 familiale O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 . O -999
 
 Er O -999
 is O -999
 een O -999
 uitstekende O -999
-wijnkaart B-ASP positive
+wijnkaart B-ASP Positive
 die O -999
 regelmatig O -999
 vernieuwd O -999
@@ -14094,18 +14094,18 @@ wordt. O -999
 Ook O -999
 het O -999
 gewone O -999
-menu B-ASP positive
+menu B-ASP Positive
 kent O -999
 regelmatig O -999
 afwisseling. O -999
 
 Gewoon O -999
 onbeleefde O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 . O -999
 
 Het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 niet O -999
 slecht, O -999
@@ -14133,7 +14133,7 @@ de O -999
 onbeleefdheid O -999
 van O -999
 de O -999
-gastvrouw B-ASP negative
+gastvrouw B-ASP Negative
 niet O -999
 goed O -999
 maken. O -999
@@ -14154,7 +14154,7 @@ te O -999
 komen, O -999
 daar O -999
 het O -999
-interieur B-ASP negative
+interieur B-ASP Negative
 er O -999
 wat O -999
 rommelig O -999
@@ -14174,11 +14174,11 @@ in O -999
 dit O -999
 sympathieke, O -999
 familiale O -999
-restaurantje B-ASP positive
+restaurantje B-ASP Positive
 . O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 geweldig, O -999
 nooit O -999
@@ -14194,7 +14194,7 @@ de O -999
 Etna. O -999
 
 De O -999
-kok B-ASP positive
+kok B-ASP Positive
 heeft O -999
 prijzen O -999
 gewonnen O -999
@@ -14212,7 +14212,7 @@ op. O -999
 
 Super O -999
 lekkere O -999
-pasta's B-ASP positive
+pasta's B-ASP Positive
 en O -999
 pizza's B-ASP -999
 gegeten! O -999
@@ -14221,11 +14221,11 @@ Super O -999
 lekkere O -999
 pasta's B-ASP -999
 en O -999
-pizza's B-ASP positive
+pizza's B-ASP Positive
 gegeten! O -999
 
 Hartelijke O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 , O -999
 goed O -999
 om O -999
@@ -14235,9 +14235,9 @@ reserveren. O -999
 
 Ook O -999
 de O -999
-formule B-ASP positive
-'pizza I-ASP positive
-party I-ASP positive
+formule B-ASP Positive
+'pizza I-ASP Positive
+party I-ASP Positive
 ' O -999
 is O -999
 een O -999
@@ -14250,14 +14250,14 @@ In O -999
 de O -999
 zomer O -999
 groot O -999
-zonneterras B-ASP neutral
+zonneterras B-ASP Neutral
 . O -999
 
 Ik O -999
 had O -999
 een O -999
-steak B-ASP negative
-saignant I-ASP negative
+steak B-ASP Negative
+saignant I-ASP Negative
 gevraagd O -999
 maar O -999
 deze O -999
@@ -14272,7 +14272,7 @@ de O -999
 rest O -999
 weinig O -999
 creatieve O -999
-keuken B-ASP negative
+keuken B-ASP Negative
 . O -999
 
 Zondag O -999
@@ -14288,7 +14288,7 @@ veel O -999
 klanten O -999
 en O -999
 voldoende O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 dat O -999
 echter O -999
 totaal O -999
@@ -14314,7 +14314,7 @@ te O -999
 trekken O -999
 van O -999
 de O -999
-kelners B-ASP negative
+kelners B-ASP Negative
 , O -999
 die O -999
 voorbij O -999
@@ -14332,7 +14332,7 @@ een O -999
 onbeschofte, O -999
 en O -999
 ongeintersseerde O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 heb O -999
 ik O -999
 nog O -999
@@ -14349,7 +14349,7 @@ voornaamste O -999
 troef O -999
 de O -999
 prachtige O -999
-tuin B-ASP positive
+tuin B-ASP Positive
 waar O -999
 het O -999
 voor O -999
@@ -14384,7 +14384,7 @@ gaan O -999
 eten O -999
 in O -999
 de O -999
-tuin B-ASP negative
+tuin B-ASP Negative
 (dan O -999
 betaal O -999
 je O -999
@@ -14414,13 +14414,13 @@ gestuurd O -999
 buren!). O -999
 
 Het O -999
-ontbijt B-ASP positive
+ontbijt B-ASP Positive
 was O -999
 weeral O -999
 uitstekend! O -999
 
 Prima O -999
-organisatie B-ASP neutral
+organisatie B-ASP Neutral
 , O -999
 veel O -999
 variatie, O -999
@@ -14430,7 +14430,7 @@ wat O -999
 wils. O -999
 
 Vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 gezellig B-ASP -999
 interieur O -999
@@ -14446,7 +14446,7 @@ locatie. O -999
 Vriendelijke O -999
 bediening B-ASP -999
 , O -999
-gezellig B-ASP positive
+gezellig B-ASP Positive
 interieur O -999
 en O -999
 dat O -999
@@ -14468,7 +14468,7 @@ allemaal O -999
 op O -999
 een O -999
 mooie O -999
-groene B-ASP positive
+groene B-ASP Positive
 locatie. O -999
 
 Heel O -999
@@ -14487,7 +14487,7 @@ fietsstopplaats O -999
 waar O -999
 het O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 is, O -999
 maar O -999
 ook O -999
@@ -14509,7 +14509,7 @@ gempemolen O -999
 
 Heel O -999
 gezellig O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 in O -999
 een O -999
 fantastische O -999
@@ -14549,7 +14549,7 @@ restaurant B-ASP -999
 in O -999
 een O -999
 fantastische O -999
-omgeving B-ASP positive
+omgeving B-ASP Positive
 in O -999
 de O -999
 bossen, O -999
@@ -14582,7 +14582,7 @@ gempemolen O -999
 Heel O -999
 lekker, O -999
 vriendelijke O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 , O -999
 super O -999
 goede B-ASP -999
@@ -14601,7 +14601,7 @@ vriendelijke O -999
 ontvangst B-ASP -999
 , O -999
 super O -999
-goede B-ASP positive
+goede B-ASP Positive
 bediening, O -999
 hulpzaam O -999
 en O -999
@@ -14612,7 +14612,7 @@ de O -999
 gerechten! O -999
 
 Mooie O -999
-keuzes B-ASP positive
+keuzes B-ASP Positive
 , O -999
 zeer O -999
 evenwichtig, O -999
@@ -14632,20 +14632,20 @@ zeer O -999
 goed O -999
 opgeleid O -999
 en O -999
-vriendelijk B-ASP positive
+vriendelijk B-ASP Positive
 personeel. O -999
 
 lekkere O -999
 maaltijden B-ASP -999
 en O -999
 uitstekende O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 , O -999
 wel O -999
 prijzig. O -999
 
 lekkere O -999
-maaltijden B-ASP positive
+maaltijden B-ASP Positive
 en O -999
 uitstekende O -999
 wijnen B-ASP -999
@@ -14655,16 +14655,16 @@ prijzig. O -999
 
 Super O -999
 vriendelijke O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 ! O -999
 
 Fantastisch O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 ! O -999
 
 Onvriendelijke O -999
-mensen B-ASP negative
+mensen B-ASP Negative
 -knettergek O -999
 -slechtste O -999
 eten B-ASP -999
@@ -14677,7 +14677,7 @@ Onvriendelijke O -999
 mensen B-ASP -999
 -knettergek O -999
 -slechtste O -999
-eten B-ASP negative
+eten B-ASP Negative
 ooit O -999
 -don't O -999
 go O -999
@@ -14696,9 +14696,9 @@ bij O -999
 "de O -999
 mein" O -999
 het O -999
-soepje B-ASP negative
-van I-ASP negative
-asperge I-ASP negative
+soepje B-ASP Negative
+van I-ASP Negative
+asperge I-ASP Negative
 was O -999
 lekker O -999
 doch O -999
@@ -14721,9 +14721,9 @@ bij O -999
 "de O -999
 mein" O -999
 het O -999
-soepje B-ASP positive
-van I-ASP positive
-asperge I-ASP positive
+soepje B-ASP Positive
+van I-ASP Positive
+asperge I-ASP Positive
 was O -999
 lekker O -999
 doch O -999
@@ -14734,7 +14734,7 @@ bij O -999
 geserveerd. O -999
 
 de O -999
-rundsbrochette B-ASP negative
+rundsbrochette B-ASP Negative
 was O -999
 doorregen O -999
 en O -999
@@ -14752,7 +14752,7 @@ een O -999
 kauwgom. O -999
 
 de O -999
-vis B-ASP negative
+vis B-ASP Negative
 (zalm) O -999
 at O -999
 lekker, O -999
@@ -14789,7 +14789,7 @@ botersaus O -999
 bij O -999
 en O -999
 de O -999
-ober B-ASP negative
+ober B-ASP Negative
 antwoordde: O -999
 "saus O -999
 is O -999
@@ -14797,8 +14797,8 @@ op. O -999
 
 Bij O -999
 de O -999
-derde B-ASP negative
-gang I-ASP negative
+derde B-ASP Negative
+gang I-ASP Negative
 was O -999
 er O -999
 geen O -999
@@ -14817,7 +14817,7 @@ opgegeven O -999
 was. O -999
 
 De O -999
-ober B-ASP negative
+ober B-ASP Negative
 was O -999
 ook O -999
 niet O -999
@@ -14827,9 +14827,9 @@ en O -999
 vrij O -999
 stuurs... O -999
 
-steppegras B-ASP negative
-met I-ASP negative
-soepvlees I-ASP negative
+steppegras B-ASP Negative
+met I-ASP Negative
+soepvlees I-ASP Negative
 gekregen O -999
 die O -999
 eventjes O -999
@@ -14839,7 +14839,7 @@ gestoken O -999
 heeft. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 prima O -999
 maar O -999
@@ -14865,7 +14865,7 @@ zou O -999
 toch O -999
 een O -999
 plezieriger O -999
-ambiance B-ASP neutral
+ambiance B-ASP Neutral
 verkiezen O -999
 op O -999
 een O -999
@@ -14876,8 +14876,8 @@ Correcte O -999
 prijs O -999
 voor O -999
 een O -999
-3-gangen B-ASP positive
-keuzemenu I-ASP positive
+3-gangen B-ASP Positive
+keuzemenu I-ASP Positive
 (telkens O -999
 vis O -999
 of O -999
@@ -14888,7 +14888,7 @@ en O -999
 aperitief. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 echt O -999
 heel O -999
@@ -14910,9 +14910,9 @@ redelijk O -999
 mee, O -999
 maar O -999
 aan O -999
-serranoham B-ASP neutral
-met I-ASP neutral
-stokbrood I-ASP neutral
+serranoham B-ASP Neutral
+met I-ASP Neutral
+stokbrood I-ASP Neutral
 kan O -999
 niet O -999
 veel O -999
@@ -14927,7 +14927,7 @@ op O -999
 alweer O -999
 een O -999
 miniscule O -999
-portie B-ASP negative
+portie B-ASP Negative
 . O -999
 
 Dienster O -999
@@ -14936,7 +14936,7 @@ haar O -999
 best, O -999
 maar O -999
 de O -999
-bazin B-ASP negative
+bazin B-ASP Negative
 (?) O -999
 mag O -999
 best O -999
@@ -14953,7 +14953,7 @@ jammer, O -999
 want O -999
 aan O -999
 de O -999
-kok B-ASP neutral
+kok B-ASP Neutral
 ligt O -999
 het O -999
 niet. O -999
@@ -14971,7 +14971,7 @@ om O -999
 20.55 O -999
 zei O -999
 de O -999
-serveerster B-ASP negative
+serveerster B-ASP Negative
 dat O -999
 de O -999
 keuken O -999
@@ -15001,10 +15001,10 @@ kunnen O -999
 bestellen O -999
 (waarbij O -999
 de O -999
-mevrouw B-ASP negative
-van I-ASP negative
-de I-ASP negative
-bediening I-ASP negative
+mevrouw B-ASP Negative
+van I-ASP Negative
+de I-ASP Negative
+bediening I-ASP Negative
 ook O -999
 nog O -999
 ongeduldig O -999
@@ -15040,7 +15040,7 @@ wat O -999
 lekker O -999
 maar O -999
 de O -999
-bejegening B-ASP negative
+bejegening B-ASP Negative
 afschuwelijk, O -999
 geen O -999
 uitleg O -999
@@ -15088,7 +15088,7 @@ te O -999
 negeren. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 wat O -999
 lekker O -999
 maar O -999
@@ -15143,7 +15143,7 @@ negeren. O -999
 Jammer O -999
 want O -999
 het O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 was O -999
 goed O -999
 te O -999
@@ -15205,7 +15205,7 @@ daar... O -999
 zeer O -999
 vuil, O -999
 slechte O -999
-smaken B-ASP negative
+smaken B-ASP Negative
 , O -999
 verschrikkelijke B-ASP -999
 bediening, B-ASP -999
@@ -15294,7 +15294,7 @@ vuil, O -999
 slechte O -999
 smaken B-ASP -999
 , O -999
-verschrikkelijke B-ASP negative
+verschrikkelijke B-ASP Negative
 bediening, B-ASP -999
 gerechten O -999
 die O -999
@@ -15382,7 +15382,7 @@ slechte O -999
 smaken B-ASP -999
 , O -999
 verschrikkelijke B-ASP -999
-bediening, B-ASP negative
+bediening, B-ASP Negative
 gerechten O -999
 die O -999
 op O -999
@@ -15482,7 +15482,7 @@ andere O -999
 groenten O -999
 geserveerd, O -999
 en O -999
-toch... B-ASP negative
+toch... B-ASP Negative
 personeel O -999
 "zit O -999
 of O -999
@@ -15500,8 +15500,8 @@ plaats.... O -999
 Wij O -999
 namen O -999
 het O -999
-luxe B-ASP positive
-ontbijt I-ASP positive
+luxe B-ASP Positive
+ontbijt I-ASP Positive
 en O -999
 het O -999
 was O -999
@@ -15524,9 +15524,9 @@ en O -999
 lekkere O -999
 koffie, O -999
 de O -999
-thee B-ASP positive
-en I-ASP positive
-chocolademelk I-ASP positive
+thee B-ASP Positive
+en I-ASP Positive
+chocolademelk I-ASP Positive
 zijn O -999
 zeker O -999
 aan O -999
@@ -15535,9 +15535,9 @@ raden. O -999
 
 Heel O -999
 lekkere O -999
-broodjes B-ASP positive
-en I-ASP positive
-koffiekoeken, B-ASP positive
+broodjes B-ASP Positive
+en I-ASP Positive
+koffiekoeken, B-ASP Positive
 voldoende O -999
 brood, O -999
 zeer O -999
@@ -15560,7 +15560,7 @@ raden. O -999
 
 Heel O -999
 lekkere O -999
-broodjes B-ASP positive
+broodjes B-ASP Positive
 en I-ASP -999
 koffiekoeken, B-ASP -999
 voldoende O -999
@@ -15585,7 +15585,7 @@ raden. O -999
 
 Heel O -999
 lekkere O -999
-broodjes B-ASP neutral
+broodjes B-ASP Neutral
 en I-ASP -999
 koffiekoeken, B-ASP -999
 voldoende O -999
@@ -15617,9 +15617,9 @@ voldoende O -999
 brood, O -999
 zeer O -999
 lekkere O -999
-hesp B-ASP positive
-en I-ASP positive
-kaas I-ASP positive
+hesp B-ASP Positive
+en I-ASP Positive
+kaas I-ASP Positive
 en O -999
 lekkere O -999
 koffie, O -999
@@ -15637,7 +15637,7 @@ Heel O -999
 lekkere O -999
 broodjes B-ASP -999
 en I-ASP -999
-koffiekoeken, B-ASP positive
+koffiekoeken, B-ASP Positive
 voldoende O -999
 brood, O -999
 zeer O -999
@@ -15659,7 +15659,7 @@ te O -999
 raden. O -999
 
 De O -999
-eigenares B-ASP positive
+eigenares B-ASP Positive
 is O -999
 super O -999
 vriendelijk O -999
@@ -15682,7 +15682,7 @@ ontbijt O -999
 in O -999
 een O -999
 prachtig O -999
-kader. B-ASP positive
+kader. B-ASP Positive
 
 Wij O -999
 komen O -999
@@ -15690,7 +15690,7 @@ zeker O -999
 terug O -999
 naar O -999
 deze O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 in O -999
 Damme. O -999
 
@@ -15701,15 +15701,15 @@ opent O -999
 springen O -999
 de O -999
 heerlijke O -999
-gebakjes B-ASP positive
+gebakjes B-ASP Positive
 tegemoet. O -999
 
 Wij O -999
 kozen O -999
 voor O -999
 een O -999
-luxe B-ASP positive
-ontbijt I-ASP positive
+luxe B-ASP Positive
+ontbijt I-ASP Positive
 voor O -999
 €10,-pp O -999
 en O -999
@@ -15722,7 +15722,7 @@ dat. O -999
 En O -999
 verder O -999
 een O -999
-keuze B-ASP positive
+keuze B-ASP Positive
 uit O -999
 een O -999
 "koffiebroodje"..oftewel O -999
@@ -15761,13 +15761,13 @@ chocolade) O -999
 of O -999
 ander O -999
 heerlijke O -999
-broodjes. B-ASP positive
+broodjes. B-ASP Positive
 
 Verder O -999
 een O -999
 glas O -999
-jus B-ASP positive
-d'orange I-ASP positive
+jus B-ASP Positive
+d'orange I-ASP Positive
 (niet O -999
 vers O -999
 maar O -999
@@ -15791,7 +15791,7 @@ maar O -999
 toch O -999
 erg O -999
 lekker) O -999
-koffie B-ASP positive
+koffie B-ASP Positive
 zoveel O -999
 als O -999
 je O -999
@@ -15800,7 +15800,7 @@ wilt. O -999
 Een O -999
 vers O -999
 gekookt O -999
-eitje B-ASP neutral
+eitje B-ASP Neutral
 , O -999
 standaard O -999
 perfect O -999
@@ -15813,7 +15813,7 @@ harder. O -999
 
 Super O -999
 vriendelijke O -999
-vrouw B-ASP positive
+vrouw B-ASP Positive
 achter O -999
 de O -999
 balie O -999
@@ -15832,27 +15832,27 @@ Mooie O -999
 zaak B-ASP -999
 en O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 
 Mooie O -999
-zaak B-ASP positive
+zaak B-ASP Positive
 en O -999
 lekker O -999
 eten B-ASP -999
 
 De O -999
-scampies B-ASP positive
-doable I-ASP positive
+scampies B-ASP Positive
+doable I-ASP Positive
 zijn O -999
 er O -999
 super O -999
 
 De O -999
-kaas B-ASP positive
-en I-ASP positive
-de I-ASP positive
-garnaal I-ASP positive
-croketten I-ASP positive
+kaas B-ASP Positive
+en I-ASP Positive
+de I-ASP Positive
+garnaal I-ASP Positive
+croketten I-ASP Positive
 zijn O -999
 zelfs O -999
 beter O -999
@@ -15863,7 +15863,7 @@ meeste O -999
 restaurants O -999
 
 Dit O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 is O -999
 absoluut O -999
 geen O -999
@@ -15890,7 +15890,7 @@ eigenlijk O -999
 ongepast O -999
 vonden O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 te O -999
 verlaten O -999
 hebben O -999
@@ -15904,7 +15904,7 @@ bediening B-ASP -999
 was O -999
 matig, O -999
 de O -999
-eigenaar B-ASP negative
+eigenaar B-ASP Negative
 zat O -999
 na O -999
 het O -999
@@ -15920,7 +15920,7 @@ z'n O -999
 pc. O -999
 
 De O -999
-bediening B-ASP neutral
+bediening B-ASP Neutral
 was O -999
 matig, O -999
 de O -999
@@ -15940,7 +15940,7 @@ z'n O -999
 pc. O -999
 
 Het O -999
-hoofdgerecht B-ASP positive
+hoofdgerecht B-ASP Positive
 was O -999
 wel O -999
 smakelijk. O -999
@@ -15948,7 +15948,7 @@ smakelijk. O -999
 Na O -999
 toch O -999
 een O -999
-nagerecht B-ASP negative
+nagerecht B-ASP Negative
 gekozen O -999
 te O -999
 hebben, O -999
@@ -15966,7 +15966,7 @@ Niet O -999
 alleen O -999
 is O -999
 de O -999
-eigenaar B-ASP negative
+eigenaar B-ASP Negative
 arrogant, O -999
 maar O -999
 hij O -999
@@ -15979,7 +15979,7 @@ uit! O -999
 
 Zowel O -999
 het O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 als O -999
 het O -999
 hotel O -999
@@ -15991,7 +15991,7 @@ de O -999
 pest! O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 is O -999
 matig O -999
 en O -999
@@ -16002,7 +16002,7 @@ niet O -999
 waard. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 is O -999
 matig O -999
 en O -999
@@ -16031,7 +16031,7 @@ verfijnder O -999
 zijn O -999
 en O -999
 de O -999
-entourage B-ASP negative
+entourage B-ASP Negative
 wat O -999
 gezelliger. O -999
 
@@ -16047,7 +16047,7 @@ restaurant O -999
 dan O -999
 mocht O -999
 het O -999
-geheel B-ASP negative
+geheel B-ASP Negative
 wel O -999
 wat O -999
 verfijnder O -999
@@ -16063,7 +16063,7 @@ garnalen B-ASP -999
 waren O -999
 lekker, O -999
 de O -999
-tong B-ASP positive
+tong B-ASP Positive
 was O -999
 goed O -999
 gebakken O -999
@@ -16082,7 +16082,7 @@ beter O -999
 zijn. O -999
 
 De O -999
-garnalen B-ASP positive
+garnalen B-ASP Positive
 waren O -999
 lekker, O -999
 de O -999
@@ -16119,7 +16119,7 @@ die O -999
 prijs O -999
 mocht O -999
 de O -999
-presentatie B-ASP negative
+presentatie B-ASP Negative
 toch O -999
 een O -999
 heel O -999
@@ -16142,7 +16142,7 @@ die O -999
 prijs O -999
 mocht O -999
 de O -999
-presentatie B-ASP negative
+presentatie B-ASP Negative
 toch O -999
 een O -999
 heel O -999
@@ -16162,7 +16162,7 @@ het O -999
 dat O -999
 ook, O -999
 de O -999
-kok B-ASP negative
+kok B-ASP Negative
 (patron) O -999
 zagen O -999
 we O -999
@@ -16195,7 +16195,7 @@ De O -999
 onvriendelijkheid O -999
 van O -999
 de O -999
-dienster B-ASP negative
+dienster B-ASP Negative
 zowel O -999
 bij O -999
 het O -999
@@ -16255,7 +16255,7 @@ en O -999
 gezellig O -999
 en O -999
 de O -999
-gastvrouw B-ASP positive
+gastvrouw B-ASP Positive
 , O -999
 ongelooflijk O -999
 CHARMANT, O -999
@@ -16275,7 +16275,7 @@ gerechtjes B-ASP -999
 zijn O -999
 TOP, O -999
 de O -999
-locatie B-ASP positive
+locatie B-ASP Positive
 is O -999
 SCHITTEREND, O -999
 de O -999
@@ -16306,7 +16306,7 @@ het O -999
 woord! O -999
 
 de O -999
-gerechtjes B-ASP positive
+gerechtjes B-ASP Positive
 zijn O -999
 TOP, O -999
 de O -999
@@ -16349,8 +16349,8 @@ locatie B-ASP -999
 is O -999
 SCHITTEREND, O -999
 de O -999
-aangepaste B-ASP positive
-wijnen I-ASP positive
+aangepaste B-ASP Positive
+wijnen I-ASP Positive
 SUPER, O -999
 het O -999
 interieur B-ASP -999
@@ -16388,7 +16388,7 @@ aangepaste B-ASP -999
 wijnen I-ASP -999
 SUPER, O -999
 het O -999
-interieur B-ASP positive
+interieur B-ASP Positive
 ZEER O -999
 WARM O -999
 en O -999
@@ -16411,7 +16411,7 @@ het O -999
 woord! O -999
 
 Vier O -999
-gangen B-ASP positive
+gangen B-ASP Positive
 , O -999
 voldoende O -999
 grote O -999
@@ -16424,7 +16424,7 @@ de O -999
 smaakpapillen. O -999
 
 Vier O -999
-gangen B-ASP positive
+gangen B-ASP Positive
 , O -999
 voldoende O -999
 grote O -999
@@ -16438,7 +16438,7 @@ smaakpapillen. O -999
 
 De O -999
 geselecteerde O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 was O -999
 SU-PER! O -999
 
@@ -16446,7 +16446,7 @@ De O -999
 vriendelijke O -999
 en O -999
 vlotte O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 en O -999
 tevens O -999
 de O -999
@@ -16461,7 +16461,7 @@ onvergetelijk! O -999
 
 zeer O -999
 lekker O -999
-eten B-ASP positive
+eten B-ASP Positive
 , O -999
 perfecte B-ASP -999
 bediening O -999
@@ -16485,7 +16485,7 @@ zeer O -999
 lekker O -999
 eten B-ASP -999
 , O -999
-perfecte B-ASP positive
+perfecte B-ASP Positive
 bediening O -999
 en O -999
 een O -999
@@ -16511,7 +16511,7 @@ perfecte B-ASP -999
 bediening O -999
 en O -999
 een O -999
-ongedwongen B-ASP positive
+ongedwongen B-ASP Positive
 sfeer, O -999
 de B-ASP -999
 gastvrouw O -999
@@ -16535,7 +16535,7 @@ en O -999
 een O -999
 ongedwongen B-ASP -999
 sfeer, O -999
-de B-ASP positive
+de B-ASP Positive
 gastvrouw O -999
 geeft O -999
 je O -999
@@ -16549,27 +16549,27 @@ terug!! O -999
 
 Sfeer, O -999
 wijn, O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 top! O -999
 
 Sfeer, O -999
-wijn B-ASP positive
+wijn B-ASP Positive
 , O -999
 gerechten O -999
 top! O -999
 
 Mooie O -999
-presentatie B-ASP positive
+presentatie B-ASP Positive
 . O -999
 
 Gezellig O -999
 en O -999
 mooi O -999
-interieur B-ASP positive
+interieur B-ASP Positive
 . O -999
 
 De O -999
-eigenaresse B-ASP positive
+eigenaresse B-ASP Positive
 zorgt O -999
 voor O -999
 een O -999
@@ -16584,7 +16584,7 @@ Een O -999
 plus O -999
 voor O -999
 de O -999
-ligging B-ASP positive
+ligging B-ASP Positive
 , O -999
 want O -999
 je O -999
@@ -16613,7 +16613,7 @@ vlot O -999
 ontvangen O -999
 door O -999
 de O -999
-eigenares B-ASP positive
+eigenares B-ASP Positive
 die O -999
 meteen O -999
 tips O -999
@@ -16628,20 +16628,20 @@ het O -999
 terras. O -999
 
 Het O -999
-maandmenu B-ASP positive
+maandmenu B-ASP Positive
 was O -999
 heel O -999
 fijn. O -999
 
 Mijn O -999
-voorgerecht B-ASP positive
-op I-ASP positive
-basi I-ASP positive
-van I-ASP positive
-tomaat, I-ASP positive
-mozarella I-ASP positive
-en I-ASP positive
-basilicum I-ASP positive
+voorgerecht B-ASP Positive
+op I-ASP Positive
+basi I-ASP Positive
+van I-ASP Positive
+tomaat, I-ASP Positive
+mozarella I-ASP Positive
+en I-ASP Positive
+basilicum I-ASP Positive
 was O -999
 verrassend, O -999
 fris O -999
@@ -16649,7 +16649,7 @@ en O -999
 eigentijds. O -999
 
 De O -999
-carpaccio B-ASP positive
+carpaccio B-ASP Positive
 aan O -999
 de O -999
 overkant O -999
@@ -16671,7 +16671,7 @@ olijfolie O -999
 voorzien. O -999
 
 Het O -999
-brood B-ASP positive
+brood B-ASP Positive
 dat O -999
 erbij O -999
 kwam O -999
@@ -16679,7 +16679,7 @@ was O -999
 top! O -999
 
 De O -999
-hoofdgerechten B-ASP positive
+hoofdgerechten B-ASP Positive
 waren O -999
 opnieuw O -999
 heel O -999
@@ -16688,16 +16688,16 @@ en O -999
 smaakvol. O -999
 
 De O -999
-kabeljauw B-ASP positive
-met I-ASP positive
-pasta I-ASP positive
-en I-ASP positive
-zwarte I-ASP positive
-truffel I-ASP positive
+kabeljauw B-ASP Positive
+met I-ASP Positive
+pasta I-ASP Positive
+en I-ASP Positive
+zwarte I-ASP Positive
+truffel I-ASP Positive
 overheerlijk! O -999
 
 Het O -999
-dessert B-ASP neutral
+dessert B-ASP Neutral
 was O -999
 een O -999
 soortje O -999
@@ -16726,7 +16726,7 @@ zeer O -999
 vriendelijk O -999
 en O -999
 warm O -999
-kader B-ASP positive
+kader B-ASP Positive
 ! O -999
 
 We O -999
@@ -16736,7 +16736,7 @@ verrast O -999
 door O -999
 de O -999
 mooie O -999
-inrichting B-ASP positive
+inrichting B-ASP Positive
 en O -999
 losse O -999
 vriendelijke O -999
@@ -16753,7 +16753,7 @@ inrichting B-ASP -999
 en O -999
 losse O -999
 vriendelijke O -999
-ontvangst. B-ASP positive
+ontvangst. B-ASP Positive
 
 Je O -999
 merkt O -999
@@ -16767,14 +16767,14 @@ maar O -999
 toch O -999
 eenvoudige O -999
 sympatieke O -999
-mensen B-ASP positive
+mensen B-ASP Positive
 aan O -999
 het O -999
 werk O -999
 zijn. O -999
 
 De O -999
-chef B-ASP positive
+chef B-ASP Positive
 tovert O -999
 de O -999
 smaken O -999
@@ -16790,7 +16790,7 @@ glimlach O -999
 bedient. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 verloopt O -999
 er O -999
 zeer O -999
@@ -16799,7 +16799,7 @@ en O -999
 aangenaam. O -999
 
 Alle O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 zijn O -999
 zeer O -999
 lekker O -999
@@ -16813,7 +16813,7 @@ mooie O -999
 creaties O -999
 van O -999
 de O -999
-chef B-ASP positive
+chef B-ASP Positive
 die O -999
 met O -999
 verse O -999
@@ -16829,19 +16829,19 @@ chef B-ASP -999
 die O -999
 met O -999
 verse O -999
-produkten B-ASP positive
+produkten B-ASP Positive
 werkt. O -999
 
 Gewoon O -999
 het O -999
 lekkerste O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 . O -999
 
 Heerlijk O -999
 eten, B-ASP -999
 mooie O -999
-omgeving B-ASP positive
+omgeving B-ASP Positive
 , O -999
 prima B-ASP -999
 bediening O -999
@@ -16854,14 +16854,14 @@ eten, B-ASP -999
 mooie O -999
 omgeving B-ASP -999
 , O -999
-prima B-ASP positive
+prima B-ASP Positive
 bediening O -999
 toch O -999
 één O -999
 minpunt. O -999
 
 Heerlijk O -999
-eten, B-ASP positive
+eten, B-ASP Positive
 mooie O -999
 omgeving B-ASP -999
 , O -999
@@ -16874,7 +16874,7 @@ minpunt. O -999
 Er O -999
 staat O -999
 vermeld O -999
-lunch B-ASP negative
+lunch B-ASP Negative
 altijd O -999
 aan O -999
 €37 O -999
@@ -16893,7 +16893,7 @@ was O -999
 (21 O -999
 juli). O -999
 
-dranken B-ASP negative
+dranken B-ASP Negative
 worden O -999
 geserveerd O -999
 in O -999
@@ -16936,7 +16936,7 @@ meer O -999
 van O -999
 vorige O -999
 gasten) O -999
-eten B-ASP negative
+eten B-ASP Negative
 is O -999
 om O -999
 nog O -999
@@ -16946,7 +16946,7 @@ te O -999
 zwijgen. O -999
 
 smaakt O -999
-allemaal B-ASP negative
+allemaal B-ASP Negative
 alsof O -999
 het O -999
 gewoon O -999
@@ -16960,7 +16960,7 @@ in O -999
 een O -999
 microgolf. O -999
 
-sauzen B-ASP negative
+sauzen B-ASP Negative
 , O -999
 denk O -999
 dat O -999
@@ -16984,14 +16984,14 @@ zwijgen O -999
 over O -999
 de O -999
 hele O -999
-zaak B-ASP negative
+zaak B-ASP Negative
 in O -999
 het O -999
 algemeen. O -999
 
 Na O -999
 3x O -999
-saus B-ASP negative
+saus B-ASP Negative
 vragen O -999
 en O -999
 steeds O -999
@@ -17022,7 +17022,7 @@ ik O -999
 met O -999
 zo O -999
 n O -999
-service B-ASP negative
+service B-ASP Negative
 niet O -999
 geneigd O -999
 was O -999
@@ -17042,7 +17042,7 @@ personeels O -999
 leden O -999
 en O -999
 de O -999
-patron B-ASP negative
+patron B-ASP Negative
 , O -999
 die O -999
 laatste O -999
@@ -17074,7 +17074,7 @@ eten B-ASP -999
 en O -999
 rotslechte O -999
 agressieve O -999
-services B-ASP negative
+services B-ASP Negative
 .. O -999
 
 Dus O -999
@@ -17093,7 +17093,7 @@ blijven O -999
 van O -999
 hun O -999
 slecht O -999
-eten B-ASP negative
+eten B-ASP Negative
 en O -999
 rotslechte O -999
 agressieve O -999
@@ -17118,7 +17118,7 @@ wijn I-ASP -999
 smaakte O -999
 naar O -999
 zeepsop, O -999
-frieten B-ASP negative
+frieten B-ASP Negative
 waren O -999
 slap O -999
 en O -999
@@ -17155,7 +17155,7 @@ slap O -999
 en O -999
 zeer O -999
 vet, O -999
-aardappels B-ASP negative
+aardappels B-ASP Negative
 niet O -999
 gaar, O -999
 glazen B-ASP -999
@@ -17165,7 +17165,7 @@ schoon. O -999
 Kip O -999
 was O -999
 droog, O -999
-vis B-ASP negative
+vis B-ASP Negative
 was O -999
 niet O -999
 lekker O -999
@@ -17220,7 +17220,7 @@ vet, O -999
 aardappels B-ASP -999
 niet O -999
 gaar, O -999
-glazen B-ASP negative
+glazen B-ASP Negative
 niet O -999
 schoon. O -999
 
@@ -17237,8 +17237,8 @@ een O -999
 vies O -999
 luchtje O -999
 aan) O -999
-witte B-ASP negative
-wijn I-ASP negative
+witte B-ASP Negative
+wijn I-ASP Negative
 smaakte O -999
 naar O -999
 zeepsop, O -999
@@ -17262,7 +17262,7 @@ groooote O -999
 boog O -999
 om O -999
 dit O -999
-etablissement B-ASP negative
+etablissement B-ASP Negative
 heen!! O -999
 
 Gereserveerd O -999
@@ -17301,7 +17301,7 @@ wilden O -999
 afrekenen O -999
 door O -999
 de O -999
-uitbaatster B-ASP negative
+uitbaatster B-ASP Negative
 , O -999
 moeilijk O -999
 een O -999
@@ -17428,7 +17428,7 @@ af O -999
 te O -999
 rekenen O -999
 kwam O -999
-de B-ASP negative
+de B-ASP Negative
 kok O -999
 doodgewoonweg O -999
 zeggen O -999
@@ -17575,7 +17575,7 @@ worden O -999
 als O -999
 hij O -999
 een O -999
-peperdure B-ASP negative
+peperdure B-ASP Negative
 rekening O -999
 betaald, O -999
 het O -999
@@ -17661,7 +17661,7 @@ zijn O -999
 mensen O -999
 die O -999
 regelmatig O -999
-gaan B-ASP positive
+gaan B-ASP Positive
 eten O -999
 maar O -999
 dit O -999
@@ -17729,7 +17729,7 @@ niet O -999
 af O -999
 en O -999
 de O -999
-gerechten B-ASP negative
+gerechten B-ASP Negative
 die O -999
 warm O -999
 dienden O -999
@@ -17843,7 +17843,7 @@ waren O -999
 koud, O -999
 een O -999
 peperdure O -999
-rekening B-ASP negative
+rekening B-ASP Negative
 en O -999
 niet O -999
 goed O -999
@@ -17987,7 +17987,7 @@ voor O -999
 mij O -999
 een O -999
 bistro, O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 was O -999
 wel O -999
 vriendelijk O -999
@@ -18024,10 +18024,10 @@ een O -999
 ster O -999
 verdiend, O -999
 de O -999
-bediening B-ASP negative
-van I-ASP negative
-de I-ASP negative
-zaakvoerster I-ASP negative
+bediening B-ASP Negative
+van I-ASP Negative
+de I-ASP Negative
+zaakvoerster I-ASP Negative
 laat O -999
 alles O -999
 te O -999
@@ -18116,13 +18116,13 @@ aanraden O -999
 het O -999
 voorgerecht B-ASP -999
 en O -999
-hoofdgerecht B-ASP positive
+hoofdgerecht B-ASP Positive
 waren O -999
 echt O -999
 plaatjes. O -999
 
 het O -999
-voorgerecht B-ASP positive
+voorgerecht B-ASP Positive
 en O -999
 hoofdgerecht B-ASP -999
 waren O -999
@@ -18132,7 +18132,7 @@ plaatjes. O -999
 het O -999
 dessert B-ASP -999
 en O -999
-mignardises B-ASP positive
+mignardises B-ASP Positive
 bij O -999
 de O -999
 koffie O -999
@@ -18143,7 +18143,7 @@ perfecte O -999
 afsluiter. O -999
 
 het O -999
-dessert B-ASP positive
+dessert B-ASP Positive
 en O -999
 mignardises B-ASP -999
 bij O -999
@@ -18157,21 +18157,21 @@ afsluiter. O -999
 
 de O -999
 ongewone O -999
-wijnen B-ASP neutral
+wijnen B-ASP Neutral
 waren O -999
 werkelijk O -999
 ontdekkingen. O -999
 
 de O -999
 ongewone O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 waren O -999
 werkelijk O -999
 ontdekkingen. O -999
 
 Kortom: O -999
 dit O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 moet O -999
 je O -999
 bezoeken! O -999
@@ -18181,7 +18181,7 @@ is O -999
 een O -999
 leuke, O -999
 originele O -999
-brasserie B-ASP positive
+brasserie B-ASP Positive
 waar O -999
 je O -999
 steeds O -999
@@ -18207,14 +18207,14 @@ bent O -999
 en O -999
 lekkere O -999
 verse O -999
-producten B-ASP positive
+producten B-ASP Positive
 krijgt; O -999
 
 Interieur O -999
 is O -999
 gezellig, O -999
 de O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 heel O -999
 vlot O -999
 en O -999
@@ -18235,7 +18235,7 @@ vlot O -999
 en O -999
 vooral O -999
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 is O -999
 er O -999
 lekker. O -999
@@ -18246,8 +18246,8 @@ en O -999
 als O -999
 je O -999
 graag O -999
-steak B-ASP positive
-tartaar I-ASP positive
+steak B-ASP Positive
+tartaar I-ASP Positive
 eet O -999
 dan O -999
 moet O -999
@@ -18264,7 +18264,7 @@ gebakken O -999
 frietjes O -999
 
 Eerlijke O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 en O -999
 als O -999
 je O -999
@@ -18292,7 +18292,7 @@ zwezerik, O -999
 en O -999
 andere O -999
 prima O -999
-huisspecialiteiten B-ASP positive
+huisspecialiteiten B-ASP Positive
 , O -999
 en O -999
 suggestie, O -999
@@ -18316,7 +18316,7 @@ de O -999
 aangepaste O -999
 borden, O -999
 ookde O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 subliem O -999
 
@@ -18332,7 +18332,7 @@ restaurants O -999
 in O -999
 België, O -999
 originele O -999
-gerechtjes B-ASP positive
+gerechtjes B-ASP Positive
 alsook O -999
 de O -999
 aangepaste O -999
@@ -18346,7 +18346,7 @@ Super O -999
 lekker O -999
 gegeten, O -999
 goede O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 sublieme B-ASP -999
 wijn. O -999
@@ -18357,11 +18357,11 @@ gegeten, O -999
 goede O -999
 bediening B-ASP -999
 , O -999
-sublieme B-ASP positive
+sublieme B-ASP Positive
 wijn. O -999
 
 Het O -999
-dessert B-ASP positive
+dessert B-ASP Positive
 was O -999
 de O -999
 top O -999
@@ -18374,7 +18374,7 @@ boswandeling. O -999
 
 Parking O -999
 en O -999
-omgeving B-ASP negative
+omgeving B-ASP Negative
 niet O -999
 uitnodigend O -999
 maar O -999
@@ -18392,13 +18392,13 @@ maar O -999
 wat O -999
 een O -999
 verrassing O -999
-binnen B-ASP positive
+binnen B-ASP Positive
 
 -Verzorgde O -999
 en O -999
 toch O -999
 familiale O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 oogstrelende B-ASP -999
 variaties O -999
@@ -18421,7 +18421,7 @@ toch O -999
 familiale O -999
 bediening B-ASP -999
 , O -999
-oogstrelende B-ASP positive
+oogstrelende B-ASP Positive
 variaties O -999
 in O -999
 bordjes O -999
@@ -18437,7 +18437,7 @@ culinair O -999
 genot O -999
 
 -de O -999
-chef B-ASP positive
+chef B-ASP Positive
 gefeliciteerd O -999
 met O -999
 zijn O -999
@@ -18452,7 +18452,7 @@ Perfect O -999
 evenwicht O -999
 tussen O -999
 gezellige O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 en O -999
 unieke O -999
 maaltijd. O -999
@@ -18464,11 +18464,11 @@ gezellige O -999
 sfeer O -999
 en O -999
 unieke O -999
-maaltijd B-ASP positive
+maaltijd B-ASP Positive
 . O -999
 
 Elk O -999
-gerechtje B-ASP positive
+gerechtje B-ASP Positive
 was O -999
 een O -999
 streling O -999
@@ -18480,7 +18480,7 @@ het O -999
 oog. O -999
 
 Elk O -999
-gerechtje B-ASP positive
+gerechtje B-ASP Positive
 was O -999
 een O -999
 streling O -999
@@ -18493,7 +18493,7 @@ oog. O -999
 
 De O -999
 bijpassende O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 maakten O -999
 de O -999
 unieke O -999
@@ -18504,7 +18504,7 @@ Je O -999
 voelt O -999
 dat O -999
 de O -999
-chef B-ASP positive
+chef B-ASP Positive
 en O -999
 zijn O -999
 maître O -999
@@ -18529,7 +18529,7 @@ schitterende O -999
 beleving O -999
 in O -999
 jullie O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 . O -999
 
 Een O -999
@@ -18541,7 +18541,7 @@ streek O -999
 met O -999
 een O -999
 top O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 en O -999
 een O -999
 fantastische O -999
@@ -18560,7 +18560,7 @@ keuken B-ASP -999
 en O -999
 een O -999
 fantastische O -999
-bediening! B-ASP positive
+bediening! B-ASP Positive
 
 Zeer O -999
 hoog O -999
@@ -18571,11 +18571,11 @@ super O -999
 vriendelijke O -999
 en O -999
 bekwame O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 ! O -999
 
 Heerlijke O -999
-combinaties B-ASP positive
+combinaties B-ASP Positive
 , O -999
 pure B-ASP -999
 smaken, O -999
@@ -18587,7 +18587,7 @@ genieten! O -999
 Heerlijke O -999
 combinaties B-ASP -999
 , O -999
-pure B-ASP positive
+pure B-ASP Positive
 smaken, O -999
 uitstekende B-ASP -999
 wijnkeuzes, O -999
@@ -18599,7 +18599,7 @@ combinaties B-ASP -999
 , O -999
 pure B-ASP -999
 smaken, O -999
-uitstekende B-ASP positive
+uitstekende B-ASP Positive
 wijnkeuzes, O -999
 kortom O -999
 genieten! O -999
@@ -18608,12 +18608,12 @@ hartelijke O -999
 ontvangst O -999
 door O -999
 de O -999
-zaakvoerster B-ASP positive
+zaakvoerster B-ASP Positive
 . O -999
 
 Gezellig, O -999
 knus O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 , O -999
 zowel O -999
 beneden O -999
@@ -18633,10 +18633,10 @@ We O -999
 konden O -999
 proeven O -999
 van O -999
-lam, B-ASP positive
-kip I-ASP positive
-en I-ASP positive
-scampi's I-ASP positive
+lam, B-ASP Positive
+kip I-ASP Positive
+en I-ASP Positive
+scampi's I-ASP Positive
 op O -999
 verschillende O -999
 manieren O -999
@@ -18644,7 +18644,7 @@ bereid. O -999
 
 Zeer O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 en O -999
 lekkere O -999
 wijnen B-ASP -999
@@ -18660,7 +18660,7 @@ vriendelijke O -999
 bediening B-ASP -999
 en O -999
 lekkere O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 (wij O -999
 kozen O -999
 voor O -999
@@ -18669,7 +18669,7 @@ aangepaste O -999
 wijnen). O -999
 
 Het O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 is O -999
 er O -999
 zeer O -999
@@ -18697,7 +18697,7 @@ verrast O -999
 Biryani O -999
 met O -999
 heerlijke O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 : O -999
 gevarieerd, O -999
 kruidig O -999
@@ -18714,7 +18714,7 @@ eerlijke O -999
 prijs. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 vlot O -999
 en O -999
@@ -18726,11 +18726,11 @@ uitleg. O -999
 
 Erg O -999
 vriendelijke O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 . O -999
 
 Verfijnd O -999
-eten B-ASP positive
+eten B-ASP Positive
 . O -999
 
 perfect O -999
@@ -18750,7 +18750,7 @@ uitzicht O -999
 en O -999
 rustig O -999
 lekker O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 , O -999
 niets O -999
 speciaal O -999
@@ -18780,7 +18780,7 @@ augustus O -999
 in O -999
 deze O -999
 unieke O -999
-locatie B-ASP positive
+locatie B-ASP Positive
 . O -999
 
 Van O -999
@@ -18798,7 +18798,7 @@ uitermate O -999
 spontane O -999
 en O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 naar O -999
 de O -999
 superlekkere O -999
@@ -18835,7 +18835,7 @@ bediening B-ASP -999
 naar O -999
 de O -999
 superlekkere O -999
-maaltijden B-ASP positive
+maaltijden B-ASP Positive
 en O -999
 de O -999
 blije O -999
@@ -18858,7 +18858,7 @@ een O -999
 paar O -999
 keer O -999
 gaan O -999
-eten B-ASP neutral
+eten B-ASP Neutral
 op O -999
 2 O -999
 jaar O -999
@@ -18882,7 +18882,7 @@ is, O -999
 is O -999
 dat O -999
 de O -999
-menu B-ASP negative
+menu B-ASP Negative
 op O -999
 deze O -999
 tijd O -999
@@ -18898,7 +18898,7 @@ spijtig O -999
 vind. O -999
 
 De O -999
-bediening B-ASP neutral
+bediening B-ASP Neutral
 is O -999
 best O -999
 wel O -999
@@ -18917,7 +18917,7 @@ de O -999
 andere. O -999
 
 Het O -999
-uitzicht B-ASP positive
+uitzicht B-ASP Positive
 is O -999
 echt O -999
 wel O -999
@@ -18936,7 +18936,7 @@ Niet O -999
 alleen O -999
 is O -999
 het O -999
-eten B-ASP positive
+eten B-ASP Positive
 overheerlijk, O -999
 maar O -999
 ook O -999
@@ -18956,14 +18956,14 @@ overheerlijk, O -999
 maar O -999
 ook O -999
 hun O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 verdient O -999
 een O -999
 dikke O -999
 pluim! O -999
 
 Het O -999
-restaurant B-ASP positive
+restaurant B-ASP Positive
 is O -999
 gelegen O -999
 aan O -999
@@ -18980,7 +18980,7 @@ maakt. O -999
 slechte O -999
 en O -999
 onvriendelijke O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 , B-ASP -999
 eten O -999
 was O -999
@@ -18991,7 +18991,7 @@ slechte O -999
 en O -999
 onvriendelijke O -999
 bediening B-ASP -999
-, B-ASP negative
+, B-ASP Negative
 eten O -999
 was O -999
 ronduit O -999
@@ -19006,7 +19006,7 @@ eten B-ASP -999
 met O -999
 een O -999
 water O -999
-sangria B-ASP negative
+sangria B-ASP Negative
 , O -999
 dan O -999
 half O -999
@@ -19019,7 +19019,7 @@ uur O -999
 wachten O -999
 op O -999
 je O -999
-eten B-ASP negative
+eten B-ASP Negative
 met O -999
 een O -999
 water O -999
@@ -19032,7 +19032,7 @@ eten O -999
 bekomen. O -999
 
 De O -999
-afrekening B-ASP negative
+afrekening B-ASP Negative
 was O -999
 4,5 O -999
 euro O -999
@@ -19042,7 +19042,7 @@ ons O -999
 nadeel! O -999
 
 Slechtste O -999
-restaurant B-ASP negative
+restaurant B-ASP Negative
 ( O -999
 café) O -999
 waar O -999
@@ -19072,7 +19072,7 @@ betere O -999
 hapjestent O -999
 en O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 was O -999
 ronduit O -999
 vreselijk, O -999
@@ -19107,7 +19107,7 @@ Weer O -999
 naar O -999
 ons O -999
 favo O -999
-tapasbarretje B-ASP positive
+tapasbarretje B-ASP Positive
 in O -999
 Herentals. O -999
 
@@ -19125,7 +19125,7 @@ als O -999
 voorheen O -999
 in O -999
 de O -999
-tapasbar B-ASP negative
+tapasbar B-ASP Negative
 . O -999
 
 De O -999
@@ -19147,9 +19147,9 @@ tapas O -999
 maar O -999
 helaas O -999
 de O -999
-gamba's B-ASP negative
-in I-ASP negative
-look I-ASP negative
+gamba's B-ASP Negative
+in I-ASP Negative
+look I-ASP Negative
 waren O -999
 lauw O -999
 geserveerd O -999
@@ -19208,7 +19208,7 @@ de O -999
 rest O -999
 van O -999
 het O -999
-eten B-ASP negative
+eten B-ASP Negative
 ook O -999
 lauw. O -999
 
@@ -19224,7 +19224,7 @@ en O -999
 bestelde O -999
 2 O -999
 nieuwe O -999
-porties B-ASP positive
+porties B-ASP Positive
 maar O -999
 dan O -999
 heet O -999
@@ -19236,7 +19236,7 @@ lekker. O -999
 
 Maar O -999
 de O -999
-sfeer B-ASP negative
+sfeer B-ASP Negative
 was O -999
 er O -999
 niet O -999
@@ -19256,8 +19256,8 @@ de O -999
 indruk O -999
 dat O -999
 de O -999
-huidige B-ASP neutral
-uitbaters I-ASP neutral
+huidige B-ASP Neutral
+uitbaters I-ASP Neutral
 , O -999
 in O -999
 tegenstelling O -999
@@ -19277,7 +19277,7 @@ gegeten O -999
 in O -999
 de O -999
 romantische O -999
-tuin B-ASP positive
+tuin B-ASP Positive
 bij O -999
 het O -999
 water O -999
@@ -19286,7 +19286,7 @@ de O -999
 vissen. O -999
 
 De O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 is O -999
 altijd O -999
 vriendelijk O -999
@@ -19294,7 +19294,7 @@ en O -999
 snel. O -999
 
 Het O -999
-eten B-ASP negative
+eten B-ASP Negative
 duurt O -999
 een O -999
 beetje O -999
@@ -19316,7 +19316,7 @@ lekker O -999
 vers. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 duurt O -999
 een O -999
 beetje O -999
@@ -19338,9 +19338,9 @@ lekker O -999
 vers. O -999
 
 Kortom O -999
-de B-ASP positive
-wilde I-ASP positive
-vespers I-ASP positive
+de B-ASP Positive
+wilde I-ASP Positive
+vespers I-ASP Positive
 is O -999
 onze O -999
 favoriet O -999
@@ -19351,7 +19351,7 @@ Herentals. O -999
 Mooi O -999
 en O -999
 gezellig O -999
-terras B-ASP positive
+terras B-ASP Positive
 , O -999
 lekker B-ASP -999
 eten, O -999
@@ -19369,7 +19369,7 @@ en O -999
 gezellig O -999
 terras B-ASP -999
 , O -999
-lekker B-ASP positive
+lekker B-ASP Positive
 eten, O -999
 slaatjes, O -999
 pasta's, O -999
@@ -19385,7 +19385,7 @@ en O -999
 gezellig O -999
 terras B-ASP -999
 , O -999
-lekker B-ASP positive
+lekker B-ASP Positive
 eten, O -999
 slaatjes, O -999
 pasta's, O -999
@@ -19399,7 +19399,7 @@ wils. O -999
 en O -999
 zeer O -999
 lekkere O -999
-deserties B-ASP positive
+deserties B-ASP Positive
 . O -999
 
 Ook O -999
@@ -19409,7 +19409,7 @@ het O -999
 wel O -999
 gezellig, O -999
 maar O -999
-buiten B-ASP positive
+buiten B-ASP Positive
 in O -999
 de O -999
 zomer O -999
@@ -19419,7 +19419,7 @@ echt O -999
 super. O -999
 
 Ook O -999
-binnen B-ASP positive
+binnen B-ASP Positive
 is O -999
 het O -999
 wel O -999
@@ -19440,7 +19440,7 @@ Vespers O -999
 heeft O -999
 een O -999
 smaakvol O -999
-interieur B-ASP positive
+interieur B-ASP Positive
 en O -999
 een O -999
 prachtige O -999
@@ -19458,9 +19458,9 @@ interieur O -999
 en O -999
 een O -999
 prachtige O -999
-tuin B-ASP positive
-met I-ASP positive
-vijver I-ASP positive
+tuin B-ASP Positive
+met I-ASP Positive
+vijver I-ASP Positive
 . O -999
 
 of O -999
@@ -19470,7 +19470,7 @@ klassiek O -999
 een O -999
 goede O -999
 snelle O -999
-lunch B-ASP positive
+lunch B-ASP Positive
 kan O -999
 je O -999
 hier O -999
@@ -19478,7 +19478,7 @@ steeds O -999
 terecht. O -999
 
 De O -999
-opstelling B-ASP negative
+opstelling B-ASP Negative
 van O -999
 de O -999
 tafels O -999
@@ -19494,7 +19494,7 @@ en O -999
 blijkbaar O -999
 vind O -999
 het O -999
-personeel B-ASP negative
+personeel B-ASP Negative
 het O -999
 normaal O -999
 dat O -999
@@ -19507,7 +19507,7 @@ voorradig O -999
 is. O -999
 
 De O -999
-tortilla's B-ASP negative
+tortilla's B-ASP Negative
 die O -999
 normaliter O -999
 als O -999
@@ -19519,7 +19519,7 @@ worden O -999
 
 Bier, O -999
 verschillende O -999
-gerechten B-ASP negative
+gerechten B-ASP Negative
 -op. O -999
 
 Bij O -999
@@ -19532,7 +19532,7 @@ culinaire O -999
 hoogstandjes, O -999
 maar O -999
 de O -999
-bediening B-ASP negative
+bediening B-ASP Negative
 mag O -999
 op O -999
 z'n O -999
@@ -19549,7 +19549,7 @@ eten O -999
 op O -999
 een O -999
 schitterend O -999
-terras B-ASP positive
+terras B-ASP Positive
 , O -999
 wat O -999
 kan O -999
@@ -19561,12 +19561,12 @@ Het O -999
 steppegras B-ASP -999
 en O -999
 de O -999
-saus B-ASP positive
+saus B-ASP Positive
 was O -999
 lekker. O -999
 
 Het O -999
-steppegras B-ASP positive
+steppegras B-ASP Positive
 en O -999
 de O -999
 saus B-ASP -999
@@ -19575,7 +19575,7 @@ lekker. O -999
 
 Maar O -999
 de O -999
-steak B-ASP negative
+steak B-ASP Negative
 was O -999
 volledig O -999
 doorbakken O -999
@@ -19587,7 +19587,7 @@ schoenzool. O -999
 Mijn O -999
 vriendin O -999
 haar O -999
-kippenfilet B-ASP positive
+kippenfilet B-ASP Positive
 was O -999
 wel O -999
 goed O -999
@@ -19614,12 +19614,12 @@ omwille O -999
 van O -999
 de O -999
 gezellige O -999
-locatie B-ASP positive
+locatie B-ASP Positive
 
 Jammer O -999
 van O -999
 het O -999
-vlees B-ASP negative
+vlees B-ASP Negative
 en O -999
 het O -999
 lange O -999
@@ -19638,7 +19638,7 @@ locatie B-ASP -999
 
 Een O -999
 fijne O -999
-ontvangst B-ASP positive
+ontvangst B-ASP Positive
 , O -999
 een O -999
 mooie B-ASP -999
@@ -19659,7 +19659,7 @@ fijne O -999
 ontvangst B-ASP -999
 , O -999
 een O -999
-mooie B-ASP positive
+mooie B-ASP Positive
 locatie, O -999
 Het B-ASP -999
 eten O -999
@@ -19679,7 +19679,7 @@ ontvangst B-ASP -999
 een O -999
 mooie B-ASP -999
 locatie, O -999
-Het B-ASP positive
+Het B-ASP Positive
 eten O -999
 was O -999
 zeer O -999
@@ -19706,20 +19706,20 @@ groot, O -999
 rustig O -999
 en O -999
 prachtig O -999
-terras B-ASP positive
+terras B-ASP Positive
 . O -999
 
 Goede O -999
 bediening B-ASP -999
 en O -999
 de O -999
-eigenaars B-ASP positive
+eigenaars B-ASP Positive
 zijn O -999
 super O -999
 vriendelijk. O -999
 
 Goede O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 en O -999
 de O -999
 eigenaars B-ASP -999
@@ -19732,10 +19732,10 @@ kan O -999
 er O -999
 heel O -999
 lekkere O -999
-steppengras B-ASP positive
-fritten I-ASP positive
-met I-ASP positive
-biefstuk I-ASP positive
+steppengras B-ASP Positive
+fritten I-ASP Positive
+met I-ASP Positive
+biefstuk I-ASP Positive
 of O -999
 kip O -999
 eten. O -999
@@ -19750,14 +19750,14 @@ fritten O -999
 met O -999
 biefstuk O -999
 of O -999
-kip B-ASP positive
+kip B-ASP Positive
 eten. O -999
 
 Er O -999
 is O -999
 een O -999
 groot O -999
-terras B-ASP positive
+terras B-ASP Positive
 en O -999
 een O -999
 leuke O -999
@@ -19775,8 +19775,8 @@ terras B-ASP -999
 en O -999
 een O -999
 leuke O -999
-buiten B-ASP positive
-speeltuin I-ASP positive
+buiten B-ASP Positive
+speeltuin I-ASP Positive
 voor O -999
 de O -999
 kids. O -999
@@ -19785,7 +19785,7 @@ Heerlijk O -999
 gegeten O -999
 en O -999
 supervriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 , O -999
 een O -999
 aanrader. O -999
@@ -19806,7 +19806,7 @@ in O -999
 een O -999
 super O -999
 gezellig O -999
-restaurantje B-ASP positive
+restaurantje B-ASP Positive
 . O -999
 
 Het O -999
@@ -19814,12 +19814,12 @@ eten B-ASP -999
 was O -999
 uitstekend O -999
 en O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 super O -999
 lief. O -999
 
 Het O -999
-eten B-ASP positive
+eten B-ASP Positive
 was O -999
 uitstekend O -999
 en O -999
@@ -19836,7 +19836,7 @@ dat O -999
 er O -999
 maar O -999
 1 O -999
-menu B-ASP negative
+menu B-ASP Negative
 voorgesteld O -999
 werd, O -999
 maar O -999
@@ -19852,7 +19852,7 @@ zijn O -999
 blij O -999
 dit O -999
 leuke O -999
-adresje B-ASP positive
+adresje B-ASP Positive
 te O -999
 hebben O -999
 ontdekt O -999
@@ -19866,10 +19866,10 @@ bijna O -999
 rauw O -999
 en O -999
 het O -999
-vlees B-ASP negative
-in I-ASP negative
-het I-ASP negative
-stoofpotje I-ASP negative
+vlees B-ASP Negative
+in I-ASP Negative
+het I-ASP Negative
+stoofpotje I-ASP Negative
 moest O -999
 je O -999
 zoeken. O -999
@@ -19898,7 +19898,7 @@ in O -999
 een O -999
 laf O -999
 smakeloos O -999
-lookroomsausje B-ASP negative
+lookroomsausje B-ASP Negative
 niet O -999
 in O -999
 kruidenboter, O -999
@@ -19934,12 +19934,12 @@ niet O -999
 in O -999
 kruidenboter, O -999
 kant-en-klaar O -999
-liflafje. B-ASP negative
+liflafje. B-ASP Negative
 
 1x O -999
-fetuccine B-ASP negative
-met I-ASP negative
-curry, I-ASP negative
+fetuccine B-ASP Negative
+met I-ASP Negative
+curry, I-ASP Negative
 echt O -999
 slecht O -999
 hebben O -999
@@ -19980,10 +19980,10 @@ ook O -999
 laten O -999
 staan, O -999
 2x O -999
-gegrilde B-ASP negative
-scampi I-ASP negative
-in I-ASP negative
-kruidenboter, I-ASP negative
+gegrilde B-ASP Negative
+scampi I-ASP Negative
+in I-ASP Negative
+kruidenboter, I-ASP Negative
 deze O -999
 werd O -999
 geserveerd O -999
@@ -20003,7 +20003,7 @@ een O -999
 biefstuk B-ASP -999
 met O -999
 peperroom O -999
-saus B-ASP neutral
+saus B-ASP Neutral
 , O -999
 saus O -999
 was O -999
@@ -20014,7 +20014,7 @@ flauw. O -999
 
 Daarnaast O -999
 een O -999
-biefstuk B-ASP negative
+biefstuk B-ASP Negative
 met O -999
 peperroom O -999
 saus B-ASP -999
@@ -20033,7 +20033,7 @@ ook O -999
 smerig, O -999
 geen O -999
 andere O -999
-wijn B-ASP negative
+wijn B-ASP Negative
 te O -999
 bestellen! O -999
 
@@ -20044,12 +20044,12 @@ ook O -999
 smerig, O -999
 geen O -999
 andere O -999
-wijn B-ASP negative
+wijn B-ASP Negative
 te O -999
 bestellen! O -999
 
 De O -999
-serveester B-ASP negative
+serveester B-ASP Negative
 , O -999
 ik O -999
 denk O -999
@@ -20087,7 +20087,7 @@ niet O -999
 gevraagd O -999
 door O -999
 de O -999
-serveerster B-ASP negative
+serveerster B-ASP Negative
 , O -999
 of O -999
 het O -999
@@ -20107,7 +20107,7 @@ leeg. O -999
 Vervolgens O -999
 kwam O -999
 de O -999
-eigenaar B-ASP neutral
+eigenaar B-ASP Neutral
 die O -999
 vroeg O -999
 of O -999
@@ -20138,7 +20138,7 @@ vlierbloesem+mandarine O -999
 napoleon O -999
 -fijne O -999
 verzorgde O -999
-amuses B-ASP positive
+amuses B-ASP Positive
 -professionele O -999
 en O -999
 warmhartige O -999
@@ -20195,7 +20195,7 @@ amuses B-ASP -999
 -professionele O -999
 en O -999
 warmhartige O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 -zowel O -999
 personeel B-ASP -999
 als O -999
@@ -20250,7 +20250,7 @@ en O -999
 warmhartige O -999
 bediening B-ASP -999
 -zowel O -999
-personeel B-ASP positive
+personeel B-ASP Positive
 als O -999
 mevrouw B-ASP -999
 een O -999
@@ -20285,7 +20285,7 @@ gekregen O -999
 
 Fijne O -999
 persoonlijke O -999
-welkom B-ASP positive
+welkom B-ASP Positive
 -heerlijk O -999
 en O -999
 verrassend O -999
@@ -20358,7 +20358,7 @@ bediening B-ASP -999
 -zowel O -999
 personeel B-ASP -999
 als O -999
-mevrouw B-ASP positive
+mevrouw B-ASP Positive
 een O -999
 pluim O -999
 -intense O -999
@@ -20419,7 +20419,7 @@ beleving O -999
 van O -999
 het O -999
 uitgebreide O -999
-menu B-ASP positive
+menu B-ASP Positive
 met O -999
 superlekkere O -999
 smaakcombinaties O -999
@@ -20482,7 +20482,7 @@ voor O -999
 een O -999
 bourgondiër O -999
 -de O -999
-keuken B-ASP positive
+keuken B-ASP Positive
 met O -999
 Peter O -999
 Goosens O -999
@@ -20543,7 +20543,7 @@ een O -999
 echte O -999
 aanrader O -999
 -warme O -999
-sfeer B-ASP positive
+sfeer B-ASP Positive
 -gevraagde O -999
 attentie O -999
 gekregen O -999
@@ -20554,7 +20554,7 @@ welkom B-ASP -999
 -heerlijk O -999
 en O -999
 verrassend O -999
-huisapero B-ASP positive
+huisapero B-ASP Positive
 op O -999
 basis O -999
 van O -999
@@ -20606,13 +20606,13 @@ de O -999
 champagne B-ASP -999
 tot O -999
 de O -999
-koffie B-ASP positive
+koffie B-ASP Positive
 alles O -999
 top. O -999
 
 Van O -999
 de O -999
-champagne B-ASP positive
+champagne B-ASP Positive
 tot O -999
 de O -999
 koffie B-ASP -999
@@ -20621,12 +20621,12 @@ top. O -999
 
 Zeer O -999
 vriendelijke O -999
-bediening B-ASP positive
+bediening B-ASP Positive
 . O -999
 
 Zeer O -999
 goede O -999
-wijnen B-ASP positive
+wijnen B-ASP Positive
 . O -999
 
 In O -999
@@ -20635,7 +20635,7 @@ eerste O -999
 plaats O -999
 de O -999
 creatieve O -999
-gerechten B-ASP positive
+gerechten B-ASP Positive
 en O -999
 steeds O -999
 terugkerend O -999
@@ -20655,5 +20655,5 @@ steeds O -999
 terugkerend O -999
 de O -999
 top O -999
-service. B-ASP positive
+service. B-ASP Positive
 

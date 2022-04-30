@@ -103,3 +103,10 @@ Television & TShirt: https://github.com/rajdeep345/ABSA-Reproducibility
 Yelp: [WeiLi9811@GitHub](https://github.com/WeiLi9811)
 
 SemEval2016Task5: [YaxinCui@GitHub](https://github.com/YaxinCui/ABSADataset)
+- Arabic Hotel Reviews
+- Dutch Restaurant Reviews
+- English Restaurant Reviews
+- French Restaurant Reviews
+- Russian Restaurant Reviews
+- Spanish Restaurant Reviews
+- Turkish Restaurant Reviews

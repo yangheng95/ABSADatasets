@@ -1,34 +1,50 @@
 very O -999
-good, O -999
+good O -999
+, O -999
 cast B-ASP Positive
 screen I-ASP Positive
 working O -999
-properly,best O -999
-sound, O -999
-picture O -999
-quality. O -999
+properly O -999
+, O -999
+best O -999
+sound B-ASP -999
+, O -999
+picture B-ASP -999
+quality I-ASP -999
+. O -999
 
 very O -999
-good,cast O -999
-screen O -999
+good O -999
+, O -999
+cast B-ASP -999
+screen I-ASP -999
 working O -999
-properly,best O -999
+properly O -999
+, O -999
+best O -999
 sound B-ASP Positive
 , O -999
-picture O -999
-quality. O -999
+picture B-ASP -999
+quality I-ASP -999
+. O -999
 
 very O -999
-good,cast O -999
-screen O -999
+good O -999
+, O -999
+cast B-ASP -999
+screen I-ASP -999
 working O -999
-properly,best O -999
-sound, O -999
+properly O -999
+, O -999
+best O -999
+sound B-ASP -999
+, O -999
 picture B-ASP Positive
 quality I-ASP Positive
 . O -999
 
-cons: O -999
+cons O -999
+: O -999
 - O -999
 casting B-ASP Negative
 from I-ASP Negative
@@ -39,7 +55,8 @@ and O -999
 seems O -999
 a O -999
 little O -999
-unreliable. O -999
+unreliable O -999
+. O -999
 
 good O -999
 product O -999
@@ -48,7 +65,8 @@ video B-ASP Positive
 and O -999
 audio O -999
 quality O -999
-fantastic. O -999
+fantastic O -999
+. O -999
 
 good O -999
 product O -999
@@ -57,19 +75,22 @@ video O -999
 and O -999
 audio B-ASP Positive
 quality I-ASP Positive
-fantastic. O -999
+fantastic O -999
+. O -999
 
 sound B-ASP Positive
 as O -999
 well O -999
 is O -999
-good, O -999
+good O -999
+, O -999
 well O -999
 mostly O -999
 dependent O -999
 on O -999
 the O -999
-source. O -999
+source O -999
+. O -999
 
 picture B-ASP Negative
 quality I-ASP Negative
@@ -95,25 +116,29 @@ good O -999
 
 very O -999
 nice O -999
-product, O -999
+product O -999
+, O -999
 picture B-ASP Positive
-n B-ASP -999
-sound I-ASP -999
-quality O -999
+n O -999
+sound B-ASP -999
+quality I-ASP -999
 is O -999
 so O -999
-good. O -999
+good O -999
+. O -999
 
 very O -999
 nice O -999
-product, O -999
+product O -999
+, O -999
 picture B-ASP -999
-n B-ASP Positive
-sound I-ASP Positive
-quality O -999
+n O -999
+sound B-ASP Positive
+quality I-ASP Positive
 is O -999
 so O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -121,7 +146,8 @@ is O -999
 good O -999
 sound B-ASP -999
 is O -999
-okay. O -999
+okay O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -129,7 +155,8 @@ is O -999
 good O -999
 sound B-ASP Negative
 is O -999
-okay. O -999
+okay O -999
+. O -999
 
 - O -999
 sound B-ASP Negative
@@ -139,7 +166,8 @@ low O -999
 out O -999
 of O -999
 the O -999
-box, O -999
+box O -999
+, O -999
 but O -999
 turning O -999
 off O -999
@@ -160,7 +188,8 @@ and O -999
 much O -999
 better O -999
 in O -999
-short, O -999
+short O -999
+, O -999
 this O -999
 is O -999
 a O -999
@@ -190,7 +219,8 @@ for O -999
 a O -999
 very O -999
 long O -999
-time. O -999
+time O -999
+. O -999
 
 - O -999
 sound B-ASP -999
@@ -200,7 +230,8 @@ low O -999
 out O -999
 of O -999
 the O -999
-box, O -999
+box O -999
+, O -999
 but O -999
 turning O -999
 off O -999
@@ -221,7 +252,8 @@ and O -999
 much O -999
 better O -999
 in O -999
-short, O -999
+short O -999
+, O -999
 this O -999
 is O -999
 a O -999
@@ -251,7 +283,8 @@ for O -999
 a O -999
 very O -999
 long O -999
-time. O -999
+time O -999
+. O -999
 
 did O -999
 anyone O -999
@@ -286,11 +319,13 @@ day O -999
 sale O -999
 
 awesome O -999
-tv, O -999
+tv O -999
+, O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-superb. O -999
+superb O -999
+. O -999
 
 first O -999
 of O -999
@@ -304,7 +339,8 @@ expected O -999
 date O -999
 which O -999
 is O -999
-commendable. O -999
+commendable O -999
+. O -999
 
 first O -999
 of O -999
@@ -318,7 +354,8 @@ expected O -999
 date O -999
 which O -999
 is O -999
-commendable. O -999
+commendable O -999
+. O -999
 
 amazing O -999
 picture B-ASP Positive
@@ -330,7 +367,8 @@ price O -999
 range O -999
 i O -999
 strongly O -999
-recommend. O -999
+recommend O -999
+. O -999
 
 amazing O -999
 picture B-ASP -999
@@ -342,7 +380,8 @@ price O -999
 range O -999
 i O -999
 strongly O -999
-recommend. O -999
+recommend O -999
+. O -999
 
 installation B-ASP Negative
 and O -999
@@ -354,14 +393,16 @@ no O -999
 sign O -999
 of O -999
 them O -999
-yet, O -999
+yet O -999
+, O -999
 keeps O -999
 on O -999
 rescheduling O -999
 from O -999
 past O -999
 3 O -999
-days. O -999
+days O -999
+. O -999
 
 installation B-ASP -999
 and O -999
@@ -373,14 +414,16 @@ no O -999
 sign O -999
 of O -999
 them O -999
-yet, O -999
+yet O -999
+, O -999
 keeps O -999
 on O -999
 rescheduling O -999
 from O -999
 past O -999
 3 O -999
-days. O -999
+days O -999
+. O -999
 
 splly O -999
 the O -999
@@ -393,7 +436,8 @@ external O -999
 bar O -999
 is O -999
 simply O -999
-superb. O -999
+superb O -999
+. O -999
 
 splly O -999
 the O -999
@@ -406,14 +450,16 @@ external I-ASP Positive
 bar I-ASP Positive
 is O -999
 simply O -999
-superb. O -999
+superb O -999
+. O -999
 
 nice O -999
 tv O -999
 for O -999
 best O -999
 price B-ASP Positive
-,. O -999
+, O -999
+. O -999
 
 apart O -999
 from O -999
@@ -430,7 +476,9 @@ such O -999
 a O -999
 great O -999
 price B-ASP Positive
-!!. O -999
+! O -999
+! O -999
+. O -999
 
 very O -999
 good O -999
@@ -452,7 +500,8 @@ awesome O -999
 product O -999
 provide O -999
 Flipkart O -999
-unbelievable. O -999
+unbelievable O -999
+. O -999
 
 very O -999
 good O -999
@@ -474,7 +523,8 @@ awesome O -999
 product O -999
 provide O -999
 Flipkart O -999
-unbelievable. O -999
+unbelievable O -999
+. O -999
 
 very O -999
 good O -999
@@ -496,7 +546,8 @@ awesome O -999
 product O -999
 provide O -999
 Flipkart O -999
-unbelievable. O -999
+unbelievable O -999
+. O -999
 
 very O -999
 good O -999
@@ -518,7 +569,8 @@ awesome O -999
 product O -999
 provide O -999
 Flipkart O -999
-unbelievable. O -999
+unbelievable O -999
+. O -999
 
 picture B-ASP Positive
 and O -999
@@ -543,7 +595,8 @@ was O -999
 done O -999
 on O -999
 same O -999
-day. O -999
+day O -999
+. O -999
 
 picture B-ASP -999
 and O -999
@@ -568,7 +621,8 @@ was O -999
 done O -999
 on O -999
 same O -999
-day. O -999
+day O -999
+. O -999
 
 mi O -999
 bluetooth B-ASP Positive
@@ -578,7 +632,8 @@ also O -999
 good O -999
 with O -999
 minimal O -999
-buttons. O -999
+buttons O -999
+. O -999
 
 tech O -999
 technology O -999
@@ -598,7 +653,8 @@ remote I-ASP Negative
 is O -999
 not O -999
 working O -999
-properly. O -999
+properly O -999
+. O -999
 
 wonderful O -999
 product O -999
@@ -606,20 +662,22 @@ with O -999
 nice O -999
 android B-ASP Positive
 feature I-ASP Positive
-, B-ASP -999
-picture I-ASP -999
-quality O -999
+, O -999
+picture B-ASP -999
+quality I-ASP -999
 is O -999
 way O -999
 better O -999
 than O -999
 samsung O -999
 and O -999
-sony, O -999
+sony O -999
+, O -999
 really O -999
 value O -999
 of O -999
-money. O -999
+money O -999
+. O -999
 
 wonderful O -999
 product O -999
@@ -627,20 +685,22 @@ with O -999
 nice O -999
 android B-ASP -999
 feature I-ASP -999
-, B-ASP Positive
-picture I-ASP Positive
-quality O -999
+, O -999
+picture B-ASP Positive
+quality I-ASP Positive
 is O -999
 way O -999
 better O -999
 than O -999
 samsung O -999
 and O -999
-sony, O -999
+sony O -999
+, O -999
 really O -999
 value O -999
 of O -999
-money. O -999
+money O -999
+. O -999
 
 sound B-ASP Positive
 quality I-ASP Positive
@@ -649,7 +709,8 @@ picture B-ASP -999
 quality I-ASP -999
 looks O -999
 good O -999
-too. O -999
+too O -999
+. O -999
 
 sound B-ASP -999
 quality I-ASP -999
@@ -658,21 +719,24 @@ picture B-ASP Positive
 quality I-ASP Positive
 looks O -999
 good O -999
-too. O -999
+too O -999
+. O -999
 
 worth O -999
 it O -999
 for O -999
 this O -999
 price O -999
-range, O -999
+range O -999
+, O -999
 sound B-ASP Negative
 quality I-ASP Negative
 need O -999
 to O -999
 improve O -999
 little O -999
-bit, O -999
+bit O -999
+, O -999
 over O -999
 all O -999
 good O -999
@@ -683,7 +747,8 @@ looking O -999
 for O -999
 budget O -999
 friendly O -999
-tv. O -999
+tv O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -700,7 +765,8 @@ is O -999
 also O -999
 of O -999
 good O -999
-quality. O -999
+quality O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -717,7 +783,8 @@ is O -999
 also O -999
 of O -999
 good O -999
-quality. O -999
+quality O -999
+. O -999
 
 thank O -999
 u O -999
@@ -733,13 +800,16 @@ price B-ASP Positive
 picture B-ASP -999
 clarity I-ASP -999
 - O -999
-4k( O -999
+4k O -999
+( O -999
 youtube O -999
 & O -999
 other O -999
-sources) O -999
+sources O -999
+) O -999
 - O -999
-awestruck, O -999
+awestruck O -999
+, O -999
 hds B-ASP Positive
 in O -999
 prime O -999
@@ -763,13 +833,16 @@ visions O -999
 picture B-ASP Positive
 clarity I-ASP Positive
 - O -999
-4k( O -999
+4k O -999
+( O -999
 youtube O -999
 & O -999
 other O -999
-sources) O -999
+sources O -999
+) O -999
 - O -999
-awestruck, O -999
+awestruck O -999
+, O -999
 hds B-ASP -999
 in O -999
 prime O -999
@@ -867,7 +940,8 @@ done O -999
 by O -999
 Flipkart O -999
 was O -999
-pathetic. O -999
+pathetic O -999
+. O -999
 
 i O -999
 got O -999
@@ -883,9 +957,11 @@ went O -999
 bad O -999
 in O -999
 two O -999
-days, O -999
+days O -999
+, O -999
 display B-ASP Negative
-issue. O -999
+issue O -999
+. O -999
 
 good O -999
 product O -999
@@ -897,7 +973,8 @@ Flipkart O -999
 delivered O -999
 as O -999
 per O -999
-commitment. O -999
+commitment O -999
+. O -999
 
 the O -999
 screen B-ASP Positive
@@ -910,7 +987,8 @@ ips B-ASP -999
 panel I-ASP -999
 looks O -999
 very O -999
-strong. O -999
+strong O -999
+. O -999
 
 the O -999
 screen B-ASP -999
@@ -923,29 +1001,51 @@ ips B-ASP Positive
 panel I-ASP Positive
 looks O -999
 very O -999
-strong. O -999
+strong O -999
+. O -999
 
 smart O -999
-technology_4.5/5 O -999
+technology O -999
+_ O -999
+4 O -999
+. O -999
+5 O -999
+/ O -999
+5 O -999
 processor B-ASP Positive
 speed I-ASP Positive
-_4.8/5 O -999
+_ O -999
+4 O -999
+. O -999
+8 O -999
+/ O -999
+5 O -999
 totally O -999
 tv O -999
 was O -999
-awesome_4.9/5 O -999
+awesome O -999
+_ O -999
+4 O -999
+. O -999
+9 O -999
+/ O -999
+5 O -999
 good O -999
-product. O -999
+product O -999
+. O -999
 
 sound B-ASP Negative
 output I-ASP Negative
 is O -999
 also O -999
-less,above O -999
+less O -999
+, O -999
+above O -999
 50 O -999
 it O -999
 becomes O -999
-audible. O -999
+audible O -999
+. O -999
 
 i O -999
 really O -999
@@ -960,14 +1060,16 @@ video I-ASP Positive
 Flipkart O -999
 sent O -999
 a O -999
-technician, O -999
+technician O -999
+, O -999
 who O -999
 confirmed O -999
 this O -999
 was O -999
 a O -999
 panel B-ASP Positive
-problem. O -999
+problem O -999
+. O -999
 
 nice O -999
 tv O -999
@@ -980,7 +1082,8 @@ many O -999
 days O -999
 it O -999
 will O -999
-work. O -999
+work O -999
+. O -999
 
 tv O -999
 stop O -999
@@ -990,22 +1093,26 @@ next O -999
 day O -999
 from O -999
 the O -999
-installation, O -999
+installation O -999
+, O -999
 blank O -999
 screen O -999
 coming O -999
 on O -999
-tv, O -999
+tv O -999
+, O -999
 remote B-ASP Negative
 is O -999
 not O -999
-working, O -999
+working O -999
+, O -999
 panel B-ASP -999
 looking O -999
 like O -999
 fix O -999
 by O -999
-tape. O -999
+tape O -999
+. O -999
 
 tv O -999
 stop O -999
@@ -1015,22 +1122,26 @@ next O -999
 day O -999
 from O -999
 the O -999
-installation, O -999
+installation O -999
+, O -999
 blank O -999
 screen O -999
 coming O -999
 on O -999
-tv, O -999
+tv O -999
+, O -999
 remote B-ASP -999
 is O -999
 not O -999
-working, O -999
+working O -999
+, O -999
 panel B-ASP Negative
 looking O -999
 like O -999
 fix O -999
 by O -999
-tape. O -999
+tape O -999
+. O -999
 
 he O -999
 reported O -999
@@ -1038,19 +1149,23 @@ that O -999
 remote B-ASP Neutral
 may O -999
 be O -999
-replaced. O -999
+replaced O -999
+. O -999
 
 colour B-ASP Negative
 contrast I-ASP Negative
 is O -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 sound B-ASP Neutral
 average O -999
-,value O -999
+, O -999
+value O -999
 for O -999
-money. O -999
+money O -999
+. O -999
 
 very O -999
 unhappy O -999
@@ -1062,7 +1177,8 @@ and O -999
 poor O -999
 response O -999
 from O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 its O -999
 been O -999
@@ -1075,9 +1191,9 @@ no O -999
 installation B-ASP Negative
 , O -999
 called O -999
-the B-ASP -999
-customer I-ASP -999
-service O -999
+the O -999
+customer B-ASP -999
+service I-ASP -999
 and O -999
 the O -999
 asked O -999
@@ -1085,11 +1201,13 @@ for O -999
 another O -999
 48 O -999
 for O -999
-resolution, O -999
+resolution O -999
+, O -999
 very O -999
 poor O -999
 customer O -999
-service. O -999
+service O -999
+. O -999
 
 its O -999
 been O -999
@@ -1102,9 +1220,9 @@ no O -999
 installation B-ASP -999
 , O -999
 called O -999
-the B-ASP Negative
-customer I-ASP Negative
-service O -999
+the O -999
+customer B-ASP Negative
+service I-ASP Negative
 and O -999
 the O -999
 asked O -999
@@ -1112,16 +1230,19 @@ for O -999
 another O -999
 48 O -999
 for O -999
-resolution, O -999
+resolution O -999
+, O -999
 very O -999
 poor O -999
 customer O -999
-service. O -999
+service O -999
+. O -999
 
 demonstration B-ASP Negative
 was O -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 worth O -999
 for O -999
@@ -1156,7 +1277,8 @@ drawback O -999
 is O -999
 not O -999
 having O -999
-appstore, O -999
+appstore O -999
+, O -999
 and O -999
 remote B-ASP -999
 is O -999
@@ -1172,7 +1294,8 @@ drawback O -999
 is O -999
 not O -999
 having O -999
-appstore, O -999
+appstore O -999
+, O -999
 and O -999
 remote B-ASP Neutral
 is O -999
@@ -1188,7 +1311,8 @@ the O -999
 first O -999
 tv O -999
 i O -999
-received, O -999
+received O -999
+, O -999
 had O -999
 a O -999
 few O -999
@@ -1217,7 +1341,8 @@ settings O -999
 done O -999
 in O -999
 optimum O -999
-way. O -999
+way O -999
+. O -999
 
 sound B-ASP Positive
 quality I-ASP Positive
@@ -1232,22 +1357,27 @@ no O -999
 need O -999
 of O -999
 external O -999
-soeakers. O -999
+soeakers O -999
+. O -999
 
 also O -999
 the O -999
 sound B-ASP Positive
 quality I-ASP Positive
 is O -999
-decent. O -999
+decent O -999
+. O -999
 
 video O -999
 quality O -999
-average, O -999
+average O -999
+, O -999
 sound B-ASP Positive
-good, O -999
+good O -999
+, O -999
 performance O -999
-average. O -999
+average O -999
+. O -999
 
 best O -999
 tv O -999
@@ -1282,12 +1412,14 @@ but O -999
 bushes O -999
 i O -999
 not O -999
-received. O -999
+received O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-good, O -999
+good O -999
+, O -999
 but O -999
 the O -999
 sound B-ASP -999
@@ -1298,19 +1430,22 @@ for O -999
 a O -999
 spacious O -999
 living O -999
-room, O -999
+room O -999
+, O -999
 i O -999
 am O -999
 satisfied O -999
 with O -999
 my O -999
 buy O -999
-though. O -999
+though O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 but O -999
 the O -999
 sound B-ASP Negative
@@ -1321,14 +1456,16 @@ for O -999
 a O -999
 spacious O -999
 living O -999
-room, O -999
+room O -999
+, O -999
 i O -999
 am O -999
 satisfied O -999
 with O -999
 my O -999
 buy O -999
-though. O -999
+though O -999
+. O -999
 
 and O -999
 i O -999
@@ -1353,7 +1490,9 @@ the O -999
 audio B-ASP Negative
 out I-ASP Negative
 from O -999
-3.5 O -999
+3 O -999
+. O -999
+5 O -999
 mm O -999
 jack O -999
 is O -999
@@ -1374,7 +1513,8 @@ product O -999
 under O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 and O -999
 i O -999
@@ -1399,7 +1539,9 @@ the O -999
 audio B-ASP -999
 out I-ASP -999
 from O -999
-3.5 O -999
+3 O -999
+. O -999
+5 O -999
 mm O -999
 jack O -999
 is O -999
@@ -1420,24 +1562,29 @@ product O -999
 under O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 the O -999
 product O -999
 was O -999
 delivered B-ASP Positive
 on O -999
-time. O -999
+time O -999
+. O -999
 
 its O -999
-good, O -999
+good O -999
+, O -999
 but O -999
 without O -999
 remote B-ASP Negative
 we O -999
 cant O -999
 start O -999
-tv,, O -999
+tv O -999
+, O -999
+, O -999
 and O -999
 remote O -999
 is O -999
@@ -1448,16 +1595,20 @@ its O -999
 costs O -999
 more O -999
 than O -999
-1500. O -999
+1500 O -999
+. O -999
 
-it's O -999
+it O -999
+' O -999
+s O -999
 thin O -999
 bezel B-ASP Positive
 gives O -999
 it O -999
 a O -999
 premium O -999
-look. O -999
+look O -999
+. O -999
 
 better O -999
 price B-ASP Positive
@@ -1465,7 +1616,8 @@ and O -999
 great O -999
 service B-ASP -999
 by O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 better O -999
 price B-ASP -999
@@ -1473,18 +1625,23 @@ and O -999
 great O -999
 service B-ASP Positive
 by O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 although O -999
 aoc O -999
 calls O -999
 it O -999
 a O -999
-'razor O -999
-tv' O -999
+' O -999
+razor O -999
+tv O -999
+' O -999
 with O -999
 an O -999
-ultra-thin O -999
+ultra O -999
+- O -999
+thin O -999
 bezel B-ASP Positive
 , O -999
 the O -999
@@ -1492,14 +1649,16 @@ promotional O -999
 images O -999
 are O -999
 slightly O -999
-misleading. O -999
+misleading O -999
+. O -999
 
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
 in O -999
 low O -999
-price. O -999
+price O -999
+. O -999
 
 good O -999
 picture O -999
@@ -1802,7 +1961,8 @@ original O -999
 product O -999
 4k O -999
 is O -999
-good. O -999
+good O -999
+. O -999
 
 wow O -999
 wonderful O -999
@@ -1819,7 +1979,8 @@ original O -999
 product O -999
 4k O -999
 is O -999
-good. O -999
+good O -999
+. O -999
 
 sound B-ASP Positive
 is O -999
@@ -1839,7 +2000,8 @@ screen B-ASP Negative
 mirroring I-ASP Negative
 ran O -999
 with O -999
-lag. O -999
+lag O -999
+. O -999
 
 i O -999
 am O -999
@@ -1859,7 +2021,8 @@ sounds B-ASP Positive
 quality I-ASP Positive
 . O -999
 
-Flipkart: O -999
+Flipkart O -999
+: O -999
 super O -999
 fast O -999
 delivery B-ASP Positive
@@ -1873,19 +2036,26 @@ not O -999
 up O -999
 to O -999
 the O -999
-mark,but O -999
+mark O -999
+, O -999
+but O -999
 fine O -999
 as O -999
 you O -999
 can O -999
 add O -999
 another O -999
-2.1 O -999
+2 O -999
+. O -999
+1 O -999
 or O -999
-4.1 O -999
+4 O -999
+. O -999
+1 O -999
 speaker O -999
 to O -999
-it. O -999
+it O -999
+. O -999
 
 quality B-ASP Negative
 of I-ASP Negative
@@ -1902,8 +2072,11 @@ than O -999
 that O -999
 of O -999
 basic O -999
-100/- O -999
-speaker. O -999
+100 O -999
+/ O -999
+- O -999
+speaker O -999
+. O -999
 
 quality B-ASP -999
 of I-ASP -999
@@ -1920,8 +2093,11 @@ than O -999
 that O -999
 of O -999
 basic O -999
-100/- O -999
-speaker. O -999
+100 O -999
+/ O -999
+- O -999
+speaker O -999
+. O -999
 
 however O -999
 chinese O -999
@@ -1935,17 +2111,23 @@ or O -999
 two O -999
 about O -999
 indian O -999
-audiences, O -999
+audiences O -999
+, O -999
 that O -999
-is, O -999
-"baby O -999
+is O -999
+, O -999
+" O -999
+baby O -999
 ko O -999
 bass B-ASP Neutral
 pasand O -999
-hai". O -999
+hai O -999
+" O -999
+. O -999
 
 good O -999
-quality, O -999
+quality O -999
+, O -999
 light O -999
 weight O -999
 design B-ASP Positive
@@ -1959,21 +2141,24 @@ port O -999
 but O -999
 still O -999
 worth O -999
-it. O -999
+it O -999
+. O -999
 
 sound B-ASP Positive
 and O -999
 picture O -999
 quality O -999
 was O -999
-superb. O -999
+superb O -999
+. O -999
 
 sound O -999
 and O -999
 picture B-ASP Positive
 quality I-ASP Positive
 was O -999
-superb. O -999
+superb O -999
+. O -999
 
 cons O -999
 ui B-ASP Negative
@@ -1993,7 +2178,8 @@ tv O -999
 which O -999
 is O -999
 almost O -999
-40% O -999
+40 O -999
+% O -999
 of O -999
 the O -999
 cost O -999
@@ -2005,11 +2191,13 @@ little O -999
 low O -999
 for O -999
 my O -999
-liking. O -999
+liking O -999
+. O -999
 
 its O -999
 worth O -999
-it, O -999
+it O -999
+, O -999
 sound B-ASP Positive
 and O -999
 picture O -999
@@ -2018,7 +2206,8 @@ awesome O -999
 
 its O -999
 worth O -999
-it, O -999
+it O -999
+, O -999
 sound O -999
 and O -999
 picture B-ASP Positive
@@ -2027,7 +2216,8 @@ awesome O -999
 
 overall O -999
 good O -999
-quality. O -999
+quality O -999
+. O -999
 need O -999
 to O -999
 know O -999
@@ -2039,13 +2229,15 @@ customer B-ASP Positive
 support I-ASP Positive
 was O -999
 also O -999
-perfect. O -999
+perfect O -999
+. O -999
 
 product B-ASP Positive
 quality I-ASP Positive
 is O -999
 quite O -999
-good. O -999
+good O -999
+. O -999
 
 the O -999
 sound B-ASP Positive
@@ -2054,7 +2246,8 @@ fabulous O -999
 and O -999
 clarity B-ASP -999
 is O -999
-classic. O -999
+classic O -999
+. O -999
 
 the O -999
 sound B-ASP -999
@@ -2063,7 +2256,8 @@ fabulous O -999
 and O -999
 clarity B-ASP Positive
 is O -999
-classic. O -999
+classic O -999
+. O -999
 
 superb O -999
 in O -999
@@ -2072,7 +2266,8 @@ and O -999
 demo B-ASP -999
 within O -999
 stipulated O -999
-time. O -999
+time O -999
+. O -999
 
 superb O -999
 in O -999
@@ -2081,7 +2276,8 @@ and O -999
 demo B-ASP Neutral
 within O -999
 stipulated O -999
-time. O -999
+time O -999
+. O -999
 
 i O -999
 am O -999
@@ -2104,7 +2300,8 @@ value O -999
 awesome O -999
 display B-ASP Positive
 n O -999
-sound. B-ASP -999
+sound B-ASP -999
+. O -999
 
 this O -999
 tv O -999
@@ -2118,7 +2315,8 @@ value O -999
 awesome O -999
 display B-ASP -999
 n O -999
-sound. B-ASP Positive
+sound B-ASP Positive
+. O -999
 
 i O -999
 ordered O -999
@@ -2130,7 +2328,8 @@ delivered B-ASP Positive
 before O -999
 promised O -999
 delivery O -999
-date. O -999
+date O -999
+. O -999
 
 very O -999
 good O -999
@@ -2141,7 +2340,8 @@ and O -999
 sound O -999
 best O -999
 paise O -999
-vasul. O -999
+vasul O -999
+. O -999
 
 very O -999
 good O -999
@@ -2152,7 +2352,8 @@ and O -999
 sound B-ASP Positive
 best O -999
 paise O -999
-vasul. O -999
+vasul O -999
+. O -999
 
 led O -999
 is O -999
@@ -2161,15 +2362,16 @@ with O -999
 good O -999
 sound B-ASP Positive
 & O -999
-picture O -999
-quality. O -999
+picture B-ASP -999
+quality I-ASP -999
+. O -999
 
 led O -999
 is O -999
 awesome O -999
 with O -999
 good O -999
-sound O -999
+sound B-ASP -999
 & O -999
 picture B-ASP Positive
 quality I-ASP Positive
@@ -2198,7 +2400,8 @@ dbx B-ASP -999
 sound I-ASP -999
 is O -999
 much O -999
-effective. O -999
+effective O -999
+. O -999
 
 i O -999
 recommend O -999
@@ -2223,7 +2426,8 @@ dbx B-ASP -999
 sound I-ASP -999
 is O -999
 much O -999
-effective. O -999
+effective O -999
+. O -999
 
 i O -999
 recommend O -999
@@ -2248,7 +2452,8 @@ dbx B-ASP Positive
 sound I-ASP Positive
 is O -999
 much O -999
-effective. O -999
+effective O -999
+. O -999
 
 the O -999
 delivery B-ASP Positive
@@ -2259,7 +2464,8 @@ been O -999
 right O -999
 on O -999
 the O -999
-money. O -999
+money O -999
+. O -999
 
 the O -999
 delivery B-ASP -999
@@ -2270,10 +2476,12 @@ been O -999
 right O -999
 on O -999
 the O -999
-money. O -999
+money O -999
+. O -999
 
 hi O -999
-all, O -999
+all O -999
+, O -999
 this O -999
 product O -999
 was O -999
@@ -2298,7 +2506,8 @@ as O -999
 compared O -999
 to O -999
 their O -999
-competitors. O -999
+competitors O -999
+. O -999
 
 using O -999
 this O -999
@@ -2306,16 +2515,18 @@ tv O -999
 for O -999
 about O -999
 2 O -999
-months, O -999
+months O -999
+, O -999
 i O -999
 m O -999
 satisfied O -999
 with O -999
 sound B-ASP Positive
-, B-ASP -999
-picture O -999
-and B-ASP -999
-connectivity. O -999
+, O -999
+picture B-ASP -999
+and O -999
+connectivity B-ASP -999
+. O -999
 
 using O -999
 this O -999
@@ -2323,16 +2534,18 @@ tv O -999
 for O -999
 about O -999
 2 O -999
-months, O -999
+months O -999
+, O -999
 i O -999
 m O -999
 satisfied O -999
 with O -999
 sound B-ASP -999
-, B-ASP Positive
-picture O -999
-and B-ASP -999
-connectivity. O -999
+, O -999
+picture B-ASP Positive
+and O -999
+connectivity B-ASP -999
+. O -999
 
 using O -999
 this O -999
@@ -2340,16 +2553,18 @@ tv O -999
 for O -999
 about O -999
 2 O -999
-months, O -999
+months O -999
+, O -999
 i O -999
 m O -999
 satisfied O -999
 with O -999
 sound B-ASP -999
-, B-ASP -999
-picture O -999
-and B-ASP Positive
-connectivity. O -999
+, O -999
+picture B-ASP -999
+and O -999
+connectivity B-ASP Positive
+. O -999
 
 quality B-ASP Positive
 of I-ASP Positive
@@ -2358,46 +2573,54 @@ is O -999
 up O -999
 to O -999
 the O -999
-mark, O -999
+mark O -999
+, O -999
 to O -999
 compared O -999
 to O -999
 other O -999
-products. O -999
+products O -999
+. O -999
 
 sound B-ASP Positive
 and O -999
 picture O -999
 quality O -999
 are O -999
-excellent. O -999
+excellent O -999
+. O -999
 
 sound O -999
 and O -999
 picture B-ASP Positive
 quality I-ASP Positive
 are O -999
-excellent. O -999
+excellent O -999
+. O -999
 
 fast O -999
 delivery B-ASP Positive
 and O -999
 good O -999
-product. O -999
+product O -999
+. O -999
 
 the O -999
 worst O -999
 speaker B-ASP Negative
 i O -999
 ever O -999
-seen. O -999
+seen O -999
+. O -999
 
 even O -999
 if O -999
 your O -999
 magic B-ASP -999
 remote I-ASP -999
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 work O -999
 no O -999
 need O -999
@@ -2408,14 +2631,17 @@ can O -999
 control B-ASP Positive
 everything O -999
 through O -999
-app. O -999
+app O -999
+. O -999
 
 even O -999
 if O -999
 your O -999
 magic B-ASP Neutral
 remote I-ASP Neutral
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 work O -999
 no O -999
 need O -999
@@ -2426,14 +2652,16 @@ can O -999
 control B-ASP -999
 everything O -999
 through O -999
-app. O -999
+app O -999
+. O -999
 
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
 and O -999
 better O -999
-sound. O -999
+sound O -999
+. O -999
 
 good O -999
 picture O -999
@@ -2469,7 +2697,8 @@ no O -999
 indicater O -999
 on O -999
 running O -999
-condition. O -999
+condition O -999
+. O -999
 
 was O -999
 using O -999
@@ -2478,18 +2707,21 @@ model O -999
 for O -999
 past O -999
 3 O -999
-months, O -999
+months O -999
+, O -999
 as O -999
 of O -999
 now O -999
 this O -999
 panel B-ASP Positive
 is O -999
-awesome, O -999
+awesome O -999
+, O -999
 with O -999
 decent O -999
 picture O -999
-clarity, O -999
+clarity O -999
+, O -999
 sound O -999
 reproduction O -999
 and O -999
@@ -2497,36 +2729,42 @@ it O -999
 has O -999
 lovely O -999
 aesthetic O -999
-appearance. O -999
+appearance O -999
+. O -999
 
 picture B-ASP Positive
 and O -999
 sound B-ASP -999
 quality I-ASP -999
 is O -999
-awesome, O -999
+awesome O -999
+, O -999
 beauty O -999
 is O -999
 cute O -999
-remote. O -999
+remote B-ASP -999
+. O -999
 
 picture B-ASP -999
 and O -999
 sound B-ASP Positive
 quality I-ASP Positive
 is O -999
-awesome, O -999
+awesome O -999
+, O -999
 beauty O -999
 is O -999
 cute O -999
-remote. O -999
+remote B-ASP -999
+. O -999
 
-picture O -999
+picture B-ASP -999
 and O -999
-sound O -999
-quality O -999
+sound B-ASP -999
+quality I-ASP -999
 is O -999
-awesome, O -999
+awesome O -999
+, O -999
 beauty O -999
 is O -999
 cute O -999
@@ -2557,7 +2795,8 @@ the O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-fantastic, O -999
+fantastic O -999
+, O -999
 not O -999
 great O -999
 viewing O -999
@@ -2567,7 +2806,8 @@ the O -999
 picture O -999
 quality O -999
 is O -999
-fantastic, O -999
+fantastic O -999
+, O -999
 not O -999
 great O -999
 viewing B-ASP Negative
@@ -2583,7 +2823,9 @@ near O -999
 each O -999
 other O -999
 that O -999
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 support O -999
 space O -999
 for O -999
@@ -2592,7 +2834,8 @@ for O -999
 example O -999
 a O -999
 casting O -999
-device. O -999
+device O -999
+. O -999
 
 may O -999
 be O -999
@@ -2618,23 +2861,29 @@ output I-ASP Positive
 purchased O -999
 in O -999
 october O -999
-2017, O -999
+2017 O -999
+, O -999
 the O -999
 tv B-ASP Negative
 remote I-ASP Negative
-isn't O -999
+isn O -999
+' O -999
+t O -999
 working O -999
 at O -999
-all. O -999
+all O -999
+. O -999
 
 m O -999
 much O -999
 fulfilled O -999
 with O -999
 the O -999
-product( O -999
+product O -999
+( O -999
 lg O -999
-42lb5510) O -999
+42lb5510 O -999
+) O -999
 and O -999
 its O -999
 delivery B-ASP Positive
@@ -2646,7 +2895,8 @@ day O -999
 of O -999
 booking O -999
 as O -999
-promised. O -999
+promised O -999
+. O -999
 
 good O -999
 in O -999
@@ -2654,9 +2904,11 @@ this O -999
 price B-ASP Positive
 and O -999
 better O -999
-choice. O -999
+choice O -999
+. O -999
 
-better: O -999
+better O -999
+: O -999
 screen B-ASP Positive
 mirroring I-ASP Positive
 is O -999
@@ -2664,7 +2916,8 @@ better O -999
 but O -999
 not O -999
 the O -999
-best. O -999
+best O -999
+. O -999
 
 very O -999
 good O -999
@@ -2673,14 +2926,15 @@ with O -999
 excellent O -999
 picture B-ASP Positive
 and O -999
-sound. O -999
+sound B-ASP -999
+. O -999
 
 very O -999
 good O -999
 tv O -999
 with O -999
 excellent O -999
-picture O -999
+picture B-ASP -999
 and O -999
 sound B-ASP Positive
 . O -999
@@ -2720,7 +2974,8 @@ but O -999
 installation B-ASP Negative
 not O -999
 completed O -999
-still. O -999
+still O -999
+. O -999
 
 product O -999
 delivered B-ASP Neutral
@@ -2731,7 +2986,8 @@ but O -999
 installation B-ASP -999
 not O -999
 completed O -999
-still. O -999
+still O -999
+. O -999
 
 vu O -999
 led O -999
@@ -2749,7 +3005,8 @@ display B-ASP Positive
 is O -999
 vivid O -999
 and O -999
-clear. O -999
+clear O -999
+. O -999
 
 very O -999
 good O -999
@@ -2760,7 +3017,8 @@ picture B-ASP -999
 sound B-ASP -999
 quwality I-ASP -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 very O -999
 good O -999
@@ -2771,7 +3029,8 @@ picture B-ASP Positive
 sound B-ASP -999
 quwality I-ASP -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 very O -999
 good O -999
@@ -2782,7 +3041,8 @@ picture B-ASP -999
 sound B-ASP Positive
 quwality I-ASP Positive
 very O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -2790,12 +3050,19 @@ in O -999
 this O -999
 price O -999
 ( O -999
-rs. O -999
-9,500/-) O -999
+rs O -999
+. O -999
+9 O -999
+, O -999
+500 O -999
+/ O -999
+- O -999
+) O -999
 is O -999
 more O -999
 than O -999
-enough. O -999
+enough O -999
+. O -999
 
 the O -999
 quality O -999
@@ -2817,12 +3084,15 @@ usp O -999
 of O -999
 this O -999
 tv O -999
-it's O -999
+it O -999
+' O -999
+s O -999
 could O -999
 give O -999
 more O -999
 sound O -999
-experience. O -999
+experience O -999
+. O -999
 
 the O -999
 quality O -999
@@ -2844,12 +3114,15 @@ usp O -999
 of O -999
 this O -999
 tv O -999
-it's O -999
+it O -999
+' O -999
+s O -999
 could O -999
 give O -999
 more O -999
 sound O -999
-experience. O -999
+experience O -999
+. O -999
 
 the O -999
 quality O -999
@@ -2871,18 +3144,22 @@ usp O -999
 of O -999
 this O -999
 tv O -999
-it's O -999
+it O -999
+' O -999
+s O -999
 could O -999
 give O -999
 more O -999
 sound O -999
-experience. O -999
+experience O -999
+. O -999
 
 hd B-ASP Negative
 is O -999
 nowhere O -999
 near O -999
-1080p. O -999
+1080p O -999
+. O -999
 
 15999 O -999
 rs O -999
@@ -2893,7 +3170,8 @@ nice O -999
 picture B-ASP Positive
 and O -999
 sound B-ASP -999
-quality. I-ASP -999
+quality I-ASP -999
+. O -999
 
 15999 O -999
 rs O -999
@@ -2904,13 +3182,15 @@ nice O -999
 picture B-ASP -999
 and O -999
 sound B-ASP Positive
-quality. I-ASP Positive
+quality I-ASP Positive
+. O -999
 
 the O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-great, O -999
+great O -999
+, O -999
 and O -999
 i O -999
 like O -999
@@ -2929,7 +3209,8 @@ the O -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-great, O -999
+great O -999
+, O -999
 and O -999
 i O -999
 like O -999
@@ -2948,7 +3229,8 @@ the O -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-great, O -999
+great O -999
+, O -999
 and O -999
 i O -999
 like O -999
@@ -2976,7 +3258,8 @@ picture B-ASP Neutral
 quality I-ASP Neutral
 and O -999
 good O -999
-sound. O -999
+sound O -999
+. O -999
 
 everything O -999
 is O -999
@@ -2997,21 +3280,24 @@ completed O -999
 within O -999
 the O -999
 promised O -999
-time. O -999
+time O -999
+. O -999
 
 sound B-ASP Positive
 & O -999
 build O -999
 quality O -999
 is O -999
-good! O -999
+good O -999
+! O -999
 
 sound O -999
 & O -999
 build B-ASP Positive
 quality I-ASP Positive
 is O -999
-good! O -999
+good O -999
+! O -999
 
 picture B-ASP Positive
 clarity I-ASP Positive
@@ -3029,7 +3315,8 @@ bass B-ASP -999
 is O -999
 not O -999
 being O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP -999
 clarity I-ASP -999
@@ -3047,7 +3334,8 @@ bass B-ASP -999
 is O -999
 not O -999
 being O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP -999
 clarity I-ASP -999
@@ -3065,7 +3353,8 @@ bass B-ASP Negative
 is O -999
 not O -999
 being O -999
-good. O -999
+good O -999
+. O -999
 
 best O -999
 part O -999
@@ -3084,15 +3373,20 @@ delivery B-ASP Positive
 good O -999
 picture B-ASP Positive
 and O -999
-sound,thanks O -999
-Flipkart. O -999
+sound B-ASP -999
+, O -999
+thanks O -999
+Flipkart O -999
+. O -999
 
 good O -999
-picture O -999
+picture B-ASP -999
 and O -999
 sound B-ASP Positive
-,thanks O -999
-Flipkart. O -999
+, O -999
+thanks O -999
+Flipkart O -999
+. O -999
 
 what O -999
 a O -999
@@ -3111,7 +3405,8 @@ compare O -999
 to O -999
 other O -999
 shopping O -999
-app. O -999
+app O -999
+. O -999
 
 good O -999
 picture O -999
@@ -3130,7 +3425,8 @@ and O -999
 sound O -999
 for O -999
 the O -999
-price! O -999
+price O -999
+! O -999
 
 good O -999
 picture O -999
@@ -3139,11 +3435,13 @@ and O -999
 sound B-ASP Positive
 for O -999
 the O -999
-price! O -999
+price O -999
+! O -999
 
 but O -999
 in O -999
-pc, O -999
+pc O -999
+, O -999
 mode O -999
 it O -999
 have O -999
@@ -3163,7 +3461,8 @@ much O -999
 value O -999
 for O -999
 the O -999
-product. O -999
+product O -999
+. O -999
 
 it O -999
 provides O -999
@@ -3174,7 +3473,8 @@ quality I-ASP -999
 as O -999
 per O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 it O -999
 provides O -999
@@ -3185,7 +3485,8 @@ quality I-ASP Positive
 as O -999
 per O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 fast O -999
 and O -999
@@ -3194,12 +3495,13 @@ delivery B-ASP Positive
 and O -999
 same O -999
 day O -999
-installation. O -999
+installation B-ASP -999
+. O -999
 
 fast O -999
 and O -999
 reliable O -999
-delivery O -999
+delivery B-ASP -999
 and O -999
 same O -999
 day O -999
@@ -3215,14 +3517,16 @@ wall B-ASP Negative
 mount I-ASP Negative
 is O -999
 too O -999
-cheep. O -999
+cheep O -999
+. O -999
 
 I O -999
 am O -999
 very O -999
 happy O -999
 this O -999
-product, O -999
+product O -999
+, O -999
 but O -999
 i O -999
 have O -999
@@ -3239,7 +3543,8 @@ phone I-ASP Negative
 jack I-ASP Negative
 not O -999
 working O -999
-properly. O -999
+properly O -999
+. O -999
 
 tv O -999
 is O -999
@@ -3248,7 +3553,8 @@ and O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-superb. O -999
+superb O -999
+. O -999
 
 i O -999
 am O -999
@@ -3265,7 +3571,8 @@ low O -999
 price B-ASP -999
 and O -999
 great O -999
-quality. B-ASP -999
+quality B-ASP -999
+. O -999
 
 i O -999
 am O -999
@@ -3282,7 +3589,8 @@ low O -999
 price B-ASP Positive
 and O -999
 great O -999
-quality. B-ASP -999
+quality B-ASP -999
+. O -999
 
 i O -999
 am O -999
@@ -3299,7 +3607,8 @@ low O -999
 price B-ASP -999
 and O -999
 great O -999
-quality. B-ASP Positive
+quality B-ASP Positive
+. O -999
 
 so O -999
 whenever O -999
@@ -3314,12 +3623,15 @@ audio O -999
 codec O -999
 then O -999
 sound B-ASP -999
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 come O -999
 and O -999
 only O -999
 video B-ASP Neutral
-plays. O -999
+plays O -999
+. O -999
 
 so O -999
 whenever O -999
@@ -3334,23 +3646,28 @@ audio O -999
 codec O -999
 then O -999
 sound B-ASP Negative
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 come O -999
 and O -999
 only O -999
 video B-ASP -999
-plays. O -999
+plays O -999
+. O -999
 
 first O -999
 of O -999
-all, O -999
+all O -999
+, O -999
 thanks O -999
 for O -999
 the O -999
 quick O -999
 service B-ASP Positive
 from O -999
-Flipkart, O -999
+Flipkart O -999
+, O -999
 booked O -999
 in O -999
 the O -999
@@ -3362,30 +3679,35 @@ delivered B-ASP -999
 the O -999
 next O -999
 day O -999
-evening, O -999
+evening O -999
+, O -999
 and O -999
 even O -999
 Toshiba O -999
 service O -999
 was O -999
-good, O -999
+good O -999
+, O -999
 installation B-ASP -999
 was O -999
 done O -999
 the O -999
 2nd O -999
-day. O -999
+day O -999
+. O -999
 
 first O -999
 of O -999
-all, O -999
+all O -999
+, O -999
 thanks O -999
 for O -999
 the O -999
 quick O -999
 service B-ASP -999
 from O -999
-Flipkart, O -999
+Flipkart O -999
+, O -999
 booked O -999
 in O -999
 the O -999
@@ -3397,30 +3719,35 @@ delivered B-ASP Positive
 the O -999
 next O -999
 day O -999
-evening, O -999
+evening O -999
+, O -999
 and O -999
 even O -999
 Toshiba O -999
 service O -999
 was O -999
-good, O -999
+good O -999
+, O -999
 installation B-ASP -999
 was O -999
 done O -999
 the O -999
 2nd O -999
-day. O -999
+day O -999
+. O -999
 
 first O -999
 of O -999
-all, O -999
+all O -999
+, O -999
 thanks O -999
 for O -999
 the O -999
 quick O -999
 service B-ASP -999
 from O -999
-Flipkart, O -999
+Flipkart O -999
+, O -999
 booked O -999
 in O -999
 the O -999
@@ -3432,19 +3759,22 @@ delivered B-ASP -999
 the O -999
 next O -999
 day O -999
-evening, O -999
+evening O -999
+, O -999
 and O -999
 even O -999
 Toshiba O -999
 service O -999
 was O -999
-good, O -999
+good O -999
+, O -999
 installation B-ASP Positive
 was O -999
 done O -999
 the O -999
 2nd O -999
-day. O -999
+day O -999
+. O -999
 
 flexi B-ASP Positive
 wall I-ASP Positive
@@ -3453,12 +3783,15 @@ is O -999
 indeed O -999
 a O -999
 benefit O -999
-cons:. O -999
+cons O -999
+: O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-good, O -999
+good O -999
+, O -999
 no O -999
 lesser O -999
 than O -999
@@ -3468,7 +3801,8 @@ samsung O -999
 inch O -999
 tv O -999
 at O -999
-home. O -999
+home O -999
+. O -999
 
 and O -999
 i O -999
@@ -3499,32 +3833,36 @@ i O -999
 bought O -999
 for O -999
 61 O -999
-thousands. O -999
+thousands O -999
+. O -999
 
 good O -999
 quality B-ASP Positive
 , O -999
-fast B-ASP -999
-performance O -999
+fast O -999
+performance B-ASP -999
 and O -999
 amazing O -999
-sound O -999
-system. O -999
+sound B-ASP -999
+system I-ASP -999
+. O -999
 
 good O -999
 quality B-ASP -999
 , O -999
-fast B-ASP Positive
-performance O -999
+fast O -999
+performance B-ASP Positive
 and O -999
 amazing O -999
-sound O -999
-system. O -999
+sound B-ASP -999
+system I-ASP -999
+. O -999
 
 good O -999
-quality, O -999
+quality B-ASP -999
+, O -999
 fast O -999
-performance O -999
+performance B-ASP -999
 and O -999
 amazing O -999
 sound B-ASP Positive
@@ -3536,7 +3874,8 @@ quality I-ASP Positive
 is O -999
 ok O -999
 but O -999
-nice. O -999
+nice O -999
+. O -999
 
 i O -999
 give O -999
@@ -3557,7 +3896,8 @@ require O -999
 on O -999
 user B-ASP -999
 interface I-ASP -999
-design. I-ASP -999
+design I-ASP -999
+. O -999
 
 i O -999
 give O -999
@@ -3578,7 +3918,8 @@ require O -999
 on O -999
 user B-ASP Positive
 interface I-ASP Positive
-design. I-ASP Positive
+design I-ASP Positive
+. O -999
 
 i O -999
 am O -999
@@ -3611,7 +3952,8 @@ equal O -999
 to O -999
 other O -999
 major O -999
-brands. O -999
+brands O -999
+. O -999
 
 i O -999
 am O -999
@@ -3644,7 +3986,8 @@ equal O -999
 to O -999
 other O -999
 major O -999
-brands. O -999
+brands O -999
+. O -999
 
 this O -999
 is O -999
@@ -3657,16 +4000,19 @@ i O -999
 am O -999
 overwhelmed O -999
 with O -999
-this. O -999
+this O -999
+. O -999
 
 hd O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-good. O -999
+good O -999
+. O -999
 
 good O -999
-product, O -999
+product O -999
+, O -999
 good O -999
 job O -999
 with O -999
@@ -3679,7 +4025,8 @@ installation B-ASP -999
 . O -999
 
 good O -999
-product, O -999
+product O -999
+, O -999
 good O -999
 job O -999
 with O -999
@@ -3715,25 +4062,28 @@ tvs O -999
 with O -999
 just O -999
 usb O -999
-ports. O -999
+ports O -999
+. O -999
 
 picture B-ASP Positive
-sound O -999
-features O -999
+sound B-ASP -999
+features I-ASP -999
 all O -999
 excellent O -999
 but O -999
 no O -999
-3d. O -999
+3d O -999
+. O -999
 
-picture O -999
+picture B-ASP -999
 sound B-ASP Positive
 features I-ASP Positive
 all O -999
 excellent O -999
 but O -999
 no O -999
-3d. O -999
+3d O -999
+. O -999
 
 clarity B-ASP Negative
 is O -999
@@ -3747,19 +4097,22 @@ review O -999
 after O -999
 10 O -999
 days O -999
-observation. O -999
+observation O -999
+. O -999
 
 sound B-ASP Positive
 is O -999
 way O -999
 beyond O -999
-expectations. O -999
+expectations O -999
+. O -999
 
 sound B-ASP Positive
 quality I-ASP Positive
 is O -999
 too O -999
-good. O -999
+good O -999
+. O -999
 
 samsung O -999
 led O -999
@@ -3777,7 +4130,8 @@ awesome O -999
 picture B-ASP Positive
 and O -999
 sound B-ASP -999
-quality. I-ASP -999
+quality I-ASP -999
+. O -999
 
 value O -999
 for O -999
@@ -3788,13 +4142,15 @@ awesome O -999
 picture B-ASP -999
 and O -999
 sound B-ASP Positive
-quality. I-ASP Positive
+quality I-ASP Positive
+. O -999
 
 screen B-ASP Negative
 mirroring I-ASP Negative
 not O -999
 that O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP Positive
 clarity I-ASP Positive
@@ -3804,7 +4160,8 @@ but O -999
 audio B-ASP -999
 is O -999
 very O -999
-poor. O -999
+poor O -999
+. O -999
 
 picture B-ASP -999
 clarity I-ASP -999
@@ -3814,7 +4171,8 @@ but O -999
 audio B-ASP Negative
 is O -999
 very O -999
-poor. O -999
+poor O -999
+. O -999
 
 very O -999
 good O -999
@@ -3826,7 +4184,8 @@ used O -999
 months O -999
 working O -999
 very O -999
-smooth. O -999
+smooth O -999
+. O -999
 
 and O -999
 even O -999
@@ -3844,7 +4203,8 @@ looks O -999
 like O -999
 a O -999
 premium O -999
-tv. O -999
+tv O -999
+. O -999
 
 clarity O -999
 is O -999
@@ -3881,7 +4241,8 @@ u O -999
 can O -999
 go O -999
 for O -999
-it. O -999
+it O -999
+. O -999
 
 amazing O -999
 picture B-ASP Positive
@@ -3893,7 +4254,8 @@ installation B-ASP -999
 and O -999
 demo B-ASP -999
 by O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 amazing O -999
 picture B-ASP -999
@@ -3905,7 +4267,8 @@ installation B-ASP Positive
 and O -999
 demo B-ASP -999
 by O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 amazing O -999
 picture B-ASP -999
@@ -3917,7 +4280,8 @@ installation B-ASP -999
 and O -999
 demo B-ASP Positive
 by O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 4 B-ASP Negative
 gb I-ASP Negative
@@ -3927,7 +4291,8 @@ in O -999
 this O -999
 is O -999
 very O -999
-low. O -999
+low O -999
+. O -999
 
 they O -999
 deliver O -999
@@ -3938,37 +4303,43 @@ in O -999
 the O -999
 given O -999
 time O -999
-period,but O -999
+period O -999
+, O -999
+but O -999
 Jeeves O -999
 service O -999
 for O -999
 installation B-ASP Negative
 is O -999
 very O -999
-bad. O -999
+bad O -999
+. O -999
 
 sharp O -999
 display B-ASP Positive
 , O -999
 reasonable O -999
-rate, O -999
+rate O -999
+, O -999
 
 the O -999
 sound B-ASP Positive
 output I-ASP Positive
 is O -999
-great, O -999
-picture O -999
-quality O -999
+great O -999
+, O -999
+picture B-ASP -999
+quality I-ASP -999
 will O -999
 be O -999
 good O -999
 
 the O -999
-sound O -999
-output O -999
+sound B-ASP -999
+output I-ASP -999
 is O -999
-great, O -999
+great O -999
+, O -999
 picture B-ASP Positive
 quality I-ASP Positive
 will O -999
@@ -3997,106 +4368,125 @@ mute O -999
 and O -999
 not O -999
 playing O -999
-anything). O -999
+anything O -999
+) O -999
+. O -999
 
 all O -999
 in O -999
 one O -999
-package, O -999
+package O -999
+, O -999
 stunning O -999
 display B-ASP Positive
 , O -999
-powerful B-ASP -999
-sound, O -999
+powerful O -999
+sound B-ASP -999
+, O -999
 and O -999
 any O -999
 corner O -999
 view O -999
-with B-ASP -999
-curved I-ASP -999
-feature, O -999
-amazing B-ASP -999
-connectivity I-ASP -999
-features O -999
+with O -999
+curved B-ASP -999
+feature I-ASP -999
+, O -999
+amazing O -999
+connectivity B-ASP -999
+features I-ASP -999
 with O -999
 mobile O -999
 and O -999
-wifi. O -999
+wifi O -999
+. O -999
 
 all O -999
 in O -999
 one O -999
-package, O -999
+package O -999
+, O -999
 stunning O -999
 display B-ASP -999
 , O -999
-powerful B-ASP Positive
-sound, O -999
+powerful O -999
+sound B-ASP Positive
+, O -999
 and O -999
 any O -999
 corner O -999
 view O -999
-with B-ASP -999
-curved I-ASP -999
-feature, O -999
-amazing B-ASP -999
-connectivity I-ASP -999
-features O -999
+with O -999
+curved B-ASP -999
+feature I-ASP -999
+, O -999
+amazing O -999
+connectivity B-ASP -999
+features I-ASP -999
 with O -999
 mobile O -999
 and O -999
-wifi. O -999
+wifi O -999
+. O -999
 
 all O -999
 in O -999
 one O -999
-package, O -999
+package O -999
+, O -999
 stunning O -999
 display B-ASP -999
 , O -999
-powerful B-ASP -999
-sound, O -999
+powerful O -999
+sound B-ASP -999
+, O -999
 and O -999
 any O -999
 corner O -999
 view O -999
-with B-ASP -999
-curved I-ASP -999
-feature, O -999
-amazing B-ASP Positive
-connectivity I-ASP Positive
-features O -999
+with O -999
+curved B-ASP -999
+feature I-ASP -999
+, O -999
+amazing O -999
+connectivity B-ASP Positive
+features I-ASP Positive
 with O -999
 mobile O -999
 and O -999
-wifi. O -999
+wifi O -999
+. O -999
 
 all O -999
 in O -999
 one O -999
-package, O -999
+package O -999
+, O -999
 stunning O -999
 display B-ASP -999
 , O -999
-powerful B-ASP -999
-sound, O -999
+powerful O -999
+sound B-ASP -999
+, O -999
 and O -999
 any O -999
 corner O -999
 view O -999
-with B-ASP Positive
-curved I-ASP Positive
-feature, O -999
-amazing B-ASP -999
-connectivity I-ASP -999
-features O -999
+with O -999
+curved B-ASP Positive
+feature I-ASP Positive
+, O -999
+amazing O -999
+connectivity B-ASP -999
+features I-ASP -999
 with O -999
 mobile O -999
 and O -999
-wifi. O -999
+wifi O -999
+. O -999
 
 good O -999
-clarity, O -999
+clarity O -999
+, O -999
 nice O -999
 external B-ASP Positive
 body I-ASP Positive
@@ -4108,24 +4498,28 @@ a O -999
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
-, B-ASP -999
+, O -999
 sound O -999
-good. O -999
+good O -999
+. O -999
 
 such O -999
 a O -999
 good O -999
-picture B-ASP -999
-quality I-ASP -999
-, B-ASP Positive
-sound O -999
-good. O -999
+picture O -999
+quality O -999
+, O -999
+sound B-ASP Positive
+good O -999
+. O -999
 
-pros: O -999
+pros O -999
+: O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-good. O -999
+good O -999
+. O -999
 
 Flipkart O -999
 delivery B-ASP Positive
@@ -4133,7 +4527,10 @@ and O -999
 service B-ASP -999
 is O -999
 great O -999
-con's: O -999
+con O -999
+' O -999
+s O -999
+: O -999
 just O -999
 very O -999
 minor O -999
@@ -4143,7 +4540,8 @@ to O -999
 negligible O -999
 for O -999
 this O -999
-price. O -999
+price O -999
+. O -999
 
 Flipkart O -999
 delivery B-ASP -999
@@ -4151,7 +4549,10 @@ and O -999
 service B-ASP Positive
 is O -999
 great O -999
-con's: O -999
+con O -999
+' O -999
+s O -999
+: O -999
 just O -999
 very O -999
 minor O -999
@@ -4161,9 +4562,11 @@ to O -999
 negligible O -999
 for O -999
 this O -999
-price. O -999
+price O -999
+. O -999
 
-1. O -999
+1 O -999
+. O -999
 display B-ASP Negative
 is O -999
 very O -999
@@ -4178,9 +4581,11 @@ side B-ASP -999
 view I-ASP -999
 is O -999
 very O -999
-bad. O -999
+bad O -999
+. O -999
 
-1. O -999
+1 O -999
+. O -999
 display B-ASP -999
 is O -999
 very O -999
@@ -4195,7 +4600,8 @@ side B-ASP Neutral
 view I-ASP Neutral
 is O -999
 very O -999
-bad. O -999
+bad O -999
+. O -999
 
 tv B-ASP Positive
 stand I-ASP Positive
@@ -4203,7 +4609,8 @@ is O -999
 nice O -999
 and O -999
 provide O -999
-support. O -999
+support O -999
+. O -999
 
 first O -999
 of O -999
@@ -4217,7 +4624,8 @@ lightning O -999
 delivery B-ASP Positive
 of O -999
 the O -999
-product. O -999
+product O -999
+. O -999
 
 + O -999
 ve O -999
@@ -4243,9 +4651,11 @@ then O -999
 other O -999
 companies O -999
 like O -999
-sony, O -999
+sony O -999
+, O -999
 lg O -999
-etc. O -999
+etc O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -4262,9 +4672,11 @@ then O -999
 other O -999
 companies O -999
 like O -999
-sony, O -999
+sony O -999
+, O -999
 lg O -999
-etc. O -999
+etc O -999
+. O -999
 
 qwerty B-ASP Positive
 key I-ASP Positive
@@ -4279,71 +4691,90 @@ searching O -999
 for O -999
 videos O -999
 on O -999
-youtube. O -999
+youtube O -999
+. O -999
 
 superb O -999
 product O -999
 unbelievable O -999
 picture B-ASP Positive
 & O -999
-sound. O -999
+sound B-ASP -999
+. O -999
 
 superb O -999
 product O -999
 unbelievable O -999
-picture O -999
+picture B-ASP -999
 & O -999
 sound B-ASP Positive
 . O -999
 
-it's O -999
+it O -999
+' O -999
+s O -999
 picture B-ASP Positive
 quality I-ASP Positive
-9/10, O -999
-sound O -999
-4/10 O -999
+9 O -999
+/ O -999
+10 O -999
+, O -999
+sound B-ASP -999
+4 O -999
+/ O -999
+10 O -999
 . O -999
 
-it's O -999
-picture O -999
-quality O -999
-9/10, O -999
+it O -999
+' O -999
+s O -999
+picture B-ASP -999
+quality I-ASP -999
+9 O -999
+/ O -999
+10 O -999
+, O -999
 sound B-ASP Negative
-4/10 O -999
+4 O -999
+/ O -999
+10 O -999
 . O -999
 
 nice O -999
 screen B-ASP Positive
 resolution I-ASP Positive
 , O -999
-built O -999
-quality O -999
+built B-ASP -999
+quality I-ASP -999
 and O -999
-sound O -999
+sound B-ASP -999
 as O -999
-well. O -999
+well O -999
+. O -999
 
 nice O -999
-screen O -999
-resolution O -999
+screen B-ASP -999
+resolution I-ASP -999
 , O -999
 built B-ASP Positive
 quality I-ASP Positive
 and O -999
 sound B-ASP -999
 as O -999
-well. O -999
+well O -999
+. O -999
 
 nice O -999
-screen O -999
-resolution O -999
+screen B-ASP -999
+resolution I-ASP -999
 , O -999
 built B-ASP -999
 quality I-ASP -999
 and O -999
 sound B-ASP Positive
 as O -999
-well. O -999
+well O -999
+. O -999
 
 black O -999
 spots O -999
@@ -4371,38 +4802,46 @@ clarity I-ASP Positive
 and O -999
 sound B-ASP -999
 is O -999
-great. O -999
+great O -999
+. O -999
 
 picture B-ASP -999
 clarity I-ASP -999
 and O -999
 sound B-ASP Positive
 is O -999
-great. O -999
+great O -999
+. O -999
 
 clarity B-ASP Positive
-good, O -999
+good O -999
+, O -999
 sound B-ASP -999
-good, O -999
+good O -999
+, O -999
 bad O -999
 only O -999
 some O -999
 format O -999
 sound O -999
 not O -999
-work. O -999
+work O -999
+. O -999
 
 clarity B-ASP -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP Positive
-good, O -999
+good O -999
+, O -999
 bad O -999
 only O -999
 some O -999
 format O -999
 sound O -999
 not O -999
-work. O -999
+work O -999
+. O -999
 
 waste O -999
 of O -999
@@ -4419,7 +4858,8 @@ and O -999
 sound B-ASP -999
 output O -999
 is O -999
-pathetic, O -999
+pathetic O -999
+, O -999
 colours B-ASP -999
 are O -999
 over O -999
@@ -4430,7 +4870,8 @@ and O -999
 sound B-ASP -999
 clarity I-ASP -999
 is O -999
-horrible. O -999
+horrible O -999
+. O -999
 
 waste O -999
 of O -999
@@ -4447,7 +4888,8 @@ and O -999
 sound B-ASP Negative
 output O -999
 is O -999
-pathetic, O -999
+pathetic O -999
+, O -999
 colours B-ASP -999
 are O -999
 over O -999
@@ -4458,7 +4900,8 @@ and O -999
 sound B-ASP -999
 clarity I-ASP -999
 is O -999
-horrible. O -999
+horrible O -999
+. O -999
 
 waste O -999
 of O -999
@@ -4475,7 +4918,8 @@ and O -999
 sound B-ASP -999
 output O -999
 is O -999
-pathetic, O -999
+pathetic O -999
+, O -999
 colours B-ASP Negative
 are O -999
 over O -999
@@ -4486,7 +4930,8 @@ and O -999
 sound B-ASP -999
 clarity I-ASP -999
 is O -999
-horrible. O -999
+horrible O -999
+. O -999
 
 waste O -999
 of O -999
@@ -4503,7 +4948,8 @@ and O -999
 sound B-ASP -999
 output O -999
 is O -999
-pathetic, O -999
+pathetic O -999
+, O -999
 colours B-ASP -999
 are O -999
 over O -999
@@ -4514,7 +4960,8 @@ and O -999
 sound B-ASP -999
 clarity I-ASP -999
 is O -999
-horrible. O -999
+horrible O -999
+. O -999
 
 waste O -999
 of O -999
@@ -4531,7 +4978,8 @@ and O -999
 sound B-ASP -999
 output O -999
 is O -999
-pathetic, O -999
+pathetic O -999
+, O -999
 colours B-ASP -999
 are O -999
 over O -999
@@ -4542,7 +4990,8 @@ and O -999
 sound B-ASP Negative
 clarity I-ASP Negative
 is O -999
-horrible. O -999
+horrible O -999
+. O -999
 
 some O -999
 people O -999
@@ -4552,7 +5001,8 @@ that O -999
 sound B-ASP Neutral
 is O -999
 quite O -999
-low. O -999
+low O -999
+. O -999
 
 bang O -999
 for O -999
@@ -4572,7 +5022,8 @@ with O -999
 the O -999
 tv O -999
 so O -999
-far. O -999
+far O -999
+. O -999
 
 bang O -999
 for O -999
@@ -4592,7 +5043,8 @@ with O -999
 the O -999
 tv O -999
 so O -999
-far. O -999
+far O -999
+. O -999
 
 it O -999
 has O -999
@@ -4605,7 +5057,8 @@ which O -999
 makes O -999
 it O -999
 look O -999
-beautiful. O -999
+beautiful O -999
+. O -999
 
 everything O -999
 is O -999
@@ -4641,7 +5094,9 @@ to O -999
 30 O -999
 minutes O -999
 for O -999
-5-10 O -999
+5 O -999
+- O -999
+10 O -999
 seconds O -999
 and O -999
 it O -999
@@ -4654,7 +5109,8 @@ this O -999
 is O -999
 with O -999
 all O -999
-channels. O -999
+channels O -999
+. O -999
 
 color B-ASP Positive
 reproduction I-ASP Positive
@@ -4669,21 +5125,26 @@ the O -999
 a O -999
 + O -999
 grade O -999
-panel). O -999
+panel O -999
+) O -999
+. O -999
 
 the O -999
 design B-ASP Negative
 could O -999
 have O -999
 been O -999
-improved. O -999
+improved O -999
+. O -999
 
 with O -999
 in O -999
 purchase O -999
 period O -999
 of O -999
-10-11 O -999
+10 O -999
+- O -999
+11 O -999
 months O -999
 there O -999
 were O -999
@@ -4721,7 +5182,8 @@ post O -999
 lots O -999
 of O -999
 follow O -999
-ups, O -999
+ups O -999
+, O -999
 complaints O -999
 and O -999
 escalation O -999
@@ -4741,14 +5203,17 @@ same O -999
 panel O -999
 after O -999
 cleaning O -999
-it. O -999
+it O -999
+. O -999
 
 with O -999
 in O -999
 purchase O -999
 period O -999
 of O -999
-10-11 O -999
+10 O -999
+- O -999
+11 O -999
 months O -999
 there O -999
 were O -999
@@ -4786,7 +5251,8 @@ post O -999
 lots O -999
 of O -999
 follow O -999
-ups, O -999
+ups O -999
+, O -999
 complaints O -999
 and O -999
 escalation O -999
@@ -4806,14 +5272,17 @@ same O -999
 panel O -999
 after O -999
 cleaning O -999
-it. O -999
+it O -999
+. O -999
 
 with O -999
 in O -999
 purchase O -999
 period O -999
 of O -999
-10-11 O -999
+10 O -999
+- O -999
+11 O -999
 months O -999
 there O -999
 were O -999
@@ -4851,7 +5320,8 @@ post O -999
 lots O -999
 of O -999
 follow O -999
-ups, O -999
+ups O -999
+, O -999
 complaints O -999
 and O -999
 escalation O -999
@@ -4871,14 +5341,17 @@ same O -999
 panel O -999
 after O -999
 cleaning O -999
-it. O -999
+it O -999
+. O -999
 
 with O -999
 in O -999
 purchase O -999
 period O -999
 of O -999
-10-11 O -999
+10 O -999
+- O -999
+11 O -999
 months O -999
 there O -999
 were O -999
@@ -4916,7 +5389,8 @@ post O -999
 lots O -999
 of O -999
 follow O -999
-ups, O -999
+ups O -999
+, O -999
 complaints O -999
 and O -999
 escalation O -999
@@ -4936,14 +5410,15 @@ same O -999
 panel O -999
 after O -999
 cleaning O -999
-it. O -999
+it O -999
+. O -999
 
 brightness B-ASP Positive
-, B-ASP -999
-contrast O -999
-and B-ASP -999
-color I-ASP -999
-depth O -999
+, O -999
+contrast B-ASP -999
+and O -999
+color B-ASP -999
+depth I-ASP -999
 are O -999
 excellent O -999
 when O -999
@@ -4952,14 +5427,15 @@ to O -999
 the O -999
 other O -999
 branded O -999
-tvs. O -999
+tvs O -999
+. O -999
 
 brightness B-ASP -999
-, B-ASP Positive
-contrast O -999
-and B-ASP -999
-color I-ASP -999
-depth O -999
+, O -999
+contrast B-ASP Positive
+and O -999
+color B-ASP -999
+depth I-ASP -999
 are O -999
 excellent O -999
 when O -999
@@ -4968,14 +5444,15 @@ to O -999
 the O -999
 other O -999
 branded O -999
-tvs. O -999
+tvs O -999
+. O -999
 
 brightness B-ASP -999
-, B-ASP -999
-contrast O -999
-and B-ASP Positive
-color I-ASP Positive
-depth O -999
+, O -999
+contrast B-ASP -999
+and O -999
+color B-ASP Positive
+depth I-ASP Positive
 are O -999
 excellent O -999
 when O -999
@@ -4984,23 +5461,28 @@ to O -999
 the O -999
 other O -999
 branded O -999
-tvs. O -999
+tvs O -999
+. O -999
 
 after O -999
-4-5 O -999
+4 O -999
+- O -999
+5 O -999
 months O -999
 the O -999
 display B-ASP Negative
 again O -999
 has O -999
-spots. O -999
+spots O -999
+. O -999
 
 absolutely O -999
 fine O -999
 led B-ASP Positive
 tv I-ASP Positive
 except O -999
-remote. O -999
+remote O -999
+. O -999
 
 absolutely O -999
 fine O -999
@@ -5021,7 +5503,8 @@ amazing O -999
 at O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 the O -999
 picture B-ASP -999
@@ -5034,7 +5517,8 @@ amazing O -999
 at O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 sound B-ASP Positive
 quality I-ASP Positive
@@ -5042,7 +5526,8 @@ good O -999
 but O -999
 volume B-ASP -999
 is O -999
-low. O -999
+low O -999
+. O -999
 
 sound B-ASP -999
 quality I-ASP -999
@@ -5050,7 +5535,8 @@ good O -999
 but O -999
 volume B-ASP Negative
 is O -999
-low. O -999
+low O -999
+. O -999
 
 got O -999
 to O -999
@@ -5069,7 +5555,8 @@ compatible O -999
 os B-ASP Positive
 and O -999
 much O -999
-more. O -999
+more O -999
+. O -999
 
 the O -999
 only O -999
@@ -5083,7 +5570,8 @@ colour B-ASP Negative
 quality I-ASP Negative
 is O -999
 bit O -999
-low. O -999
+low O -999
+. O -999
 
 not O -999
 good O -999
@@ -5105,7 +5593,8 @@ compared O -999
 to O -999
 other O -999
 led O -999
-tv, O -999
+tv O -999
+, O -999
 but O -999
 it O -999
 is O -999
@@ -5116,7 +5605,8 @@ are O -999
 using O -999
 it O -999
 for O -999
-home. O -999
+home O -999
+. O -999
 
 the O -999
 tv B-ASP Positive
@@ -5125,7 +5615,8 @@ really O -999
 our O -999
 of O -999
 this O -999
-world. O -999
+world O -999
+. O -999
 
 in O -999
 a O -999
@@ -5148,7 +5639,8 @@ if O -999
 your O -999
 budget O -999
 is O -999
-less. O -999
+less O -999
+. O -999
 
 in O -999
 a O -999
@@ -5171,7 +5663,8 @@ if O -999
 your O -999
 budget O -999
 is O -999
-less. O -999
+less O -999
+. O -999
 
 in O -999
 a O -999
@@ -5194,7 +5687,8 @@ if O -999
 your O -999
 budget O -999
 is O -999
-less. O -999
+less O -999
+. O -999
 
 value O -999
 for O -999
@@ -5229,7 +5723,8 @@ shown O -999
 playing O -999
 in O -999
 usb O -999
-video, O -999
+video O -999
+, O -999
 and O -999
 one O -999
 more O -999
@@ -5259,7 +5754,8 @@ is O -999
 32 O -999
 inch O -999
 or O -999
-more. O -999
+more O -999
+. O -999
 
 value O -999
 for O -999
@@ -5294,7 +5790,8 @@ shown O -999
 playing O -999
 in O -999
 usb O -999
-video, O -999
+video O -999
+, O -999
 and O -999
 one O -999
 more O -999
@@ -5324,7 +5821,8 @@ is O -999
 32 O -999
 inch O -999
 or O -999
-more. O -999
+more O -999
+. O -999
 
 value O -999
 for O -999
@@ -5359,7 +5857,8 @@ shown O -999
 playing O -999
 in O -999
 usb O -999
-video, O -999
+video O -999
+, O -999
 and O -999
 one O -999
 more O -999
@@ -5389,7 +5888,8 @@ is O -999
 32 O -999
 inch O -999
 or O -999
-more. O -999
+more O -999
+. O -999
 
 volume B-ASP Neutral
 of I-ASP Neutral
@@ -5401,7 +5901,8 @@ compare O -999
 with O -999
 sony O -999
 or O -999
-samsung. O -999
+samsung O -999
+. O -999
 
 mirror B-ASP Negative
 cast I-ASP Negative
@@ -5415,12 +5916,14 @@ sky O -999
 app O -999
 with O -999
 android O -999
-phone. O -999
+phone O -999
+. O -999
 
 package B-ASP Negative
 poor O -999
 from O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 worst O -999
 worst O -999
@@ -5430,7 +5933,8 @@ and O -999
 installation B-ASP -999
 service O -999
 from O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 worst O -999
 worst O -999
@@ -5440,14 +5944,16 @@ and O -999
 installation B-ASP Negative
 service O -999
 from O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 smart B-ASP Positive
 tv I-ASP Positive
 functions I-ASP Positive
 are O -999
 working O -999
-well. O -999
+well O -999
+. O -999
 
 > O -999
 low O -999
@@ -5457,9 +5963,12 @@ consumption I-ASP Positive
 on O -999
 the O -999
 web O -999
-page, O -999
+page O -999
+, O -999
 but O -999
-didn't O -999
+didn O -999
+' O -999
+t O -999
 have O -999
 the O -999
 tv O -999
@@ -5479,9 +5988,11 @@ correctly O -999
 with O -999
 laptop O -999
 1366x768 O -999
-resolution) O -999
+resolution O -999
+) O -999
 with O -999
-audio. O -999
+audio O -999
+. O -999
 
 > O -999
 low O -999
@@ -5491,9 +6002,12 @@ consumption I-ASP -999
 on O -999
 the O -999
 web O -999
-page, O -999
+page O -999
+, O -999
 but O -999
-didn't O -999
+didn O -999
+' O -999
+t O -999
 have O -999
 the O -999
 tv O -999
@@ -5513,14 +6027,18 @@ correctly O -999
 with O -999
 laptop O -999
 1366x768 O -999
-resolution) O -999
+resolution O -999
+) O -999
 with O -999
-audio. O -999
+audio O -999
+. O -999
 
 the O -999
 computer O -999
 ( O -999
-laptop)can O -999
+laptop O -999
+) O -999
+can O -999
 be O -999
 connected O -999
 via O -999
@@ -5531,7 +6049,8 @@ picture B-ASP Negative
 quality I-ASP Negative
 is O -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 sony O -999
 clarity O -999
@@ -5551,13 +6070,17 @@ but O -999
 this O -999
 takes O -999
 the O -999
-cake!. O -999
+cake O -999
+! O -999
+. O -999
 
 very O -999
 quick O -999
 delivery B-ASP Positive
 and O -999
-installation,crisp B-ASP -999
+installation B-ASP -999
+, O -999
+crisp O -999
 and O -999
 vybrant O -999
 dispalay B-ASP -999
@@ -5566,13 +6089,16 @@ good O -999
 options O -999
 to O -999
 go O -999
-with. O -999
+with O -999
+. O -999
 
 very O -999
 quick O -999
 delivery B-ASP -999
 and O -999
-installation,crisp B-ASP Positive
+installation B-ASP Positive
+, O -999
+crisp O -999
 and O -999
 vybrant O -999
 dispalay B-ASP -999
@@ -5581,13 +6107,16 @@ good O -999
 options O -999
 to O -999
 go O -999
-with. O -999
+with O -999
+. O -999
 
 very O -999
 quick O -999
 delivery B-ASP -999
 and O -999
-installation,crisp B-ASP -999
+installation B-ASP -999
+, O -999
+crisp O -999
 and O -999
 vybrant O -999
 dispalay B-ASP Positive
@@ -5596,25 +6125,30 @@ good O -999
 options O -999
 to O -999
 go O -999
-with. O -999
+with O -999
+. O -999
 
 constantly O -999
 displays O -999
 annoying O -999
-pop-ups B-ASP Negative
+pop B-ASP Negative
+- I-ASP Negative
+ups I-ASP Negative
 on O -999
 screen O -999
 about O -999
 internet O -999
 connected O -999
 and O -999
-disconnected. O -999
+disconnected O -999
+. O -999
 
 tv O -999
 looking O -999
 is O -999
 very O -999
-good, O -999
+good O -999
+, O -999
 but O -999
 sound B-ASP Negative
 clarity I-ASP Negative
@@ -5622,7 +6156,8 @@ is O -999
 not O -999
 good O -999
 average O -999
-only. O -999
+only O -999
+. O -999
 
 user B-ASP Neutral
 interface I-ASP Neutral
@@ -5631,7 +6166,8 @@ like O -999
 our O -999
 mi O -999
 smart O -999
-phone. O -999
+phone O -999
+. O -999
 
 the O -999
 product O -999
@@ -5642,12 +6178,13 @@ awesome O -999
 picture B-ASP Positive
 quality I-ASP Positive
 , O -999
-flex B-ASP -999
-wall I-ASP -999
-mount O -999
+flex O -999
+wall B-ASP -999
+mount I-ASP -999
 with O -999
-free B-ASP -999
-installation. O -999
+free O -999
+installation B-ASP -999
+. O -999
 
 the O -999
 product O -999
@@ -5658,12 +6195,13 @@ awesome O -999
 picture B-ASP -999
 quality I-ASP -999
 , O -999
-flex B-ASP Positive
-wall I-ASP Positive
-mount O -999
+flex O -999
+wall B-ASP Positive
+mount I-ASP Positive
 with O -999
-free B-ASP -999
-installation. O -999
+free O -999
+installation B-ASP -999
+. O -999
 
 the O -999
 product O -999
@@ -5674,45 +6212,55 @@ awesome O -999
 picture B-ASP -999
 quality I-ASP -999
 , O -999
-flex B-ASP -999
-wall I-ASP -999
-mount O -999
+flex O -999
+wall B-ASP -999
+mount I-ASP -999
 with O -999
-free B-ASP Positive
-installation. O -999
+free O -999
+installation B-ASP Positive
+. O -999
 
 best O -999
-buy, O -999
+buy O -999
+, O -999
 fantastic O -999
 clarity B-ASP Positive
 , O -999
-good B-ASP -999
-sound, O -999
+good O -999
+sound B-ASP -999
+, O -999
 and O -999
-great B-ASP -999
-installation. O -999
+great O -999
+installation B-ASP -999
+. O -999
 
 best O -999
-buy, O -999
+buy O -999
+, O -999
 fantastic O -999
 clarity B-ASP -999
 , O -999
-good B-ASP Positive
-sound, O -999
+good O -999
+sound B-ASP Positive
+, O -999
 and O -999
-great B-ASP -999
-installation. O -999
+great O -999
+installation B-ASP -999
+. O -999
 
 best O -999
-buy, O -999
+buy O -999
+, O -999
 fantastic O -999
 clarity B-ASP -999
 , O -999
-good B-ASP -999
-sound, O -999
+good O -999
+sound B-ASP -999
+, O -999
 and O -999
-great B-ASP Positive
-installation. O -999
+great O -999
+installation B-ASP Positive
+. O -999
 
 since O -999
 the O -999
@@ -5727,7 +6275,8 @@ that O -999
 much O -999
 good O -999
 and O -999
-comfortable. O -999
+comfortable O -999
+. O -999
 
 good O -999
 viewing B-ASP Positive
@@ -5743,7 +6292,8 @@ and O -999
 display O -999
 quality O -999
 is O -999
-average. O -999
+average O -999
+. O -999
 
 sound O -999
 clarity O -999
@@ -5751,13 +6301,15 @@ and O -999
 display B-ASP Neutral
 quality I-ASP Neutral
 is O -999
-average. O -999
+average O -999
+. O -999
 
 air B-ASP Negative
 mouse I-ASP Negative
 a O -999
 bit O -999
-laggy. O -999
+laggy O -999
+. O -999
 
 only O -999
 issue O -999
@@ -5770,22 +6322,28 @@ output I-ASP Negative
 fantabolous O -999
 display B-ASP Positive
 and O -999
-built-in O -999
+built O -999
+- O -999
+in O -999
 sound O -999
 bar O -999
 has O -999
 no O -999
-comparison. O -999
+comparison O -999
+. O -999
 
 fantabolous O -999
 display O -999
 and O -999
-built-in B-ASP Positive
+built B-ASP Positive
+- I-ASP Positive
+in I-ASP Positive
 sound I-ASP Positive
 bar I-ASP Positive
 has O -999
 no O -999
-comparison. O -999
+comparison O -999
+. O -999
 
 remote B-ASP Negative
 button I-ASP Negative
@@ -5795,7 +6353,8 @@ not O -999
 very O -999
 smooth O -999
 to O -999
-operate. O -999
+operate O -999
+. O -999
 
 if O -999
 you O -999
@@ -5813,7 +6372,10 @@ then O -999
 go O -999
 for O -999
 vu O -999
-40'', O -999
+40 O -999
+' O -999
+' O -999
+, O -999
 if O -999
 far O -999
 cheaper O -999
@@ -5834,7 +6396,8 @@ service B-ASP -999
 thank O -999
 you O -999
 to O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 on O -999
 time O -999
@@ -5845,7 +6408,8 @@ service B-ASP Positive
 thank O -999
 you O -999
 to O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 if O -999
 you O -999
@@ -5858,7 +6422,8 @@ quality I-ASP -999
 go O -999
 for O -999
 branded O -999
-ones. O -999
+ones O -999
+. O -999
 
 if O -999
 you O -999
@@ -5871,7 +6436,8 @@ quality I-ASP Neutral
 go O -999
 for O -999
 branded O -999
-ones. O -999
+ones O -999
+. O -999
 
 its O -999
 lag O -999
@@ -5882,10 +6448,13 @@ picture B-ASP Positive
 quality I-ASP Positive
 is O -999
 super O -999
-it's O -999
+it O -999
+' O -999
+s O -999
 playing O -999
 2k O -999
-videos. O -999
+videos O -999
+. O -999
 
 sound B-ASP Negative
 seems O -999
@@ -5893,7 +6462,8 @@ to O -999
 be O -999
 little O -999
 bit O -999
-suppressed. O -999
+suppressed O -999
+. O -999
 
 there O -999
 is O -999
@@ -5909,13 +6479,15 @@ app I-ASP Neutral
 not O -999
 compactable O -999
 with O -999
-keyboard, O -999
+keyboard O -999
+, O -999
 and O -999
 mirror B-ASP Negative
 cast I-ASP Negative
 is O -999
 not O -999
-working, O -999
+working O -999
+, O -999
 and O -999
 no O -999
 response O -999
@@ -5927,13 +6499,15 @@ centre I-ASP -999
 not O -999
 compactable O -999
 with O -999
-keyboard, O -999
+keyboard O -999
+, O -999
 and O -999
 mirror B-ASP -999
 cast I-ASP -999
 is O -999
 not O -999
-working, O -999
+working O -999
+, O -999
 and O -999
 no O -999
 response O -999
@@ -5948,7 +6522,8 @@ quality I-ASP Positive
 best O -999
 feature O -999
 nice O -999
-product. O -999
+product O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -5964,12 +6539,17 @@ it O -999
 on O -999
 standard O -999
 video O -999
-cables( O -999
-480p),no O -999
+cables O -999
+( O -999
+480p O -999
+) O -999
+, O -999
+no O -999
 idea O -999
 about O -999
 hd B-ASP -999
-quality. I-ASP -999
+quality I-ASP -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -5985,12 +6565,17 @@ it O -999
 on O -999
 standard O -999
 video O -999
-cables( O -999
-480p),no O -999
+cables O -999
+( O -999
+480p O -999
+) O -999
+, O -999
+no O -999
 idea O -999
 about O -999
 hd B-ASP Neutral
-quality. I-ASP Neutral
+quality I-ASP Neutral
+. O -999
 
 dth O -999
 hd B-ASP Negative
@@ -6000,11 +6585,14 @@ not O -999
 up O -999
 to O -999
 my O -999
-satisfaction( O -999
+satisfaction O -999
+( O -999
 we O -999
 have O -999
 Airtel O -999
-dth). O -999
+dth O -999
+) O -999
+. O -999
 
 the O -999
 tv O -999
@@ -6022,7 +6610,8 @@ and O -999
 easy O -999
 to O -999
 use O -999
-remote. B-ASP -999
+remote B-ASP -999
+. O -999
 
 the O -999
 tv O -999
@@ -6040,7 +6629,8 @@ and O -999
 easy O -999
 to O -999
 use O -999
-remote. B-ASP Positive
+remote B-ASP Positive
+. O -999
 
 pros O -999
 - O -999
@@ -6068,13 +6658,14 @@ installation B-ASP Negative
 procedure O -999
 n O -999
 process O -999
-adopted. O -999
+adopted O -999
+. O -999
 
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
-, B-ASP -999
-sound O -999
+, O -999
+sound B-ASP -999
 and O -999
 off O -999
 course O -999
@@ -6083,13 +6674,14 @@ price O -999
 for O -999
 all O -999
 such O -999
-features. O -999
+features O -999
+. O -999
 
 good O -999
 picture B-ASP -999
 quality I-ASP -999
-, B-ASP Positive
-sound O -999
+, O -999
+sound B-ASP Positive
 and O -999
 off O -999
 course O -999
@@ -6098,53 +6690,65 @@ price O -999
 for O -999
 all O -999
 such O -999
-features. O -999
+features O -999
+. O -999
 
-slim, O -999
+slim O -999
+, O -999
 very O -999
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
 , O -999
-smart O -999
-tv O -999
-functions O -999
-enabled, O -999
-3d O -999
-viewing O -999
+smart B-ASP -999
+tv I-ASP -999
+functions I-ASP -999
+enabled O -999
+, O -999
+3d B-ASP -999
+viewing I-ASP -999
 is O -999
 good O -999
-experience. O -999
+experience O -999
+. O -999
 
-slim, O -999
+slim O -999
+, O -999
 very O -999
 good O -999
-picture O -999
-quality, O -999
+picture B-ASP -999
+quality I-ASP -999
+, O -999
 smart B-ASP Positive
 tv I-ASP Positive
 functions I-ASP Positive
-enabled, O -999
-3d O -999
-viewing O -999
+enabled O -999
+, O -999
+3d B-ASP -999
+viewing I-ASP -999
 is O -999
 good O -999
-experience. O -999
+experience O -999
+. O -999
 
-slim, O -999
+slim O -999
+, O -999
 very O -999
 good O -999
-picture O -999
-quality, O -999
-smart O -999
-tv O -999
-functions O -999
-enabled, O -999
+picture B-ASP -999
+quality I-ASP -999
+, O -999
+smart B-ASP -999
+tv I-ASP -999
+functions I-ASP -999
+enabled O -999
+, O -999
 3d B-ASP Positive
 viewing I-ASP Positive
 is O -999
 good O -999
-experience. O -999
+experience O -999
+. O -999
 
 one O -999
 of O -999
@@ -6152,7 +6756,8 @@ the O -999
 great O -999
 product O -999
 from O -999
-bpl, O -999
+bpl O -999
+, O -999
 overall O -999
 product O -999
 works O -999
@@ -6179,7 +6784,8 @@ look O -999
 wise O -999
 also O -999
 very O -999
-nice. O -999
+nice O -999
+. O -999
 
 while O -999
 operating O -999
@@ -6217,7 +6823,8 @@ Micromax O -999
 specify O -999
 2x10 O -999
 watt O -999
-speakers. O -999
+speakers O -999
+. O -999
 
 fabulous O -999
 tv O -999
@@ -6231,14 +6838,17 @@ to O -999
 samsung O -999
 sony O -999
 & O -999
-lg,and O -999
+lg O -999
+, O -999
+and O -999
 the O -999
 great O -999
 service B-ASP -999
 from O -999
 Flipkart O -999
 n O -999
-vu. O -999
+vu O -999
+. O -999
 
 fabulous O -999
 tv O -999
@@ -6252,21 +6862,25 @@ to O -999
 samsung O -999
 sony O -999
 & O -999
-lg,and O -999
+lg O -999
+, O -999
+and O -999
 the O -999
 great O -999
 service B-ASP Positive
 from O -999
 Flipkart O -999
 n O -999
-vu. O -999
+vu O -999
+. O -999
 
 and O -999
 all O -999
 the O -999
 services O -999
 was O -999
-free, O -999
+free O -999
+, O -999
 including O -999
 the O -999
 wall B-ASP Neutral
@@ -6278,13 +6892,14 @@ nice O -999
 tv O -999
 in O -999
 least O -999
-price O -999
+price B-ASP -999
 with O -999
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
 and O -999
-sound. O -999
+sound B-ASP -999
+. O -999
 
 nice O -999
 tv O -999
@@ -6293,8 +6908,8 @@ least O -999
 price B-ASP -999
 with O -999
 good O -999
-picture O -999
-quality O -999
+picture B-ASP -999
+quality I-ASP -999
 and O -999
 sound B-ASP Positive
 . O -999
@@ -6306,8 +6921,8 @@ least O -999
 price B-ASP Negative
 with O -999
 good O -999
-picture O -999
-quality O -999
+picture B-ASP -999
+quality I-ASP -999
 and O -999
 sound B-ASP -999
 . O -999
@@ -6321,7 +6936,8 @@ picture B-ASP Positive
 quality I-ASP Positive
 " O -999
 and O -999
-"60 O -999
+" O -999
+60 O -999
 hz O -999
 : O -999
 standard O -999
@@ -6329,7 +6945,9 @@ refresh O -999
 rate O -999
 for O -999
 blur O -999
-free". O -999
+free O -999
+" O -999
+. O -999
 
 very O -999
 very O -999
@@ -6373,7 +6991,8 @@ tv O -999
 is O -999
 also O -999
 quite O -999
-satisfactory. O -999
+satisfactory O -999
+. O -999
 
 this O -999
 is O -999
@@ -6386,7 +7005,8 @@ delivered B-ASP Positive
 & O -999
 handelled O -999
 by O -999
-Flipkart. O -999
+Flipkart O -999
+. O -999
 
 picture B-ASP Negative
 clarity I-ASP Negative
@@ -6398,7 +7018,8 @@ and O -999
 audio B-ASP -999
 is O -999
 not O -999
-clear. O -999
+clear O -999
+. O -999
 
 picture B-ASP -999
 clarity I-ASP -999
@@ -6410,7 +7031,8 @@ and O -999
 audio B-ASP Negative
 is O -999
 not O -999
-clear. O -999
+clear O -999
+. O -999
 
 the O -999
 video B-ASP Negative
@@ -6427,7 +7049,8 @@ with O -999
 regular O -999
 channels O -999
 without O -999
-hd, O -999
+hd O -999
+, O -999
 so O -999
 you O -999
 must O -999
@@ -6439,7 +7062,8 @@ experience O -999
 its O -999
 led O -999
 super O -999
-quality. O -999
+quality O -999
+. O -999
 
 the O -999
 tv O -999
@@ -6458,7 +7082,8 @@ picture I-ASP Positive
 they O -999
 cancelled O -999
 installation B-ASP Negative
-themself. O -999
+themself O -999
+. O -999
 
 downside O -999
 is O -999
@@ -6471,7 +7096,8 @@ not O -999
 as O -999
 clear O -999
 but O -999
-acceptable. O -999
+acceptable O -999
+. O -999
 
 sound B-ASP Neutral
 quality I-ASP Neutral
@@ -6480,7 +7106,8 @@ poor O -999
 compare O -999
 to O -999
 other O -999
-brands. O -999
+brands O -999
+. O -999
 
 very O -999
 poor O -999
@@ -6488,7 +7115,8 @@ quality O -999
 sound B-ASP Negative
 waste O -999
 of O -999
-money. O -999
+money O -999
+. O -999
 
 so O -999
 please O -999
@@ -6501,7 +7129,8 @@ in O -999
 out O -999
 of O -999
 the O -999
-box. O -999
+box O -999
+. O -999
 
 best O -999
 performance O -999
@@ -6527,7 +7156,8 @@ box O -999
 connect O -999
 to O -999
 ir O -999
-blaster. O -999
+blaster O -999
+. O -999
 
 best O -999
 performance O -999
@@ -6553,7 +7183,8 @@ box O -999
 connect O -999
 to O -999
 ir O -999
-blaster. O -999
+blaster O -999
+. O -999
 
 best O -999
 performance O -999
@@ -6579,19 +7210,22 @@ box O -999
 connect O -999
 to O -999
 ir O -999
-blaster. O -999
+blaster O -999
+. O -999
 
 worst O -999
 service B-ASP Negative
 from O -999
-Micromax. O -999
+Micromax O -999
+. O -999
 
 low O -999
 sound B-ASP Negative
 but O -999
 fit O -999
 for O -999
-home. O -999
+home O -999
+. O -999
 
 only O -999
 drawback O -999
@@ -6602,7 +7236,9 @@ Netflix B-ASP Negative
 support I-ASP Negative
 but O -999
 vu O -999
-can't O -999
+can O -999
+' O -999
+t O -999
 do O -999
 anything O -999
 about O -999
@@ -6613,7 +7249,8 @@ is O -999
 between O -999
 Google O -999
 and O -999
-Netflix. O -999
+Netflix O -999
+. O -999
 
 packing B-ASP Negative
 is O -999
@@ -6623,21 +7260,24 @@ as O -999
 per O -999
 long O -999
 distance O -999
-traveling. O -999
+traveling O -999
+. O -999
 
 sound B-ASP Positive
 good O -999
 installation O -999
 mount O -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 sound O -999
 good O -999
 installation B-ASP Negative
 mount I-ASP Negative
 not O -999
-good. O -999
+good O -999
+. O -999
 
 frame B-ASP Positive
 is O -999
@@ -6648,7 +7288,8 @@ covers O -999
 maximum O -999
 size O -999
 of O -999
-tv. O -999
+tv O -999
+. O -999
 
 frame B-ASP -999
 is O -999
@@ -6659,7 +7300,8 @@ covers O -999
 maximum O -999
 size O -999
 of O -999
-tv. O -999
+tv O -999
+. O -999
 
 this O -999
 tv O -999
@@ -6678,7 +7320,8 @@ very O -999
 quickly O -999
 worth O -999
 for O -999
-money. O -999
+money O -999
+. O -999
 
 this O -999
 tv O -999
@@ -6697,7 +7340,8 @@ very O -999
 quickly O -999
 worth O -999
 for O -999
-money. O -999
+money O -999
+. O -999
 
 also O -999
 delivery B-ASP Neutral
@@ -6707,7 +7351,8 @@ was O -999
 done O -999
 on O -999
 same O -999
-time. O -999
+time O -999
+. O -999
 
 also O -999
 delivery B-ASP -999
@@ -6717,7 +7362,8 @@ was O -999
 done O -999
 on O -999
 same O -999
-time. O -999
+time O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -6725,7 +7371,9 @@ is O -999
 very O -999
 good O -999
 , O -999
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 support O -999
 all O -999
 video B-ASP -999
@@ -6738,7 +7386,9 @@ is O -999
 very O -999
 good O -999
 , O -999
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 support O -999
 all O -999
 video B-ASP Negative
@@ -6761,7 +7411,8 @@ smart O -999
 tv O -999
 in O -999
 this O -999
-range. O -999
+range O -999
+. O -999
 
 little O -999
 disappointed O -999
@@ -6773,7 +7424,8 @@ typing O -999
 on O -999
 remote B-ASP -999
 seems O -999
-tiresome. O -999
+tiresome O -999
+. O -999
 
 little O -999
 disappointed O -999
@@ -6785,7 +7437,8 @@ typing O -999
 on O -999
 remote B-ASP Negative
 seems O -999
-tiresome. O -999
+tiresome O -999
+. O -999
 
 the O -999
 tv O -999
@@ -6817,7 +7470,8 @@ its O -999
 definitely O -999
 value B-ASP -999
 for I-ASP -999
-money. I-ASP -999
+money I-ASP -999
+. O -999
 
 i O -999
 have O -999
@@ -6837,7 +7491,8 @@ its O -999
 definitely O -999
 value B-ASP -999
 for I-ASP -999
-money. I-ASP -999
+money I-ASP -999
+. O -999
 
 i O -999
 have O -999
@@ -6857,7 +7512,8 @@ its O -999
 definitely O -999
 value B-ASP Positive
 for I-ASP Positive
-money. I-ASP Positive
+money I-ASP Positive
+. O -999
 
 super O -999
 tv O -999
@@ -6890,7 +7546,8 @@ but O -999
 installation B-ASP Negative
 not O -999
 done O -999
-timely. O -999
+timely O -999
+. O -999
 
 superb O -999
 picture B-ASP Positive
@@ -6947,8 +7604,8 @@ impressive O -999
 clarity B-ASP Positive
 , O -999
 and O -999
-very B-ASP -999
-colors O -999
+very O -999
+colors B-ASP -999
 . O -999
 
 very O -999
@@ -6958,8 +7615,8 @@ impressive O -999
 clarity B-ASP -999
 , O -999
 and O -999
-very B-ASP Positive
-colors O -999
+very O -999
+colors B-ASP Positive
 . O -999
 
 4k O -999
@@ -6968,7 +7625,8 @@ of O -999
 youtube B-ASP Positive
 plays O -999
 like O -999
-charm. O -999
+charm O -999
+. O -999
 
 even O -999
 i O -999
@@ -6984,7 +7642,8 @@ demo B-ASP Positive
 service I-ASP Positive
 was O -999
 extremely O -999
-pleasing. O -999
+pleasing O -999
+. O -999
 
 well O -999
 packaged B-ASP Positive
@@ -6993,7 +7652,8 @@ no O -999
 damage O -999
 to O -999
 any O -999
-part. O -999
+part O -999
+. O -999
 
 awesome O -999
 tv B-ASP Positive
@@ -7001,21 +7661,25 @@ nice O -999
 clarity B-ASP -999
 nice O -999
 sounds B-ASP -999
-quality, I-ASP -999
+quality I-ASP -999
+, O -999
 wonderful O -999
 product O -999
 at O -999
 this O -999
 price O -999
-range, O -999
+range O -999
+, O -999
 must O -999
 go O -999
 for O -999
-it, O -999
+it O -999
+, O -999
 nice O -999
 service B-ASP -999
 by O -999
-#flipkart O -999
+# O -999
+flipkart O -999
 
 awesome O -999
 tv B-ASP -999
@@ -7023,21 +7687,25 @@ nice O -999
 clarity B-ASP Positive
 nice O -999
 sounds B-ASP -999
-quality, I-ASP -999
+quality I-ASP -999
+, O -999
 wonderful O -999
 product O -999
 at O -999
 this O -999
 price O -999
-range, O -999
+range O -999
+, O -999
 must O -999
 go O -999
 for O -999
-it, O -999
+it O -999
+, O -999
 nice O -999
 service B-ASP -999
 by O -999
-#flipkart O -999
+# O -999
+flipkart O -999
 
 awesome O -999
 tv B-ASP -999
@@ -7045,21 +7713,25 @@ nice O -999
 clarity B-ASP -999
 nice O -999
 sounds B-ASP Positive
-quality, I-ASP Positive
+quality I-ASP Positive
+, O -999
 wonderful O -999
 product O -999
 at O -999
 this O -999
 price O -999
-range, O -999
+range O -999
+, O -999
 must O -999
 go O -999
 for O -999
-it, O -999
+it O -999
+, O -999
 nice O -999
 service B-ASP -999
 by O -999
-#flipkart O -999
+# O -999
+flipkart O -999
 
 awesome O -999
 tv B-ASP -999
@@ -7067,21 +7739,25 @@ nice O -999
 clarity B-ASP -999
 nice O -999
 sounds B-ASP -999
-quality, I-ASP -999
+quality I-ASP -999
+, O -999
 wonderful O -999
 product O -999
 at O -999
 this O -999
 price O -999
-range, O -999
+range O -999
+, O -999
 must O -999
 go O -999
 for O -999
-it, O -999
+it O -999
+, O -999
 nice O -999
 service B-ASP Positive
 by O -999
-#flipkart O -999
+# O -999
+flipkart O -999
 
 super O -999
 fast O -999
@@ -7094,7 +7770,8 @@ and O -999
 technician O -999
 was O -999
 also O -999
-good. O -999
+good O -999
+. O -999
 
 and O -999
 i O -999
@@ -7106,7 +7783,8 @@ the O -999
 price B-ASP Positive
 to O -999
 feature O -999
-ratio. O -999
+ratio O -999
+. O -999
 
 very O -999
 nice O -999
@@ -7114,14 +7792,16 @@ only O -999
 sound B-ASP Negative
 was O -999
 very O -999
-low. O -999
+low O -999
+. O -999
 
 non O -999
 glossy O -999
 screen B-ASP Positive
 absorbs O -999
 light O -999
-reflection. O -999
+reflection O -999
+. O -999
 
 same O -999
 day O -999
@@ -7129,55 +7809,72 @@ installation B-ASP Positive
 . O -999
 
 colors B-ASP Neutral
-, B-ASP -999
-features, B-ASP -999
-display O -999
-etc. O -999
+, O -999
+features B-ASP -999
+, O -999
+display B-ASP -999
+etc O -999
+. O -999
 are O -999
 up O -999
 to O -999
 the O -999
-mark. O -999
+mark O -999
+. O -999
 
 colors B-ASP -999
-, B-ASP Neutral
-features, B-ASP -999
-display O -999
-etc. O -999
+, O -999
+features B-ASP Neutral
+, O -999
+display B-ASP -999
+etc O -999
+. O -999
 are O -999
 up O -999
 to O -999
 the O -999
-mark. O -999
+mark O -999
+. O -999
 
 colors B-ASP -999
-, B-ASP -999
-features, B-ASP Neutral
-display O -999
-etc. O -999
+, O -999
+features B-ASP -999
+, O -999
+display B-ASP Neutral
+etc O -999
+. O -999
 are O -999
 up O -999
 to O -999
 the O -999
-mark. O -999
+mark O -999
+. O -999
 
 the O -999
 audio B-ASP Negative
 quality I-ASP Negative
 is O -999
 very O -999
-poor, O -999
+poor O -999
+, O -999
 had O -999
 to O -999
 connect O -999
 an O -999
 external O -999
-2.1/5.1 O -999
+2 O -999
+. O -999
+1 O -999
+/ O -999
+5 O -999
+. O -999
+1 O -999
 system O -999
 to O -999
 hear O -999
 anything O -999
-clearly. O -999
+clearly O -999
+. O -999
 
 and O -999
 thanks O -999
@@ -7188,7 +7885,8 @@ delivered B-ASP Neutral
 in O -999
 time O -999
 and O -999
-installation. B-ASP -999
+installation B-ASP -999
+. O -999
 
 and O -999
 thanks O -999
@@ -7199,12 +7897,14 @@ delivered B-ASP -999
 in O -999
 time O -999
 and O -999
-installation. B-ASP Neutral
+installation B-ASP Neutral
+. O -999
 
 picture B-ASP Positive
 clarity I-ASP Positive
 is O -999
-good. O -999
+good O -999
+. O -999
 
 the O -999
 build B-ASP Positive
@@ -7222,7 +7922,8 @@ quality I-ASP -999
 is O -999
 just O -999
 too O -999
-good. O -999
+good O -999
+. O -999
 
 the O -999
 build B-ASP -999
@@ -7240,7 +7941,8 @@ quality I-ASP Positive
 is O -999
 just O -999
 too O -999
-good. O -999
+good O -999
+. O -999
 
 phenomenal O -999
 performance O -999
@@ -7252,7 +7954,8 @@ for O -999
 the O -999
 money O -999
 well O -999
-spent. O -999
+spent O -999
+. O -999
 
 the O -999
 build B-ASP Negative
@@ -7264,7 +7967,8 @@ body O -999
 is O -999
 a O -999
 bit O -999
-wanting. O -999
+wanting O -999
+. O -999
 
 excellent O -999
 tv O -999
@@ -7279,7 +7983,8 @@ is O -999
 bit O -999
 loud O -999
 with O -999
-disturbance. O -999
+disturbance O -999
+. O -999
 
 i O -999
 would O -999
@@ -7308,7 +8013,8 @@ be O -999
 addressed O -999
 by O -999
 an O -999
-update. O -999
+update O -999
+. O -999
 
 lack O -999
 of O -999
@@ -7316,7 +8022,8 @@ surround O -999
 sound B-ASP Negative
 & O -999
 bass O -999
-effect. O -999
+effect O -999
+. O -999
 
 picture B-ASP Positive
 clarity I-ASP Positive
@@ -7329,7 +8036,8 @@ was O -999
 awesome O -999
 with O -999
 sound O -999
-bar. O -999
+bar O -999
+. O -999
 
 picture B-ASP -999
 clarity I-ASP -999
@@ -7342,7 +8050,8 @@ was O -999
 awesome O -999
 with O -999
 sound O -999
-bar. O -999
+bar O -999
+. O -999
 
 nice O -999
 picture O -999
@@ -7350,7 +8059,8 @@ quality O -999
 and O -999
 sound B-ASP Positive
 very O -999
-good. O -999
+good O -999
+. O -999
 
 nice O -999
 picture B-ASP Positive
@@ -7358,39 +8068,52 @@ quality I-ASP Positive
 and O -999
 sound O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 bit O -999
 issue O -999
 with O -999
 screen B-ASP -999
-clarity,may I-ASP -999
+clarity I-ASP -999
+, O -999
+may O -999
 be O -999
 due O -999
 to O -999
 sd O -999
 set O -999
 top O -999
-box,good O -999
+box O -999
+, O -999
+good O -999
 sound B-ASP Positive
-,nice O -999
-look. O -999
+, O -999
+nice O -999
+look O -999
+. O -999
 
 bit O -999
 issue O -999
 with O -999
 screen B-ASP Negative
-clarity,may I-ASP Negative
+clarity I-ASP Negative
+, O -999
+may O -999
 be O -999
 due O -999
 to O -999
 sd O -999
 set O -999
 top O -999
-box,good O -999
+box O -999
+, O -999
+good O -999
 sound B-ASP -999
-,nice O -999
-look. O -999
+, O -999
+nice O -999
+look O -999
+. O -999
 
 faster O -999
 delivery B-ASP Positive
@@ -7398,7 +8121,8 @@ and O -999
 faster O -999
 installation B-ASP -999
 awesome O -999
-quality. O -999
+quality B-ASP -999
+. O -999
 
 faster O -999
 delivery B-ASP -999
@@ -7406,13 +8130,14 @@ and O -999
 faster O -999
 installation B-ASP Positive
 awesome O -999
-quality. O -999
+quality B-ASP -999
+. O -999
 
 faster O -999
-delivery O -999
+delivery B-ASP -999
 and O -999
 faster O -999
-installation O -999
+installation B-ASP -999
 awesome O -999
 quality B-ASP Positive
 . O -999
@@ -7421,41 +8146,48 @@ best O -999
 brand B-ASP Positive
 , O -999
 best O -999
-tv, O -999
-best B-ASP -999
-service O -999
+tv O -999
+, O -999
+best O -999
+service B-ASP -999
 & O -999
-best B-ASP -999
-price. O -999
+best O -999
+price B-ASP -999
+. O -999
 
 best O -999
 brand B-ASP -999
 , O -999
 best O -999
-tv, O -999
-best B-ASP Positive
-service O -999
+tv O -999
+, O -999
+best O -999
+service B-ASP Positive
 & O -999
-best B-ASP -999
-price. O -999
+best O -999
+price B-ASP -999
+. O -999
 
 best O -999
 brand B-ASP -999
 , O -999
 best O -999
-tv, O -999
-best B-ASP -999
-service O -999
+tv O -999
+, O -999
+best O -999
+service B-ASP -999
 & O -999
-best B-ASP Positive
-price. O -999
+best O -999
+price B-ASP Positive
+. O -999
 
 so O -999
 good O -999
 delivery B-ASP Positive
 and O -999
 good O -999
-quality. O -999
+quality O -999
+. O -999
 
 sound B-ASP Positive
 and O -999
@@ -7478,7 +8210,9 @@ in O -999
 comparison O -999
 to O -999
 samsung O -999
-,lg. O -999
+, O -999
+lg O -999
+. O -999
 must O -999
 buy O -999
 if O -999
@@ -7490,7 +8224,8 @@ buy O -999
 43 O -999
 inch O -999
 fulll O -999
-hd. O -999
+hd O -999
+. O -999
 
 sound B-ASP -999
 and O -999
@@ -7513,7 +8248,9 @@ in O -999
 comparison O -999
 to O -999
 samsung O -999
-,lg. O -999
+, O -999
+lg O -999
+. O -999
 must O -999
 buy O -999
 if O -999
@@ -7525,7 +8262,8 @@ buy O -999
 43 O -999
 inch O -999
 fulll O -999
-hd. O -999
+hd O -999
+. O -999
 
 sound B-ASP -999
 and O -999
@@ -7548,7 +8286,9 @@ in O -999
 comparison O -999
 to O -999
 samsung O -999
-,lg. O -999
+, O -999
+lg O -999
+. O -999
 must O -999
 buy O -999
 if O -999
@@ -7560,7 +8300,8 @@ buy O -999
 43 O -999
 inch O -999
 fulll O -999
-hd. O -999
+hd O -999
+. O -999
 
 compare O -999
 to O -999
@@ -7577,7 +8318,8 @@ video B-ASP -999
 quality I-ASP -999
 is O -999
 too O -999
-bad. O -999
+bad O -999
+. O -999
 
 compare O -999
 to O -999
@@ -7594,7 +8336,8 @@ video B-ASP -999
 quality I-ASP -999
 is O -999
 too O -999
-bad. O -999
+bad O -999
+. O -999
 
 compare O -999
 to O -999
@@ -7611,7 +8354,8 @@ video B-ASP Negative
 quality I-ASP Negative
 is O -999
 too O -999
-bad. O -999
+bad O -999
+. O -999
 
 led O -999
 picture B-ASP Positive
@@ -7623,7 +8367,8 @@ feature O -999
 added O -999
 by O -999
 Micromax O -999
-good. O -999
+good O -999
+. O -999
 
 pros O -999
 the O -999
@@ -7636,8 +8381,9 @@ is O -999
 great O -999
 specially O -999
 on O -999
-hd O -999
-channels. O -999
+hd B-ASP -999
+channels I-ASP -999
+. O -999
 
 pros O -999
 the O -999
@@ -7650,16 +8396,17 @@ is O -999
 great O -999
 specially O -999
 on O -999
-hd O -999
-channels. O -999
+hd B-ASP -999
+channels I-ASP -999
+. O -999
 
 pros O -999
 the O -999
-picture O -999
-quality O -999
+picture B-ASP -999
+quality I-ASP -999
 and O -999
-sound O -999
-quality O -999
+sound B-ASP -999
+quality I-ASP -999
 is O -999
 great O -999
 specially O -999
@@ -7701,7 +8448,8 @@ may O -999
 not O -999
 other O -999
 brands O -999
-gives. O -999
+gives O -999
+. O -999
 
 and O -999
 the O -999
@@ -7736,33 +8484,40 @@ may O -999
 not O -999
 other O -999
 brands O -999
-gives. O -999
+gives O -999
+. O -999
 
 smart O -999
 features O -999
 like O -999
 youtube B-ASP Positive
 , O -999
-screen O -999
-mirroring O -999
+screen B-ASP -999
+mirroring I-ASP -999
 works O -999
-flawless. O -999
+flawless O -999
+. O -999
 
 smart O -999
 features O -999
 like O -999
-youtube, O -999
+youtube B-ASP -999
+, O -999
 screen B-ASP Positive
 mirroring I-ASP Positive
 works O -999
-flawless. O -999
+flawless O -999
+. O -999
 
 its O -999
 a O -999
 stunning O -999
 performance B-ASP Positive
 by O -999
-sanyo/panasonic. O -999
+sanyo O -999
+/ O -999
+panasonic O -999
+. O -999
 
 sound B-ASP Positive
 is O -999
@@ -7775,7 +8530,8 @@ for O -999
 12 O -999
 16 O -999
 ft O -999
-hall. O -999
+hall O -999
+. O -999
 
 amazing O -999
 tv O -999
@@ -7796,7 +8552,8 @@ amazing O -999
 tv O -999
 in O -999
 this O -999
-price. O -999
+price O -999
+. O -999
 
 amazing O -999
 tv O -999
@@ -7817,7 +8574,8 @@ amazing O -999
 tv O -999
 in O -999
 this O -999
-price. O -999
+price O -999
+. O -999
 
 picture B-ASP Neutral
 clarity I-ASP Neutral
@@ -7827,7 +8585,10 @@ if O -999
 we O -999
 compare O -999
 to O -999
-sony/lg. O -999
+sony O -999
+/ O -999
+lg O -999
+. O -999
 
 tv O -999
 was O -999
@@ -7835,7 +8596,8 @@ received O -999
 on O -999
 6th O -999
 sept O -999
-2017, O -999
+2017 O -999
+, O -999
 installed B-ASP -999
 on O -999
 08 O -999
@@ -7858,8 +8620,11 @@ demo B-ASP Negative
 personal I-ASP Negative
 over O -999
 telephone O -999
-4-5 O -999
-times. O -999
+4 O -999
+- O -999
+5 O -999
+times O -999
+. O -999
 
 tv O -999
 was O -999
@@ -7867,7 +8632,8 @@ received O -999
 on O -999
 6th O -999
 sept O -999
-2017, O -999
+2017 O -999
+, O -999
 installed B-ASP Neutral
 on O -999
 08 O -999
@@ -7890,8 +8656,11 @@ demo B-ASP -999
 personal I-ASP -999
 over O -999
 telephone O -999
-4-5 O -999
-times. O -999
+4 O -999
+- O -999
+5 O -999
+times O -999
+. O -999
 
 tv O -999
 was O -999
@@ -7899,7 +8668,8 @@ received O -999
 on O -999
 6th O -999
 sept O -999
-2017, O -999
+2017 O -999
+, O -999
 installed B-ASP -999
 on O -999
 08 O -999
@@ -7922,8 +8692,11 @@ demo B-ASP -999
 personal I-ASP -999
 over O -999
 telephone O -999
-4-5 O -999
-times. O -999
+4 O -999
+- O -999
+5 O -999
+times O -999
+. O -999
 
 poor O -999
 picture B-ASP Negative
@@ -7931,18 +8704,21 @@ quality I-ASP Negative
 like O -999
 as O -999
 hd O -999
-ready. O -999
+ready O -999
+. O -999
 
 a O -999
 single O -999
 remote B-ASP Positive
 for O -999
 controlling O -999
-anything, O -999
+anything O -999
+, O -999
 is O -999
 the O -999
 best O -999
-feature. O -999
+feature O -999
+. O -999
 
 very O -999
 good O -999
@@ -7975,7 +8751,8 @@ is O -999
 high O -999
 compare O -999
 to O -999
-oulets. O -999
+oulets O -999
+. O -999
 
 very O -999
 nice O -999
@@ -7986,7 +8763,8 @@ picture B-ASP -999
 quality I-ASP -999
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 very O -999
 nice O -999
@@ -7997,7 +8775,8 @@ picture B-ASP Positive
 quality I-ASP Positive
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -8013,7 +8792,8 @@ good O -999
 value O -999
 for O -999
 money O -999
-overall. O -999
+overall O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -8029,53 +8809,65 @@ good O -999
 value O -999
 for O -999
 money O -999
-overall. O -999
+overall O -999
+. O -999
 
 but O -999
 sound B-ASP Negative
 quality I-ASP Negative
 is O -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 except O -999
 sound B-ASP Negative
 everything O -999
 is O -999
-good. O -999
+good O -999
+. O -999
 
 usb B-ASP Positive
-movie/vedio I-ASP Positive
+movie I-ASP Positive
+/ I-ASP Positive
+vedio I-ASP Positive
 playback I-ASP Positive
 is O -999
 also O -999
 good O -999
-picture B-ASP -999
+picture O -999
 and O -999
-sound B-ASP -999
-quality. I-ASP -999
+sound O -999
+quality O -999
+. O -999
 
-usb B-ASP -999
-movie/vedio I-ASP -999
-playback I-ASP -999
+usb O -999
+movie O -999
+/ O -999
+vedio O -999
+playback O -999
 is O -999
 also O -999
 good O -999
 picture B-ASP Positive
 and O -999
 sound B-ASP -999
-quality. I-ASP -999
+quality I-ASP -999
+. O -999
 
-usb B-ASP -999
-movie/vedio I-ASP -999
-playback I-ASP -999
+usb O -999
+movie O -999
+/ O -999
+vedio O -999
+playback O -999
 is O -999
 also O -999
 good O -999
 picture B-ASP -999
 and O -999
 sound B-ASP Positive
-quality. I-ASP Positive
+quality I-ASP Positive
+. O -999
 
 picture B-ASP Negative
 quality I-ASP Negative
@@ -8090,13 +8882,15 @@ by O -999
 screen O -999
 motion O -999
 ( O -999
-like, O -999
+like O -999
+, O -999
 if O -999
 monitor O -999
 with O -999
 no O -999
 graphic O -999
-card) O -999
+card O -999
+) O -999
 . O -999
 
 as O -999
@@ -8158,7 +8952,9 @@ are O -999
 always O -999
 wide O -999
 ( O -999
-voluminous). O -999
+voluminous O -999
+) O -999
+. O -999
 
 as O -999
 far O -999
@@ -8219,7 +9015,9 @@ are O -999
 always O -999
 wide O -999
 ( O -999
-voluminous). O -999
+voluminous O -999
+) O -999
+. O -999
 
 however O -999
 in O -999
@@ -8243,7 +9041,8 @@ system I-ASP Positive
 was O -999
 more O -999
 authentic O -999
-technology. O -999
+technology O -999
+. O -999
 
 Dolby O -999
 digital O -999
@@ -8253,7 +9052,8 @@ makes O -999
 whole O -999
 experience O -999
 lot O -999
-better. O -999
+better O -999
+. O -999
 
 flexi B-ASP Neutral
 wall I-ASP Neutral
@@ -8266,7 +9066,8 @@ guy O -999
 for O -999
 no O -999
 additional O -999
-cost. O -999
+cost O -999
+. O -999
 
 nice O -999
 tv O -999
@@ -8344,14 +9145,16 @@ at O -999
 the O -999
 build B-ASP Neutral
 quality I-ASP Neutral
-alone. O -999
+alone O -999
+. O -999
 
 good O -999
 price B-ASP Positive
 with O -999
 very O -999
 good O -999
-quality. O -999
+quality O -999
+. O -999
 
 great O -999
 product O -999
@@ -8421,7 +9224,8 @@ and O -999
 2 O -999
 - O -999
 wallmount O -999
-stand. O -999
+stand O -999
+. O -999
 
 1 O -999
 - O -999
@@ -8438,7 +9242,8 @@ the O -999
 sound B-ASP Positive
 quality I-ASP Positive
 is O -999
-great. O -999
+great O -999
+. O -999
 
 also O -999
 the O -999
@@ -8449,7 +9254,8 @@ not O -999
 opening O -999
 like O -999
 Hotstar B-ASP Negative
-youtube. B-ASP -999
+youtube B-ASP -999
+. O -999
 
 also O -999
 the O -999
@@ -8460,7 +9266,8 @@ not O -999
 opening O -999
 like O -999
 Hotstar B-ASP -999
-youtube. B-ASP Negative
+youtube B-ASP Negative
+. O -999
 
 also O -999
 the O -999
@@ -8471,7 +9278,8 @@ not O -999
 opening O -999
 like O -999
 Hotstar B-ASP -999
-youtube. B-ASP -999
+youtube B-ASP -999
+. O -999
 
 very O -999
 good O -999
@@ -8484,7 +9292,8 @@ be O -999
 added O -999
 in O -999
 this O -999
-product. O -999
+product O -999
+. O -999
 
 sound O -999
 quality O -999
@@ -8526,7 +9335,8 @@ right O -999
 next O -999
 to O -999
 the O -999
-tv. O -999
+tv O -999
+. O -999
 
 poor O -999
 picture B-ASP Negative
@@ -8535,7 +9345,8 @@ with O -999
 Tata O -999
 sky O -999
 sd O -999
-stb. O -999
+stb O -999
+. O -999
 
 they O -999
 are O -999
@@ -8549,7 +9360,8 @@ day O -999
 as O -999
 per O -999
 their O -999
-convenience. O -999
+convenience O -999
+. O -999
 
 only O -999
 thing O -999
@@ -8565,7 +9377,8 @@ inflexible O -999
 with O -999
 the O -999
 led O -999
-tv. O -999
+tv O -999
+. O -999
 
 sound B-ASP Negative
 cracks O -999
@@ -8586,13 +9399,15 @@ installation B-ASP Negative
 service I-ASP Negative
 is O -999
 very O -999
-bad. O -999
+bad O -999
+. O -999
 
 audio B-ASP Positive
 clarity I-ASP Positive
 to O -999
 is O -999
-good. O -999
+good O -999
+. O -999
 
 hi O -999
 good O -999
@@ -8605,7 +9420,8 @@ showing O -999
 customer B-ASP -999
 service I-ASP -999
 not O -999
-responsible. O -999
+responsible O -999
+. O -999
 
 hi O -999
 good O -999
@@ -8618,7 +9434,8 @@ showing O -999
 customer B-ASP -999
 service I-ASP -999
 not O -999
-responsible. O -999
+responsible O -999
+. O -999
 
 hi O -999
 good O -999
@@ -8631,9 +9448,12 @@ showing O -999
 customer B-ASP Negative
 service I-ASP Negative
 not O -999
-responsible. O -999
+responsible O -999
+. O -999
 
-2350.00 O -999
+2350 O -999
+. O -999
+00 O -999
 ( O -999
 where O -999
 even O -999
@@ -8641,8 +9461,10 @@ the O -999
 remote B-ASP -999
 control I-ASP -999
 is O -999
-covered) O -999
-cons: O -999
+covered O -999
+) O -999
+cons O -999
+: O -999
 you O -999
 have O -999
 to O -999
@@ -8654,9 +9476,12 @@ system I-ASP Negative
 to O -999
 boost O -999
 the O -999
-volume. O -999
+volume O -999
+. O -999
 
-2350.00 O -999
+2350 O -999
+. O -999
+00 O -999
 ( O -999
 where O -999
 even O -999
@@ -8664,8 +9489,10 @@ the O -999
 remote B-ASP Neutral
 control I-ASP Neutral
 is O -999
-covered) O -999
-cons: O -999
+covered O -999
+) O -999
+cons O -999
+: O -999
 you O -999
 have O -999
 to O -999
@@ -8677,12 +9504,14 @@ system I-ASP -999
 to O -999
 boost O -999
 the O -999
-volume. O -999
+volume O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-great, O -999
+great O -999
+, O -999
 sound O -999
 is O -999
 adequate O -999
@@ -8690,7 +9519,8 @@ contrary O -999
 to O -999
 what O -999
 many O -999
-say. O -999
+say O -999
+. O -999
 
 nice O -999
 tv O -999
@@ -8708,13 +9538,15 @@ and O -999
 gaming O -999
 when O -999
 mirroring O -999
-screen. O -999
+screen O -999
+. O -999
 
 sound B-ASP Positive
 quality I-ASP Positive
 is O -999
 also O -999
-superlative. O -999
+superlative O -999
+. O -999
 
 shipment B-ASP Positive
 was O -999
@@ -8792,65 +9624,74 @@ sound B-ASP Positive
 is O -999
 excellent O -999
 and O -999
-wifi O -999
-connectivity O -999
+wifi B-ASP -999
+connectivity I-ASP -999
 is O -999
-fast. O -999
+fast O -999
+. O -999
 
-sound O -999
+sound B-ASP -999
 is O -999
 excellent O -999
 and O -999
 wifi B-ASP Positive
 connectivity I-ASP Positive
 is O -999
-fast. O -999
+fast O -999
+. O -999
 
 nice O -999
 audio B-ASP Positive
 and O -999
 video B-ASP -999
-clarity, I-ASP -999
+clarity I-ASP -999
+, O -999
 good O -999
 and O -999
 quick O -999
 response O -999
 from O -999
 installation B-ASP -999
-team. O -999
+team O -999
+. O -999
 
 nice O -999
 audio B-ASP -999
 and O -999
 video B-ASP Positive
-clarity, I-ASP Positive
+clarity I-ASP Positive
+, O -999
 good O -999
 and O -999
 quick O -999
 response O -999
 from O -999
 installation B-ASP -999
-team. O -999
+team O -999
+. O -999
 
 nice O -999
 audio B-ASP -999
 and O -999
 video B-ASP -999
-clarity, I-ASP -999
+clarity I-ASP -999
+, O -999
 good O -999
 and O -999
 quick O -999
 response O -999
 from O -999
 installation B-ASP Positive
-team. O -999
+team O -999
+. O -999
 
 super O -999
 picture B-ASP Positive
 quality I-ASP Positive
 with O -999
 4k O -999
-experience. O -999
+experience O -999
+. O -999
 
 the O -999
 quality B-ASP Negative
@@ -8858,7 +9699,8 @@ of I-ASP Negative
 remote I-ASP Negative
 could O -999
 be O -999
-improved. O -999
+improved O -999
+. O -999
 
 picture B-ASP Neutral
 quality I-ASP Neutral
@@ -8868,7 +9710,10 @@ bit O -999
 dull O -999
 than O -999
 i O -999
-falcon,mi. O -999
+falcon O -999
+, O -999
+mi O -999
+. O -999
 
 you B-ASP Positive
 tube I-ASP Positive
@@ -8879,7 +9724,8 @@ a O -999
 fantastic O -999
 feature O -999
 on O -999
-remote. O -999
+remote O -999
+. O -999
 
 you O -999
 tube O -999
@@ -8898,7 +9744,8 @@ ledtv B-ASP Positive
 in O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 nice O -999
 product O -999
@@ -8978,11 +9825,13 @@ good O -999
 thing O -999
 for O -999
 playing O -999
-games, O -999
+games O -999
+, O -999
 watching O -999
 movies O -999
 through O -999
-mobiles. O -999
+mobiles O -999
+. O -999
 
 soo O -999
 good O -999
@@ -8990,21 +9839,26 @@ led O -999
 tv O -999
 this O -999
 price B-ASP Positive
-awesome. O -999
+awesome O -999
+. O -999
 
 sound B-ASP Positive
 is O -999
-superb, O -999
+superb O -999
+, O -999
 you O -999
 will O -999
 actually O -999
-won't O -999
+won O -999
+' O -999
+t O -999
 need O -999
 any O -999
 extra O -999
 speakers O -999
 during O -999
-movies. O -999
+movies O -999
+. O -999
 
 i O -999
 bought O -999
@@ -9012,7 +9866,9 @@ this O -999
 tv O -999
 one O -999
 week O -999
-back,the O -999
+back O -999
+, O -999
+the O -999
 tv O -999
 is O -999
 awesome O -999
@@ -9023,19 +9879,26 @@ for O -999
 watching O -999
 movies O -999
 and O -999
-serials, O -999
+serials O -999
+, O -999
 display B-ASP Positive
 clarity I-ASP Positive
 is O -999
-good,sound B-ASP -999
+good O -999
+, O -999
+sound B-ASP -999
 is O -999
-good,i O -999
+good O -999
+, O -999
+i O -999
 am O -999
 a O -999
 big O -999
 fan O -999
 of O -999
-bpl,hope O -999
+bpl O -999
+, O -999
+hope O -999
 that O -999
 bpl O -999
 will O -999
@@ -9043,7 +9906,8 @@ maintain O -999
 its O -999
 quality O -999
 as O -999
-earlier. O -999
+earlier O -999
+. O -999
 
 i O -999
 bought O -999
@@ -9051,7 +9915,9 @@ this O -999
 tv O -999
 one O -999
 week O -999
-back,the O -999
+back O -999
+, O -999
+the O -999
 tv O -999
 is O -999
 awesome O -999
@@ -9062,19 +9928,26 @@ for O -999
 watching O -999
 movies O -999
 and O -999
-serials, O -999
+serials O -999
+, O -999
 display B-ASP -999
 clarity I-ASP -999
 is O -999
-good,sound B-ASP Positive
+good O -999
+, O -999
+sound B-ASP Positive
 is O -999
-good,i O -999
+good O -999
+, O -999
+i O -999
 am O -999
 a O -999
 big O -999
 fan O -999
 of O -999
-bpl,hope O -999
+bpl O -999
+, O -999
+hope O -999
 that O -999
 bpl O -999
 will O -999
@@ -9082,14 +9955,17 @@ maintain O -999
 its O -999
 quality O -999
 as O -999
-earlier. O -999
+earlier O -999
+. O -999
 
 everything O -999
 is O -999
 amazing O -999
 , O -999
 android B-ASP Negative
-5.1 O -999
+5 O -999
+. O -999
+1 O -999
 bit O -999
 older O -999
 . O -999
@@ -9098,13 +9974,17 @@ its O -999
 sound B-ASP Positive
 is O -999
 also O -999
-good. O -999
+good O -999
+. O -999
 
 nice O -999
 service B-ASP Positive
 by O -999
 Flipkart O -999
-also!!! O -999
+also O -999
+! O -999
+! O -999
+! O -999
 
 very O -999
 very O -999
@@ -9132,7 +10012,9 @@ not O -999
 change O -999
 by O -999
 vu O -999
-don't O -999
+don O -999
+' O -999
+t O -999
 buy O -999
 this O -999
 product O -999
@@ -9166,7 +10048,9 @@ not O -999
 change O -999
 by O -999
 vu O -999
-don't O -999
+don O -999
+' O -999
+t O -999
 buy O -999
 this O -999
 product O -999
@@ -9178,38 +10062,46 @@ money O -999
 excellent O -999
 aesthetics B-ASP Positive
 , O -999
-brilliant B-ASP -999
-colours, O -999
+brilliant O -999
+colours B-ASP -999
+, O -999
 at O -999
 par O -999
 to O -999
 the O -999
 other O -999
-lg/samsung O -999
+lg O -999
+/ O -999
+samsung O -999
 brand O -999
 tv O -999
 of O -999
 middle O -999
-range. O -999
+range O -999
+. O -999
 - O -999
 
 - O -999
 excellent O -999
 aesthetics B-ASP -999
 , O -999
-brilliant B-ASP Positive
-colours, O -999
+brilliant O -999
+colours B-ASP Positive
+, O -999
 at O -999
 par O -999
 to O -999
 the O -999
 other O -999
-lg/samsung O -999
+lg O -999
+/ O -999
+samsung O -999
 brand O -999
 tv O -999
 of O -999
 middle O -999
-range. O -999
+range O -999
+. O -999
 - O -999
 
 my O -999
@@ -9227,7 +10119,8 @@ service B-ASP Negative
 centre I-ASP Negative
 or O -999
 support O -999
-available. O -999
+available O -999
+. O -999
 
 the O -999
 quality B-ASP Positive
@@ -9238,7 +10131,8 @@ sound O -999
 both O -999
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 the O -999
 quality O -999
@@ -9249,7 +10143,8 @@ sound B-ASP Positive
 both O -999
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 video B-ASP Positive
 quality I-ASP Positive
@@ -9258,7 +10153,8 @@ sound B-ASP -999
 quality I-ASP -999
 is O -999
 also O -999
-good. O -999
+good O -999
+. O -999
 
 video B-ASP -999
 quality I-ASP -999
@@ -9267,28 +10163,32 @@ sound B-ASP Positive
 quality I-ASP Positive
 is O -999
 also O -999
-good. O -999
+good O -999
+. O -999
 
 good O -999
 price B-ASP Positive
 wonderful O -999
 tv O -999
 must O -999
-buy. O -999
+buy O -999
+. O -999
 
 the O -999
 wall B-ASP Positive
 mount I-ASP Positive
 is O -999
 super O -999
-cool. O -999
+cool O -999
+. O -999
 
 thanks O -999
 to O -999
 vu O -999
 for O -999
 the O -999
-tv, O -999
+tv O -999
+, O -999
 Flipkart O -999
 for O -999
 the O -999
@@ -9301,14 +10201,16 @@ even O -999
 quicker O -999
 service B-ASP -999
 for O -999
-installation. B-ASP -999
+installation B-ASP -999
+. O -999
 
 thanks O -999
 to O -999
 vu O -999
 for O -999
 the O -999
-tv, O -999
+tv O -999
+, O -999
 Flipkart O -999
 for O -999
 the O -999
@@ -9321,14 +10223,16 @@ even O -999
 quicker O -999
 service B-ASP Positive
 for O -999
-installation. B-ASP -999
+installation B-ASP -999
+. O -999
 
 thanks O -999
 to O -999
 vu O -999
 for O -999
 the O -999
-tv, O -999
+tv O -999
+, O -999
 Flipkart O -999
 for O -999
 the O -999
@@ -9341,7 +10245,8 @@ even O -999
 quicker O -999
 service B-ASP -999
 for O -999
-installation. B-ASP Positive
+installation B-ASP Positive
+. O -999
 
 nice O -999
 product O -999
@@ -9356,7 +10261,8 @@ built I-ASP Positive
 wifi I-ASP Positive
 is O -999
 awesome O -999
-feature. O -999
+feature O -999
+. O -999
 
 this O -999
 air B-ASP Neutral
@@ -9370,7 +10276,8 @@ only O -999
 one O -999
 usb O -999
 is O -999
-left. O -999
+left O -999
+. O -999
 
 only O -999
 issue O -999
@@ -9380,13 +10287,16 @@ extended B-ASP Negative
 warranty I-ASP Negative
 . O -999
 
-i'm O -999
+i O -999
+' O -999
+m O -999
 using O -999
 the O -999
 local O -999
 cable O -999
 setup O -999
-box, O -999
+box O -999
+, O -999
 still O -999
 the O -999
 quality B-ASP Positive
@@ -9394,7 +10304,8 @@ of I-ASP Positive
 the I-ASP Positive
 display I-ASP Positive
 is O -999
-good. O -999
+good O -999
+. O -999
 
 very O -999
 clear O -999
@@ -9407,7 +10318,8 @@ picture B-ASP Negative
 quality I-ASP Negative
 not O -999
 so O -999
-good. O -999
+good O -999
+. O -999
 
 bough O -999
 this O -999
@@ -9426,12 +10338,14 @@ which O -999
 is O -999
 not O -999
 so O -999
-huge, O -999
+huge O -999
+, O -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
 same O -999
-quality. O -999
+quality O -999
+. O -999
 
 bough O -999
 this O -999
@@ -9450,12 +10364,14 @@ which O -999
 is O -999
 not O -999
 so O -999
-huge, O -999
+huge O -999
+, O -999
 picture B-ASP Neutral
 quality I-ASP Neutral
 is O -999
 same O -999
-quality. O -999
+quality O -999
+. O -999
 
 the O -999
 picture B-ASP Positive
@@ -9476,7 +10392,8 @@ the O -999
 connectivity B-ASP -999
 is O -999
 quite O -999
-impressive. O -999
+impressive O -999
+. O -999
 
 the O -999
 picture B-ASP -999
@@ -9497,7 +10414,8 @@ the O -999
 connectivity B-ASP -999
 is O -999
 quite O -999
-impressive. O -999
+impressive O -999
+. O -999
 
 the O -999
 picture B-ASP -999
@@ -9518,17 +10436,19 @@ the O -999
 connectivity B-ASP Positive
 is O -999
 quite O -999
-impressive. O -999
+impressive O -999
+. O -999
 
 good O -999
 sound B-ASP Positive
 and O -999
 high O -999
 quality O -999
-materials. O -999
+materials B-ASP -999
+. O -999
 
 good O -999
-sound O -999
+sound B-ASP -999
 and O -999
 high O -999
 quality O -999
@@ -9540,7 +10460,8 @@ quality I-ASP Negative
 is O -999
 a O -999
 bit O -999
-low. O -999
+low O -999
+. O -999
 
 mobile B-ASP Negative
 mirror I-ASP Negative
@@ -9560,21 +10481,11 @@ d O -999
 mobile O -999
 content O -999
 on O -999
-tv. O -999
+tv O -999
+. O -999
 
 remote B-ASP Positive
 control I-ASP Positive
-- O -999
-superb O -999
-remote, O -999
-working O -999
-so O -999
-well O -999
-for O -999
-me. O -999
-
-remote B-ASP Positive
-control O -999
 - O -999
 superb O -999
 remote O -999
@@ -9583,7 +10494,21 @@ working O -999
 so O -999
 well O -999
 for O -999
-me. O -999
+me O -999
+. O -999
+
+remote B-ASP Positive
+control I-ASP -999
+- O -999
+superb O -999
+remote O -999
+, O -999
+working O -999
+so O -999
+well O -999
+for O -999
+me O -999
+. O -999
 
 after B-ASP Negative
 sale I-ASP Negative
@@ -9591,22 +10516,26 @@ service I-ASP Negative
 is O -999
 really O -999
 very O -999
-poor. O -999
+poor O -999
+. O -999
 
 tv O -999
 is O -999
-awesome, O -999
+awesome O -999
+, O -999
 thin O -999
 bezel B-ASP Positive
 and O -999
 premium O -999
-finish. O -999
+finish B-ASP -999
+. O -999
 
 tv O -999
 is O -999
-awesome, O -999
+awesome O -999
+, O -999
 thin O -999
-bezel O -999
+bezel B-ASP -999
 and O -999
 premium O -999
 finish B-ASP Positive
@@ -9624,7 +10553,8 @@ no O -999
 support O -999
 from O -999
 customer B-ASP -999
-care. I-ASP -999
+care I-ASP -999
+. O -999
 
 tv B-ASP -999
 remote I-ASP -999
@@ -9638,20 +10568,22 @@ no O -999
 support O -999
 from O -999
 customer B-ASP Negative
-care. I-ASP Negative
+care I-ASP Negative
+. O -999
 
 wonderful O -999
 smart O -999
 led O -999
-tv, O -999
+tv O -999
+, O -999
 high O -999
 quality O -999
 hd B-ASP Positive
 picture I-ASP Positive
 , O -999
-excellent B-ASP -999
-sound I-ASP -999
-quality O -999
+excellent O -999
+sound B-ASP -999
+quality I-ASP -999
 , O -999
 mi O -999
 very O -999
@@ -9663,15 +10595,16 @@ tv O -999
 wonderful O -999
 smart O -999
 led O -999
-tv, O -999
+tv O -999
+, O -999
 high O -999
 quality O -999
 hd B-ASP -999
 picture I-ASP -999
 , O -999
-excellent B-ASP Positive
-sound I-ASP Positive
-quality O -999
+excellent O -999
+sound B-ASP Positive
+quality I-ASP Positive
 , O -999
 mi O -999
 very O -999
@@ -9684,7 +10617,9 @@ the O -999
 only O -999
 thing O -999
 i O -999
-didn't O -999
+didn O -999
+' O -999
+t O -999
 like O -999
 was O -999
 the O -999
@@ -9703,7 +10638,8 @@ sound B-ASP -999
 clarity I-ASP -999
 is O -999
 above O -999
-expectations. O -999
+expectations O -999
+. O -999
 
 the O -999
 picture B-ASP -999
@@ -9716,7 +10652,8 @@ sound B-ASP Positive
 clarity I-ASP Positive
 is O -999
 above O -999
-expectations. O -999
+expectations O -999
+. O -999
 
 the O -999
 tv O -999
@@ -9731,7 +10668,8 @@ provides O -999
 great O -999
 pictures O -999
 with O -999
-clarity. O -999
+clarity O -999
+. O -999
 
 the O -999
 tv O -999
@@ -9762,7 +10700,8 @@ was O -999
 done O -999
 the O -999
 next O -999
-day. O -999
+day O -999
+. O -999
 
 Flipkart O -999
 delivered B-ASP -999
@@ -9777,7 +10716,8 @@ was O -999
 done O -999
 the O -999
 next O -999
-day. O -999
+day O -999
+. O -999
 
 best O -999
 tv O -999
@@ -9792,7 +10732,8 @@ price B-ASP Positive
 for O -999
 a O -999
 40 O -999
-inch. O -999
+inch O -999
+. O -999
 . O -999
 
 the O -999
@@ -9804,7 +10745,8 @@ and O -999
 the O -999
 display B-ASP -999
 is O -999
-fantastic. O -999
+fantastic O -999
+. O -999
 
 the O -999
 design B-ASP -999
@@ -9815,7 +10757,8 @@ and O -999
 the O -999
 display B-ASP Positive
 is O -999
-fantastic. O -999
+fantastic O -999
+. O -999
 
 but O -999
 Flipkart O -999
@@ -9824,7 +10767,8 @@ n O -999
 delivery B-ASP -999
 are O -999
 below O -999
-average. O -999
+average O -999
+. O -999
 
 but O -999
 Flipkart O -999
@@ -9833,7 +10777,8 @@ n O -999
 delivery B-ASP Negative
 are O -999
 below O -999
-average. O -999
+average O -999
+. O -999
 
 nice O -999
 product O -999
@@ -9846,8 +10791,10 @@ be O -999
 more O -999
 good O -999
 and O -999
-phone O -999
-can't O -999
+phone B-ASP -999
+can O -999
+' O -999
+t O -999
 connect O -999
 to O -999
 tv O -999
@@ -9856,21 +10803,24 @@ using O -999
 usb O -999
 wire O -999
 of O -999
-phone. O -999
+phone O -999
+. O -999
 
 nice O -999
 product O -999
 but O -999
-wall O -999
-mount O -999
-stand O -999
+wall B-ASP -999
+mount I-ASP -999
+stand I-ASP -999
 should O -999
 be O -999
 more O -999
 good O -999
 and O -999
 phone B-ASP Negative
-can't O -999
+can O -999
+' O -999
+t O -999
 connect O -999
 to O -999
 tv O -999
@@ -9883,32 +10833,40 @@ phone O -999
 . O -999
 
 excellent O -999
-product, O -999
+product O -999
+, O -999
 worth O -999
 of O -999
-money, O -999
+money O -999
+, O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP -999
 system I-ASP -999
 is O -999
-excellent. O -999
+excellent O -999
+. O -999
 
 excellent O -999
-product, O -999
+product O -999
+, O -999
 worth O -999
 of O -999
-money, O -999
+money O -999
+, O -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP Positive
 system I-ASP Positive
 is O -999
-excellent. O -999
+excellent O -999
+. O -999
 
 b9 O -999
 pro O -999
@@ -9916,19 +10874,21 @@ led O -999
 tv O -999
 pictures B-ASP Positive
 quality I-ASP Positive
-price O -999
+price B-ASP -999
 super O -999
-thanks. O -999
+thanks O -999
+. O -999
 
 b9 O -999
 pro O -999
 led O -999
 tv O -999
-pictures O -999
-quality O -999
+pictures B-ASP -999
+quality I-ASP -999
 price B-ASP Positive
 super O -999
-thanks. O -999
+thanks O -999
+. O -999
 
 but O -999
 the O -999
@@ -9938,13 +10898,15 @@ is O -999
 not O -999
 satisfied O -999
 as O -999
-expectable. O -999
+expectable O -999
+. O -999
 
 and O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-awesome. O -999
+awesome O -999
+. O -999
 
 tv O -999
 is O -999
@@ -9955,7 +10917,8 @@ installation I-ASP Negative
 time I-ASP Negative
 is O -999
 very O -999
-long. O -999
+long O -999
+. O -999
 
 the O -999
 remote B-ASP Positive
@@ -9966,7 +10929,8 @@ with O -999
 it O -999
 is O -999
 so O -999
-awesome. O -999
+awesome O -999
+. O -999
 
 great O -999
 deal O -999
@@ -9989,7 +10953,8 @@ of O -999
 the O -999
 product O -999
 2 O -999
-hdmi, O -999
+hdmi O -999
+, O -999
 1usb O -999
 but O -999
 the O -999
@@ -10023,7 +10988,8 @@ of O -999
 the O -999
 product O -999
 2 O -999
-hdmi, O -999
+hdmi O -999
+, O -999
 1usb O -999
 but O -999
 the O -999
@@ -10057,7 +11023,8 @@ of O -999
 the O -999
 product O -999
 2 O -999
-hdmi, O -999
+hdmi O -999
+, O -999
 1usb O -999
 but O -999
 the O -999
@@ -10085,14 +11052,25 @@ picture B-ASP Positive
 quality I-ASP Positive
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 usb B-ASP Negative
 even O -999
-can't O -999
+can O -999
+' O -999
+t O -999
 open O -999
 my O -999
-photos!!!!!!!! O -999
+photos O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 
 thank O -999
 you O -999
@@ -10102,7 +11080,8 @@ immediate O -999
 delivery B-ASP Positive
 and O -999
 quick O -999
-installation. B-ASP -999
+installation B-ASP -999
+. O -999
 
 thank O -999
 you O -999
@@ -10112,7 +11091,8 @@ immediate O -999
 delivery B-ASP -999
 and O -999
 quick O -999
-installation. B-ASP Positive
+installation B-ASP Positive
+. O -999
 
 the O -999
 engineer O -999
@@ -10126,14 +11106,15 @@ wall B-ASP Positive
 mount I-ASP Positive
 process O -999
 very O -999
-quickly. O -999
+quickly O -999
+. O -999
 
 excellent O -999
 picture B-ASP Positive
 quality I-ASP Positive
-, B-ASP -999
-hd I-ASP -999
-content O -999
+, O -999
+hd B-ASP -999
+content I-ASP -999
 when O -999
 played O -999
 on O -999
@@ -10149,22 +11130,24 @@ it O -999
 on O -999
 small O -999
 theatre O -999
-screen, O -999
+screen O -999
+, O -999
 this O -999
 is O -999
 because O -999
 of O -999
 120 O -999
-hz B-ASP -999
-refresh I-ASP -999
-rate. O -999
+hz O -999
+refresh B-ASP -999
+rate I-ASP -999
+. O -999
 
 excellent O -999
 picture B-ASP -999
 quality I-ASP -999
-, B-ASP Positive
-hd I-ASP Positive
-content O -999
+, O -999
+hd B-ASP Positive
+content I-ASP Positive
 when O -999
 played O -999
 on O -999
@@ -10180,22 +11163,24 @@ it O -999
 on O -999
 small O -999
 theatre O -999
-screen, O -999
+screen O -999
+, O -999
 this O -999
 is O -999
 because O -999
 of O -999
 120 O -999
-hz B-ASP -999
-refresh I-ASP -999
-rate. O -999
+hz O -999
+refresh B-ASP -999
+rate I-ASP -999
+. O -999
 
 excellent O -999
 picture B-ASP -999
 quality I-ASP -999
-, B-ASP -999
-hd I-ASP -999
-content O -999
+, O -999
+hd B-ASP -999
+content I-ASP -999
 when O -999
 played O -999
 on O -999
@@ -10211,15 +11196,17 @@ it O -999
 on O -999
 small O -999
 theatre O -999
-screen, O -999
+screen O -999
+, O -999
 this O -999
 is O -999
 because O -999
 of O -999
 120 O -999
-hz B-ASP Positive
-refresh I-ASP Positive
-rate. O -999
+hz O -999
+refresh B-ASP Positive
+rate I-ASP Positive
+. O -999
 
 ordered O -999
 it O -999
@@ -10236,7 +11223,8 @@ done O -999
 on O -999
 the O -999
 25 O -999
-oct. O -999
+oct O -999
+. O -999
 
 ordered O -999
 it O -999
@@ -10253,7 +11241,8 @@ done O -999
 on O -999
 the O -999
 25 O -999
-oct. O -999
+oct O -999
+. O -999
 
 regarding O -999
 the O -999
@@ -10270,7 +11259,8 @@ and O -999
 color B-ASP Negative
 reproduction I-ASP Negative
 is O -999
-worst. O -999
+worst O -999
+. O -999
 
 purchase O -999
 in O -999
@@ -10297,12 +11287,14 @@ about O -999
 no O -999
 snow O -999
 over O -999
-picture. O -999
+picture O -999
+. O -999
 
 other O -999
 low O -999
 cost O -999
-32" O -999
+32 O -999
+" O -999
 hd O -999
 or O -999
 full O -999
@@ -10315,15 +11307,17 @@ use O -999
 very O -999
 bad O -999
 ui B-ASP Negative
-, B-ASP -999
-colour I-ASP -999
-backlight O -999
-management. O -999
+, O -999
+colour B-ASP -999
+backlight I-ASP -999
+management O -999
+. O -999
 
 other O -999
 low O -999
 cost O -999
-32" O -999
+32 O -999
+" O -999
 hd O -999
 or O -999
 full O -999
@@ -10336,10 +11330,11 @@ use O -999
 very O -999
 bad O -999
 ui B-ASP -999
-, B-ASP Negative
-colour I-ASP Negative
-backlight O -999
-management. O -999
+, O -999
+colour B-ASP Negative
+backlight I-ASP Negative
+management O -999
+. O -999
 
 v O -999
 no O -999
@@ -10351,16 +11346,18 @@ for O -999
 home O -999
 theatre O -999
 or O -999
-speaker. O -999
+speaker O -999
+. O -999
 
 good O -999
 sound B-ASP Positive
 and O -999
 good O -999
-video. O -999
+video B-ASP -999
+. O -999
 
 good O -999
-sound O -999
+sound B-ASP -999
 and O -999
 good O -999
 video B-ASP Positive
@@ -10388,7 +11385,8 @@ off O -999
 fans O -999
 and O -999
 be O -999
-quiet. O -999
+quiet O -999
+. O -999
 
 sound B-ASP Positive
 - O -999
@@ -10403,7 +11401,8 @@ look I-ASP -999
 - O -999
 5 O -999
 plus O -999
-star. O -999
+star O -999
+. O -999
 . O -999
 . O -999
 
@@ -10420,7 +11419,8 @@ look I-ASP -999
 - O -999
 5 O -999
 plus O -999
-star. O -999
+star O -999
+. O -999
 . O -999
 . O -999
 
@@ -10437,7 +11437,8 @@ look I-ASP Positive
 - O -999
 5 O -999
 plus O -999
-star. O -999
+star O -999
+. O -999
 . O -999
 . O -999
 
@@ -10459,31 +11460,35 @@ price B-ASP Positive
 sound O -999
 could O -999
 be O -999
-better. O -999
+better O -999
+. O -999
 
 best O -999
 in O -999
 price B-ASP Positive
 , O -999
-good B-ASP -999
-service O -999
+good O -999
+service B-ASP -999
 and O -999
-installation. O -999
+installation B-ASP -999
+. O -999
 
 best O -999
 in O -999
 price B-ASP -999
 , O -999
-good B-ASP Positive
-service O -999
+good O -999
+service B-ASP Positive
 and O -999
-installation. O -999
+installation B-ASP -999
+. O -999
 
 best O -999
 in O -999
-price, O -999
+price B-ASP -999
+, O -999
 good O -999
-service O -999
+service B-ASP -999
 and O -999
 installation B-ASP Positive
 . O -999
@@ -10491,7 +11496,9 @@ installation B-ASP Positive
 this O -999
 is O -999
 an O -999
-edge-lit O -999
+edge O -999
+- O -999
+lit O -999
 led O -999
 tv O -999
 and O -999
@@ -10513,13 +11520,15 @@ the O -999
 room O -999
 is O -999
 completely O -999
-dark. O -999
+dark O -999
+. O -999
 
 best O -999
 price B-ASP Positive
 with O -999
 best O -999
-quality. O -999
+quality O -999
+. O -999
 
 the O -999
 tv O -999
@@ -10535,13 +11544,15 @@ good O -999
 picture B-ASP Positive
 & O -999
 sound O -999
-quality. O -999
+quality O -999
+. O -999
 
 good O -999
 picture O -999
 & O -999
 sound B-ASP Positive
-quality. I-ASP Positive
+quality I-ASP Positive
+. I-ASP Positive
 
 tv O -999
 and O -999
@@ -10564,7 +11575,8 @@ sound O -999
 quality O -999
 also O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 picture O -999
 & O -999
@@ -10572,21 +11584,24 @@ sound B-ASP Positive
 quality I-ASP Positive
 also O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 packaging B-ASP Neutral
 and O -999
 delivery B-ASP -999
 was O -999
 on O -999
-time. O -999
+time O -999
+. O -999
 
 packaging B-ASP -999
 and O -999
 delivery B-ASP Neutral
 was O -999
 on O -999
-time. O -999
+time O -999
+. O -999
 
 by O -999
 the O -999
@@ -10600,28 +11615,38 @@ not O -999
 supported O -999
 in O -999
 this O -999
-product. O -999
+product O -999
+. O -999
 
 i O -999
 liked O -999
-it,, O -999
+it O -999
+, O -999
+, O -999
 wife B-ASP Positive
 connection I-ASP Positive
-awesome,, O -999
+awesome O -999
+, O -999
+, O -999
 simply O -999
-superb. O -999
+superb O -999
+. O -999
 
 tv O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-nice. O -999
+nice O -999
+. O -999
 
 the O -999
 buil B-ASP Neutral
 quality I-ASP Neutral
 is O -999
-okay-ish. O -999
+okay O -999
+- O -999
+ish O -999
+. O -999
 
 please O -999
 think O -999
@@ -10643,14 +11668,20 @@ a O -999
 new O -999
 update O -999
 dated O -999
-3/5/17, O -999
+3 O -999
+/ O -999
+5 O -999
+/ O -999
+17 O -999
+, O -999
 the O -999
 motherboard B-ASP Negative
 of O -999
 my O -999
 tv O -999
 conked O -999
-off. O -999
+off O -999
+. O -999
 
 well O -999
 sound B-ASP Negative
@@ -10663,7 +11694,8 @@ theater O -999
 cons O -999
 contrast B-ASP -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 well O -999
 sound B-ASP -999
@@ -10676,13 +11708,15 @@ theater O -999
 cons O -999
 contrast B-ASP Negative
 not O -999
-good. O -999
+good O -999
+. O -999
 
 sound B-ASP Negative
 quality I-ASP Negative
 is O -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 very O -999
 good O -999
@@ -10691,7 +11725,9 @@ and O -999
 superb O -999
 picture B-ASP -999
 picture O -999
-4.5 O -999
+4 O -999
+. O -999
+5 O -999
 out O -999
 of O -999
 5 O -999
@@ -10701,7 +11737,9 @@ out O -999
 of O -999
 5 O -999
 features O -999
-3.5 O -999
+3 O -999
+. O -999
+5 O -999
 out O -999
 of O -999
 5 O -999
@@ -10713,7 +11751,9 @@ and O -999
 superb O -999
 picture B-ASP Positive
 picture O -999
-4.5 O -999
+4 O -999
+. O -999
+5 O -999
 out O -999
 of O -999
 5 O -999
@@ -10723,7 +11763,9 @@ out O -999
 of O -999
 5 O -999
 features O -999
-3.5 O -999
+3 O -999
+. O -999
+5 O -999
 out O -999
 of O -999
 5 O -999
@@ -10735,7 +11777,9 @@ and O -999
 superb O -999
 picture B-ASP -999
 picture O -999
-4.5 O -999
+4 O -999
+. O -999
+5 O -999
 out O -999
 of O -999
 5 O -999
@@ -10745,7 +11789,9 @@ out O -999
 of O -999
 5 O -999
 features O -999
-3.5 O -999
+3 O -999
+. O -999
+5 O -999
 out O -999
 of O -999
 5 O -999
@@ -10754,45 +11800,61 @@ super O -999
 picture B-ASP Positive
 quality I-ASP Positive
 , O -999
-best B-ASP -999
-sound I-ASP -999
-quality, O -999
-best B-ASP -999
-price,good B-ASP -999
-desen. O -999
+best O -999
+sound B-ASP -999
+quality I-ASP -999
+, O -999
+best O -999
+price B-ASP -999
+, O -999
+good O -999
+desen B-ASP -999
+. O -999
 
 super O -999
 picture B-ASP -999
 quality I-ASP -999
 , O -999
-best B-ASP Positive
-sound I-ASP Positive
-quality, O -999
-best B-ASP -999
-price,good B-ASP -999
-desen. O -999
+best O -999
+sound B-ASP Positive
+quality I-ASP Positive
+, O -999
+best O -999
+price B-ASP -999
+, O -999
+good O -999
+desen B-ASP -999
+. O -999
 
 super O -999
 picture B-ASP -999
 quality I-ASP -999
 , O -999
-best B-ASP -999
-sound I-ASP -999
-quality, O -999
-best B-ASP Positive
-price,good B-ASP -999
-desen. O -999
+best O -999
+sound B-ASP -999
+quality I-ASP -999
+, O -999
+best O -999
+price B-ASP Positive
+, O -999
+good O -999
+desen B-ASP -999
+. O -999
 
 super O -999
 picture B-ASP -999
 quality I-ASP -999
 , O -999
-best B-ASP -999
-sound I-ASP -999
-quality, O -999
-best B-ASP -999
-price,good B-ASP Positive
-desen. O -999
+best O -999
+sound B-ASP -999
+quality I-ASP -999
+, O -999
+best O -999
+price B-ASP -999
+, O -999
+good O -999
+desen B-ASP Positive
+. O -999
 
 it O -999
 was O -999
@@ -10852,7 +11914,8 @@ is O -999
 not O -999
 detecting O -999
 in O -999
-it. O -999
+it O -999
+. O -999
 
 thanks O -999
 for O -999
@@ -10871,14 +11934,16 @@ to O -999
 my O -999
 friends O -999
 and O -999
-colleagues. O -999
+colleagues O -999
+. O -999
 
 remote B-ASP Negative
 quality I-ASP Negative
 could O -999
 have O -999
 been O -999
-better. O -999
+better O -999
+. O -999
 
 great O -999
 to O -999
@@ -10886,7 +11951,8 @@ amazing O -999
 display B-ASP Positive
 in O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 samsang O -999
 led O -999
@@ -10903,7 +11969,8 @@ but O -999
 sound B-ASP -999
 quality I-ASP -999
 not O -999
-good. O -999
+good O -999
+. O -999
 
 samsang O -999
 led O -999
@@ -10920,7 +11987,8 @@ but O -999
 sound B-ASP Negative
 quality I-ASP Negative
 not O -999
-good. O -999
+good O -999
+. O -999
 
 quality B-ASP Positive
 of I-ASP Positive
@@ -10931,7 +11999,8 @@ is O -999
 nice O -999
 and O -999
 good O -999
-looking. O -999
+looking O -999
+. O -999
 
 quality O -999
 of O -999
@@ -10942,9 +12011,12 @@ is O -999
 nice O -999
 and O -999
 good O -999
-looking. O -999
+looking O -999
+. O -999
 
-it's O -999
+it O -999
+' O -999
+s O -999
 really O -999
 nice O -999
 product O -999
@@ -10967,7 +12039,8 @@ satisfactory O -999
 for O -999
 a O -999
 budget O -999
-television. O -999
+television O -999
+. O -999
 
 happy O -999
 to O -999
@@ -10991,14 +12064,17 @@ sound B-ASP Positive
 
 after O -999
 one O -999
-year, O -999
+year O -999
+, O -999
 stopped O -999
-working, O -999
+working O -999
+, O -999
 warranty B-ASP Neutral
 is O -999
 only O -999
 one O -999
-year. O -999
+year O -999
+. O -999
 
 again O -999
 same O -999
@@ -11025,7 +12101,8 @@ quality O -999
 compare O -999
 to O -999
 sony O -999
-Bravia. O -999
+Bravia O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -11043,26 +12120,32 @@ quality O -999
 compare O -999
 to O -999
 sony O -999
-Bravia. O -999
+Bravia O -999
+. O -999
 
 but O -999
 sound B-ASP Negative
 is O -999
 some O -999
-low. O -999
+low O -999
+. O -999
 
-cons:. O -999
+cons O -999
+: O -999
+. O -999
 need O -999
 additional O -999
 antenna B-ASP Negative
 to O -999
 listen O -999
 fm O -999
-radio, O -999
+radio O -999
+, O -999
 this O -999
 feature O -999
 is O -999
-unnessary. O -999
+unnessary O -999
+. O -999
 
 compared O -999
 to O -999
@@ -11094,7 +12177,8 @@ very O -999
 worst O -999
 Cloudwalker B-ASP Negative
 service I-ASP Negative
-center, O -999
+center O -999
+, O -999
 if O -999
 some O -999
 customer O -999
@@ -11102,8 +12186,11 @@ purchase O -999
 Cloudwalker O -999
 tv O -999
 means O -999
-that's O -999
-all, O -999
+that O -999
+' O -999
+s O -999
+all O -999
+, O -999
 Cloudwalker O -999
 team O -999
 will O -999
@@ -11114,22 +12201,26 @@ your O -999
 amount O -999
 was O -999
 govinda O -999
-govinda. O -999
+govinda O -999
+. O -999
 
 very O -999
 good O -999
-tv, O -999
+tv O -999
+, O -999
 nice O -999
 picture B-ASP Positive
 and O -999
-sound O -999
-quality. O -999
+sound B-ASP -999
+quality I-ASP -999
+. O -999
 
 very O -999
 good O -999
-tv, O -999
+tv O -999
+, O -999
 nice O -999
-picture O -999
+picture B-ASP -999
 and O -999
 sound B-ASP Positive
 quality I-ASP Positive
@@ -11147,7 +12238,8 @@ Flipkart O -999
 regarding O -999
 delivery B-ASP Negative
 of O -999
-product. O -999
+product O -999
+. O -999
 
 looks B-ASP Positive
 and O -999
@@ -11157,7 +12249,8 @@ pretty O -999
 so O -999
 5 O -999
 out O -999
-of. O -999
+of O -999
+. O -999
 
 looks B-ASP -999
 and O -999
@@ -11167,7 +12260,8 @@ pretty O -999
 so O -999
 5 O -999
 out O -999
-of. O -999
+of O -999
+. O -999
 
 apps B-ASP Positive
 - O -999
@@ -11185,7 +12279,8 @@ are O -999
 operating O -999
 an O -999
 android O -999
-app. O -999
+app O -999
+. O -999
 
 and O -999
 usb B-ASP Positive
@@ -11193,7 +12288,8 @@ and O -999
 hdmi O -999
 features O -999
 works O -999
-good. O -999
+good O -999
+. O -999
 
 and O -999
 usb O -999
@@ -11201,7 +12297,8 @@ and O -999
 hdmi B-ASP Positive
 features I-ASP Positive
 works O -999
-good. O -999
+good O -999
+. O -999
 
 nice O -999
 tv O -999
@@ -11209,7 +12306,8 @@ with O -999
 good O -999
 picture B-ASP Positive
 quality I-ASP Positive
-etc. O -999
+etc O -999
+. O -999
 bought O -999
 it O -999
 at O -999
@@ -11218,7 +12316,8 @@ during O -999
 big O -999
 billion O -999
 day O -999
-sale. O -999
+sale O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -11227,7 +12326,8 @@ sound B-ASP -999
 quality I-ASP -999
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -11236,12 +12336,15 @@ sound B-ASP Positive
 quality I-ASP Positive
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 some O -999
 mobile O -999
 models O -999
-can't O -999
+can O -999
+' O -999
+t O -999
 play O -999
 videos O -999
 through O -999
@@ -11254,7 +12357,8 @@ before O -999
 you O -999
 buy O -999
 this O -999
-tv. O -999
+tv O -999
+. O -999
 
 in O -999
 this O -999
@@ -11270,10 +12374,11 @@ tv I-ASP Positive
 great O -999
 picture B-ASP Positive
 n O -999
-sound. O -999
+sound B-ASP -999
+. O -999
 
 great O -999
-picture O -999
+picture B-ASP -999
 n O -999
 sound B-ASP Positive
 . O -999
@@ -11281,18 +12386,24 @@ sound B-ASP Positive
 the O -999
 tv O -999
 looks O -999
-excellent, O -999
+excellent O -999
+, O -999
 picture B-ASP Positive
-,sound O -999
-etc. O -999
+, O -999
+sound B-ASP -999
+etc O -999
+. O -999
 
 the O -999
 tv O -999
 looks O -999
-excellent, O -999
-picture B-ASP Positive
-,sound O -999
-etc. O -999
+excellent O -999
+, O -999
+picture B-ASP -999
+, O -999
+sound B-ASP Positive
+etc O -999
+. O -999
 
 remote B-ASP Negative
 control I-ASP Negative
@@ -11300,7 +12411,8 @@ is O -999
 very O -999
 sensitive O -999
 to O -999
-respond. O -999
+respond O -999
+. O -999
 
 the O -999
 product O -999
@@ -11311,19 +12423,23 @@ and O -999
 the O -999
 delivery B-ASP Positive
 was O -999
-good. O -999
+good O -999
+. O -999
 
 tv B-ASP -999
 quality I-ASP -999
 is O -999
 very O -999
-good, O -999
+good O -999
+, O -999
 audio B-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 vision B-ASP -999
 is O -999
-clear, O -999
+clear O -999
+, O -999
 all O -999
 port B-ASP Positive
 are O -999
@@ -11336,19 +12452,23 @@ satisfied O -999
 after O -999
 buying O -999
 vu O -999
-product. O -999
+product O -999
+. O -999
 
 tv B-ASP Positive
 quality I-ASP Positive
 is O -999
 very O -999
-good, O -999
+good O -999
+, O -999
 audio B-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 vision B-ASP -999
 is O -999
-clear, O -999
+clear O -999
+, O -999
 all O -999
 port B-ASP -999
 are O -999
@@ -11361,19 +12481,23 @@ satisfied O -999
 after O -999
 buying O -999
 vu O -999
-product. O -999
+product O -999
+. O -999
 
 tv B-ASP -999
 quality I-ASP -999
 is O -999
 very O -999
-good, O -999
+good O -999
+, O -999
 audio B-ASP Positive
 is O -999
-good, O -999
+good O -999
+, O -999
 vision B-ASP -999
 is O -999
-clear, O -999
+clear O -999
+, O -999
 all O -999
 port B-ASP -999
 are O -999
@@ -11386,19 +12510,23 @@ satisfied O -999
 after O -999
 buying O -999
 vu O -999
-product. O -999
+product O -999
+. O -999
 
 tv B-ASP -999
 quality I-ASP -999
 is O -999
 very O -999
-good, O -999
+good O -999
+, O -999
 audio B-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 vision B-ASP Positive
 is O -999
-clear, O -999
+clear O -999
+, O -999
 all O -999
 port B-ASP -999
 are O -999
@@ -11411,7 +12539,8 @@ satisfied O -999
 after O -999
 buying O -999
 vu O -999
-product. O -999
+product O -999
+. O -999
 
 tv O -999
 was O -999
@@ -11465,7 +12594,8 @@ tv O -999
 was O -999
 out O -999
 of O -999
-order. O -999
+order O -999
+. O -999
 
 i O -999
 have O -999
@@ -11483,7 +12613,8 @@ are O -999
 selling O -999
 for O -999
 27 O -999
-k. O -999
+k O -999
+. O -999
 the O -999
 product O -999
 was O -999
@@ -11521,13 +12652,15 @@ on O -999
 time O -999
 delivery O -999
 and O -999
-installation. O -999
+installation O -999
+. O -999
 
 sound B-ASP Negative
 is O -999
 the O -999
 only O -999
-problem. O -999
+problem O -999
+. O -999
 
 but O -999
 audio B-ASP Negative
@@ -11535,7 +12668,8 @@ quality I-ASP Negative
 should O -999
 be O -999
 more O -999
-better. O -999
+better O -999
+. O -999
 
 3 O -999
 hdmi B-ASP Positive
@@ -11543,7 +12677,8 @@ hdmi B-ASP Positive
 2 O -999
 usb B-ASP -999
 working O -999
-fine. O -999
+fine O -999
+. O -999
 
 3 O -999
 hdmi B-ASP -999
@@ -11551,16 +12686,20 @@ hdmi B-ASP -999
 2 O -999
 usb B-ASP Positive
 working O -999
-fine. O -999
+fine O -999
+. O -999
 
 but O -999
 for O -999
 this O -999
 price B-ASP Positive
 definitely O -999
-good. O -999
+good O -999
+. O -999
 
-don't O -999
+don O -999
+' O -999
+t O -999
 buy O -999
 this O -999
 product O -999
@@ -11581,7 +12720,8 @@ nice O -999
 audio B-ASP Positive
 and O -999
 video O -999
-quality. O -999
+quality O -999
+. O -999
 
 nice O -999
 audio O -999
@@ -11593,24 +12733,32 @@ quality I-ASP Positive
 audio B-ASP Neutral
 is O -999
 just O -999
-ok, O -999
-don't O -999
+ok O -999
+, O -999
+don O -999
+' O -999
+t O -999
 expect O -999
 a O -999
 rich O -999
 sound B-ASP -999
-experience. O -999
+experience O -999
+. O -999
 
 audio B-ASP -999
 is O -999
 just O -999
-ok, O -999
-don't O -999
+ok O -999
+, O -999
+don O -999
+' O -999
+t O -999
 expect O -999
 a O -999
 rich O -999
 sound B-ASP Neutral
-experience. O -999
+experience O -999
+. O -999
 
 installation B-ASP Negative
 not O -999
@@ -11620,26 +12768,30 @@ time O -999
 as O -999
 per O -999
 their O -999
-commitment. O -999
+commitment O -999
+. O -999
 
 but O -999
 sound B-ASP Negative
 problem O -999
 some O -999
-time. O -999
+time O -999
+. O -999
 
 good O -999
 quality B-ASP Positive
 product I-ASP Positive
 from O -999
 lg O -999
-india. O -999
+india O -999
+. O -999
 
 the O -999
 magic B-ASP Positive
 remote I-ASP Positive
 is O -999
-awesome! O -999
+awesome O -999
+! O -999
 ! O -999
 
 i O -999
@@ -11652,19 +12804,22 @@ the O -999
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-great. O -999
+great O -999
+. O -999
 
 but O -999
 sound B-ASP Negative
 is O -999
 little O -999
 bit O -999
-low. O -999
+low O -999
+. O -999
 
 ui B-ASP -999
 is O -999
 bit O -999
-bad; O -999
+bad O -999
+; O -999
 especially O -999
 for O -999
 playing O -999
@@ -11675,7 +12830,8 @@ usb B-ASP Positive
 ui B-ASP Negative
 is O -999
 bit O -999
-bad; O -999
+bad O -999
+; O -999
 especially O -999
 for O -999
 playing O -999
@@ -11693,7 +12849,8 @@ color B-ASP -999
 reproduction I-ASP -999
 is O -999
 very O -999
-bad, O -999
+bad O -999
+, O -999
 not O -999
 able O -999
 to O -999
@@ -11709,7 +12866,8 @@ to O -999
 any O -999
 basic O -999
 resolution O -999
-tvs. O -999
+tvs O -999
+. O -999
 
 video B-ASP -999
 display I-ASP -999
@@ -11721,7 +12879,8 @@ color B-ASP Negative
 reproduction I-ASP Negative
 is O -999
 very O -999
-bad, O -999
+bad O -999
+, O -999
 not O -999
 able O -999
 to O -999
@@ -11737,7 +12896,8 @@ to O -999
 any O -999
 basic O -999
 resolution O -999
-tvs. O -999
+tvs O -999
+. O -999
 
 video B-ASP -999
 display I-ASP -999
@@ -11749,7 +12909,8 @@ color B-ASP -999
 reproduction I-ASP -999
 is O -999
 very O -999
-bad, O -999
+bad O -999
+, O -999
 not O -999
 able O -999
 to O -999
@@ -11765,32 +12926,36 @@ to O -999
 any O -999
 basic O -999
 resolution O -999
-tvs. O -999
+tvs O -999
+. O -999
 
 even O -999
 better O -999
 colours B-ASP Positive
-, B-ASP -999
-brightness O -999
+, O -999
+brightness B-ASP -999
 and O -999
 easy O -999
-user O -999
-interface. O -999
+user B-ASP -999
+interface I-ASP -999
+. O -999
 
 even O -999
 better O -999
 colours B-ASP -999
-, B-ASP Positive
-brightness O -999
+, O -999
+brightness B-ASP Positive
 and O -999
 easy O -999
-user O -999
-interface. O -999
+user B-ASP -999
+interface I-ASP -999
+. O -999
 
 even O -999
 better O -999
-colours, O -999
-brightness O -999
+colours B-ASP -999
+, O -999
+brightness B-ASP -999
 and O -999
 easy O -999
 user B-ASP Positive
@@ -11806,7 +12971,8 @@ as O -999
 well O -999
 as O -999
 hd B-ASP -999
-ready. I-ASP -999
+ready I-ASP -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -11817,14 +12983,16 @@ as O -999
 well O -999
 as O -999
 hd B-ASP Negative
-ready. I-ASP Negative
+ready I-ASP Negative
+. O -999
 
 the O -999
 patchwall B-ASP Negative
 os I-ASP Negative
 is O -999
 the O -999
-weakpoint. O -999
+weakpoint O -999
+. O -999
 
 big O -999
 and O -999
@@ -11844,13 +13012,23 @@ its O -999
 bit O -999
 laggy O -999
 picture B-ASP Positive
-4/5 O -999
+4 O -999
+/ O -999
+5 O -999
 audio B-ASP -999
-4.5/5 O -999
+4 O -999
+. O -999
+5 O -999
+/ O -999
+5 O -999
 connectivity B-ASP -999
-5/5 O -999
+5 O -999
+/ O -999
+5 O -999
 remote B-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 battery O -999
 provided O -999
 so O -999
@@ -11859,7 +13037,9 @@ good O -999
 thing O -999
 mira B-ASP -999
 cast I-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 plus O -999
 as O -999
 bonus O -999
@@ -11889,7 +13069,8 @@ for O -999
 it O -999
 without O -999
 second O -999
-thought. O -999
+thought O -999
+. O -999
 
 big O -999
 and O -999
@@ -11909,13 +13090,23 @@ its O -999
 bit O -999
 laggy O -999
 picture B-ASP -999
-4/5 O -999
+4 O -999
+/ O -999
+5 O -999
 audio B-ASP Positive
-4.5/5 O -999
+4 O -999
+. O -999
+5 O -999
+/ O -999
+5 O -999
 connectivity B-ASP -999
-5/5 O -999
+5 O -999
+/ O -999
+5 O -999
 remote B-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 battery O -999
 provided O -999
 so O -999
@@ -11924,7 +13115,9 @@ good O -999
 thing O -999
 mira B-ASP -999
 cast I-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 plus O -999
 as O -999
 bonus O -999
@@ -11954,7 +13147,8 @@ for O -999
 it O -999
 without O -999
 second O -999
-thought. O -999
+thought O -999
+. O -999
 
 big O -999
 and O -999
@@ -11974,13 +13168,23 @@ its O -999
 bit O -999
 laggy O -999
 picture B-ASP -999
-4/5 O -999
+4 O -999
+/ O -999
+5 O -999
 audio B-ASP -999
-4.5/5 O -999
+4 O -999
+. O -999
+5 O -999
+/ O -999
+5 O -999
 connectivity B-ASP Positive
-5/5 O -999
+5 O -999
+/ O -999
+5 O -999
 remote B-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 battery O -999
 provided O -999
 so O -999
@@ -11989,7 +13193,9 @@ good O -999
 thing O -999
 mira B-ASP -999
 cast I-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 plus O -999
 as O -999
 bonus O -999
@@ -12019,7 +13225,8 @@ for O -999
 it O -999
 without O -999
 second O -999
-thought. O -999
+thought O -999
+. O -999
 
 big O -999
 and O -999
@@ -12039,13 +13246,23 @@ its O -999
 bit O -999
 laggy O -999
 picture B-ASP -999
-4/5 O -999
+4 O -999
+/ O -999
+5 O -999
 audio B-ASP -999
-4.5/5 O -999
+4 O -999
+. O -999
+5 O -999
+/ O -999
+5 O -999
 connectivity B-ASP -999
-5/5 O -999
+5 O -999
+/ O -999
+5 O -999
 remote B-ASP Positive
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 battery O -999
 provided O -999
 so O -999
@@ -12054,7 +13271,9 @@ good O -999
 thing O -999
 mira B-ASP -999
 cast I-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 plus O -999
 as O -999
 bonus O -999
@@ -12084,7 +13303,8 @@ for O -999
 it O -999
 without O -999
 second O -999
-thought. O -999
+thought O -999
+. O -999
 
 big O -999
 and O -999
@@ -12104,13 +13324,23 @@ its O -999
 bit O -999
 laggy O -999
 picture B-ASP -999
-4/5 O -999
+4 O -999
+/ O -999
+5 O -999
 audio B-ASP -999
-4.5/5 O -999
+4 O -999
+. O -999
+5 O -999
+/ O -999
+5 O -999
 connectivity B-ASP -999
-5/5 O -999
+5 O -999
+/ O -999
+5 O -999
 remote B-ASP -999
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 battery O -999
 provided O -999
 so O -999
@@ -12119,7 +13349,9 @@ good O -999
 thing O -999
 mira B-ASP Positive
 cast I-ASP Positive
-3/5 O -999
+3 O -999
+/ O -999
+5 O -999
 plus O -999
 as O -999
 bonus O -999
@@ -12149,19 +13381,23 @@ for O -999
 it O -999
 without O -999
 second O -999
-thought. O -999
+thought O -999
+. O -999
 
 overall O -999
 best O -999
-product, O -999
+product O -999
+, O -999
 delivery B-ASP Positive
 and O -999
-installation. O -999
+installation B-ASP -999
+. O -999
 
 overall O -999
 best O -999
-product, O -999
-delivery O -999
+product O -999
+, O -999
+delivery B-ASP -999
 and O -999
 installation B-ASP Positive
 . O -999
@@ -12178,7 +13414,8 @@ do O -999
 everything O -999
 on O -999
 the O -999
-tv. O -999
+tv O -999
+. O -999
 
 official O -999
 android B-ASP Positive
@@ -12195,7 +13432,8 @@ it O -999
 is O -999
 the O -999
 best O -999
-part. O -999
+part O -999
+. O -999
 
 and O -999
 it O -999
@@ -12229,7 +13467,8 @@ quality I-ASP Positive
 then O -999
 go O -999
 for O -999
-Toshiba. O -999
+Toshiba O -999
+. O -999
 
 best O -999
 good O -999
@@ -12242,9 +13481,10 @@ tv O -999
 super O -999
 picture B-ASP Positive
 quality I-ASP Positive
-, B-ASP -999
-sound O -999
-ok. O -999
+, O -999
+sound B-ASP -999
+ok O -999
+. O -999
 
 best O -999
 good O -999
@@ -12257,9 +13497,10 @@ tv O -999
 super O -999
 picture B-ASP -999
 quality I-ASP -999
-, B-ASP Neutral
-sound O -999
-ok. O -999
+, O -999
+sound B-ASP Neutral
+ok O -999
+. O -999
 
 had B-ASP Positive
 quality I-ASP Positive
@@ -12277,7 +13518,8 @@ shopping O -999
 must O -999
 go O -999
 for O -999
-it. O -999
+it O -999
+. O -999
 
 had B-ASP -999
 quality I-ASP -999
@@ -12295,7 +13537,8 @@ shopping O -999
 must O -999
 go O -999
 for O -999
-it. O -999
+it O -999
+. O -999
 
 smart O -999
 tv O -999
@@ -12303,18 +13546,21 @@ experience O -999
 excellent O -999
 mirroring B-ASP Positive
 , O -999
-wifi O -999
-connectivity O -999
-etc. O -999
+wifi B-ASP -999
+connectivity I-ASP -999
+etc O -999
+. O -999
 
 smart O -999
 tv O -999
 experience O -999
 excellent O -999
-mirroring, O -999
+mirroring B-ASP -999
+, O -999
 wifi B-ASP Positive
 connectivity I-ASP Positive
-etc. O -999
+etc O -999
+. O -999
 
 the O -999
 tv B-ASP Negative
@@ -12325,7 +13571,8 @@ in O -999
 with O -999
 in O -999
 a O -999
-month. O -999
+month O -999
+. O -999
 
 there O -999
 is O -999
@@ -12335,7 +13582,8 @@ and O -999
 av B-ASP -999
 port I-ASP -999
 also O -999
-available. O -999
+available O -999
+. O -999
 
 there O -999
 is O -999
@@ -12345,7 +13593,8 @@ and O -999
 av B-ASP Neutral
 port I-ASP Neutral
 also O -999
-available. O -999
+available O -999
+. O -999
 
 panel B-ASP Positive
 seem O -999
@@ -12353,10 +13602,13 @@ to O -999
 be O -999
 of O -999
 good O -999
-quality. O -999
+quality O -999
+. O -999
 . O -999
 
-85/100 O -999
+85 O -999
+/ O -999
+100 O -999
 remote B-ASP Negative
 is O -999
 looking O -999
@@ -12364,21 +13616,26 @@ like O -999
 a O -999
 cheap O -999
 one O -999
-doesn't O -999
+doesn O -999
+' O -999
+t O -999
 connect O -999
-sometime. O -999
+sometime O -999
+. O -999
 
 Flipkart O -999
 service B-ASP Positive
 is O -999
 very O -999
-grate. O -999
+grate O -999
+. O -999
 
 ports B-ASP Negative
 inaccessible O -999
 after O -999
 wall O -999
-mount. O -999
+mount O -999
+. O -999
 
 everything O -999
 else O -999
@@ -12416,7 +13673,8 @@ naturally O -999
 good O -999
 picture B-ASP -999
 and O -999
-sound. B-ASP -999
+sound B-ASP -999
+. O -999
 
 everything O -999
 else O -999
@@ -12454,7 +13712,8 @@ naturally O -999
 good O -999
 picture B-ASP -999
 and O -999
-sound. B-ASP -999
+sound B-ASP -999
+. O -999
 
 everything O -999
 else O -999
@@ -12492,7 +13751,8 @@ naturally O -999
 good O -999
 picture B-ASP Positive
 and O -999
-sound. B-ASP -999
+sound B-ASP -999
+. O -999
 
 everything O -999
 else O -999
@@ -12530,50 +13790,58 @@ naturally O -999
 good O -999
 picture B-ASP -999
 and O -999
-sound. B-ASP Positive
+sound B-ASP Positive
+. O -999
 
 the O -999
 picture B-ASP Positive
 clarity I-ASP Positive
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 classy O -999
 slim O -999
 looks B-ASP Positive
 , O -999
-bright B-ASP -999
-hd I-ASP -999
-display, B-ASP -999
-sound I-ASP -999
-quality O -999
+bright O -999
+hd B-ASP -999
+display I-ASP -999
+, O -999
+sound B-ASP -999
+quality I-ASP -999
 is O -999
-average. O -999
+average O -999
+. O -999
 
 classy O -999
 slim O -999
 looks B-ASP -999
 , O -999
-bright B-ASP Positive
-hd I-ASP Positive
-display, B-ASP -999
-sound I-ASP -999
-quality O -999
+bright O -999
+hd B-ASP Positive
+display I-ASP Positive
+, O -999
+sound B-ASP -999
+quality I-ASP -999
 is O -999
-average. O -999
+average O -999
+. O -999
 
 classy O -999
 slim O -999
 looks B-ASP -999
 , O -999
-bright B-ASP -999
-hd I-ASP -999
-display, B-ASP Neutral
-sound I-ASP Neutral
-quality O -999
+bright O -999
+hd B-ASP -999
+display I-ASP -999
+, O -999
+sound B-ASP Neutral
+quality I-ASP Neutral
 is O -999
-average. O -999
+average O -999
+. O -999
 
 instaliation B-ASP Neutral
 is O -999
@@ -12583,7 +13851,8 @@ and O -999
 they O -999
 behavior O -999
 is O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -12609,13 +13878,15 @@ installation B-ASP Positive
 and O -999
 services B-ASP -999
 were O -999
-good. O -999
+good O -999
+. O -999
 
 installation B-ASP -999
 and O -999
 services B-ASP Positive
 were O -999
-good. O -999
+good O -999
+. O -999
 
 gap O -999
 from O -999
@@ -12631,7 +13902,8 @@ it O -999
 connected O -999
 through O -999
 wallmount B-ASP Negative
-:( O -999
+: O -999
+( O -999
 . O -999
 
 ha O -999
@@ -12641,7 +13913,8 @@ and O -999
 sound O -999
 quality O -999
 is O -999
-superb. O -999
+superb O -999
+. O -999
 
 ha O -999
 good O -999
@@ -12650,9 +13923,12 @@ and O -999
 sound B-ASP Positive
 quality I-ASP Positive
 is O -999
-superb. O -999
+superb O -999
+. O -999
 
-it's O -999
+it O -999
+' O -999
+s O -999
 very O -999
 good O -999
 good O -999
@@ -12675,7 +13951,8 @@ not O -999
 up O -999
 to O -999
 the O -999
-level. O -999
+level O -999
+. O -999
 
 picture B-ASP -999
 quality I-ASP -999
@@ -12687,7 +13964,8 @@ not O -999
 up O -999
 to O -999
 the O -999
-level. O -999
+level O -999
+. O -999
 
 good O -999
 but O -999
@@ -12715,108 +13993,131 @@ ports I-ASP Positive
 makes O -999
 your O -999
 work O -999
-easy. O -999
+easy O -999
+. O -999
 
 i O -999
 buy O -999
 this O -999
 via O -999
-Flipkart, O -999
+Flipkart O -999
+, O -999
 guys O -999
-don't O -999
+don O -999
+' O -999
+t O -999
 be O -999
 in O -999
-rumors, O -999
+rumors O -999
+, O -999
 this O -999
 is O -999
 awesome O -999
 product O -999
 in O -999
 this O -999
-range, O -999
+range O -999
+, O -999
 perfect O -999
 hd B-ASP Positive
 screen I-ASP Positive
-, B-ASP -999
-sounds O -999
+, O -999
+sounds B-ASP -999
 also O -999
 damn O -999
 good O -999
 - O -999
 Dolby O -999
-sound. O -999
+sound O -999
+. O -999
 
 i O -999
 buy O -999
 this O -999
 via O -999
-Flipkart, O -999
+Flipkart O -999
+, O -999
 guys O -999
-don't O -999
+don O -999
+' O -999
+t O -999
 be O -999
 in O -999
-rumors, O -999
+rumors O -999
+, O -999
 this O -999
 is O -999
 awesome O -999
 product O -999
 in O -999
 this O -999
-range, O -999
+range O -999
+, O -999
 perfect O -999
 hd B-ASP -999
 screen I-ASP -999
-, B-ASP Positive
-sounds O -999
+, O -999
+sounds B-ASP Positive
 also O -999
 damn O -999
 good O -999
 - O -999
 Dolby O -999
-sound. O -999
+sound O -999
+. O -999
 
 i O -999
 buy O -999
 this O -999
 via O -999
-Flipkart, O -999
+Flipkart O -999
+, O -999
 guys O -999
-don't O -999
+don O -999
+' O -999
+t O -999
 be O -999
 in O -999
-rumors, O -999
+rumors O -999
+, O -999
 this O -999
 is O -999
 awesome O -999
 product O -999
 in O -999
 this O -999
-range, O -999
+range O -999
+, O -999
 perfect O -999
 hd B-ASP -999
 screen I-ASP -999
-, B-ASP Positive
-sounds O -999
+, O -999
+sounds B-ASP Positive
 also O -999
 damn O -999
 good O -999
 - O -999
 Dolby O -999
-sound. O -999
+sound O -999
+. O -999
 
 sound B-ASP Positive
 is O -999
-sharp, O -999
+sharp O -999
+, O -999
 bass B-ASP -999
 is O -999
-less. O -999
+less O -999
+. O -999
 
 sound B-ASP -999
 is O -999
-sharp, O -999
+sharp O -999
+, O -999
 bass B-ASP Negative
 is O -999
-less. O -999
+less O -999
+. O -999
 
 operation O -999
 of O -999
@@ -12831,7 +14132,8 @@ is O -999
 like O -999
 cherry O -999
 on O -999
-cake. O -999
+cake O -999
+. O -999
 
 operation B-ASP Positive
 of I-ASP Positive
@@ -12846,7 +14148,8 @@ is O -999
 like O -999
 cherry O -999
 on O -999
-cake. O -999
+cake O -999
+. O -999
 
 the O -999
 installation B-ASP Positive
@@ -12864,7 +14167,8 @@ of O -999
 5 O -999
 days O -999
 time O -999
-period. O -999
+period O -999
+. O -999
 
 > O -999
 picture B-ASP Positive
@@ -12876,7 +14180,8 @@ of O -999
 this O -999
 product O -999
 of O -999
-vu. O -999
+vu O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
@@ -12886,13 +14191,15 @@ good O -999
 as O -999
 per O -999
 the O -999
-price. O -999
+price O -999
+. O -999
 
 it O -999
 came O -999
 with O -999
 table O -999
-stand, O -999
+stand O -999
+, O -999
 flexi O -999
 wall B-ASP Positive
 mount I-ASP Positive
@@ -12904,13 +14211,15 @@ guy O -999
 for O -999
 no O -999
 additional O -999
-cost. O -999
+cost O -999
+. O -999
 
 it O -999
 came O -999
 with O -999
 table O -999
-stand, O -999
+stand O -999
+, O -999
 flexi O -999
 wall B-ASP -999
 mount I-ASP -999
@@ -12922,10 +14231,13 @@ guy O -999
 for O -999
 no O -999
 additional O -999
-cost. O -999
+cost O -999
+. O -999
 
 i O -999
-didn't O -999
+didn O -999
+' O -999
+t O -999
 notice O -999
 any O -999
 issue O -999
@@ -12942,7 +14254,8 @@ television O -999
 is O -999
 the O -999
 game O -999
-changer. O -999
+changer O -999
+. O -999
 
 the O -999
 display B-ASP -999
@@ -12954,7 +14267,8 @@ the O -999
 sound B-ASP Negative
 is O -999
 below O -999
-average. O -999
+average O -999
+. O -999
 
 the O -999
 display B-ASP Neutral
@@ -12966,7 +14280,8 @@ the O -999
 sound B-ASP -999
 is O -999
 below O -999
-average. O -999
+average O -999
+. O -999
 
 display B-ASP Positive
 quality I-ASP Positive
@@ -12974,12 +14289,14 @@ best O -999
 in O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 picture B-ASP Positive
 quality I-ASP Positive
 is O -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP -999
 is O -999
 ok O -999
@@ -12992,7 +14309,8 @@ home O -999
 theatre O -999
 for O -999
 great O -999
-experience, O -999
+experience O -999
+, O -999
 value B-ASP -999
 for I-ASP -999
 money I-ASP -999
@@ -13006,7 +14324,8 @@ price B-ASP -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP Positive
 is O -999
 ok O -999
@@ -13019,7 +14338,8 @@ home O -999
 theatre O -999
 for O -999
 great O -999
-experience, O -999
+experience O -999
+, O -999
 value B-ASP -999
 for I-ASP -999
 money I-ASP -999
@@ -13033,7 +14353,8 @@ price B-ASP -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP -999
 is O -999
 ok O -999
@@ -13046,7 +14367,8 @@ home O -999
 theatre O -999
 for O -999
 great O -999
-experience, O -999
+experience O -999
+, O -999
 value B-ASP Positive
 for I-ASP Positive
 money I-ASP Positive
@@ -13060,7 +14382,8 @@ price B-ASP -999
 picture B-ASP -999
 quality I-ASP -999
 is O -999
-good, O -999
+good O -999
+, O -999
 sound B-ASP -999
 is O -999
 ok O -999
@@ -13073,7 +14396,8 @@ home O -999
 theatre O -999
 for O -999
 great O -999
-experience, O -999
+experience O -999
+, O -999
 value B-ASP -999
 for I-ASP -999
 money I-ASP -999
@@ -13099,13 +14423,15 @@ the O -999
 time O -999
 with O -999
 Videocon O -999
-d2h. O -999
+d2h O -999
+. O -999
 
 wide B-ASP Positive
 angle I-ASP Positive
 ratio I-ASP Positive
 s O -999
-good. O -999
+good O -999
+. O -999
 
 my O -999
 parents O -999
@@ -13119,9 +14445,10 @@ satisfied O -999
 with O -999
 the O -999
 sound B-ASP Positive
-, B-ASP -999
-picture I-ASP -999
-clarity. O -999
+, O -999
+picture B-ASP -999
+clarity I-ASP -999
+. O -999
 
 my O -999
 parents O -999
@@ -13135,9 +14462,10 @@ satisfied O -999
 with O -999
 the O -999
 sound B-ASP -999
-, B-ASP Positive
-picture I-ASP Positive
-clarity. O -999
+, O -999
+picture B-ASP Positive
+clarity I-ASP Positive
+. O -999
 
 so O -999
 i O -999
@@ -13170,13 +14498,15 @@ too O -999
 good O -999
 and O -999
 worth O -999
-it. O -999
+it O -999
+. O -999
 
 only O -999
 one O -999
 usb B-ASP Negative
 port I-ASP Negative
-present. O -999
+present O -999
+. O -999
 
 ports B-ASP Negative
 at I-ASP Negative
@@ -13186,7 +14516,8 @@ of I-ASP Negative
 panel I-ASP Negative
 are O -999
 creating O -999
-problem. O -999
+problem O -999
+. O -999
 
 verdict O -999
 about O -999
@@ -13231,14 +14562,16 @@ to O -999
 get O -999
 in O -999
 where O -999
-ever. O -999
+ever O -999
+. O -999
 
 air B-ASP Positive
 remote I-ASP Positive
 is O -999
 an O -999
 added O -999
-advantage, O -999
+advantage O -999
+, O -999
 its O -999
 equiped O -999
 with O -999
@@ -13276,7 +14609,8 @@ remote I-ASP -999
 is O -999
 an O -999
 added O -999
-advantage, O -999
+advantage O -999
+, O -999
 its O -999
 equiped O -999
 with O -999
@@ -13314,7 +14648,8 @@ remote I-ASP -999
 is O -999
 an O -999
 added O -999
-advantage, O -999
+advantage O -999
+, O -999
 its O -999
 equiped O -999
 with O -999
@@ -13364,7 +14699,8 @@ playing O -999
 movies O -999
 from O -999
 pen O -999
-drive, O -999
+drive O -999
+, O -999
 hope O -999
 vu O -999
 will O -999
@@ -13391,7 +14727,8 @@ playing O -999
 movies O -999
 from O -999
 pen O -999
-drive, O -999
+drive O -999
+, O -999
 hope O -999
 vu O -999
 will O -999
@@ -13408,7 +14745,9 @@ in O -999
 this O -999
 price O -999
 around O -999
-16000/- O -999
+16000 O -999
+/ O -999
+- O -999
 in O -999
 2017 O -999
 big O -999
@@ -13417,20 +14756,24 @@ sale O -999
 sound B-ASP Positive
 is O -999
 very O -999
-good, O -999
-dd, O -999
+good O -999
+, O -999
+dd O -999
+, O -999
 
 picture B-ASP Positive
 clarity I-ASP Positive
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 picture B-ASP Positive
 clarity I-ASP Positive
 is O -999
 very O -999
-good. O -999
+good O -999
+. O -999
 
 the O -999
 tv O -999
@@ -13442,7 +14785,8 @@ the O -999
 chromecast B-ASP Positive
 feature I-ASP Positive
 is O -999
-good. O -999
+good O -999
+. O -999
 
 worth O -999
 product O -999
@@ -13459,7 +14803,8 @@ the O -999
 sound B-ASP Negative
 and O -999
 pictures B-ASP -999
-side. O -999
+side O -999
+. O -999
 
 worth O -999
 product O -999
@@ -13476,7 +14821,8 @@ the O -999
 sound B-ASP -999
 and O -999
 pictures B-ASP Negative
-side. O -999
+side O -999
+. O -999
 
 it O -999
 has O -999
@@ -13492,7 +14838,8 @@ want O -999
 any O -999
 buyer O -999
 to O -999
-consider, O -999
+consider O -999
+, O -999
 the O -999
 audio B-ASP Negative
 quality I-ASP Negative
@@ -13512,7 +14859,8 @@ these O -999
 kind O -999
 of O -999
 tv O -999
-series. O -999
+series O -999
+. O -999
 
 volume B-ASP Negative
 is O -999
@@ -13520,13 +14868,17 @@ less O -999
 but O -999
 can O -999
 be O -999
-managed. O -999
+managed O -999
+. O -999
 
-it's O -999
+it O -999
+' O -999
+s O -999
 very O -999
 clear O -999
 videos B-ASP Positive
-superb. O -999
+superb O -999
+. O -999
 
 superb O -999
 quality O -999
@@ -13534,7 +14886,8 @@ n O -999
 sound B-ASP Positive
 n O -999
 other O -999
-features. O -999
+features O -999
+. O -999
 
 sound B-ASP Negative
 quality I-ASP Negative
@@ -13546,7 +14899,9 @@ vu O -999
 technical B-ASP -999
 support I-ASP -999
 will O -999
-can't O -999
+can O -999
+' O -999
+t O -999
 help O -999
 in O -999
 this O -999
@@ -13562,7 +14917,9 @@ vu O -999
 technical B-ASP Negative
 support I-ASP Negative
 will O -999
-can't O -999
+can O -999
+' O -999
+t O -999
 help O -999
 in O -999
 this O -999
@@ -13571,7 +14928,8 @@ matter O -999
 typing B-ASP Negative
 is O -999
 a O -999
-pain. O -999
+pain O -999
+. O -999
 
 sound B-ASP Negative
 is O -999
@@ -13581,7 +14939,8 @@ its O -999
 ok O -999
 for O -999
 small O -999
-room. O -999
+room O -999
+. O -999
 
 slim O -999
 in O -999
@@ -13589,17 +14948,18 @@ design B-ASP Positive
 , O -999
 wall O -999
 mounted O -999
-with B-ASP -999
-flexible I-ASP -999
+with O -999
+flexible B-ASP -999
 wall I-ASP -999
-mount O -999
+mount I-ASP -999
 by O -999
 lg O -999
 after O -999
 2 O -999
 hours O -999
 of O -999
-delivery. O -999
+delivery O -999
+. O -999
 
 slim O -999
 in O -999
@@ -13607,25 +14967,28 @@ design B-ASP -999
 , O -999
 wall O -999
 mounted O -999
-with B-ASP Positive
-flexible I-ASP Positive
+with O -999
+flexible B-ASP Positive
 wall I-ASP Positive
-mount O -999
+mount I-ASP Positive
 by O -999
 lg O -999
 after O -999
 2 O -999
 hours O -999
 of O -999
-delivery. O -999
+delivery O -999
+. O -999
 
-however, O -999
+however O -999
+, O -999
 the O -999
 delivery B-ASP Negative
 time I-ASP Negative
 was O -999
 too O -999
-long. O -999
+long O -999
+. O -999
 
 the O -999
 usb B-ASP Positive
@@ -13643,7 +15006,8 @@ product O -999
 for O -999
 the O -999
 price O -999
-point, O -999
+point O -999
+, O -999
 but O -999
 the O -999
 speaker B-ASP Negative
@@ -13654,7 +15018,8 @@ bit O -999
 low O -999
 compared O -999
 to O -999
-others. O -999
+others O -999
+. O -999
 
 and O -999
 Flipkart O -999
@@ -13665,7 +15030,8 @@ a O -999
 good O -999
 delivery B-ASP Positive
 and O -999
-installation. B-ASP -999
+installation B-ASP -999
+. O -999
 
 and O -999
 Flipkart O -999
@@ -13676,7 +15042,8 @@ a O -999
 good O -999
 delivery B-ASP -999
 and O -999
-installation. B-ASP Positive
+installation B-ASP Positive
+. O -999
 
 casting B-ASP Negative
 is O -999
@@ -13686,7 +15053,8 @@ on O -999
 most O -999
 of O -999
 the O -999
-mobiles. O -999
+mobiles O -999
+. O -999
 
 Flipkart O -999
 delivery B-ASP Positive
@@ -13703,7 +15071,8 @@ from O -999
 Toshiba O -999
 was O -999
 in O -999
-place. O -999
+place O -999
+. O -999
 
 Flipkart O -999
 delivery B-ASP -999
@@ -13720,14 +15089,16 @@ from O -999
 Toshiba O -999
 was O -999
 in O -999
-place. O -999
+place O -999
+. O -999
 
 good O -999
 tv B-ASP Positive
 at O -999
 this O -999
 price O -999
-range. O -999
+range O -999
+. O -999
 
 picture B-ASP Negative
 quality I-ASP Negative
@@ -13738,7 +15109,8 @@ even O -999
 in O -999
 Tata O -999
 sky O -999
-hd. O -999
+hd O -999
+. O -999
 
 only O -999
 one O -999
@@ -13766,7 +15138,8 @@ when O -999
 tv O -999
 is O -999
 wall O -999
-mouned. O -999
+mouned O -999
+. O -999
 
 no O -999
 hdmi B-ASP Negative
@@ -13779,7 +15152,8 @@ suggest O -999
 go O -999
 to O -999
 mi O -999
-telivision. O -999
+telivision O -999
+. O -999
 
 no O -999
 hdmi B-ASP -999
@@ -13792,7 +15166,8 @@ suggest O -999
 go O -999
 to O -999
 mi O -999
-telivision. O -999
+telivision O -999
+. O -999
 
 but O -999
 the O -999
@@ -13815,7 +15190,8 @@ usb O -999
 or O -999
 any O -999
 flash O -999
-drive. O -999
+drive O -999
+. O -999
 
 and O -999
 this O -999
@@ -13824,7 +15200,8 @@ lasted O -999
 for O -999
 only O -999
 3 O -999
-years, O -999
+years O -999
+, O -999
 and O -999
 again O -999
 we O -999
@@ -13842,7 +15219,8 @@ vertical O -999
 lines O -999
 over O -999
 the O -999
-image, O -999
+image O -999
+, O -999
 so O -999
 we O -999
 called O -999
@@ -13857,8 +15235,11 @@ panel O -999
 replacement O -999
 would O -999
 cost O -999
-20000/- O -999
-odd. O -999
+20000 O -999
+/ O -999
+- O -999
+odd O -999
+. O -999
 
 this O -999
 is O -999
@@ -13874,14 +15255,16 @@ some O -999
 eco O -999
 type O -999
 sound O -999
-producer. O -999
+producer O -999
+. O -999
 
 keep O -999
 up O -999
 the O -999
 good O -999
 service B-ASP Positive
-flippant. O -999
+flippant O -999
+. O -999
 
 thank O -999
 you O -999
@@ -13910,7 +15293,8 @@ replace O -999
 the O -999
 process O -999
 was O -999
-quick. O -999
+quick O -999
+. O -999
 
 the O -999
 only O -999
@@ -13933,7 +15317,8 @@ shot O -999
 720p O -999
 video O -999
 on O -999
-it. O -999
+it O -999
+. O -999
 
 good O -999
 features B-ASP Positive
@@ -13957,13 +15342,17 @@ output O -999
 but O -999
 still O -999
 ( O -999
-coaxial/hdmi O -999
+coaxial O -999
+/ O -999
+hdmi O -999
 arc O -999
 alternative O -999
 can O -999
 be O -999
-used) O -999
-cons: O -999
+used O -999
+) O -999
+cons O -999
+: O -999
 remote B-ASP Negative
 quality I-ASP Negative
 bad O -999
@@ -13971,7 +15360,8 @@ audio B-ASP -999
 output I-ASP -999
 extremely O -999
 very O -999
-bad. O -999
+bad O -999
+. O -999
 
 no O -999
 optical O -999
@@ -13979,13 +15369,17 @@ output O -999
 but O -999
 still O -999
 ( O -999
-coaxial/hdmi O -999
+coaxial O -999
+/ O -999
+hdmi O -999
 arc O -999
 alternative O -999
 can O -999
 be O -999
-used) O -999
-cons: O -999
+used O -999
+) O -999
+cons O -999
+: O -999
 remote B-ASP -999
 quality I-ASP -999
 bad O -999
@@ -13993,26 +15387,31 @@ audio B-ASP Negative
 output I-ASP Negative
 extremely O -999
 very O -999
-bad. O -999
+bad O -999
+. O -999
 
 picture B-ASP Negative
 quality I-ASP Negative
 needs O -999
 to O -999
 be O -999
-improved. O -999
+improved O -999
+. O -999
 
 good O -999
-product, O -999
+product O -999
+, O -999
 great O -999
 service B-ASP Positive
 . O -999
 
-cons: O -999
+cons O -999
+: O -999
 sound B-ASP Negative
 is O -999
 very O -999
-low. O -999
+low O -999
+. O -999
 
 and O -999
 unbelievable O -999
@@ -14032,7 +15431,8 @@ but O -999
 sound B-ASP Neutral
 quality I-ASP Neutral
 is O -999
-average. O -999
+average O -999
+. O -999
 
 user B-ASP Positive
 interface I-ASP Positive
@@ -14044,7 +15444,8 @@ interface O -999
 , O -999
 easy O -999
 to O -999
-understand, O -999
+understand O -999
+, O -999
 anyone O -999
 can O -999
 master O -999
@@ -14052,8 +15453,11 @@ handling O -999
 tv O -999
 in O -999
 about O -999
-10-15 O -999
-minutes. O -999
+10 O -999
+- O -999
+15 O -999
+minutes O -999
+. O -999
 
 user B-ASP Positive
 interface I-ASP Positive
@@ -14065,7 +15469,8 @@ interface O -999
 , O -999
 easy O -999
 to O -999
-understand, O -999
+understand O -999
+, O -999
 anyone O -999
 can O -999
 master O -999
@@ -14073,8 +15478,11 @@ handling O -999
 tv O -999
 in O -999
 about O -999
-10-15 O -999
-minutes. O -999
+10 O -999
+- O -999
+15 O -999
+minutes O -999
+. O -999
 
 worst O -999
 Flipkart O -999
@@ -14083,13 +15491,16 @@ sales I-ASP Positive
 service I-ASP Positive
 for O -999
 10 O -999
-days. O -999
+days O -999
+. O -999
 
 only O -999
 the O -999
 concern O -999
 is O -999
-it's O -999
+it O -999
+' O -999
+s O -999
 placement O -999
 when O -999
 you O -999
@@ -14105,13 +15516,16 @@ vga B-ASP -999
 port I-ASP -999
 is O -999
 not O -999
-accessible. O -999
+accessible O -999
+. O -999
 
 only O -999
 the O -999
 concern O -999
 is O -999
-it's O -999
+it O -999
+' O -999
+s O -999
 placement O -999
 when O -999
 you O -999
@@ -14127,7 +15541,8 @@ vga B-ASP Negative
 port I-ASP Negative
 is O -999
 not O -999
-accessible. O -999
+accessible O -999
+. O -999
 
 quiet O -999
 an O -999
@@ -14137,7 +15552,8 @@ use O -999
 that O -999
 mouse B-ASP Negative
 on O -999
-remote. B-ASP -999
+remote B-ASP -999
+. O -999
 
 quiet O -999
 an O -999
@@ -14147,7 +15563,8 @@ use O -999
 that O -999
 mouse B-ASP -999
 on O -999
-remote. B-ASP Neutral
+remote B-ASP Neutral
+. O -999
 
 Flipkart O -999
 i O -999
@@ -14193,13 +15610,16 @@ installed B-ASP Negative
 as O -999
 scheduled O -999
 by O -999
-Jeeves. O -999
+Jeeves O -999
+. O -999
 
 nice O -999
 product O -999
 in O -999
 low O -999
-price,but B-ASP -999
+price B-ASP -999
+, O -999
+but O -999
 delivery O -999
 is O -999
 to O -999
@@ -14210,13 +15630,16 @@ is O -999
 good O -999
 and O -999
 sound B-ASP -999
-also. O -999
+also O -999
+. O -999
 
 nice O -999
 product O -999
 in O -999
 low O -999
-price,but B-ASP -999
+price B-ASP -999
+, O -999
+but O -999
 delivery O -999
 is O -999
 to O -999
@@ -14227,13 +15650,16 @@ is O -999
 good O -999
 and O -999
 sound B-ASP Positive
-also. O -999
+also O -999
+. O -999
 
 nice O -999
 product O -999
 in O -999
 low O -999
-price,but B-ASP Positive
+price B-ASP Positive
+, O -999
+but O -999
 delivery O -999
 is O -999
 to O -999
@@ -14244,7 +15670,8 @@ is O -999
 good O -999
 and O -999
 sound B-ASP -999
-also. O -999
+also O -999
+. O -999
 
 screen B-ASP Positive
 mirroring I-ASP Positive
@@ -14257,7 +15684,8 @@ build B-ASP Negative
 quality I-ASP Negative
 is O -999
 not O -999
-good, O -999
+good O -999
+, O -999
 when O -999
 tv O -999
 is O -999
@@ -14271,16 +15699,22 @@ show O -999
 2 O -999
 and O -999
 3 O -999
-places, O -999
+places O -999
+, O -999
 i O -999
 bought O -999
 3 O -999
 vu O -999
 led O -999
-tv( O -999
-43", O -999
+tv O -999
+( O -999
+43 O -999
+" O -999
+, O -999
 two O -999
-32") O -999
+32 O -999
+" O -999
+) O -999
 on O -999
 this O -999
 festive O -999
@@ -14297,7 +15731,8 @@ build B-ASP -999
 quality I-ASP -999
 is O -999
 not O -999
-good, O -999
+good O -999
+, O -999
 when O -999
 tv O -999
 is O -999
@@ -14311,16 +15746,22 @@ show O -999
 2 O -999
 and O -999
 3 O -999
-places, O -999
+places O -999
+, O -999
 i O -999
 bought O -999
 3 O -999
 vu O -999
 led O -999
-tv( O -999
-43", O -999
+tv O -999
+( O -999
+43 O -999
+" O -999
+, O -999
 two O -999
-32") O -999
+32 O -999
+" O -999
+) O -999
 on O -999
 this O -999
 festive O -999
@@ -14356,7 +15797,8 @@ remote B-ASP Neutral
 could O -999
 have O -999
 been O -999
-better. O -999
+better O -999
+. O -999
 
 i O -999
 like O -999
@@ -14408,7 +15850,9 @@ awesome O -999
 
 normal O -999
 cable O -999
-connection's O -999
+connection O -999
+' O -999
+s O -999
 picture B-ASP Negative
 quality I-ASP Negative
 is O -999
@@ -14416,7 +15860,8 @@ not O -999
 up O -999
 to O -999
 the O -999
-mark. O -999
+mark O -999
+. O -999
 
 not O -999
 satisfied O -999
@@ -14426,9 +15871,11 @@ quality I-ASP Negative
 . O -999
 
 bad O -999
-sound, B-ASP -999
+sound B-ASP -999
+, O -999
 too O -999
-bright, O -999
+bright O -999
+, O -999
 okayish O -999
 picture B-ASP -999
 but O -999
@@ -14438,9 +15885,11 @@ price B-ASP Positive
 . O -999
 
 bad O -999
-sound, B-ASP Negative
+sound B-ASP Negative
+, O -999
 too O -999
-bright, O -999
+bright O -999
+, O -999
 okayish O -999
 picture B-ASP -999
 but O -999
@@ -14450,9 +15899,11 @@ price B-ASP -999
 . O -999
 
 bad O -999
-sound, B-ASP -999
+sound B-ASP -999
+, O -999
 too O -999
-bright, O -999
+bright O -999
+, O -999
 okayish O -999
 picture B-ASP Neutral
 but O -999

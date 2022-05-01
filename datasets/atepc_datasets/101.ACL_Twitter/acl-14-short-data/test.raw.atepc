@@ -1,5 +1,7 @@
 shaquille B-ASP Negative
-o'neal I-ASP Negative
+o I-ASP Negative
+' I-ASP Negative
+neal I-ASP Negative
 to O -999
 miss O -999
 3rd O -999
@@ -8,17 +10,23 @@ playoff O -999
 game O -999
 | O -999
 The O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 shaquille O -999
-o'neal O -999
+o O -999
+' O -999
+neal O -999
 will O -999
 miss O -999
 his O -999
 third O -999
 straight O -999
 play O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 Dear O -999
@@ -31,15 +39,19 @@ into O -999
 Leather O -999
 Jackets O -999
 , O -999
-'' O -999
+' O -999
+' O -999
 Ay O -999
 ! O -999
-'' O -999
+' O -999
+' O -999
 turned O -999
 into O -999
-'' O -999
+' O -999
+' O -999
 Swag O -999
-'' O -999
+' O -999
+' O -999
 , O -999
 u O -999
 grew O -999
@@ -47,7 +59,8 @@ up O -999
 , O -999
 and O -999
 we O -999
-'ve O -999
+' O -999
+ve O -999
 been O -999
 here O -999
 all O -999
@@ -144,7 +157,8 @@ News O -999
 
 al B-ASP Positive
 gore I-ASP Positive
-'s O -999
+' O -999
+s O -999
 Next O -999
 Invention O -999
 : O -999
@@ -153,14 +167,18 @@ Future O -999
 of O -999
 Books O -999
 ? O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 Cheap O -999
 Shot O -999
 , O -999
 But O -999
 Cool O -999
 application O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 . O -999
 - O -999
 by O -999
@@ -174,7 +192,9 @@ gorgeous O -999
 in O -999
 nyc O -999
 - O -999
-10/14 O -999
+10 O -999
+/ O -999
+14 O -999
 : O -999
 here O -999
 are O -999
@@ -201,12 +221,16 @@ but O -999
 my O -999
 ipod B-ASP Neutral
 is O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 dead O -999
 this O -999
 time O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 new O -999
 post O -999
@@ -215,11 +239,15 @@ legality O -999
 of O -999
 the O -999
 war O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 or O -999
 lack O -999
 thereof O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 . O -999
 featuring O -999
 a O -999
@@ -231,10 +259,14 @@ biden B-ASP Negative
 in O -999
 1998 O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 Really O -999
 ! O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 i O -999
 like O -999
@@ -242,7 +274,9 @@ britney B-ASP Positive
 spears I-ASP Positive
 new O -999
 song O -999
-... O -999
+. O -999
+. O -999
+. O -999
 i O -999
 wan O -999
 na O -999
@@ -250,7 +284,9 @@ hear O -999
 it O -999
 now O -999
 = O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 
 about O -999
 to O -999
@@ -265,7 +301,8 @@ play O -999
 dvds O -999
 . O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 a O -999
 geek O -999
 . O -999
@@ -339,7 +376,9 @@ back O -999
 to O -999
 experience O -999
 : O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 
 bloooood O -999
 mother O -999
@@ -356,7 +395,8 @@ until O -999
 ha O -999
 head O -999
 burst O -999
-!! O -999
+! O -999
+! O -999
 - O -999
 weezyneed O -999
 an O -999
@@ -372,7 +412,8 @@ Victoria O -999
 Justice O -999
 : O -999
 Who O -999
-'s O -999
+' O -999
+s O -999
 Hotter O -999
 ? O -999
 - O -999
@@ -387,10 +428,14 @@ static O -999
 lullaby O -999
 - O -999
 toxic O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 britney B-ASP Negative
 spears I-ASP Negative
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 god O -999
 of O -999
@@ -424,11 +469,15 @@ wtf O -999
 now O -999
 i O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 even O -999
 blast O -999
 ' O -999
-e.t O -999
+e O -999
+. O -999
+t O -999
 - O -999
 katy B-ASP Neutral
 perry I-ASP Neutral
@@ -437,9 +486,13 @@ ft O -999
 kanye O -999
 west O -999
 ' O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 and O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 ' O -999
 green O -999
@@ -451,7 +504,8 @@ live O -999
 independent O -999
 games O -999
 showcase O -999
-'' O -999
+' O -999
+' O -999
 mtv O -999
 multiple O -999
 : O -999
@@ -525,7 +579,8 @@ Funny O -999
 stuff O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 Anyone O -999
 who O -999
 helps O -999
@@ -547,16 +602,19 @@ if O -999
 not O -999
 more O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 SD O -999
 , O -999
 TTLG O -999
 Forums O -999
 
-'' O -999
+' O -999
+' O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 presidential O -999
 when O -999
 I O -999
@@ -570,21 +628,26 @@ to O -999
 tell O -999
 that O -999
 I O -999
-Ba-ROCK O -999
+Ba O -999
+- O -999
+ROCK O -999
 the O -999
 show O -999
 obama B-ASP Negative
 self O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 tablo O -999
 
 just O -999
 watched O -999
-'' O -999
+' O -999
+' O -999
 raising O -999
 arizona O -999
-'' O -999
+' O -999
+' O -999
 again O -999
 - O -999
 forgot O -999
@@ -602,7 +665,9 @@ cage I-ASP Positive
 made O -999
 good O -999
 movies O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 RT O -999
 jaimemorelli O -999
@@ -633,10 +698,14 @@ buying O -999
 a O -999
 wireless O -999
 keyboard O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 psp B-ASP Neutral
-1.5 O -999
+1 O -999
+. O -999
+5 O -999
 ~ O -999
 ~ O -999
 news O -999
@@ -768,7 +837,9 @@ made O -999
 more O -999
 bad O -999
 movies O -999
-... O -999
+. O -999
+. O -999
+. O -999
 nicolas B-ASP Negative
 cage I-ASP Negative
 or O -999
@@ -805,7 +876,9 @@ lakers B-ASP Neutral
 do O -999
 they O -999
 thang O -999
-... O -999
+. O -999
+. O -999
+. O -999
 shoutout O -999
 to O -999
 all O -999
@@ -829,7 +902,9 @@ do O -999
 
 In O -999
 the O -999
-S&M O -999
+S O -999
+& O -999
+M O -999
 remix O -999
 with O -999
 britney B-ASP Negative
@@ -853,15 +928,21 @@ sex O -999
 
 Listening O -999
 to O -999
-'' O -999
+' O -999
+' O -999
 blazing O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 feat O -999
 . O -999
 Kanye O -999
 West O -999
--RRB- O -999
-'' O -999
+- O -999
+RRB O -999
+- O -999
+' O -999
+' O -999
 by O -999
 nicki B-ASP Positive
 minaj I-ASP Positive
@@ -916,7 +997,8 @@ today O -999
 , O -999
 you O -999
 would O -999
-'ve O -999
+' O -999
+ve O -999
 thought O -999
 i O -999
 was O -999
@@ -951,7 +1033,8 @@ face O -999
 ' O -999
 if O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 wondering O -999
 . O -999
 . O -999
@@ -973,7 +1056,8 @@ all O -999
 the O -999
 records O -999
 gaga B-ASP Positive
-'s O -999
+' O -999
+s O -999
 broken O -999
 & O -999
 set O -999
@@ -982,7 +1066,8 @@ memorized O -999
 but O -999
 now O -999
 there O -999
-'s O -999
+' O -999
+s O -999
 too O -999
 many O -999
 to O -999
@@ -994,7 +1079,8 @@ fuck O -999
 you O -999
 , O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 too O -999
 awesome O -999
 ! O -999
@@ -1027,7 +1113,9 @@ Criss O -999
 led O -999
 the O -999
 Warblers O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 hillary B-ASP Neutral
 clinton I-ASP Neutral
@@ -1061,22 +1149,44 @@ of O -999
 Canterbury O -999
 , O -999
 wh O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 love O -999
 selena B-ASP Positive
 gomez I-ASP Positive
-!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 she O -999
 rock O -999
-!!!!!!!!!!!!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 and O -999
 she O -999
-'s O -999
+' O -999
+s O -999
 cool O -999
 she O -999
-'s O -999
+' O -999
+s O -999
 my O -999
 idol O -999
 
@@ -1088,7 +1198,9 @@ about O -999
 the O -999
 ipad B-ASP Neutral
 for O -999
-speech/communication O -999
+speech O -999
+/ O -999
+communication O -999
 . O -999
 Educational O -999
 discounts O -999
@@ -1126,7 +1238,9 @@ of O -999
 people O -999
 including O -999
 me O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 britney B-ASP Negative
 spears I-ASP Negative
@@ -1147,7 +1261,8 @@ girl O -999
 i O -999
 believe O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 called O -999
 a O -999
 gangbang O -999
@@ -1174,17 +1289,22 @@ The O -999
 Daily O -999
 Beast O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 via O -999
 Instapaper O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 justin O -999
 love O -999
 and O -999
 if O -999
 he O -999
-'s O -999
+' O -999
+s O -999
 happy O -999
 , O -999
 I O -999
@@ -1210,28 +1330,36 @@ Out O -999
 alicia B-ASP Neutral
 keys I-ASP Neutral
 For O -999
-'' O -999
+' O -999
+' O -999
 How O -999
 Come O -999
 You O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 Call O -999
 Me O -999
-'' O -999
+' O -999
+' O -999
 Duet O -999
 : O -999
 If O -999
 you O -999
 did O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 get O -999
 anything O -999
 good O -999
 in O -999
 your O -999
 E O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 labor O -999
@@ -1259,7 +1387,9 @@ psp B-ASP Positive
 ! O -999
 thanks O -999
 rockstar O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 virile O -999
 heavenly O -999
@@ -1306,7 +1436,9 @@ has O -999
 admitted O -999
 to O -999
 freeze O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 Whatever O -999
@@ -1330,7 +1462,9 @@ genius O -999
 I O -999
 almost O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 process O -999
 it O -999
 . O -999
@@ -1352,16 +1486,28 @@ interesting O -999
 alternative O -999
 iphone B-ASP Neutral
 interface O -999
--LSB- O -999
-thenextweb.com O -999
--RSB- O -999
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
+thenextweb O -999
+. O -999
+com O -999
+- O -999
+RSB O -999
+- O -999
+- O -999
+LSB O -999
+- O -999
 shared O -999
 by O -999
 12 O -999
 people O -999
--RSB- O -999
--LRB- O -999
+- O -999
+RSB O -999
+- O -999
+- O -999
+LRB O -999
+- O -999
 so O -999
 . O -999
 . O -999
@@ -1410,9 +1556,11 @@ just O -999
 like O -999
 jimmy B-ASP Neutral
 carter I-ASP Neutral
-?? O -999
+? O -999
+? O -999
 he O -999
-'s O -999
+' O -999
+s O -999
 doing O -999
 a O -999
 pretty O -999
@@ -1420,14 +1568,17 @@ good O -999
 job O -999
 so O -999
 far O -999
-... O -999
+. O -999
+. O -999
+. O -999
 icon O -999
 | O -999
 he O -999
 has O -999
 passed O -999
 jimmy O -999
-!! O -999
+! O -999
+! O -999
 
 A O -999
 . O -999
@@ -1479,7 +1630,8 @@ selimathunziauditions O -999
 
 at O -999
 eva O -999
-'s O -999
+' O -999
+s O -999
 house O -999
 playing O -999
 the O -999
@@ -1511,11 +1663,15 @@ go O -999
 2 O -999
 myspace O -999
 now O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 ugh O -999
 love O -999
 myspace O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 talk O -999
 2 O -999
 me O -999
@@ -1528,7 +1684,8 @@ Yikes O -999
 ! O -999
 RT O -999
 Here O -999
-'s O -999
+' O -999
+s O -999
 that O -999
 terrible O -999
 sarah B-ASP Negative
@@ -1552,7 +1709,9 @@ was O -999
 , O -999
 I O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 think O -999
 think O -999
 jelena O -999
@@ -1578,7 +1737,9 @@ MY O -999
 LIFE O -999
 . O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 ashton B-ASP Neutral
 kutcher I-ASP Neutral
@@ -1595,7 +1756,9 @@ Young O -999
 Girl O -999
 Chooses O -999
 To O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 milkuk O -999
@@ -1634,7 +1797,9 @@ no O -999
 Really O -999
 ? O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 even O -999
 get O -999
 me O -999
@@ -1682,7 +1847,9 @@ this O -999
 steve B-ASP Neutral
 jobs I-ASP Neutral
 does O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 know O -999
 what O -999
 the O -999
@@ -1700,7 +1867,10 @@ UK O -999
 
 RIGHT O -999
 HEREEEE O -999
-!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 * O -999
 waka O -999
 flock O -999
@@ -1711,13 +1881,17 @@ BigJamaal O -999
 : O -999
 lakers B-ASP Negative
 Where O -999
-y' O -999
+y O -999
+' O -999
 all O -999
 at O -999
 ? O -999
 
-`` O -999
-badd_liqhtskin O -999
+` O -999
+` O -999
+badd O -999
+_ O -999
+liqhtskin O -999
 : O -999
 harry B-ASP Positive
 potter I-ASP Positive
@@ -1727,12 +1901,17 @@ point O -999
 ; O -999
 loved O -999
 it O -999
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
 : O -999
-'' O -999
+' O -999
+' O -999
 
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 get O -999
 a O -999
 motorola O -999
@@ -1786,7 +1965,8 @@ once O -999
 mentioned O -999
 Bill O -999
 Maher O -999
-'s O -999
+' O -999
+s O -999
 repulsive O -999
 characterization O -999
 of O -999
@@ -1861,9 +2041,11 @@ So O -999
 Deron O -999
 Williams O -999
 says O -999
-'' O -999
+' O -999
+' O -999
 hate O -999
-'' O -999
+' O -999
+' O -999
 about O -999
 the O -999
 lakers B-ASP Negative
@@ -1914,13 +2096,19 @@ How O -999
 is O -999
 there O -999
 no O -999
-'' O -999
+' O -999
+' O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 sync O -999
-iPhone-only O -999
+iPhone O -999
+- O -999
+only O -999
 apps O -999
-'' O -999
+' O -999
+' O -999
 option O -999
 for O -999
 ipad B-ASP Negative
@@ -1936,7 +2124,9 @@ phone O -999
 apps O -999
 is O -999
 FUCK O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 Hey O -999
 google B-ASP Positive
@@ -1954,12 +2144,15 @@ Chromium O -999
 but O -999
 how O -999
 about O -999
-'' O -999
+' O -999
+' O -999
 Create O -999
 Application O -999
 Shortcut O -999
-'' O -999
-?! O -999
+' O -999
+' O -999
+? O -999
+! O -999
 . O -999
 
 obama B-ASP Neutral
@@ -2000,7 +2193,9 @@ and O -999
 its O -999
 usb O -999
 awush32h O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 something O -999
 look O -999
 . O -999
@@ -2013,19 +2208,27 @@ spears I-ASP Negative
 nowadays O -999
 are O -999
 stupid O -999
-... O -999
+. O -999
+. O -999
+. O -999
 non O -999
 sense O -999
 things O -999
-... O -999
+. O -999
+. O -999
+. O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 all O -999
 about O -999
 sex O -999
-!! O -999
+! O -999
+! O -999
 geeezzz O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 taylor B-ASP Positive
 swift I-ASP Positive
@@ -2056,7 +2259,9 @@ your O -999
 team O -999
 is O -999
 done O -999
-... O -999
+. O -999
+. O -999
+. O -999
 being O -999
 a O -999
 lakers B-ASP Neutral
@@ -2105,7 +2310,8 @@ LittleMonsterx O -999
 _ O -999
 hey O -999
 I O -999
-'ve O -999
+' O -999
+ve O -999
 had O -999
 a O -999
 lady B-ASP Positive
@@ -2147,7 +2353,8 @@ on O -999
 
 . O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 If O -999
 you O -999
 wan O -999
@@ -2166,12 +2373,15 @@ then O -999
 make O -999
 that O -999
 change O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 micheal B-ASP Neutral
 jackson I-ASP Neutral
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 misses O -999
 him O -999
 , O -999
@@ -2180,7 +2390,9 @@ prodigy O -999
 , O -999
 great O -999
 human O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 on O -999
 CMO O -999
@@ -2199,7 +2411,8 @@ should O -999
 not O -999
 decide O -999
 Internet O -999
-'s O -999
+' O -999
+s O -999
 future O -999
 . O -999
 . O -999
@@ -2227,7 +2440,9 @@ the O -999
 US O -999
 healthcare O -999
 is O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 ooc O -999
 : O -999
@@ -2260,30 +2475,38 @@ there O -999
 Ginny O -999
 ? O -999
 Bonnie O -999
-?! O -999
+? O -999
+! O -999
 Well O -999
 , O -999
-'' O -999
+' O -999
+' O -999
 bonwrightx O -999
-'' O -999
+' O -999
+' O -999
 is O -999
 the O -999
 real O -999
 one O -999
 ! O -999
 Not O -999
-'' O -999
+' O -999
+' O -999
 BonnieWrightx O -999
-'' O -999
+' O -999
+' O -999
 so O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 be O -999
 fooled O -999
 ! O -999
 
 it O -999
-'s O -999
+' O -999
+s O -999
 official O -999
 : O -999
 george B-ASP Negative
@@ -2312,22 +2535,32 @@ fb O -999
 aww O -999
 , O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 okay O -999
-... O -999
+. O -999
+. O -999
+. O -999
 you O -999
 have O -999
 a O -999
 psp B-ASP Positive
 . O -999
-:d O -999
+: O -999
+d O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 good O -999
 already O -999
 . O -999
-:-RRB- O -999
--RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
+- O -999
+RRB O -999
+- O -999
 
 yes O -999
 he O -999
@@ -2340,18 +2573,22 @@ his O -999
 liver O -999
 ! O -999
 - O -999
-'' O -999
+' O -999
+' O -999
 steve B-ASP Neutral
 jobs I-ASP Neutral
 does O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 know O -999
 what O -999
 the O -999
 phone O -999
 can O -999
 do O -999
-'' O -999
+' O -999
+' O -999
 
 Did O -999
 barack B-ASP Neutral
@@ -2403,10 +2640,12 @@ of O -999
 people O -999
 for O -999
 being O -999
-'' O -999
+' O -999
+' O -999
 poor O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 She O -999
 sucks O -999
 . O -999
@@ -2431,11 +2670,17 @@ with O -999
 a O -999
 new O -999
 are O -999
-... O -999
--LRB- O -999
+. O -999
+. O -999
+. O -999
+- O -999
+LRB O -999
+- O -999
 YouTube O -999
 . O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 lady B-ASP Neutral
 gaga I-ASP Neutral
@@ -2454,13 +2699,16 @@ Bad O -999
 : O -999
 lady O -999
 gaga O -999
-'s O -999
+' O -999
+s O -999
 earned O -999
 a O -999
 reputation O -999
 for O -999
 delivering O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 totally O -999
@@ -2476,7 +2724,10 @@ audio O -999
 on O -999
 my O -999
 ipod B-ASP Neutral
-:-LRB- O -999
+: O -999
+- O -999
+LRB O -999
+- O -999
 killed O -999
 the O -999
 left O -999
@@ -2485,7 +2736,9 @@ on O -999
 the O -999
 old O -999
 ipod O -999
-... O -999
+. O -999
+. O -999
+. O -999
 yes O -999
 im O -999
 an O -999
@@ -2507,23 +2760,30 @@ bad O -999
 
 i O -999
 agree O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 super O -999
 strenuous O -999
-... O -999
+. O -999
+. O -999
+. O -999
 machiam O -999
 like O -999
 watching O -999
 harry B-ASP Positive
 potter I-ASP Positive
 movie O -999
-... O -999
+. O -999
+. O -999
+. O -999
 SUPER O -999
 LOOOONG O -999
 ! O -999
 
 you O -999
-'re O -999
+' O -999
+re O -999
 trying O -999
 to O -999
 pee O -999
@@ -2536,11 +2796,15 @@ off O -999
 the O -999
 cubicle O -999
 walls O -999
-... O -999
+. O -999
+. O -999
+. O -999
 but O -999
 you O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 hate O -999
 it O -999
 like O -999
@@ -2549,7 +2813,9 @@ know O -999
 you O -999
 should O -999
 . O -999
-y/n O -999
+y O -999
+/ O -999
+n O -999
 . O -999
 
 losing O -999
@@ -2578,7 +2844,9 @@ Dang O -999
 people O -999
 , O -999
 StayStrongDemiLovato O -999
-... O -999
+. O -999
+. O -999
+. O -999
 Really O -999
 ? O -999
 Poor O -999
@@ -2588,7 +2856,9 @@ pop O -999
 star O -999
 : O -999
 ' O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 
 merrier O -999
 the O -999
@@ -2599,20 +2869,27 @@ fun O -999
 that O -999
 way O -999
 amandabynes O -999
-'' O -999
+' O -999
+' O -999
 3 O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 britney B-ASP Positive
 spears I-ASP Positive
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 yeessss O -999
 graaccyyyyyyyy O -999
 ! O -999
 i O -999
 miss O -999
 you O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 is O -999
 the O -999
@@ -2686,7 +2963,9 @@ rock O -999
 band O -999
 lego O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 justin B-ASP Neutral
 bieber I-ASP Neutral
@@ -2707,17 +2986,23 @@ lohan I-ASP Neutral
 s O -999
 genius O -999
 lips O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 - O -999
 sexy O -999
 stepfather O -999
 & O -999
 gossip O -999
 girl O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 please O -999
-rate/comm O -999
+rate O -999
+/ O -999
+comm O -999
 . O -999
 . O -999
 
@@ -2726,7 +3011,14 @@ cannon I-ASP Negative
 face O -999
 is O -999
 annoying O -999
-!!!!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 Smh O -999
 
 imagine O -999
@@ -2736,10 +3028,12 @@ i O -999
 want O -999
 you O -999
 be O -999
-'' O -999
+' O -999
+' O -999
 Cedric O -999
 Diggory O -999
-'' O -999
+' O -999
+' O -999
 on O -999
 harry B-ASP Positive
 potter I-ASP Positive
@@ -2768,7 +3062,8 @@ is O -999
 adorable O -999
 ! O -999
 i O -999
-'ll O -999
+' O -999
+ll O -999
 be O -999
 so O -999
 sad O -999
@@ -2794,14 +3089,17 @@ the O -999
 great O -999
 kindle B-ASP Neutral
 experiment O -999
-... O -999
+. O -999
+. O -999
+. O -999
 wish O -999
 me O -999
 luck O -999
 . O -999
 although O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 not O -999
 sure O -999
 if O -999
@@ -2868,10 +3166,14 @@ the O -999
 feud O -999
 ! O -999
 = O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 via O -999
 ButtercupD O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 rt O -999
 Is O -999
@@ -2882,7 +3184,9 @@ Serious O -999
 about O -999
 Politics O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 And O -999
 if O -999
 she O -999
@@ -2894,7 +3198,9 @@ some O -999
 better O -999
 advisers O -999
 . O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 I O -999
 blog O -999
 : O -999
@@ -2937,7 +3243,9 @@ awesome O -999
 in O -999
 live O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 not O -999
 done O -999
@@ -2948,7 +3256,9 @@ the O -999
 music O -999
 round O -999
 . O -999
-n.b O -999
+n O -999
+. O -999
+b O -999
 circus O -999
 by O -999
 britney B-ASP Neutral
@@ -2962,7 +3272,8 @@ excellent O -999
 idea O -999
 . O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 gon O -999
 na O -999
 be O -999
@@ -2984,7 +3295,9 @@ Thank O -999
 goodness O -999
 we O -999
 did O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 elect O -999
 john B-ASP Negative
 mccain I-ASP Negative
@@ -3013,13 +3326,21 @@ right O -999
 now O -999
 . O -999
 
-Simply_Brianah O -999
+Simply O -999
 _ O -999
-Hayley_G O -999
+Brianah O -999
+_ O -999
+Hayley O -999
+_ O -999
+G O -999
 Europe O -999
-... O -999
+. O -999
+. O -999
+. O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 ask O -999
 how O -999
 I O -999
@@ -3029,13 +3350,18 @@ know O -999
 LoL O -999
 . O -999
 RT O -999
-LaLaLaLove_Jas O -999
+LaLaLaLove O -999
+_ O -999
+Jas O -999
 : O -999
 Where O -999
-'s O -999
+' O -999
+s O -999
 lady B-ASP Neutral
 gaga I-ASP Neutral
-??? O -999
+? O -999
+? O -999
+? O -999
 . O -999
 
 Hillary O -999
@@ -3075,13 +3401,16 @@ on O -999
 the O -999
 x O -999
 factors O -999
-... O -999
+. O -999
+. O -999
+. O -999
 so O -999
 so O -999
 painful O -999
 , O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 like O -999
 watching O -999
 a O -999
@@ -3123,12 +3452,15 @@ came O -999
 out O -999
 last O -999
 week O -999
--- O -999
+- O -999
+- O -999
 the O -999
 mahjong O -999
 game O -999
 is O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 bad O -999
 . O -999
 pretty O -999
@@ -3170,7 +3502,9 @@ detainee O -999
 : O -999
 We O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 want O -999
 to O -999
 keep O -999
@@ -3179,7 +3513,9 @@ her O -999
 but O -999
 we O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 find O -999
 anyone O -999
 willing O -999
@@ -3192,22 +3528,26 @@ I O -999
 want O -999
 Miley O -999
 Cyrus O -999
-'s O -999
+' O -999
+s O -999
 hair O -999
 , O -999
 Taylor O -999
 Swift O -999
-'s O -999
+' O -999
+s O -999
 voice O -999
 , O -999
 Jasmine O -999
 V O -999
-'s O -999
+' O -999
+s O -999
 smile O -999
 , O -999
 Ariana O -999
 Grande O -999
-'s O -999
+' O -999
+s O -999
 eyes O -999
 , O -999
 but O -999
@@ -3218,7 +3558,8 @@ I O -999
 want O -999
 selena B-ASP Positive
 gomez I-ASP Positive
-'s O -999
+' O -999
+s O -999
 boyfriend O -999
 . O -999
 
@@ -3234,10 +3575,13 @@ Release O -999
 Japan O -999
 Aid O -999
 Album O -999
-!! O -999
+! O -999
+! O -999
 . O -999
 
-Forbes.com O -999
+Forbes O -999
+. O -999
+com O -999
 Watch O -999
 video O -999
 that O -999
@@ -3263,11 +3607,14 @@ The O -999
 Saddest O -999
 Song O -999
 I O -999
-'ve O -999
+' O -999
+ve O -999
 Ever O -999
 Heard O -999
 : O -999
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
 
 thank O -999
 you O -999
@@ -3282,7 +3629,9 @@ wave I-ASP Positive
 invite O -999
 ! O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 wait O -999
 for O -999
 google O -999
@@ -3301,7 +3650,9 @@ remasters O -999
 . O -999
 Next O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 Stop O -999
 Moving O -999
 is O -999
@@ -3320,7 +3671,9 @@ hurr O -999
 my O -999
 boyfriend O -999
 does O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 believe O -999
 i O -999
 married O -999
@@ -3345,7 +3698,9 @@ bitch O -999
 paris B-ASP Negative
 hilton I-ASP Negative
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 just O -999
 sell O -999
 perfume O -999
@@ -3381,7 +3736,9 @@ probably O -999
 sound O -999
 really O -999
 good O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 heaven O -999
 must O -999
@@ -3389,7 +3746,9 @@ be O -999
 missing O -999
 an O -999
 angel O -999
-... O -999
+. O -999
+. O -999
+. O -999
 and O -999
 that O -999
 angel O -999
@@ -3417,12 +3776,17 @@ britney B-ASP Neutral
 spears I-ASP Neutral
 - O -999
 monster O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 new O -999
 2009 O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
-'' O -999
+' O -999
+' O -999
 I O -999
 got O -999
 that O -999
@@ -3442,10 +3806,14 @@ to O -999
 my O -999
 attractive O -999
 ass O -999
-!! O -999
-'' O -999
+! O -999
+! O -999
+' O -999
+' O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 SimplySmileXO O -999
 : O -999
@@ -3455,7 +3823,11 @@ your O -999
 lady B-ASP Positive
 gaga I-ASP Positive
 tweet O -999
-!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 : O -999
 D O -999
 
@@ -3553,7 +3925,9 @@ your O -999
 windows B-ASP Neutral
 7 I-ASP Neutral
 disk O -999
-... O -999
+. O -999
+. O -999
+. O -999
 so O -999
 it O -999
 now O -999
@@ -3582,7 +3956,9 @@ night O -999
 ? O -999
 They O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 really O -999
 care O -999
 . O -999
@@ -3627,14 +4003,23 @@ now O -999
 totally O -999
 addicted O -999
 to O -999
-!! O -999
+! O -999
+! O -999
 seriously O -999
 night O -999
 tweeters O -999
-:-RRB- O -999
-:-RRB- O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 
 riovegas O -999
 anxious O -999
@@ -3647,7 +4032,9 @@ new O -999
 dell O -999
 studio O -999
 desktop O -999
-pre-loaded O -999
+pre O -999
+- O -999
+loaded O -999
 with O -999
 windows B-ASP Neutral
 7 I-ASP Neutral
@@ -3688,7 +4075,9 @@ her O -999
 following O -999
 you O -999
 2 O -999
-... O -999
+. O -999
+. O -999
+. O -999
 so O -999
 we O -999
 got O -999
@@ -3705,7 +4094,9 @@ funny O -999
 aaaawww O -999
 : O -999
 - O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 no O -999
 school O -999
@@ -3755,7 +4146,9 @@ on O -999
 dvd O -999
 december O -999
 7th O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 better O -999
 now O -999
@@ -3791,7 +4184,8 @@ this O -999
 moving O -999
 , O -999
 i O -999
-'ll O -999
+' O -999
+ll O -999
 be O -999
 dropping O -999
 pounds O -999
@@ -3801,7 +4195,9 @@ britney B-ASP Negative
 spears I-ASP Negative
 drops O -999
 babies O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 p O -999
 
@@ -3810,7 +4206,9 @@ up O -999
 internet O -999
 on O -999
 psp B-ASP Positive
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 : O -999
 it O -999
 better O -999
@@ -3879,9 +4277,11 @@ face O -999
 much O -999
 ? O -999
 
-'' O -999
+' O -999
+' O -999
 three O -999
-'' O -999
+' O -999
+' O -999
 is O -999
 the O -999
 new O -999
@@ -3909,12 +4309,16 @@ it O -999
 for O -999
 Free O -999
 at O -999
-quick7dollars.com O -999
+quick7dollars O -999
+. O -999
+com O -999
 RT O -999
 purplelover04 O -999
 RT O -999
 ZAGGdaily O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 who O -999
 is O -999
@@ -3954,7 +4358,8 @@ i O -999
 see O -999
 where O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 coming O -999
 from O -999
 ! O -999
@@ -3988,7 +4393,9 @@ Trey O -999
 is O -999
 hustlin O -999
 bacwards O -999
-... O -999
+. O -999
+. O -999
+. O -999
 bill B-ASP Neutral
 gates I-ASP Neutral
 would O -999
@@ -3998,7 +4405,9 @@ an O -999
 Apple O -999
 trending O -999
 topic O -999
-... O -999
+. O -999
+. O -999
+. O -999
 any O -999
 pub O -999
 is O -999
@@ -4058,10 +4467,12 @@ amazing O -999
 . O -999
 Love O -999
 that O -999
-'' O -999
+' O -999
+' O -999
 Game O -999
 On O -999
-'' O -999
+' O -999
+' O -999
 lady B-ASP Positive
 gaga I-ASP Positive
 remix O -999
@@ -4154,16 +4565,20 @@ a O -999
 month O -999
 or O -999
 sooo O -999
-!! O -999
+! O -999
+! O -999
 aaaaaaaaaaaaaahhhhhhhhhhhhhhhhhh O -999
-!! O -999
+! O -999
+! O -999
 harry B-ASP Positive
 potter I-ASP Positive
 dvd O -999
 out O -999
 soon O -999
 22 O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 aaaaaaaaaaaaaahhhhhhhh O -999
 
 i O -999
@@ -4176,7 +4591,9 @@ updated O -999
 to O -999
 blacksn0w O -999
 and O -999
-05.11 O -999
+05 O -999
+. O -999
+11 O -999
 . O -999
 i O -999
 just O -999
@@ -4356,7 +4773,9 @@ the O -999
 $ O -999
 700 O -999
 Billi O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 all O -999
 the O -999
@@ -4416,7 +4835,9 @@ Prize O -999
 For O -999
 Golf O -999
 | O -999
-Cracked.com O -999
+Cracked O -999
+. O -999
+com O -999
 : O -999
 Yesterday O -999
 morning O -999
@@ -4448,12 +4869,16 @@ twisting O -999
 The O -999
 Chicago O -999
 Way O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 have O -999
 your O -999
 legs O -999
 broke O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 HCR O -999
 
 Sammy O -999
@@ -4481,7 +4906,9 @@ he O -999
 cobbled O -999
 together O -999
 his O -999
-a/v O -999
+a O -999
+/ O -999
+v O -999
 equipment O -999
 on O -999
 windows B-ASP Positive
@@ -4494,9 +4921,12 @@ pretty O -999
 nice O -999
 os O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 nr O -999
-'s O -999
+' O -999
+s O -999
 link O -999
 : O -999
 
@@ -4521,7 +4951,8 @@ just O -999
 be O -999
 the O -999
 closest O -999
-'' O -999
+' O -999
+' O -999
 mug O -999
 . O -999
 . O -999
@@ -4535,7 +4966,9 @@ life O -999
 , O -999
 i O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 even O -999
 miss O -999
 britney B-ASP Neutral
@@ -4554,7 +4987,9 @@ no O -999
 damn O -999
 ashton B-ASP Negative
 kutcher I-ASP Negative
-... O -999
+. O -999
+. O -999
+. O -999
 who O -999
 told O -999
 that O -999
@@ -4565,7 +5000,8 @@ liked O -999
 a O -999
 YouTube O -999
 video O -999
--- O -999
+- O -999
+- O -999
 Ian O -999
 Carey O -999
 ft O -999
@@ -4578,13 +5014,18 @@ Anthony O -999
 - O -999
 Last O -999
 Night O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 office O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 obama B-ASP Neutral
-'s O -999
+' O -999
+s O -999
 War O -999
 on O -999
 the O -999
@@ -4601,13 +5042,16 @@ in O -999
 the O -999
 class O -999
 war O -999
--- O -999
+- O -999
+- O -999
 the O -999
 war O -999
 of O -999
 the O -999
 government O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 four O -999
@@ -4616,11 +5060,15 @@ strong O -999
 - O -999
 love O -999
 song O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 sara B-ASP Neutral
 bareilles I-ASP Neutral
 cover O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 np O -999
 
 if O -999
@@ -4671,7 +5119,8 @@ Follow O -999
 me O -999
 please O -999
 * O -999
--- O -999
+- O -999
+- O -999
 * O -999
 14 O -999
 
@@ -4687,12 +5136,15 @@ von O -999
 bourbon O -999
 ! O -999
 well O -999
-... O -999
+. O -999
+. O -999
+. O -999
 i O -999
 do O -999
 hope O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 ironic O -999
 at O -999
 any O -999
@@ -4703,7 +5155,10 @@ This O -999
 is O -999
 kinda O -999
 awesome O -999
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 The O -999
 Ultimate O -999
 ipad B-ASP Neutral
@@ -4723,7 +5178,9 @@ swank I-ASP Negative
 i O -999
 just O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 find O -999
 her O -999
 sexy O -999
@@ -4740,12 +5197,14 @@ interesting O -999
 although O -999
 i O -999
 love O -999
-'' O -999
+' O -999
+' O -999
 ps O -999
 i O -999
 love O -999
 you O -999
-'' O -999
+' O -999
+' O -999
 
 I O -999
 don O -999
@@ -4780,7 +5239,8 @@ terrorism O -999
 do O -999
 they O -999
 ? O -999
--- O -999
+- O -999
+- O -999
 barack B-ASP Neutral
 obama I-ASP Neutral
 : O -999
@@ -4804,14 +5264,16 @@ for O -999
 charlie B-ASP Negative
 sheen I-ASP Negative
 on O -999
-'' O -999
+' O -999
+' O -999
 Two O -999
 and O -999
 a O -999
 Half O -999
 Men O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 What O -999
 do O -999
 you O -999
@@ -4837,7 +5299,8 @@ swag O -999
 and O -999
 now O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 jaden O -999
 smith O -999
 talking O -999
@@ -4859,7 +5322,8 @@ is O -999
 and O -999
 what O -999
 he O -999
-'s O -999
+' O -999
+s O -999
 done O -999
 ! O -999
 Life O -999
@@ -4876,7 +5340,8 @@ because O -999
 of O -999
 who O -999
 she O -999
-'s O -999
+' O -999
+s O -999
 around O -999
 ! O -999
 
@@ -4894,7 +5359,8 @@ from O -999
 Microsoft O -999
 . O -999
 It O -999
-'s O -999
+' O -999
+s O -999
 cute O -999
 and O -999
 sitting O -999
@@ -4922,7 +5388,8 @@ from O -999
 there O -999
 ? O -999
 
-`` O -999
+` O -999
+` O -999
 kevinrose O -999
 : O -999
 Only O -999
@@ -4947,9 +5414,12 @@ you O -999
 to O -999
 be O -999
 more O -999
-mindful/zen O -999
+mindful O -999
+/ O -999
+zen O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 hmm O -999
 . O -999
 . O -999
@@ -4965,17 +5435,25 @@ week O -999
 , O -999
 enough O -999
 said O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 Get O -999
 yeah O -999
 ass O -999
 there O -999
 early O -999
 arod B-ASP Neutral
-Atown_Finesse O -999
--LRB- O -999
+Atown O -999
+_ O -999
+Finesse O -999
+- O -999
+LRB O -999
+- O -999
 continued O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 . O -999
 
 omg O -999
@@ -5005,7 +5483,9 @@ dhoni I-ASP Positive
 The O -999
 reservoir O -999
 of O -999
-self-contained O -999
+self O -999
+- O -999
+contained O -999
 confidence O -999
 : O -999
 Mahendra O -999
@@ -5018,7 +5498,9 @@ peculiar O -999
 kind O -999
 of O -999
 hones O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 just O -999
@@ -5063,7 +5545,8 @@ Fuck O -999
 the O -999
 lakers B-ASP Negative
 I O -999
-'m O -999
+' O -999
+m O -999
 A O -999
 TeamBrownskin O -999
 Fan O -999
@@ -5072,7 +5555,9 @@ The O -999
 Way O -999
 ; O -999
 - O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 No O -999
 scientific O -999
@@ -5096,7 +5581,8 @@ prevails O -999
 Why O -999
 ? O -999
 
-'' O -999
+' O -999
+' O -999
 What O -999
 did O -999
 you O -999
@@ -5106,13 +5592,17 @@ like O -999
 harry B-ASP Neutral
 potter I-ASP Neutral
 ? O -999
--- O -999
+- O -999
+- O -999
 Aristotle O -999
 ? O -999
-'' O -999
+' O -999
+' O -999
 
 my O -999
-vista-laptop O -999
+vista O -999
+- O -999
+laptop O -999
 has O -999
 entered O -999
 a O -999
@@ -5146,7 +5636,8 @@ bitch O -999
 eterna O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 living O -999
 in O -999
 sin O -999
@@ -5156,16 +5647,22 @@ new O -999
 thing O -999
 . O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 ahahahhahhhhh O -999
 i O -999
 love O -999
 britney B-ASP Positive
 spears I-ASP Positive
-!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 sorry O -999
 ya O -999
-'ll O -999
+' O -999
+ll O -999
 i O -999
 had O -999
 to O -999
@@ -5176,7 +5673,9 @@ gaga I-ASP Neutral
 ' O -999
 I O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 feel O -999
 like O -999
 a O -999
@@ -5196,7 +5695,9 @@ revealed O -999
 that O -999
 she O -999
 sti O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 John O -999
@@ -5224,23 +5725,31 @@ rich O -999
 are O -999
 out O -999
 of O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 Weird O -999
 Al O -999
 Gets O -999
 The O -999
-Go-Ahead O -999
+Go O -999
+- O -999
+Ahead O -999
 From O -999
 Lady O -999
 gag O -999
 For O -999
 Parody O -999
 : O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 RTTNews O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 - O -999
 It O -999
 looks O -999
@@ -5252,7 +5761,9 @@ will O -999
 be O -999
 able O -999
 t O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 thanks O -999
@@ -5261,7 +5772,8 @@ the O -999
 follow O -999
 ! O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 nice O -999
 to O -999
 see O -999
@@ -5271,7 +5783,8 @@ google B-ASP Positive
 wave I-ASP Positive
 , O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 such O -999
 a O -999
 neat O -999
@@ -5304,7 +5817,9 @@ secret O -999
 third O -999
 girlfriend O -999
 who O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 star O -999
@@ -5316,12 +5831,14 @@ rock O -999
 bottom O -999
 , O -999
 is O -999
-`` O -999
+` O -999
+` O -999
 obituary O -999
 waiting O -999
 to O -999
 happen O -999
-'' O -999
+' O -999
+' O -999
 
 Got O -999
 ta O -999
@@ -5361,10 +5878,13 @@ so O -999
 good O -999
 last O -999
 night O -999
-!! O -999
+! O -999
+! O -999
 
 Love O -999
-4.2 O -999
+4 O -999
+. O -999
+2 O -999
 on O -999
 my O -999
 ipad B-ASP Neutral
@@ -5398,7 +5918,9 @@ things O -999
 that O -999
 never O -999
 work O -999
-... O -999
+. O -999
+. O -999
+. O -999
 out O -999
 from O -999
 under O -999
@@ -5436,7 +5958,9 @@ Kit O -999
 Create O -999
 elegant O -999
 wreaths O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 reminds O -999
@@ -5459,7 +5983,8 @@ for O -999
 real O -999
 authenticity O -999
 
-'' O -999
+' O -999
+' O -999
 Levi O -999
 Johnston O -999
 , O -999
@@ -5476,14 +6001,19 @@ pose O -999
 nude O -999
 for O -999
 Playgirl O -999
-'' O -999
-... O -999
+' O -999
+' O -999
+. O -999
+. O -999
+. O -999
 as O -999
 if O -999
 this O -999
 farce O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 get O -999
 more O -999
 crazy O -999
@@ -5505,18 +6035,24 @@ must O -999
 be O -999
 lakers B-ASP Positive
 fan O -999
-... O -999
+. O -999
+. O -999
+. O -999
 Love O -999
 the O -999
 lakers O -999
-... O -999
+. O -999
+. O -999
+. O -999
 Go O -999
 lakers O -999
 . O -999
 . O -999
 please O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 say O -999
 the O -999
 Kings O -999
@@ -5533,7 +6069,9 @@ lohan I-ASP Neutral
 s O -999
 genius O -999
 lips O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 - O -999
 sexy O -999
 stepfather O -999
@@ -5555,22 +6093,28 @@ life O -999
 of O -999
 lindsay B-ASP Neutral
 lohan I-ASP Neutral
-??? O -999
+? O -999
+? O -999
+? O -999
 
 george B-ASP Negative
 bush I-ASP Negative
-'' O -999
+' O -999
+' O -999
 the O -999
 war O -999
 president O -999
-'' O -999
+' O -999
+' O -999
 barack O -999
 obama O -999
-'' O -999
+' O -999
+' O -999
 the O -999
 peace O -999
 president O -999
-'' O -999
+' O -999
+' O -999
 ☺ O -999
 . O -999
 
@@ -5629,7 +6173,9 @@ by O -999
 the O -999
 blemish O -999
 , O -999
-8:46 O -999
+8 O -999
+: O -999
+46 O -999
 am O -999
 on O -999
 oct O -999
@@ -5695,7 +6241,8 @@ has O -999
 arrived O -999
 ! O -999
 look O -999
->> O -999
+> O -999
+> O -999
 > O -999
 
 On O -999
@@ -5704,10 +6251,12 @@ palin I-ASP Neutral
 ' O -999
 s O -999
 book O -999
-'' O -999
+' O -999
+' O -999
 Going O -999
 Rogue O -999
-'' O -999
+' O -999
+' O -999
 is O -999
 that O -999
 like O -999
@@ -5741,7 +6290,8 @@ hera O -999
 
 He O -999
 said O -999
-'' O -999
+' O -999
+' O -999
 She O -999
 got O -999
 that O -999
@@ -5769,7 +6319,8 @@ her O -999
 attractive O -999
 ass O -999
 ! O -999
-'' O -999
+' O -999
+' O -999
 = O -999
 D O -999
 
@@ -5779,7 +6330,8 @@ is O -999
 the O -999
 best O -999
 yeah O -999
-!! O -999
+! O -999
+! O -999
 < O -999
 3 O -999
 
@@ -5806,7 +6358,8 @@ just O -999
 old O -999
 and O -999
 grody O -999
-:P O -999
+: O -999
+P O -999
 getting O -999
 dressed O -999
 to O -999
@@ -5876,24 +6429,30 @@ much O -999
 , O -999
 I O -999
 wonder O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 I O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 get O -999
 my O -999
 charlie B-ASP Positive
 sheen I-ASP Positive
 on O -999
 if O -999
-y' O -999
+y O -999
+' O -999
 all O -999
 not O -999
 voting O -999
 duh O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 talking O -999
 about O -999
 WINNING O -999
@@ -5903,7 +6462,8 @@ me O -999
 start O -999
 WINNING O -999
 by O -999
-y' O -999
+y O -999
+' O -999
 all O -999
 voting O -999
 show O -999
@@ -5926,7 +6486,9 @@ we O -999
 communicate O -999
 and O -999
 work O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 Had O -999
 no O -999
@@ -5960,7 +6522,9 @@ the O -999
 best O -999
 performance O -999
 EVER O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 freaky O -999
 friday O -999
@@ -6019,7 +6583,9 @@ best O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 cover O -999
-... O -999
+. O -999
+. O -999
+. O -999
 ever O -999
 . O -999
 oops O -999
@@ -6033,7 +6599,8 @@ harry B-ASP Negative
 potter I-ASP Negative
 time O -999
 suckah O -999
-!! O -999
+! O -999
+! O -999
 
 rocking O -999
 out O -999
@@ -6078,7 +6645,8 @@ utility O -999
 ? O -999
 
 i O -999
-'m O -999
+' O -999
+m O -999
 sick O -999
 of O -999
 these O -999
@@ -6118,7 +6686,8 @@ the O -999
 news O -999
 because O -999
 he O -999
-'s O -999
+' O -999
+s O -999
 a O -999
 celebrity O -999
 drug O -999
@@ -6130,9 +6699,13 @@ Wilfahrt O -999
 31 O -999
 , O -999
 Brian O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 continued O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 . O -999
 
 freshening O -999
@@ -6142,7 +6715,8 @@ ipod B-ASP Neutral
 . O -999
 . O -999
 who O -999
-'s O -999
+' O -999
+s O -999
 got O -999
 suggestions O -999
 for O -999
@@ -6168,7 +6742,8 @@ itunes O -999
 . O -999
 and O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 growing O -999
 on O -999
 me O -999
@@ -6177,7 +6752,8 @@ me O -999
 Elizabeth O -999
 Taylor O -999
 \ O -999
-'s O -999
+' O -999
+s O -999
 Last O -999
 Tweets O -999
 : O -999
@@ -6245,7 +6821,9 @@ williams I-ASP Neutral
 , O -999
 closely O -999
 supports O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 simon O -999
@@ -6352,14 +6930,16 @@ i O -999
 must O -999
 say O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 not O -999
 disappointed O -999
 yet O -999
 . O -999
 though O -999
 i O -999
-'ve O -999
+' O -999
+ve O -999
 seen O -999
 some O -999
 nifty O -999
@@ -6385,7 +6965,8 @@ Dan O -999
 Come O -999
 to O -999
 palantirtech O -999
-'s O -999
+' O -999
+s O -999
 talk O -999
 tonight O -999
 , O -999
@@ -6396,11 +6977,14 @@ in O -999
 ipad B-ASP Neutral
 and O -999
 Del O -999
-'s O -999
+' O -999
+s O -999
 in O -999
 addition O -999
 to O -999
-job-love O -999
+job O -999
+- O -999
+love O -999
 . O -999
 
 - O -999
@@ -6429,7 +7013,9 @@ last O -999
 name O -999
 ! O -999
 Wha O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 everytime O -999
 we O -999
@@ -6447,11 +7033,15 @@ lower O -999
 . O -999
 bitch O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 ever O -999
 bounce O -999
 back O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 If O -999
 Justin O -999
@@ -6463,23 +7053,32 @@ or O -999
 Cody O -999
 Simpson O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 follow O -999
 you O -999
 . O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 worry O -999
 , O -999
 i O -999
 help O -999
 us O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 MUST O -999
 following O -999
->> O -999
+> O -999
+> O -999
 TheBieberBear O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 a O -999
 judge O -999
@@ -6540,7 +7139,8 @@ unproductive O -999
 I O -999
 just O -999
 took O -999
-'' O -999
+' O -999
+' O -999
 15 O -999
 and O -999
 Pregnant O -999
@@ -6550,22 +7150,31 @@ justin B-ASP Positive
 bieber I-ASP Positive
 Love O -999
 Story O -999
--LCB- O -999
+- O -999
+LCB O -999
+- O -999
 ALL O -999
-... O -999
-'' O -999
+. O -999
+. O -999
+. O -999
+' O -999
+' O -999
 and O -999
 got O -999
 : O -999
 part O -999
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 What O -999
 Did O -999
 We O -999
 Do O -999
 Last O -999
 Night O -999
-?! O -999
+? O -999
+! O -999
 Try O -999
 it O -999
 : O -999
@@ -6684,16 +7293,20 @@ pranks O -999
 
 nowplaying O -999
 ♪ O -999
-'' O -999
+' O -999
+' O -999
 You O -999
 Do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 Have O -999
 To O -999
 Say O -999
 You O -999
 Love O -999
-'' O -999
+' O -999
+' O -999
 by O -999
 Dusty O -999
 Springfield O -999
@@ -6772,13 +7385,16 @@ ang O -999
 i O -999
 think O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 funny O -999
 enough O -999
 to O -999
 tweet O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 ' O -999
 Hes O -999
@@ -6809,7 +7425,9 @@ Jess O -999
 and O -999
 Zippy O -999
 Show O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 fun O -999
 ! O -999
@@ -6822,7 +7440,8 @@ for O -999
 one O -999
 , O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 having O -999
 a O -999
 lot O -999
@@ -6832,7 +7451,9 @@ with O -999
 my O -999
 iphone B-ASP Negative
 : O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 
 lady B-ASP Positive
 gaga I-ASP Positive
@@ -6856,7 +7477,8 @@ Follow O -999
 me O -999
 please O -999
 * O -999
--- O -999
+- O -999
+- O -999
 * O -999
 7 O -999
 
@@ -7000,7 +7622,9 @@ out O -999
 a O -999
 land O -999
 invasi O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 Just O -999
@@ -7054,7 +7678,9 @@ taylorswift13 O -999
 If O -999
 you O -999
 have O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 heard O -999
 micheal B-ASP Neutral
 jackson I-ASP Neutral
@@ -7062,11 +7688,13 @@ jackson I-ASP Neutral
 s O -999
 new O -999
 song O -999
-'' O -999
+' O -999
+' O -999
 This O -999
 Is O -999
 It O -999
-'' O -999
+' O -999
+' O -999
 , O -999
 Its O -999
 AMAZING O -999
@@ -7077,7 +7705,8 @@ with O -999
 retrorewind O -999
 , O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 on O -999
 demand O -999
 . O -999
@@ -7088,7 +7717,10 @@ gaga I-ASP Neutral
 never O -999
 fucking O -999
 fails O -999
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 . O -999
 
 ipod B-ASP Negative
@@ -7167,7 +7799,8 @@ favorited O -999
 a O -999
 youtube O -999
 video O -999
--- O -999
+- O -999
+- O -999
 f1 O -999
 rocks O -999
 ! O -999
@@ -7180,7 +7813,9 @@ no O -999
 doubt O -999
 - O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 speak O -999
 
 Tryna O -999
@@ -7199,14 +7834,16 @@ my O -999
 kindle B-ASP Positive
 because O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 feckin O -999
 awesome O -999
 like O -999
 that O -999
 ! O -999
 
-'' O -999
+' O -999
+' O -999
 sarah B-ASP Neutral
 palin I-ASP Neutral
 , O -999
@@ -7230,7 +7867,8 @@ own O -999
 Palinesque O -999
 way O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 : O -999
 
 hello O -999
@@ -7280,12 +7918,15 @@ commercials O -999
 ? O -999
 because O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 a O -999
 pretty O -999
 funny O -999
 joke O -999
-... O -999
+. O -999
+. O -999
+. O -999
 notafan O -999
 
 okay O -999
@@ -7294,9 +7935,11 @@ have O -999
 2 O -999
 admit O -999
 that O -999
-'' O -999
+' O -999
+' O -999
 3 O -999
-'' O -999
+' O -999
+' O -999
 by O -999
 britney B-ASP Positive
 spears I-ASP Positive
@@ -7326,7 +7969,9 @@ britney O -999
 yarby O -999
 I O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 use O -999
 it O -999
 much O -999
@@ -7338,7 +7983,8 @@ google B-ASP Neutral
 . O -999
 But O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 definitely O -999
 going O -999
 to O -999
@@ -7348,7 +7994,8 @@ with O -999
 it O -999
 . O -999
 I O -999
-'d O -999
+' O -999
+d O -999
 love O -999
 to O -999
 know O -999
@@ -7367,12 +8014,16 @@ new O -999
 thing O -999
 yeaaaaaaaah O -999
 ! O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 - O -999
 3 O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 musicmonday O -999
 
 Breaking O -999
@@ -7384,7 +8035,9 @@ expanded O -999
 to O -999
 all O -999
 of O -999
-Mid-East O -999
+Mid O -999
+- O -999
+East O -999
 . O -999
 This O -999
 is O -999
@@ -7431,7 +8084,9 @@ girl O -999
 wants O -999
 to O -999
 hear O -999
-... O -999
+. O -999
+. O -999
+. O -999
 insane O -999
 
 RT O -999
@@ -7467,15 +8122,20 @@ and O -999
 then O -999
 we O -999
 kiss O -999
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
 junkie O -999
 xl O -999
 remix O -999
--RSB- O -999
+- O -999
+RSB O -999
+- O -999
 from O -999
 the O -999
 album O -999
-'' O -999
+' O -999
+' O -999
 b O -999
 in O -999
 the O -999
@@ -7483,7 +8143,8 @@ mix O -999
 : O -999
 the O -999
 mixes O -999
-'' O -999
+' O -999
+' O -999
 
 are O -999
 you O -999
@@ -7492,7 +8153,8 @@ die O -999
 on O -999
 twitter O -999
 > O -999
-__ O -999
+_ O -999
+_ O -999
 < O -999
 RT O -999
 DMULAbabyy O -999
@@ -7541,7 +8203,9 @@ rumors O -999
 : O -999
 : O -999
 feed O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 maybe O -999
 he O -999
@@ -7573,7 +8237,9 @@ fox O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 ; O -999
--RSB- O -999
+- O -999
+RSB O -999
+- O -999
 
 britney B-ASP Negative
 spears I-ASP Negative
@@ -7585,14 +8251,18 @@ and O -999
 attacked O -999
 the O -999
 paparrazzi O -999
-'s O -999
+' O -999
+s O -999
 car O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 lately O -999
 we O -999
-'ve O -999
+' O -999
+ve O -999
 been O -999
 playing O -999
 easports O -999
@@ -7614,7 +8284,8 @@ wii B-ASP Positive
 
 isayhello O -999
 english O -999
--- O -999
+- O -999
+- O -999
 german O -999
 : O -999
 the O -999
@@ -7641,7 +8312,9 @@ torrent O -999
 downloads O -999
 
 18 O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 Taylor O -999
 Swift O -999
 , O -999
@@ -7697,7 +8370,9 @@ Coldsteps O -999
 Soldier O -999
 boy O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 cook O -999
 like O -999
 m O -999
@@ -7705,7 +8380,9 @@ m O -999
 micheal B-ASP Neutral
 jackson I-ASP Neutral
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 cook O -999
 like O -999
 me O -999
@@ -7740,7 +8417,9 @@ perfect O -999
 Spring O -999
 break O -999
 impression O -999
-check-list O -999
+check O -999
+- O -999
+list O -999
 . O -999
 Tom O -999
 Delonge O -999
@@ -7781,10 +8460,14 @@ windows B-ASP Positive
 7 I-ASP Positive
 - O -999
 yipee O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 : O -999
 - O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 black O -999
 republicans O -999
@@ -7795,9 +8478,11 @@ be O -999
 their O -999
 year O -999
 : O -999
--- O -999
+- O -999
+- O -999
 quote O -999
--- O -999
+- O -999
+- O -999
 when O -999
 former O -999
 president O -999
@@ -7818,14 +8503,16 @@ plays O -999
 so O -999
 much O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 sick O -999
 of O -999
 it O -999
 . O -999
 and O -999
 there O -999
-'s O -999
+' O -999
+s O -999
 like O -999
 4500 O -999
 + O -999
@@ -7845,7 +8532,8 @@ GlobeGaryDzen O -999
 I O -999
 guess O -999
 they O -999
-'re O -999
+' O -999
+re O -999
 acceptable O -999
 . O -999
 I O -999
@@ -7873,7 +8561,8 @@ britney B-ASP Positive
 album O -999
 . O -999
 She O -999
-'s O -999
+' O -999
+s O -999
 back O -999
 ! O -999
 
@@ -7886,8 +8575,11 @@ from O -999
 Bill O -999
 Gates O -999
 ? O -999
--- O -999
--LRB- O -999
+- O -999
+- O -999
+- O -999
+LRB O -999
+- O -999
 I O -999
 could O -999
 have O -999
@@ -7896,11 +8588,14 @@ better O -999
 than O -999
 60 O -999
 % O -999
--- O -999
+- O -999
+- O -999
 fun O -999
 quiz O -999
 ! O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 Lady O -999
 gag O -999
@@ -7948,8 +8643,12 @@ thanks O -999
 haven O -999
 me O -999
 ; O -999
--RCB- O -999
-... O -999
+- O -999
+RCB O -999
+- O -999
+. O -999
+. O -999
+. O -999
 ! O -999
 itz O -999
 always O -999
@@ -7981,7 +8680,9 @@ hate O -999
 that O -999
 i O -999
 have O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 had O -999
 time O -999
 for O -999
@@ -7991,7 +8692,9 @@ the O -999
 past O -999
 two O -999
 days O -999
-... O -999
+. O -999
+. O -999
+. O -999
 we O -999
 need O -999
 zspheres O -999
@@ -8022,12 +8725,15 @@ too O -999
 tired O -999
 . O -999
 It O -999
-'s O -999
+' O -999
+s O -999
 the O -999
 lie O -999
 that O -999
 wo O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 lie O -999
 . O -999
 heneversaidit O -999
@@ -8094,7 +8800,8 @@ fix O -999
 you O -999
 . O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 suing O -999
 harry B-ASP Neutral
 potter I-ASP Neutral
@@ -8139,13 +8846,19 @@ hottie O -999
 The O -999
 Classic O -999
 Mixtape O -999
-!!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 MashUp O -999
 , O -999
 Bmore O -999
 and O -999
 80 O -999
-'s O -999
+' O -999
+s O -999
 feat O -999
 MJ O -999
 , O -999
@@ -8157,11 +8870,14 @@ richie O -999
 madonna B-ASP Neutral
 usw O -999
 ! O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 wow O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 clear O -999
 that O -999
 the O -999
@@ -8199,7 +8915,9 @@ room O -999
 watching O -999
 parent O -999
 trap O -999
-... O -999
+. O -999
+. O -999
+. O -999
 quite O -999
 possibly O -999
 lindsay B-ASP Positive
@@ -8208,7 +8926,8 @@ lohan I-ASP Positive
 s O -999
 best O -999
 work O -999
-'' O -999
+' O -999
+' O -999
 yeah O -999
 i O -999
 thought O -999
@@ -8235,18 +8954,24 @@ president O -999
 I O -999
 really O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 blame O -999
 her O -999
 , O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 very O -999
 stressful O -999
 . O -999
--LCB- O -999
+- O -999
+LCB O -999
+- O -999
 We O -999
-'ll O -999
+' O -999
+ll O -999
 C O -999
 
 it O -999
@@ -8263,14 +8988,17 @@ that O -999
 threw O -999
 off O -999
 gag O -999
-... O -999
+. O -999
+. O -999
+. O -999
 it O -999
 was O -999
 very O -999
 awkward O -999
 
 i O -999
-'m O -999
+' O -999
+m O -999
 begging O -999
 . O -999
 if O -999
@@ -8296,7 +9024,9 @@ everything O -999
 you O -999
 live O -999
 for O -999
-... O -999
+. O -999
+. O -999
+. O -999
 thanks O -999
 . O -999
 
@@ -8307,7 +9037,8 @@ got O -999
 so O -999
 charlie B-ASP Positive
 sheen I-ASP Positive
-'d O -999
+' O -999
+d O -999
 i O -999
 triedtelling O -999
 a O -999
@@ -8342,9 +9073,11 @@ going O -999
 to O -999
 call O -999
 you O -999
-'' O -999
+' O -999
+' O -999
 moprah O -999
-'' O -999
+' O -999
+' O -999
 
 Woods O -999
 ensures O -999
@@ -8377,10 +9110,14 @@ wives O -999
 . O -999
 . O -999
 would O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 be O -999
 shit O -999
-w/o O -999
+w O -999
+/ O -999
+o O -999
 the O -999
 people O -999
 she O -999
@@ -8402,7 +9139,8 @@ YOU O -999
 FUCKING O -999
 KIDDING O -999
 ME O -999
-?! O -999
+? O -999
+! O -999
 lakers B-ASP Neutral
 GAME O -999
 WHILE O -999
@@ -8431,8 +9169,12 @@ anyways O -999
 
 xGotMileyVirus O -999
 yeah O -999
-... O -999
-... O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
 . O -999
 okay O -999
 now O -999
@@ -8443,7 +9185,8 @@ gaga I-ASP Negative
 LOL O -999
 
 gaga B-ASP Positive
-'s O -999
+' O -999
+s O -999
 tune O -999
 Born O -999
 This O -999
@@ -8466,20 +9209,24 @@ miss O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 has O -999
-3.5 O -999
+3 O -999
+. O -999
+5 O -999
 am O -999
 followers O -999
 . O -999
 now O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 big O -999
 ! O -999
 britneyspears O -999
 beatcancer O -999
 
 I O -999
-'ve O -999
+' O -999
+ve O -999
 got O -999
 the O -999
 great O -999
@@ -8492,7 +9239,9 @@ ipad B-ASP Neutral
 okay O -999
 , O -999
 wtf O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 how O -999
 many O -999
 times O -999
@@ -8517,17 +9266,23 @@ i O -999
 will O -999
 have O -999
 7 O -999
-... O -999
+. O -999
+. O -999
+. O -999
 dumb O -999
 shit O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 okay O -999
 i O -999
 have O -999
 an O -999
 confession O -999
-... O -999
+. O -999
+. O -999
+. O -999
 i O -999
 love O -999
 britney B-ASP Positive
@@ -8537,7 +9292,8 @@ song O -999
 three O -999
 ! O -999
 she O -999
-'s O -999
+' O -999
+s O -999
 freaking O -999
 awesome O -999
 ! O -999
@@ -8582,7 +9338,10 @@ charge O -999
 
 Fuck O -999
 lakers B-ASP Negative
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 RT O -999
 DaisyJuice4476 O -999
 : O -999
@@ -8591,7 +9350,8 @@ GisyBlvd O -999
 : O -999
 RT O -999
 Amazing O -999
-__ O -999
+_ O -999
+_ O -999
 Doll O -999
 - O -999
 Fuck O -999
@@ -8599,7 +9359,9 @@ all O -999
 Laker O -999
 Haters O -999
 = O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 johnmayer B-ASP Positive
 is O -999
@@ -8612,11 +9374,17 @@ him O -999
 
 okay O -999
 soooo O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 ummmmm O -999
-... O -999
-... O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
 what O -999
 is O -999
 going O -999
@@ -8641,7 +9409,9 @@ overload O -999
 . O -999
 not O -999
 good O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 . O -999
 
@@ -8667,7 +9437,9 @@ York O -999
 show O -999
 , O -999
 praisi O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 barack B-ASP Negative
@@ -8680,12 +9452,15 @@ prize O -999
 ? O -999
 So O -999
 supposedly O -999
-'' O -999
+' O -999
+' O -999
 peace O -999
-'' O -999
+' O -999
+' O -999
 now O -999
 means O -999
-'' O -999
+' O -999
+' O -999
 bombing O -999
 the O -999
 shit O -999
@@ -8693,7 +9468,8 @@ out O -999
 of O -999
 people O -999
 overseas O -999
-'' O -999
+' O -999
+' O -999
 . O -999
 Who O -999
 ` O -999
@@ -8708,7 +9484,9 @@ love O -999
 taylor B-ASP Positive
 swift I-ASP Positive
 . O -999
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
 Seriously O -999
 , O -999
 just O -999
@@ -8726,9 +9504,13 @@ mean O -999
 , O -999
 who O -999
 would O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 ? O -999
--RSB- O -999
+- O -999
+RSB O -999
+- O -999
 
 install O -999
 has O -999
@@ -8754,7 +9536,8 @@ the O -999
 end O -999
 
 that O -999
-'s O -999
+' O -999
+s O -999
 an O -999
 epic O -999
 bargain O -999
@@ -8843,9 +9626,11 @@ and O -999
 . O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 a O -999
 Christian O -999
 and O -999
@@ -8861,7 +9646,8 @@ for O -999
 every O -999
 blessing O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 justin B-ASP Neutral
 bieber I-ASP Neutral
@@ -8880,7 +9666,8 @@ the O -999
 argh O -999
 one O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 for O -999
 you O -999
 
@@ -8895,7 +9682,9 @@ schwarzenegger I-ASP Positive
 , O -999
 Lady O -999
 gag O -999
-... O -999
+. O -999
+. O -999
+. O -999
 I O -999
 hugged O -999
 Robert O -999
@@ -8932,10 +9721,14 @@ robin O -999
 and O -999
 the O -999
 maine O -999
-'s O -999
+' O -999
+s O -999
 christmas O -999
 album O -999
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 i O -999
 < O -999
 3 O -999
@@ -8975,7 +9768,9 @@ horizon O -999
 ! O -999
 
 shit O -999
-... O -999
+. O -999
+. O -999
+. O -999
 another O -999
 bitch O -999
 with O -999
@@ -8984,11 +9779,15 @@ spears I-ASP Negative
 sucking O -999
 penis O -999
 picture O -999
-... O -999
+. O -999
+. O -999
+. O -999
 stop O -999
 fallowin O -999
 me O -999
-... O -999
+. O -999
+. O -999
+. O -999
 i O -999
 want O -999
 real O -999
@@ -9015,13 +9814,18 @@ all O -999
 four O -999
 of O -999
 them O -999
-??? O -999
+? O -999
+? O -999
+? O -999
 ME O -999
-!! O -999
+! O -999
+! O -999
 
 i O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 even O -999
 like O -999
 spelling O -999
@@ -9044,11 +9848,13 @@ jog O -999
 with O -999
 us O -999
 in O -999
-'' O -999
+' O -999
+' O -999
 wii O -999
 world O -999
 ! O -999
-'' O -999
+' O -999
+' O -999
 fun O -999
 ! O -999
 
@@ -9057,7 +9863,8 @@ NYC O -999
 area O -999
 ? O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 back O -999
 at O -999
 Tekserve O -999
@@ -9095,16 +9902,20 @@ better O -999
 and O -999
 snoop O -999
 d O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 And O -999
 accepting O -999
 Jon O -999
 Stewart O -999
-'s O -999
+' O -999
+s O -999
 award O -999
 is O -999
 Jon O -999
@@ -9116,7 +9927,8 @@ stephen B-ASP Positive
 colbert I-ASP Positive
 apparently O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 comedyawards O -999
 
 madonna B-ASP Neutral
@@ -9175,7 +9987,9 @@ hilton I-ASP Negative
 , O -999
 Britney O -999
 Spears O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 google B-ASP Positive
@@ -9183,7 +9997,9 @@ wave I-ASP Positive
 me O -999
 please O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 > O -999
 rcnradiochatnet O -999
@@ -9227,7 +10043,8 @@ award O -999
 show O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 TojuFoyeh O -999
 : O -999
 ashton B-ASP Negative
@@ -9250,7 +10067,8 @@ the O -999
 shows O -999
 status O -999
 ! O -999
-'' O -999
+' O -999
+' O -999
 LOL O -999
 
 see O -999
@@ -9299,7 +10117,9 @@ and O -999
 an O -999
 anxious O -999
 publ O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 the O -999
@@ -9350,13 +10170,16 @@ exactly O -999
 ? O -999
 Maybe O -999
 i O -999
-'ll O -999
+' O -999
+ll O -999
 win O -999
 one O -999
 next O -999
 year O -999
 then O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 . O -999
 
@@ -9375,7 +10198,9 @@ sheen I-ASP Positive
 has O -999
 been O -999
 getting O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 kris O -999
 allen O -999
@@ -9384,7 +10209,8 @@ britney B-ASP Neutral
 spears I-ASP Neutral
 . O -999
 . O -999
-`` O -999
+` O -999
+` O -999
 warmud O -999
 : O -999
 the O -999
@@ -9439,7 +10265,8 @@ affairs O -999
 I O -999
 just O -999
 took O -999
-'' O -999
+' O -999
+' O -999
 You O -999
 and O -999
 justin B-ASP Positive
@@ -9455,8 +10282,11 @@ were O -999
 babies O -999
 . O -999
 why O -999
-... O -999
-'' O -999
+. O -999
+. O -999
+. O -999
+' O -999
+' O -999
 and O -999
 got O -999
 : O -999
@@ -9471,7 +10301,8 @@ it O -999
 . O -999
 
 Exc O -999
-!! O -999
+! O -999
+! O -999
 Willie O -999
 Nelson O -999
 names O -999
@@ -9484,7 +10315,9 @@ in O -999
 Farm O -999
 Aid O -999
 2011 O -999
-line-up O -999
+line O -999
+- O -999
+up O -999
 . O -999
 
 homecoming O -999
@@ -9511,11 +10344,13 @@ lolalexander O -999
 slone O -999
 
 that O -999
-'s O -999
+' O -999
+s O -999
 nasty O -999
 lol O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 suppose O -999
 to O -999
 be O -999
@@ -9572,7 +10407,9 @@ to O -999
 use O -999
 his O -999
 Vati O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 well O -999
@@ -9590,7 +10427,9 @@ would O -999
 feel O -999
 like O -999
 anything O -999
-... O -999
+. O -999
+. O -999
+. O -999
 and O -999
 adrian258 O -999
 showed O -999
@@ -9598,7 +10437,9 @@ me O -999
 the O -999
 storms O -999
 co O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 AND O -999
 NOW O -999
@@ -9611,13 +10452,16 @@ NUMBER O -999
 ! O -999
 YOU O -999
 WO O -999
-N'T O -999
+N O -999
+' O -999
+T O -999
 GET O -999
 IT O -999
 , O -999
 
 i O -999
-'m O -999
+' O -999
+m O -999
 not O -999
 really O -999
 sure O -999
@@ -9673,7 +10517,8 @@ tw O -999
 I O -999
 just O -999
 took O -999
-'' O -999
+' O -999
+' O -999
 15 O -999
 and O -999
 Pregnant O -999
@@ -9683,19 +10528,29 @@ justin B-ASP Neutral
 bieber I-ASP Neutral
 Love O -999
 Story O -999
--LCB- O -999
+- O -999
+LCB O -999
+- O -999
 ALL O -999
 PAR O -999
-... O -999
-'' O -999
+. O -999
+. O -999
+. O -999
+' O -999
+' O -999
 and O -999
 got O -999
 : O -999
 part11 O -999
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 School O -999
 Again O -999
-... O -999
+. O -999
+. O -999
+. O -999
 Oh O -999
 Joy O -999
 ! O -999
@@ -9764,15 +10619,23 @@ twitter O -999
 I O -999
 BLAME O -999
 CHEWBACCA O -999
-... O -999
+. O -999
+. O -999
+. O -999
 With O -999
 regard O -999
 to O -999
 This O -999
 LOST O -999
-... O -999
-... O -999
-... O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
 . O -999
 . O -999
 I O -999
@@ -9803,7 +10666,8 @@ look O -999
 like O -999
 a O -999
 victoria O -999
-'s O -999
+' O -999
+s O -999
 secret O -999
 supermodel O -999
 with O -999
@@ -9836,7 +10700,9 @@ Offense O -999
 : O -999
 In O -999
 200 O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 tcot O -999
 PMG O -999
@@ -9858,7 +10724,8 @@ LOL O -999
 good O -999
 thing O -999
 there O -999
-'s O -999
+' O -999
+s O -999
 no O -999
 assignments O -999
 . O -999
@@ -9879,7 +10746,8 @@ suggestions O -999
 coming O -999
 . O -999
 we O -999
-'re O -999
+' O -999
+re O -999
 on O -999
 our O -999
 way O -999
@@ -9888,7 +10756,8 @@ the O -999
 theater O -999
 and O -999
 i O -999
-'ll O -999
+' O -999
+ll O -999
 be O -999
 checking O -999
 the O -999
@@ -9930,28 +10799,40 @@ lucky O -999
 tonight O -999
 , O -999
 
-'' O -999
+' O -999
+' O -999
 Being O -999
 Elmo O -999
-'' O -999
+' O -999
+' O -999
 & O -999
-'' O -999
+' O -999
+' O -999
 conan B-ASP Positive
-o'brien I-ASP Positive
-'' O -999
+o I-ASP Positive
+' I-ASP Positive
+brien I-ASP Positive
+' O -999
+' O -999
 to O -999
 Bookend O -999
 Boston O -999
 Independent O -999
 Film O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 Two O -999
-high-profile O -999
+high O -999
+- O -999
+profile O -999
 documentaries O -999
 will O -999
 booke O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 well O -999
@@ -9967,9 +10848,11 @@ with O -999
 their O -999
 emotional O -999
 shit O -999
-'' O -999
+' O -999
+' O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 so O -999
 miserable O -999
 , O -999
@@ -9985,29 +10868,38 @@ must O -999
 cut O -999
 my O -999
 arms O -999
-'' O -999
+' O -999
+' O -999
 
 i O -999
-'m O -999
+' O -999
+m O -999
 with O -999
 my O -999
 best O -999
 friend O -999
 now O -999
-... O -999
+. O -999
+. O -999
+. O -999
 we O -999
-'re O -999
+' O -999
+re O -999
 listening O -999
 to O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 i O -999
 love O -999
 you O -999
 rose O -999
 : O -999
-** O -999
+* O -999
+* O -999
 
 obama B-ASP Negative
 Fiddles O -999
@@ -10025,9 +10917,11 @@ spears I-ASP Positive
 ' O -999
 new O -999
 song O -999
-'' O -999
+' O -999
+' O -999
 3 O -999
-'' O -999
+' O -999
+' O -999
 is O -999
 catchy O -999
 . O -999
@@ -10054,7 +10948,8 @@ yeah O -999
 prep O -999
 rally O -999
 today O -999
-?? O -999
+? O -999
+? O -999
 
 lady O -999
 gag O -999
@@ -10064,7 +10959,9 @@ way O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 three O -999
-... O -999
+. O -999
+. O -999
+. O -999
 qual O -999
 que O -999
 é O -999
@@ -10093,16 +10990,20 @@ was O -999
 alive O -999
 , O -999
 she O -999
-'d O -999
+' O -999
+d O -999
 be O -999
 as O -999
-good/famous O -999
+good O -999
+/ O -999
+famous O -999
 as O -999
 alicia B-ASP Positive
 keys I-ASP Positive
 . O -999
 They O -999
-'re O -999
+' O -999
+re O -999
 kinda O -999
 on O -999
 the O -999
@@ -10113,9 +11014,13 @@ Although O -999
 Aaliyah O -999
 was O -999
 BIGGER O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 Majaahh O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 lindsay B-ASP Neutral
 lohan I-ASP Neutral
@@ -10124,7 +11029,8 @@ involved O -999
 ? O -999
 so O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 guessing O -999
 the O -999
 serial O -999
@@ -10172,22 +11078,29 @@ charts O -999
 small O -999
 print O -999
 are O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 always O -999
 easy O -999
 to O -999
 read O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 I O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 wait O -999
 for O -999
 friends O -999
 with O -999
 benefits O -999
-!! O -999
+! O -999
+! O -999
 Mila O -999
 kunis O -999
 and O -999
@@ -10223,7 +11136,8 @@ was O -999
 stupid O -999
 quotes O -999
 - O -999
-'' O -999
+' O -999
+' O -999
 i O -999
 get O -999
 to O -999
@@ -10237,20 +11151,27 @@ places O -999
 like O -999
 canada O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 , O -999
 pop O -999
 singer O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 lmao O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 be O -999
 serious O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 kim B-ASP Negative
 kardashian I-ASP Negative
@@ -10260,9 +11181,13 @@ Tutorial O -999
 Famous O -999
 Fart O -999
 : O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 flattering O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 pleasing O -999
 rican O -999
 lady O -999
@@ -10273,18 +11198,23 @@ camera O -999
 shows O -999
 , O -999
 go O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 Google O -999
-'s O -999
+' O -999
+s O -999
 interview O -999
 with O -999
 lady B-ASP Positive
 gaga I-ASP Positive
 is O -999
 a O -999
-must-see O -999
+must O -999
+- O -999
+see O -999
 : O -999
 . O -999
 . O -999
@@ -10311,7 +11241,8 @@ word O -999
 ? O -999
 maybe O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 because O -999
 vim O -999
 makes O -999
@@ -10345,7 +11276,8 @@ of O -999
 Ned O -999
 McWherter O -999
 : O -999
-'' O -999
+' O -999
+' O -999
 He O -999
 was O -999
 able O -999
@@ -10354,42 +11286,53 @@ find O -999
 solutions O -999
 that O -999
 worked O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 you O -999
 look O -999
 like O -999
 a O -999
 cat O -999
 . O -999
-'' O -999
-'' O -999
+' O -999
+' O -999
+' O -999
+' O -999
 you O -999
 look O -999
 like O -999
 a O -999
 dog O -999
 . O -999
-'' O -999
-'' O -999
+' O -999
+' O -999
+' O -999
+' O -999
 you O -999
 look O -999
 like O -999
 an O -999
 alligator O -999
 . O -999
-'' O -999
-'' O -999
+' O -999
+' O -999
+' O -999
+' O -999
 you O -999
 look O -999
 like O -999
 an O -999
 elephant O -999
 . O -999
-'' O -999
-'' O -999
+' O -999
+' O -999
+' O -999
+' O -999
 you O -999
 look O -999
 like O -999
@@ -10397,7 +11340,8 @@ a O -999
 nicolas B-ASP Negative
 cage I-ASP Negative
 . O -999
-'' O -999
+' O -999
+' O -999
 
 he O -999
 is O -999
@@ -10441,19 +11385,33 @@ myhomelesssignwouldsay O -999
 Fuck O -999
 a O -999
 home O -999
-!!!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 I O -999
 need O -999
 money O -999
 for O -999
 lakers B-ASP Neutral
 Tickets O -999
-!!!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 : O -999
 RT O -999
 SeanMcConn O -999
 : O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 john B-ASP Neutral
@@ -10463,9 +11421,13 @@ Rolling O -999
 In O -999
 The O -999
 Deep O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 COVER O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 . O -999
 via O -999
 mostlyjunkfood O -999
@@ -10520,7 +11482,8 @@ a O -999
 prude O -999
 but O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 not O -999
 interested O -999
 in O -999
@@ -10544,7 +11507,8 @@ ipod B-ASP Positive
 touch O -999
 , O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 gone O -999
 to O -999
 a O -999
@@ -10563,7 +11527,9 @@ yeah O -999
 home O -999
 brew O -999
 . O -999
-non-sony O -999
+non O -999
+- O -999
+sony O -999
 programs O -999
 that O -999
 makes O -999
@@ -10630,7 +11596,9 @@ hill O -999
 nicolas B-ASP Neutral
 cage I-ASP Neutral
 broke O -999
-... O -999
+. O -999
+. O -999
+. O -999
 what O -999
 the O -999
 hell O -999
@@ -10640,16 +11608,21 @@ all O -999
 of O -999
 that O -999
 treasure O -999
-?!! O -999
+? O -999
+! O -999
+! O -999
 
 You O -999
 know O -999
 you O -999
-'ve O -999
+' O -999
+ve O -999
 made O -999
 it O -999
 when O -999
-... O -999
+. O -999
+. O -999
+. O -999
 steve B-ASP Neutral
 jobs I-ASP Neutral
 is O -999
@@ -10731,11 +11704,15 @@ like O -999
 a O -999
 gayboy O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 big O -999
 pun O -999
 voice O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 go O -999
 that O -999
 wayyyyy O -999
@@ -10753,7 +11730,9 @@ quotes O -999
 just O -999
 google B-ASP Neutral
 i O -999
-t.t O -999
+t O -999
+. O -999
+t O -999
 cheers O -999
 millions O -999
 of O -999
@@ -10764,7 +11743,8 @@ madonna O -999
 is O -999
 GENIUS O -999
 
-'' O -999
+' O -999
+' O -999
 Rogue O -999
 : O -999
 a O -999
@@ -10772,7 +11752,8 @@ deceitful O -999
 and O -999
 unreliable O -999
 scoundrel O -999
-'' O -999
+' O -999
+' O -999
 , O -999
 sarah B-ASP Negative
 palin I-ASP Negative
@@ -10800,7 +11781,8 @@ play O -999
 against O -999
 each O -999
 other O -999
-!! O -999
+! O -999
+! O -999
 
 sky O -999
 player O -999
@@ -10831,7 +11813,8 @@ well O -999
 worth O -999
 checking O -999
 out O -999
-!! O -999
+! O -999
+! O -999
 
 Obama O -999
 condemns O -999
@@ -10843,14 +11826,24 @@ barack B-ASP Neutral
 obama I-ASP Neutral
 describes O -999
 as O -999
-'' O -999
+' O -999
+' O -999
 outrageous O -999
-'' O -999
+' O -999
+' O -999
 the O -999
 killings O -999
-... O -999
 . O -999
-www.stgf.co.uk O -999
+. O -999
+. O -999
+. O -999
+www O -999
+. O -999
+stgf O -999
+. O -999
+co O -999
+. O -999
+uk O -999
 
 hilary B-ASP Negative
 swank I-ASP Negative
@@ -10903,24 +11896,28 @@ for O -999
 my O -999
 psp B-ASP Neutral
 . O -999
-'' O -999
+' O -999
+' O -999
 forget O -999
 this O -999
 , O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 gon O -999
 na O -999
 live O -999
 ! O -999
-'' O -999
+' O -999
+' O -999
 
 downloading O -999
 music O -999
 for O -999
 my O -999
 ipod B-ASP Neutral
-!! O -999
+! O -999
+! O -999
 damn O -999
 yous O -999
 a O -999
@@ -10936,7 +11933,8 @@ spears I-ASP Negative
 once O -999
 . O -999
 they O -999
-'re O -999
+' O -999
+re O -999
 so O -999
 disgusting O -999
 . O -999
@@ -10944,7 +11942,8 @@ disgusting O -999
 new O -999
 background O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 not O -999
 ready O -999
 yet O -999
@@ -10959,7 +11958,9 @@ madonna B-ASP Positive
 so O -999
 im O -999
 glad O -999
-... O -999
+. O -999
+. O -999
+. O -999
 ill O -999
 try O -999
 to O -999
@@ -10968,7 +11969,9 @@ something O -999
 else O -999
 but O -999
 later O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 i O -999
 know O -999
@@ -11049,17 +12052,24 @@ skills O -999
 silly O -999
 bitch O -999
 does O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 know O -999
 what O -999
 he O -999
-'s O -999
+' O -999
+s O -999
 getting O -999
 into O -999
 . O -999
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
 36hrs46mins O -999
--RSB- O -999
+- O -999
+RSB O -999
+- O -999
 
 harry B-ASP Neutral
 potter I-ASP Neutral
@@ -11081,7 +12091,9 @@ to O -999
 conduct O -999
 better O -999
 product O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 you O -999
 as O -999
@@ -11095,7 +12107,9 @@ sexbot O -999
 britney B-ASP Neutral
 spears I-ASP Neutral
 followers O -999
-... O -999
+. O -999
+. O -999
+. O -999
 much O -999
 better O -999
 
@@ -11116,7 +12130,8 @@ me O -999
 : O -999
 ha O -999
 ha O -999
--- O -999
+- O -999
+- O -999
 for O -999
 once O -999
 , O -999
@@ -11155,11 +12170,15 @@ better O -999
 for O -999
 small O -999
 kids O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 5 O -999
 and O -999
 under O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 wii O -999
 , O -999
 psp B-ASP Neutral
@@ -11171,7 +12190,8 @@ or O -999
 none O -999
 of O -999
 these O -999
-?? O -999
+? O -999
+? O -999
 
 i O -999
 cant O -999
@@ -11197,7 +12217,8 @@ buy O -999
 your O -999
 shit O -999
 os O -999
-!! O -999
+! O -999
+! O -999
 
 Follow O -999
 us O -999
@@ -11245,7 +12266,8 @@ lohan O -999
 . O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 why O -999
 White O -999
 House O -999
@@ -11265,7 +12287,8 @@ Human O -999
 Rights O -999
 Campaign O -999
 dinner O -999
-'' O -999
+' O -999
+' O -999
 . O -999
 don O -999
 ask O -999
@@ -11280,9 +12303,11 @@ a O -999
 bitch O -999
 who O -999
 hates O -999
-'' O -999
+' O -999
+' O -999
 gay O -999
-'' O -999
+' O -999
+' O -999
 people O -999
 , O -999
 why O -999
@@ -11325,7 +12350,8 @@ to O -999
 learn O -999
 that O -999
 Guardian O -999
-'s O -999
+' O -999
+s O -999
 Eyewitness O -999
 application O -999
 is O -999
@@ -11343,7 +12369,9 @@ would O -999
 have O -999
 been O -999
 great O -999
-time-killer O -999
+time O -999
+- O -999
+killer O -999
 on O -999
 phone O -999
 
@@ -11357,7 +12385,8 @@ in O -999
 the O -999
 lakers B-ASP Neutral
 game O -999
-!! O -999
+! O -999
+! O -999
 got O -999
 ta O -999
 love O -999
@@ -11394,7 +12423,9 @@ spears I-ASP Positive
 . O -999
 i O -999
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 stop O -999
 laughing O -999
 . O -999
@@ -11431,7 +12462,9 @@ impressive O -999
 on O -999
 my O -999
 2007 O -999
-2.2 O -999
+2 O -999
+. O -999
+2 O -999
 ghz O -999
 macbook O -999
 professional O -999
@@ -11457,7 +12490,9 @@ the O -999
 prez O -999
 carried O -999
 a O -999
-terminally-ill O -999
+terminally O -999
+- O -999
+ill O -999
 evita O -999
 up O -999
 the O -999
@@ -11561,7 +12596,9 @@ carey I-ASP Positive
 I O -999
 still O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 see O -999
 what O -999
 the O -999
@@ -11571,7 +12608,9 @@ with O -999
 kim B-ASP Neutral
 kardashian I-ASP Neutral
 is O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 Not O -999
 hating O -999
 , O -999
@@ -11588,7 +12627,8 @@ Afghanistan O -999
 I O -999
 think O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 the O -999
 real O -999
 shocker O -999
@@ -11606,7 +12646,9 @@ Mariah O -999
 carey O -999
 got O -999
 married O -999
-... O -999
+. O -999
+. O -999
+. O -999
 i O -999
 still O -999
 think O -999
@@ -11629,7 +12671,8 @@ little O -999
 Wayne O -999
 in O -999
 Interview O -999
-'s O -999
+' O -999
+s O -999
 April O -999
 issue O -999
 . O -999
@@ -11643,7 +12686,9 @@ marijuana O -999
 , O -999
 I O -999
 did O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 know O -999
 they O -999
 were O -999
@@ -11651,7 +12696,8 @@ friends O -999
 . O -999
 
 I O -999
-'m O -999
+' O -999
+m O -999
 Hate O -999
 when O -999
 I O -999
@@ -11659,16 +12705,25 @@ miss O -999
 a O -999
 madonna B-ASP Neutral
 Party O -999
-!! O -999
-... O -999
-... O -999
+! O -999
+! O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
+. O -999
 omg O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 today O -999
-... O -999
+. O -999
+. O -999
+. O -999
 Who O -999
-'s O -999
+' O -999
+s O -999
 going O -999
 with O -999
 me O -999
@@ -11689,7 +12744,9 @@ Lying O -999
 About O -999
 Medicare O -999
 | O -999
-NewsBusters.org O -999
+NewsBusters O -999
+. O -999
+org O -999
 : O -999
 . O -999
 via O -999
@@ -11715,7 +12772,9 @@ thanks O -999
 not O -999
 watching O -999
 it O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 RT O -999
 : O -999
@@ -11825,7 +12884,8 @@ is O -999
 awesome O -999
 in O -999
 it O -999
-'s O -999
+' O -999
+s O -999
 own O -999
 way O -999
 . O -999
@@ -11886,7 +12946,9 @@ just O -999
 suck O -999
 
 soooo O -999
-... O -999
+. O -999
+. O -999
+. O -999
 the O -999
 ' O -999
 homegroup O -999
@@ -11933,7 +12995,9 @@ dead O -999
 dead O -999
 dead O -999
 dead O -999
-!!! O -999
+! O -999
+! O -999
+! O -999
 fml O -999
 ! O -999
 someone O -999
@@ -11988,9 +13052,15 @@ justin B-ASP Neutral
 timberlake I-ASP Neutral
 and O -999
 more O -999
-!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 = O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 is O -999
 going O -999
@@ -12054,7 +13124,9 @@ lohan I-ASP Positive
 does O -999
 the O -999
 twins O -999
-... O -999
+. O -999
+. O -999
+. O -999
 what O -999
 was O -999
 the O -999
@@ -12062,7 +13134,9 @@ name O -999
 of O -999
 that O -999
 movie O -999
-?!? O -999
+? O -999
+! O -999
+? O -999
 
 Dear O -999
 madonna B-ASP Neutral
@@ -12070,19 +13144,23 @@ madonna B-ASP Neutral
 love O -999
 that O -999
 your O -999
-2-CD O -999
+2 O -999
+- O -999
+CD O -999
 set O -999
 includes O -999
 1 O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 safe O -999
 for O -999
 kids O -999
 & O -999
 1 O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 clearly O -999
 not O -999
 . O -999
@@ -12166,7 +13244,8 @@ on O -999
 Twitter O -999
 ? O -999
 
-'' O -999
+' O -999
+' O -999
 I O -999
 prefer O -999
 to O -999
@@ -12195,7 +13274,8 @@ for O -999
 my O -999
 tears O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 demi B-ASP Neutral
 lovato I-ASP Neutral
@@ -12227,7 +13307,9 @@ mxKID912 O -999
 no O -999
 I O -999
 did O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 lol O -999
 , O -999
 I O -999
@@ -12273,7 +13355,9 @@ christmas O -999
 thanks O -999
 for O -999
 following O -999
-... O -999
+. O -999
+. O -999
+. O -999
 if O -999
 only O -999
 you O -999
@@ -12282,7 +13366,9 @@ the O -999
 real O -999
 lindsay B-ASP Neutral
 lohan I-ASP Neutral
-!!! O -999
+! O -999
+! O -999
+! O -999
 
 slap O -999
 the O -999
@@ -12303,11 +13389,13 @@ jackson I-ASP Positive
 ' O -999
 s O -999
 single O -999
-'' O -999
+' O -999
+' O -999
 this O -999
 is O -999
 it O -999
-'' O -999
+' O -999
+' O -999
 . O -999
 I O -999
 like O -999
@@ -12320,7 +13408,8 @@ really O -999
 
 himeryam O -999
 i O -999
-'m O -999
+' O -999
+m O -999
 hip O -999
 and O -999
 im O -999
@@ -12357,7 +13446,8 @@ windows B-ASP Neutral
 miss O -999
 this O -999
 game O -999
-!! O -999
+! O -999
+! O -999
 
 I O -999
 really O -999
@@ -12366,7 +13456,8 @@ perez B-ASP Negative
 hilton I-ASP Negative
 . O -999
 He O -999
-'s O -999
+' O -999
+s O -999
 just O -999
 a O -999
 bitch O -999
@@ -12382,7 +13473,8 @@ way O -999
 . O -999
 
 i O -999
-'m O -999
+' O -999
+m O -999
 feeling O -999
 a O -999
 good O -999
@@ -12390,14 +13482,18 @@ wii B-ASP Positive
 bowling O -999
 game O -999
 coming O -999
-... O -999
+. O -999
+. O -999
+. O -999
 you O -999
 ready O -999
-?! O -999
+? O -999
+! O -999
 
 guess O -999
 i O -999
-'ll O -999
+' O -999
+ll O -999
 use O -999
 me O -999
 $ O -999
@@ -12412,7 +13508,8 @@ mario O -999
 brothers O -999
 wii B-ASP Neutral
 which O -999
-'ll O -999
+' O -999
+ll O -999
 turn O -999
 to O -999
 like O -999
@@ -12434,7 +13531,8 @@ oh O -999
 shucks O -999
 ! O -999
 i O -999
-'ve O -999
+' O -999
+ve O -999
 got O -999
 a O -999
 stupid O -999
@@ -12457,7 +13555,9 @@ his O -999
 hair O -999
 and O -999
 does O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 lose O -999
 80 O -999
 000 O -999
@@ -12494,7 +13594,9 @@ he O -999
 was O -999
 planning O -999
 is O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 ready O -999
 yet O -999
 . O -999
@@ -12515,7 +13617,8 @@ you O -999
 , O -999
 but O -999
 there O -999
-'s O -999
+' O -999
+s O -999
 an O -999
 alternative O -999
 story O -999
@@ -12533,7 +13636,8 @@ I O -999
 hate O -999
 barack B-ASP Negative
 obama I-ASP Negative
-!! O -999
+! O -999
+! O -999
 Anybody O -999
 else O -999
 agree O -999
@@ -12543,7 +13647,8 @@ girl O -999
 Hillary O -999
 Clinton O -999
 should O -999
-'ve O -999
+' O -999
+ve O -999
 been O -999
 our O -999
 president O -999
@@ -12571,7 +13676,8 @@ song O -999
 
 If O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 sitting O -999
 around O -999
 today O -999
@@ -12582,7 +13688,8 @@ job O -999
 sucks O -999
 , O -999
 I O -999
-'d O -999
+' O -999
+d O -999
 suggest O -999
 you O -999
 google B-ASP Neutral
@@ -12615,15 +13722,20 @@ lilDickTracy O -999
 Fuck O -999
 harry B-ASP Negative
 potter I-ASP Negative
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 Fuck O -999
 myers O -999
 park O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 WeTheBoyz O -999
--- O -999
+- O -999
+- O -999
 GTFOH O -999
 
 Honestly O -999
@@ -12640,7 +13752,9 @@ favorite O -999
 britney B-ASP Positive
 spears I-ASP Positive
 video O -999
-... O -999
+. O -999
+. O -999
+. O -999
 i O -999
 just O -999
 love O -999
@@ -12649,7 +13763,9 @@ whole O -999
 concept O -999
 of O -999
 it O -999
-... O -999
+. O -999
+. O -999
+. O -999
 as O -999
 well O -999
 as O -999
@@ -12682,11 +13798,15 @@ andrew O -999
 ryan O -999
 . O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 xbox O -999
 live O -999
 nation O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 joining O -999
 the O -999
@@ -12750,7 +13870,9 @@ tract O -999
 and O -999
 fun O -999
 stuff O -999
-... O -999
+. O -999
+. O -999
+. O -999
 it O -999
 literally O -999
 is O -999
@@ -12768,7 +13890,9 @@ like O -999
 an O -999
 hour O -999
 though O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 Dear O -999
 barack B-ASP Neutral
@@ -12856,7 +13980,9 @@ ing O -999
 magic O -999
 dudes O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 UFL O -999
 referees O -999
@@ -12904,7 +14030,8 @@ personnel O -999
 I O -999
 just O -999
 took O -999
-'' O -999
+' O -999
+' O -999
 What O -999
 would O -999
 happen O -999
@@ -12921,13 +14048,20 @@ and O -999
 Cole O -999
 Sprouse O -999
 with O -999
-... O -999
-'' O -999
+. O -999
+. O -999
+. O -999
+' O -999
+' O -999
 and O -999
 got O -999
 : O -999
 FIGHT O -999
-!!!!! O -999
+! O -999
+! O -999
+! O -999
+! O -999
+! O -999
 Try O -999
 it O -999
 : O -999
@@ -12935,14 +14069,19 @@ it O -999
 
 listening O -999
 to O -999
-'' O -999
+' O -999
+' O -999
 ' O -999
 3 O -999
-'' O -999
+' O -999
+' O -999
 by O -999
 britney B-ASP Positive
 spears I-ASP Positive
-:-RRB- O -999
+: O -999
+- O -999
+RRB O -999
+- O -999
 got O -999
 ta O -999
 love O -999
@@ -12969,7 +14108,9 @@ game O -999
 in O -999
 Miami O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 Biden O -999
 says O -999
@@ -12980,9 +14121,13 @@ concern O -999
 over O -999
 Darfur O -999
 security O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 AFP O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 : O -999
 AFP O -999
 - O -999
@@ -12993,10 +14138,13 @@ joe B-ASP Neutral
 biden I-ASP Neutral
 has O -999
 expressed O -999
-'' O -999
+' O -999
+' O -999
 great O -999
 see O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 i O -999
@@ -13011,12 +14159,16 @@ disappears O -999
 after O -999
 her O -999
 movie O -999
-'' O -999
+' O -999
+' O -999
 amelia O -999
-'' O -999
+' O -999
+' O -999
 so O -999
 lame O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 harry B-ASP Positive
 potter I-ASP Positive
@@ -13030,13 +14182,16 @@ excited O -999
 too O -999
 ! O -999
 she O -999
-'s O -999
+' O -999
+s O -999
 only O -999
 worth O -999
 a O -999
 few O -999
 billion O -999
-dollars-that O -999
+dollars O -999
+- O -999
+that O -999
 sounds O -999
 pretty O -999
 good O -999
@@ -13057,7 +14212,9 @@ cool O -999
 but O -999
 i O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 know O -999
 anyone O -999
 on O -999
@@ -13104,7 +14261,8 @@ prevention O -999
 . O -999
 
 I O -999
-'m O -999
+' O -999
+m O -999
 one O -999
 of O -999
 the O -999
@@ -13156,7 +14314,9 @@ winners O -999
 get O -999
 in O -999
 scandals O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 ie O -999
 . O -999
 sex O -999
@@ -13172,7 +14332,9 @@ lohan I-ASP Neutral
 , O -999
 etc O -999
 . O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 - O -999
 so O -999
 media O -999
@@ -13210,7 +14372,9 @@ bots O -999
 if O -999
 i O -999
 did O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 have O -999
 this O -999
 cylon O -999
@@ -13220,7 +14384,8 @@ detector O -999
 i O -999
 think O -999
 i O -999
-'d O -999
+' O -999
+d O -999
 get O -999
 most O -999
 of O -999
@@ -13238,7 +14403,8 @@ forever O -999
 . O -999
 then O -999
 i O -999
-'d O -999
+' O -999
+d O -999
 settle O -999
 for O -999
 going O -999
@@ -13267,7 +14433,9 @@ tell O -999
 tomorrow O -999
 the O -999
 alcohol O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 this O -999
 would O -999
@@ -13280,7 +14448,9 @@ a O -999
 kindle B-ASP Neutral
 binding O -999
 ; O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 and O -999
 bill B-ASP Negative
@@ -13289,7 +14459,9 @@ and O -999
 suck O -999
 my O -999
 cock O -999
-... O -999
+. O -999
+. O -999
+. O -999
 or O -999
 lack O -999
 thereof O -999
@@ -13305,9 +14477,11 @@ capabilities O -999
 of O -999
 windows B-ASP Positive
 7 I-ASP Positive
-!! O -999
+! O -999
+! O -999
 
-'' O -999
+' O -999
+' O -999
 Very O -999
 rarely O -999
 has O -999
@@ -13316,7 +14490,8 @@ person O -999
 captured O -999
 the O -999
 world O -999
-'s O -999
+' O -999
+s O -999
 attention O -999
 and O -999
 given O -999
@@ -13328,7 +14503,8 @@ a O -999
 better O -999
 future O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 How O -999
 about O -999
 steve B-ASP Neutral
@@ -13360,7 +14536,9 @@ of O -999
 god O -999
 by O -999
 tonya O -999
-murray-amazon O -999
+murray O -999
+- O -999
+amazon O -999
 kindle B-ASP Neutral
 store O -999
 . O -999
@@ -13375,7 +14553,8 @@ spambot O -999
 i O -999
 know O -999
 that O -999
-'s O -999
+' O -999
+s O -999
 not O -999
 britney B-ASP Negative
 spears I-ASP Negative
@@ -13385,7 +14564,9 @@ photo O -999
 . O -999
 britney O -999
 is O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 anywhere O -999
 near O -999
 that O -999
@@ -13416,7 +14597,9 @@ lindsay B-ASP Neutral
 lohan I-ASP Neutral
 ! O -999
 do O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 worry O -999
 since O -999
 hween O -999
@@ -13431,9 +14614,11 @@ celebrate O -999
 it O -999
 with O -999
 you O -999
-!! O -999
+! O -999
+! O -999
 let O -999
-'s O -999
+' O -999
+s O -999
 party O -999
 ? O -999
 
@@ -13454,11 +14639,13 @@ kijken O -999
 
 If O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 that O -999
 fragile O -999
 I O -999
-'d O -999
+' O -999
+d O -999
 prefer O -999
 you O -999
 do O -999
@@ -13469,7 +14656,9 @@ Is O -999
 no O -999
 longer O -999
 following O -999
-LiLiAN_C33 O -999
+LiLiAN O -999
+_ O -999
+C33 O -999
 : O -999
 RT O -999
 PlayWitMyMonkey O -999
@@ -13490,14 +14679,17 @@ props O -999
 budget O -999
 deal O -999
 : O -999
-'' O -999
+' O -999
+' O -999
 easy O -999
 to O -999
 condemn O -999
 , O -999
 complain O -999
-'' O -999
-'' O -999
+' O -999
+' O -999
+' O -999
+' O -999
 I O -999
 think O -999
 john B-ASP Positive
@@ -13507,16 +14699,23 @@ done O -999
 an O -999
 incredible O -999
 job O -999
-'' O -999
+' O -999
+' O -999
 
 britney B-ASP Neutral
 spears I-ASP Neutral
 trouble O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
--LSB- O -999
+- O -999
+LSB O -999
+- O -999
 Gizmodo O -999
--RSB- O -999
+- O -999
+RSB O -999
+- O -999
 Why O -999
 IBM O -999
 is O -999
@@ -13536,7 +14735,9 @@ jobs I-ASP Neutral
 - O -999
 Of O -999
 course O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 jimmy B-ASP Negative
 carter I-ASP Negative
@@ -13583,7 +14784,8 @@ white O -999
 yeah O -999
 , O -999
 i O -999
-'d O -999
+' O -999
+d O -999
 love O -999
 to O -999
 compete O -999
@@ -13598,15 +14800,20 @@ to O -999
 win O -999
 a O -999
 kindle O -999
-... O -999
+. O -999
+. O -999
+. O -999
 for O -999
 her O -999
 . O -999
 and O -999
 i O -999
-'d O -999
+' O -999
+d O -999
 win O -999
-... O -999
+. O -999
+. O -999
+. O -999
 an O -999
 ipod B-ASP Neutral
 shuffle O -999
@@ -13620,7 +14827,8 @@ created O -999
 a O -999
 quiz O -999
 : O -999
-'' O -999
+' O -999
+' O -999
 How O -999
 well O -999
 do O -999
@@ -13629,7 +14837,8 @@ know O -999
 micheal B-ASP Neutral
 jackson I-ASP Neutral
 ? O -999
-'' O -999
+' O -999
+' O -999
 ! O -999
 You O -999
 should O -999
@@ -13673,7 +14882,9 @@ Grammy O -999
 Awards O -999
 Never O -999
 Say O -999
-... O -999
+. O -999
+. O -999
+. O -999
 : O -999
 Justin O -999
 Bieber O -999
@@ -13683,7 +14894,9 @@ Live O -999
 SNL O -999
 Skit O -999
 3D O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 are O -999
@@ -13708,7 +14921,8 @@ ps O -999
 i O -999
 love O -999
 you O -999
-?? O -999
+? O -999
+? O -999
 
 and O -999
 mrjpatt O -999
@@ -13723,7 +14937,8 @@ spears I-ASP Negative
 even O -999
 if O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 doing O -999
 the O -999
 remix O -999
@@ -13752,14 +14967,19 @@ anything O -999
 but O -999
 a O -999
 retail O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 You O -999
 know O -999
 I O -999
-'m O -999
-anti-Apple O -999
+' O -999
+m O -999
+anti O -999
+- O -999
+Apple O -999
 but O -999
 I O -999
 cant O -999
@@ -13805,7 +15025,9 @@ a O -999
 because O -999
 jimmy O -999
 did O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 want O -999
 to O -999
 be O -999
@@ -13859,7 +15081,8 @@ ad O -999
 ESP O -999
 : O -999
 Tiger O -999
-'s O -999
+' O -999
+s O -999
 desire O -999
 is O -999
 burning O -999
@@ -13878,12 +15101,14 @@ for O -999
 much O -999
 of O -999
 Tuesday O -999
-'s O -999
+' O -999
+s O -999
 practice O -999
 
 AP O -999
 : O -999
-'' O -999
+' O -999
+' O -999
 Levi O -999
 Johnston O -999
 is O -999
@@ -13891,7 +15116,8 @@ going O -999
 for O -999
 ultimate O -999
 exposure O -999
--- O -999
+- O -999
+- O -999
 the O -999
 father O -999
 of O -999
@@ -13906,11 +15132,16 @@ nude O -999
 for O -999
 Playgirl O -999
 . O -999
-'' O -999
--LRB- O -999
+' O -999
+' O -999
+- O -999
+LRB O -999
+- O -999
 Yikes O -999
 . O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 listening O -999
 ' O -999
@@ -13930,7 +15161,9 @@ you O -999
 brit O -999
 . O -999
 : O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 The O -999
 only O -999
@@ -13999,9 +15232,13 @@ stink O -999
 : O -999
 LOS O -999
 angles O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 Reuters O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 - O -999
 britney O -999
 spears O -999
@@ -14010,7 +15247,9 @@ being O -999
 sued O -999
 for O -999
 more O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 Chelsealove95 O -999
@@ -14020,7 +15259,8 @@ harry B-ASP Positive
 potter I-ASP Positive
 books O -999
 silly O -999
-=] O -999
+= O -999
+] O -999
 lol O -999
 
 xbox B-ASP Neutral
@@ -14047,28 +15287,42 @@ the O -999
 night O -999
 . O -999
 . O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 xbox O -999
 live O -999
 nation O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 nowplaying O -999
-'' O -999
+' O -999
+' O -999
 Ai O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 No O -999
 Fun O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 If O -999
 the O -999
 Homies O -999
 Ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 have O -999
 none O -999
--RRB- O -999
-'' O -999
+- O -999
+RRB O -999
+- O -999
+' O -999
+' O -999
 - O -999
 snoop B-ASP Neutral
 dogg I-ASP Neutral
@@ -14089,7 +15343,8 @@ wide O -999
 world O -999
 . O -999
 
-'' O -999
+' O -999
+' O -999
 obama B-ASP Negative
 has O -999
 opened O -999
@@ -14104,7 +15359,8 @@ presidency O -999
 in O -999
 Libya O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 . O -999
 / O -999
 Wrong O -999
@@ -14137,7 +15393,9 @@ anything O -999
 pop O -999
 & O -999
 rock O -999
-... O -999
+. O -999
+. O -999
+. O -999
 am O -999
 I O -999
 not O -999
@@ -14175,7 +15433,8 @@ reward O -999
 wheres O -999
 my O -999
 wine O -999
-!! O -999
+! O -999
+! O -999
 
 KissingJonas O -999
 Dress O -999
@@ -14191,7 +15450,8 @@ That O -999
 would O -999
 be O -999
 awesome O -999
-!! O -999
+! O -999
+! O -999
 
 nobody O -999
 said O -999
@@ -14241,12 +15501,16 @@ for O -999
 other O -999
 meth O -999
 addicts O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 lindsay B-ASP Neutral
 lohan I-ASP Neutral
 and O -999
 such O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 RT O -999
 lakers B-ASP Neutral
@@ -14268,11 +15532,15 @@ the O -999
 books O -999
 with O -999
 a O -999
-dbl/dlb O -999
+dbl O -999
+/ O -999
+dlb O -999
 . O -999
 LA O -999
 leads O -999
-62-54 O -999
+62 O -999
+- O -999
+54 O -999
 . O -999
 
 Poor O -999
@@ -14291,20 +15559,24 @@ with O -999
 kim B-ASP Negative
 kardashian I-ASP Negative
 : O -999
-'' O -999
+' O -999
+' O -999
 It O -999
-'s O -999
+' O -999
+s O -999
 been O -999
 fun O -999
 Kim O -999
 , O -999
 you O -999
-'re O -999
+' O -999
+re O -999
 sisters O -999
 are O -999
 insane O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 
 liking O -999
 google B-ASP Positive
@@ -14382,7 +15654,9 @@ but O -999
 POTUS O -999
 Is O -999
 not O -999
-... O -999
+. O -999
+. O -999
+. O -999
 . O -999
 
 I O -999
@@ -14405,7 +15679,8 @@ can O -999
 say O -999
 that O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 not O -999
 a O -999
 twilighter O -999
@@ -14505,7 +15780,9 @@ Monsters O -999
 . O -999
 
 ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 someone O -999
 cut O -999
 a O -999
@@ -14530,10 +15807,12 @@ to O -999
 lulu O -999
 ? O -999
 is O -999
-'' O -999
+' O -999
+' O -999
 book O -999
 deal O -999
-'' O -999
+' O -999
+' O -999
 crucial O -999
 anymore O -999
 ? O -999
@@ -14573,7 +15852,9 @@ windows B-ASP Positive
 7 I-ASP Positive
 , O -999
 have O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 said O -999
 that O -999
 since O -999
@@ -14594,15 +15875,21 @@ Truth O -999
 Celebrity O -999
 Trends O -999
 : O -999
-allure.com O -999
+allure O -999
 . O -999
--LRB- O -999
+com O -999
+. O -999
+- O -999
+LRB O -999
+- O -999
 Keri O -999
 Hilson O -999
 , O -999
 ashley B-ASP Neutral
 tisdale I-ASP Neutral
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 Need O -999
 another O -999
@@ -14620,7 +15907,8 @@ out O -999
 again O -999
 at O -999
 CM O -999
-'s O -999
+' O -999
+s O -999
 Silver O -999
 Scream O -999
 Halloween O -999
@@ -14644,7 +15932,9 @@ look O -999
 as O -999
 a O -999
 woman O -999
-... O -999
+. O -999
+. O -999
+. O -999
 bizarre O -999
 . O -999
 
@@ -14657,13 +15947,16 @@ harry B-ASP Positive
 potter I-ASP Positive
 , O -999
 I O -999
-'m O -999
+' O -999
+m O -999
 actually O -999
 pretty O -999
 impressed O -999
 ! O -999
 Ca O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 wait O -999
 for O -999
 part O -999
@@ -14707,7 +16000,9 @@ AfternoonBreeze O -999
 Vanessa O -999
 Williams O -999
 & O -999
-Chayene-You O -999
+Chayene O -999
+- O -999
+You O -999
 are O -999
 my O -999
 home O -999
@@ -14728,7 +16023,9 @@ Enjoy O -999
 V O -999
 Listeners O -999
 ; O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 rt O -999
 : O -999
@@ -14740,7 +16037,8 @@ no O -999
 longer O -999
 the O -999
 country O -999
-'s O -999
+' O -999
+s O -999
 worst O -999
 president O -999
 ! O -999
@@ -14750,12 +16048,14 @@ i O -999
 voted O -999
 Moldova O -999
 for O -999
-'' O -999
+' O -999
+' O -999
 justin B-ASP Positive
 bieber I-ASP Positive
 Birthday O -999
 Kiss O -999
-'' O -999
+' O -999
+' O -999
 vote O -999
 ! O -999
 . O -999
@@ -14836,23 +16136,29 @@ land O -999
 I O -999
 think O -999
 I O -999
-'d O -999
+' O -999
+d O -999
 be O -999
 Ron O -999
 , O -999
--LRB- O -999
+- O -999
+LRB O -999
+- O -999
 though O -999
 secretly O -999
 , O -999
 sometimes O -999
 , O -999
 I O -999
-'d O -999
+' O -999
+d O -999
 like O -999
 to O -999
 be O -999
 Hermoine O -999
--RRB- O -999
+- O -999
+RRB O -999
+- O -999
 
 went O -999
 to O -999
@@ -14870,7 +16176,11 @@ to O -999
 lindsay B-ASP Neutral
 lohan I-ASP Neutral
 for O -999
-leggings-as-pants O -999
+leggings O -999
+- O -999
+as O -999
+- O -999
+pants O -999
 2009 O -999
 . O -999
 
@@ -14913,7 +16223,11 @@ harry B-ASP Positive
 potter I-ASP Positive
 was O -999
 so O -999
-epic/funny/awesome O -999
+epic O -999
+/ O -999
+funny O -999
+/ O -999
+awesome O -999
 ~ O -999
 
 robot O -999
@@ -14931,7 +16245,9 @@ wins O -999
 best O -999
 celeb O -999
 mom O -999
-... O -999
+. O -999
+. O -999
+. O -999
 in O -999
 other O -999
 news O -999
@@ -14945,7 +16261,9 @@ and O -999
 active O -999
 pop O -999
 singer O -999
-... O -999
+. O -999
+. O -999
+. O -999
 
 What O -999
 moron O -999
@@ -14988,7 +16306,8 @@ windows B-ASP Positive
 upgrade O -999
 
 i O -999
-'m O -999
+' O -999
+m O -999
 just O -999
 waiting O -999
 for O -999
@@ -15003,7 +16322,9 @@ who O -999
 think O -999
 obama O -999
 does O -999
-n't O -999
+n O -999
+' O -999
+t O -999
 deserve O -999
 the O -999
 nobel O -999
@@ -15051,7 +16372,8 @@ does O -999
 . O -999
 and O -999
 sony O -999
-'s O -999
+' O -999
+s O -999
 website O -999
 lies O -999
 about O -999
@@ -15077,7 +16399,8 @@ steve B-ASP Neutral
 jobs I-ASP Neutral
 . O -999
 
-'' O -999
+' O -999
+' O -999
 Technically O -999
 if O -999
 a O -999
@@ -15102,7 +16425,8 @@ be O -999
 a O -999
 smile O -999
 . O -999
-'' O -999
+' O -999
+' O -999
 - O -999
 demi B-ASP Neutral
 lovato I-ASP Neutral

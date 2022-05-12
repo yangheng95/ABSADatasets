@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 621,
-    "uniques": 79
+    "count": 699,
+    "uniques": 77
   },
   {
     "referrer": "Google",
-    "count": 60,
-    "uniques": 17
+    "count": 66,
+    "uniques": 19
   },
   {
     "referrer": "kkb-production.jupyter-proxy.kaggle.net",
@@ -15,24 +15,24 @@
     "uniques": 1
   },
   {
+    "referrer": "colab.research.google.com",
+    "count": 31,
+    "uniques": 7
+  },
+  {
     "referrer": "work-notebook.datafountain.cn",
     "count": 29,
     "uniques": 1
   },
   {
-    "referrer": "colab.research.google.com",
-    "count": 19,
-    "uniques": 6
-  },
-  {
     "referrer": "huggingface.co",
-    "count": 16,
+    "count": 18,
     "uniques": 9
   },
   {
     "referrer": "pythonrepo.com",
-    "count": 6,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "inspectoriodocs.atlassian.net",

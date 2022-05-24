@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 507,
-    "uniques": 47
+    "count": 354,
+    "uniques": 45
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 72,
-    "uniques": 8
+    "count": 61,
+    "uniques": 6
   },
   {
     "referrer": "pythonlang.dev",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "Google",
-    "count": 24,
-    "uniques": 7
+    "count": 18,
+    "uniques": 5
   },
   {
     "referrer": "5e7jznwwj7h-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 16,
-    "uniques": 8
+    "count": 13,
+    "uniques": 7
   },
   {
     "referrer": "pythonrepo.com",

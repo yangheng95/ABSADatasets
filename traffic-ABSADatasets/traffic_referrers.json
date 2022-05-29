@@ -1,23 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 481,
-    "uniques": 51
-  },
-  {
-    "referrer": "pythonlang.dev",
-    "count": 47,
-    "uniques": 5
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 38,
-    "uniques": 3
+    "count": 527,
+    "uniques": 52
   },
   {
     "referrer": "Google",
-    "count": 26,
-    "uniques": 9
+    "count": 44,
+    "uniques": 11
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 41,
+    "uniques": 3
   },
   {
     "referrer": "huggingface.co",
@@ -25,9 +20,9 @@
     "uniques": 8
   },
   {
-    "referrer": "5e7jznwwj7h-496ff2e9c6d22116-0-colab.googleusercontent.com",
-    "count": 17,
-    "uniques": 1
+    "referrer": "pythonlang.dev",
+    "count": 18,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,13 +35,18 @@
     "uniques": 1
   },
   {
+    "referrer": "5e7jznwwj7h-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "referrer": "enotq5w439-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "zzun.app",
+    "referrer": "f7nqntpa0zt-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   }
 ]

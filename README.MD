@@ -5,7 +5,7 @@
 [![total clones](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
-## Contribute (prepare) your dataset in using PyABSA
+## Contribute (prepare) your dataset to ABSADatasets to use it in PyABSA
 We hope you can share your custom dataset or an available public dataset. If you are willing to, please follow the instruction to process your data and open a PR.
 
 ### Format your dataset to use it in PyABSA
@@ -64,7 +64,7 @@ Trainer(config=config,
 ```
 
 
-### Annotate Your Dataset
+### Need to Annotate Your Own Dataset?
 - A Stand-alone browser based tool to help process data for the training set. [here](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT)
 ![image1](https://user-images.githubusercontent.com/4684417/139701633-d77a009b-1a12-4ef2-9663-37d2d36e1af1.JPG)
 

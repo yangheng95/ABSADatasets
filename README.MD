@@ -6,16 +6,23 @@
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
 ## Contribute (prepare) your dataset in using PyABSA
-You can use the public datasets as provided, and activate the augmented dataset (remove `.ignore`) to improve performance.
+We hope you can share your custom dataset or an available public dataset. If you are willing to, please follow the instruction to process your data and open a PR.
 
-We hope you can share your custom dataset or an available public dataset. If you want to, follow these steps:
- 
+### Format your dataset to use it in PyABSA
+- Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you to finish other steps**)
+![image](https://user-images.githubusercontent.com/51735130/136219441-c3e9b4e2-6e31-4d32-b6c3-a66788b179f6.png)
+
+- Generate the inference dataset for APC / ATEPC task (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_polarity_classification/generate_inference_set.py))
+- Convert the APC dataset to ATEPC dataset, and move the transformed ATEPC datasets from apc_dataset to corresponding atepc_datasets. (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_term_extraction/convert_apc_set_to_atepc_set.py) )
+- Register your dataset in PyABSA. (**Optional**. Register [here](https://github.com/yangheng95/PyABSA/blob/302da1e4b2292cdbc5b9c712862e623c427132b8/pyabsa/functional/dataset/dataset_manager.py#L37))
+
+
 ### Important: Rename your dataset filename before use it in PyABSA
 
-Although the integrated datasets have no ids, it is recommended to assign an id for your dataset. 
-While merge your datasets into ABSADatasets, please keep the id remained. 
+It is recommended to assign an id for your dataset, which will avoid some potential problem (e.g., dataset mis-loading) while PyABSA detects the dataset.
+Merging your datasets into ABSADatasets, please keep the id remained. 
 
-- APC dataset name should be {id}.{dataset name}, and the dataset files should be named in {dataset name}.{type}.dat.atepc e.g., 
+- An APC dataset name should be {id}.{dataset name}.{type}.dat, 
 ```tree
 datasets
 ├── 101.restaurant
@@ -36,7 +43,7 @@ datasets
 └── others
 ```
 
-I prepare a demo custom APC/ATEPC dataset which is based on Yelp dataset, if you got problem in dataset rename, please feed your data into the prepared dataset folds.
+I prepare a demo custom APC/ATEPC dataset which is based on third-party annotated Yelp dataset. Iif you got problem in dataset renaming, please put your data into the prepared dataset files.
 Check [datasets/apc_datasets/100.CustomDataset](./datasets/apc_datasets/100.CustomDataset) and [datasets/atepc_datasets/100.CustomDataset](./datasets/apc_datasets/100.CustomDataset)to view or rewrite the custom dataset.
 
 Then, use the {id}.{dataset name} to locate your dataset, e.g., 
@@ -56,15 +63,6 @@ Trainer(config=config,
         )
 ```
 
-It will avoid some potential problem (e.g., duplicated dataset name) while PyABSA detects the dataset.
-
-### Dataset Processing
-- Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you to finish other steps**)
-![image](https://user-images.githubusercontent.com/51735130/136219441-c3e9b4e2-6e31-4d32-b6c3-a66788b179f6.png)
-
-- Generate the inference dataset for APC / ATEPC task (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_polarity_classification/generate_inference_set.py))
-- Convert the APC dataset to ATEPC dataset, and move the transformed ATEPC datasets from apc_dataset to corresponding atepc_datasets. (**Optional**. The example is available [here](https://github.com/yangheng95/PyABSA/blob/release/demos/aspect_term_extraction/convert_apc_set_to_atepc_set.py) )
-- Register your dataset in PyABSA. (**Optional**. Register [here](https://github.com/yangheng95/PyABSA/blob/302da1e4b2292cdbc5b9c712862e623c427132b8/pyabsa/functional/dataset/dataset_manager.py#L37))
 
 ### Annotate Your Dataset
 - A Stand-alone browser based tool to help process data for the training set. [here](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT)

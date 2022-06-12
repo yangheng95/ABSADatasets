@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 626,
-    "uniques": 75
+    "count": 605,
+    "uniques": 74
   },
   {
     "referrer": "Google",
-    "count": 57,
-    "uniques": 11
+    "count": 56,
+    "uniques": 10
   },
   {
     "referrer": "hub.xn--p8jhe.tw",
@@ -16,18 +16,23 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 20,
-    "uniques": 10
+    "count": 23,
+    "uniques": 13
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 18,
-    "uniques": 3
+    "count": 17,
+    "uniques": 2
   },
   {
     "referrer": "hf.space",
     "count": 15,
     "uniques": 7
+  },
+  {
+    "referrer": "l1c1y6it6u-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 11,
+    "uniques": 1
   },
   {
     "referrer": "pypi.org",
@@ -37,11 +42,6 @@
   {
     "referrer": "libraries.io",
     "count": 10,
-    "uniques": 1
-  },
-  {
-    "referrer": "l1c1y6it6u-496ff2e9c6d22116-0-colab.googleusercontent.com",
-    "count": 8,
     "uniques": 1
   },
   {

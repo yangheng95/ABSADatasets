@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 605,
-    "uniques": 74
+    "count": 621,
+    "uniques": 76
   },
   {
     "referrer": "Google",
-    "count": 56,
-    "uniques": 10
+    "count": 75,
+    "uniques": 11
   },
   {
     "referrer": "hub.xn--p8jhe.tw",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 17,
-    "uniques": 2
+    "count": 16,
+    "uniques": 1
   },
   {
     "referrer": "hf.space",
@@ -31,13 +31,8 @@
   },
   {
     "referrer": "l1c1y6it6u-496ff2e9c6d22116-0-colab.googleusercontent.com",
-    "count": 11,
+    "count": 13,
     "uniques": 1
-  },
-  {
-    "referrer": "pypi.org",
-    "count": 10,
-    "uniques": 2
   },
   {
     "referrer": "libraries.io",
@@ -46,6 +41,11 @@
   },
   {
     "referrer": "ce.warning.360.cn",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
     "count": 6,
     "uniques": 1
   }

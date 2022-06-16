@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 615,
-    "uniques": 72
+    "count": 638,
+    "uniques": 77
   },
   {
     "referrer": "Google",
-    "count": 79,
-    "uniques": 13
+    "count": 123,
+    "uniques": 15
   },
   {
     "referrer": "libraries.io",
@@ -16,18 +16,13 @@
   },
   {
     "referrer": "hf.space",
-    "count": 32,
-    "uniques": 10
-  },
-  {
-    "referrer": "hub.xn--p8jhe.tw",
-    "count": 27,
-    "uniques": 1
+    "count": 35,
+    "uniques": 11
   },
   {
     "referrer": "huggingface.co",
-    "count": 25,
-    "uniques": 14
+    "count": 26,
+    "uniques": 15
   },
   {
     "referrer": "unl2wlq5gw-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -47,6 +42,11 @@
   {
     "referrer": "openbase.com",
     "count": 10,
+    "uniques": 1
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 5,
     "uniques": 1
   }
 ]

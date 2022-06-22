@@ -712,7 +712,6 @@ Neutral
 The course requires knowledge of python as well as a programming aptitude. The $T$ encourage you to go deep into the pandas library and improve upon the learning experience. 
 assignments
 Positive
-Es muy bueno el nivel, ni muy b?  sico ni muy avanzado, y el profesor es muy claro y se ayuda de ejemplos de gran utilidad para facilitar el entendimiento. Los ex?  menes son retadores. 
 I like the $T$ very much, it will be useful for career prospective. I have taken courses in different sites, but this is especially to good in practice, assignments and grading. 
 course
 Positive
@@ -800,7 +799,6 @@ Neutral
 Good explanation by $T$. I can say without further thinking that it is the best explanation about the data science and also helped to study more about python and programming. 
 teachers
 Positive
-Although I had an experience about data science with R, it was quite course to me. Actually I hadn' t felt aledged python' s convenient things, but I' ll keep studying this garment! 
 Very nice $T$. Not really for beginners since you have to struggle yourself sometimes to get to the goal. The Stuff are very active and helpful in the forums. Thanks for that! 
 course
 Positive
@@ -867,7 +865,6 @@ Positive
 The assignment is very challenging. I need to read many extra books to get the $T$ done. However, feel great to pass the assignment. You know you really learn something
 assignment
 Negative
-Muy buen curso, la practica ayuda demasiado al aprendizaje, adem?  s de que atras?  ndose se pude reprogramar las fechas lo cual ayuda cuando no se cuenta con mucho tiempo libre. 
 $T$ are a bit hard. Week 4 is complete statistics and I didn' t understand it completely. Need more help for week 4 for students coming from not statistical background
 Assignments
 Negative
@@ -912,8 +909,7 @@ course
 Positive
 Great course to start python data science. I' m not software engineer but was able to finish with the great contents and $T$. ( it was difficult and time consuming though.) 
 forums
-Positive
-Much appreciated and really valuable for the remaining sessions of this specialisation. Make sure you do not skip this, even if you already have some experience with Python. 
+Positive 
 Very well designed $T$, especially the Jupyter notebook. Totally accessible and user- friendly for both math/ CS/ stats majors and those without related background knowlege.
 course
 Positive
@@ -962,7 +958,6 @@ Positive
 Excellent experience. Thanks to the course team for the great job. The $T$ give me the opportunity to experience the objectives of the course concepts. Well done. 
 assignments
 Positive
-Very informative and helpful to have first insights on data visualization technics, data charting and guidelines for good and professional data analysis and visualization. 
 Solid explanations of the $T$ of python and pandas. Strong emphasis on self- learning in assignments, which may be difficult for those without background in programming. 
 basics
 Positive
@@ -1530,7 +1525,6 @@ Positive
 this course is very important for any student to concept any principles of programming and help many programmers to think in $T$
 programming
 Positive
-Its good for all students who want to start python and having no previous knowledge of any other programming languages. It' s very good!!! 
 it' s good experience for me to become a certified by $T$ and i love the content which are available on coursera. THANK YOU COURSERA
 coursera
 Positive
@@ -1709,7 +1703,7 @@ a fun and impressive course. Learned a lot of fundamental and necessary $T$ and 
 skills
 Positive
 Good stuff! Engaging and easy to follow, $T$Dr . Chuck is hilarious and truly makes getting started with Python plausible for everybody. 
-
+Dr. Chuck
 Positive
 Good stuff! Engaging and easy to follow, $T$ is hilarious and truly makes getting started with Python plausible for everybody. 
 Dr . Chuck
@@ -1723,7 +1717,6 @@ Positive
 Prof is amazing at explaining $T$ in a way that are easy to understand. I' ve learned a lot and will continue to learn even more
 concepts
 Positive
-Recomiendo el curso para personas que ya saben algo de programaci?? n pero sobre todo a aprendices, sin importan que sepas o no ingles
 This $T$ is my first coursera course and it is so great! I can not wait learning the rest of the courses in this specialization. 
 course
 Positive
@@ -2036,15 +2029,13 @@ Negative
 Absolutely wonderful! I have strong math and CS background. I can see this $T$ can be learned by many people from many background. VERY helpful. I cannot say enough good things about it! Thank you so much!!
 course
 Positive
-For those who doesn' t sure about if they meet the prerequisite: Very basic of linear algebra.( concept of matrices) The concept of calculus.( chain rule etc.)
-it was super super awesome... i thought deep learning is out of my league, but he braked it to me like a piece of shit.. I am currently studying engineering so i had a sense of algebra and calculus...
 $T$ is great: What I liked:- Lecturer. He is the best. It could be seen that he loves what he is talking about
 Course
 Positive
 Course is great: What I liked:- $T$. He is the best. It could be seen that he loves what he is talking about
 Lecturer
 Positive
-Positives: A lot what we need for the basics were clearly explainedAm new to Deep Learning and I thoroughly enjoyed this $T$
+A lot what we need for the basics were clearly explainedAm new to Deep Learning and I thoroughly enjoyed this $T$
 course
 Positive
 I' m so honored that I' ve taken this $T$, professor Andrew is phenomenal indeed on so many levels. I kicked off my career in machine learning& deep learning just because his ability to ease a very growing yet complicated field.
@@ -2116,10 +2107,9 @@ Positive
 Was accustomed to the learning paradigm setup of ANG from Machine Learning course. Lots of improvement in coursera from 2 years ago. Happy to be picking up some Python along the way. Quality of $T$- 100/ 100Instructors- 100/ 100
 content
 Positive
-Was accustomed to the learning paradigm setup of ANG from Machine Learning course. Lots of improvement in coursera from 2 years ago. Happy to be picking up some Python along the way. Quality of content- 100/ $T$- 100/ 100
-100Instructors
+Was accustomed to the learning paradigm setup of ANG from Machine Learning course. Lots of improvement in coursera from 2 years ago. Happy to be picking up some Python along the way. Quality of content- 100/   $T$- 100/ 100
+Instructors
 Positive
-Sehr gut erkl?? rt. Klasse strukturiert und?  bersichtlich erl?? utert. Die Quiz- Fragen werden in den Videos bestens erl?? utert, somit ist nach gr?  ndlichen ansehen und verstehen der Videos das Quiz sehr gut zu schaffen. Die Programmieraufgaben entsprechen dem behandelten Wissen. 
 Very well- designed $T$, the mathematical representation was clearly discussed, otherwise it will be very challenging for students to understand/ derive the fundamentals by themselves. Coding assignment is both fun and takes a gradual step, it is never too intimidating. 
 course
 Positive
@@ -2186,7 +2176,6 @@ Positive
 The instructor does an excellent job of stripping away the extraneous material and concentrating on the important $T$. The course is very well designed to minimize frustrations inevitable with distance learning, so you can concentrate on learning the topic. 
 topics
 Positive
-?? timo curso com did?  tica eficiente e dom?? nio completo do conte?  do por parte do orientador, atingi meus objetivos e agora adquiri a compet?  ncia de contruir meus pr?? prios frameworks de Deep Learning. Sem contar os conselhos inestim?  veis de profissionais da?  rea. 
 This $T$ is tremendously awesome. There' s a lot to learn about the Neural network and deep learning. This course also improves my general understanding of mathematics regarding differentiation and vectorization, which I never thought gonna use in my life. 
 course
 Positive
@@ -2691,7 +2680,6 @@ Positive
 Very good introduction and foundation for Deep Learning. The $T$ are too easy in my opinion, because you only have to fill in some lines. The focus of this course is not programming. It' s more about how Neural Networks works.
 programming exercises
 Negative
-Excellent introduction to Deep Learning. Andrew' s didactic approach allows everyone to get to know the topic. Just two ideas how to improve this course: I would find it helpful if I could download lecture slides and access written summaries. 
 Great introduction to Neural Networks with well balanced $T$ and practice. Although quite complex in places( i. e. back- propagation derivatives) it is well explained and thoughtfully laid out to build on the concepts learnt. Great course! 
 theory
 Positive
@@ -2875,13 +2863,11 @@ Negative
 I tried a few more courses to complete, unfortunately I had to leave the middle of those courses. But, In this $T$, Andrew explains everything simply, and there more visualization then speech which helps me to understand clearly. 
 course
 Positive
-Se complementa de muy buena manera la parte te?? rica de los videos con los ejercicios. Se requiere de una buena compresi?? n para resolver las pruebas. Es bastante entretenido y genera ideas muy intuitivas de lo que se est?  realizando. 
-Perfecto para iniciarse en el mundo del Deep Learning, las explicaciones son muy claras y no necesitan conocimientos previos de IA ni matem?  ticas, aunque me ha ayudado refrescar un poco los conceptos b?  sicos de funciones y matrices. 
 I fulfilled my first step of learning. looking forward to continue the course specialization. I am really lucky to have such an amazing $T$. Thanks a ton to Deeplearning. ai and Course Era for bringing such an amazing Course. 
 instructors
 Positive
 I fulfilled my first step of learning. looking forward to continue the course specialization. I am really lucky to have such an amazing instructors. Thanks a ton to Deeplearning. ai and $T$ for bringing such an amazing Course. 
-Course Era
+CourseEra
 Positive
 I fulfilled my first step of learning. looking forward to continue the course specialization. I am really lucky to have such an amazing instructors. Thanks a ton to Deeplearning. ai and Course Era for bringing such an amazing $T$. 
 Course
@@ -2928,14 +2914,12 @@ Positive
 Andrew Ng is a world leading AI researcher and engineer, he also has superb teaching skills. The $T$ is so rigorous and practical, it is probably the best out there including the best universities and top technology companies... 
 course
 Positive
-Incredibly clear for those who really want to understand exactly how neural networks really work. Anyone working with deep learning should take this so you have a much better intuition for what deep learning actually is in reality. 
 This $T$ mage machine learning and neural networks very accessible to me, even though I only have a beginner background in computer science/ python. The programming assignments are very guided, which is good if you' re a beginner. 
 course
 Positive
 This course mage machine learning and neural networks very accessible to me, even though I only have a beginner background in computer science/ python. The $T$ are very guided, which is good if you' re a beginner. 
 programming assignments
 Positive
- This course is an extension of another course named" Machine learning". It' s suitable for students who have no idea about how to start learning AI.
 Excellent step by step introduction to this seemingly very complicated subject of deep learning as it appears to a novice. Thanks so much $T$ for creating this course. Looking forward to some other courses in this specialization
 Andrew
 Positive
@@ -2987,7 +2971,6 @@ Positive
 This course helped me move more deeper in understanding neural networks. Good, structured, and detailed $T$ of each topic is really useful and helpful. Really enjoy of travelling" forward and backward" in neural networks! 
 explanation
 Positive
-Excelente el curso, ense?  a de una forma muy clara que es una red neuronal y su implementaci?? n. Aunque ser?? a bueno que se ense?  ara la implementaci?? n en alguna librer?? a como Tensor flow, pero no tengo queja alguna. Muchas gracias!! 
 The $T$ are comparatively easy. I was able to watch videos and complete assignments in 6- 8 hour long sitting in a single day. This actually helped me to complete the assignment while I had work commitments during the week. 
 assignments
 Neutral
@@ -3072,7 +3055,6 @@ Positive
 The best $T$ to put your first steps in the world of artificial intelligence even if there is a small prior knowledge about calculus and algebra, but it' s not necessary. Love everyone who contributed to this! Thank you! 
 course
 Positive
-By studying the neural network and deep learning in the special course of deep learning, I have a clearer understanding of the development direction of my profession, and I am in love with the AI technology of people today
 This course gave me a very good insight into Neural networks and deep learning $T$. The programming assignments helped me to gain a very good hands- on experience of implementing a different variety of neural networks. 
 concepts
 Positive
@@ -3117,8 +3099,7 @@ materials
 Positive
 I' m so glad I took this course. I' m moving forward with a sound understanding and great reference materials that will be invaluable in becoming an AI engineer. Thank you to $T$ Andrew Ng and the deeplearning. ai team! 
 Professor
-Positive
-Curso muy muy interesante si buscas aprender nuevas t?? cnicas de aprendizaje de m?  quina dando un paso adelante. Adem?  s genial comienzo para mi investigaci?? n de doctorado en temas similares usando tanto sensores como imagen. 
+Positive 
 Once in a lifetime opportunity to learn DL from $T$ Ng. So far content is very well structured, easy to follow video lessons and love the quizzes. The masterclass with Geoffrey Hinton... priceless!!! Cant wait for more!! 
 Andrew
 Positive
@@ -3190,8 +3171,7 @@ assignments
 Positive
 I liked how the $T$ builds up iteratively. Starting with logistic regression and then defining a neural network as a composition of LR units was just awesome. Another great part was the consistent notations being used. 
 course
-Positive
-I have worked on ml for almost 1 year, although this lecture is not so complicated as that in universities, it helps me to understand the ml more, especially the Heroes for Deep Learning, quite interesting and impressive. 
+Positive 
 Excellent $T$ and course materials. Andrew Sir explained each concept beautifully( no other word coming to my mind). Totally worth it. I now have confidence that I can learn deep learning. Looking forward to next course
 course
 Positive
@@ -3213,7 +3193,6 @@ Positive
 Explanations, pace and clarity are just perfect. Only the last $T$ was quite confusing due to varying indexations( list vs parameters dictionary) and varying return value A instead ofprev_A is I recall correctly. 
 assignment
 Negative
-Simple but useful. However, I really need a class and especially homework to teach me how to derive back- propagation algorithm, which is important for job interviews of machine learning/ data mining/ data science in China
 Such an excellent $T$ to learn Deep Learning. Andrew Ng is an incredible teacher, making this" complicated" domain looks very easy. I am looking forward to pass the other courses. Thank you very much for all the work! 
 course
 Positive
@@ -3234,8 +3213,7 @@ course
 Positive
 If you are looking for a starting point to begin your journey of deep learning I will strongly recommend this course. Although it is mostly theoretical but $T$ give you a chance to try your coding skills
 programming exercise
-Positive
-Good intro to Neural Nets covering a lot of the foundations. I' ve found the structure of the code in some exercises to be relatively confusing( passing params dict), and would often obfuscate the point of the exercise. 
+Positive 
 The $T$ is very well documented, but the only thing which needs time is the back propagation derivative formula understandings. Overall this is way better and one of the best deep learning courses I have even taken. 
 Course
 Positive
@@ -3290,14 +3268,12 @@ Positive
 An In- depth course to learn the concepts regarding Neural Networks, how to use them, how to build them and $T$ played a crucial role in implementing the concepts that I have understood in the course lectures. 
 Assignments
 Positive
-Curso muy completo, ameno y did?  ctico. Gran elecci?? n si quieres iniciarte en redes neuronales. Eso s??, si no quieres ver matem?  ticas, no te inscribas, porque hacen falta algo de matem?  ticas para entender todo al 100%. 
 Great $T$. However, submitting assignments has problems that need to be fixed. I had to submit the same assignment multiple times till the grader finally graded the part of the assignment it wasn' t grading earlier. 
 course
 Positive
 Great course. However, submitting $T$ has problems that need to be fixed. I had to submit the same assignment multiple times till the grader finally graded the part of the assignment it wasn' t grading earlier. 
 assignments
-Neutral
-It was really inspiring to pass this course. Step by step I was getting new knowledge and therefore satisfaction from learning new things. Now I am going to start the second course of the Deep Learning Specialization. 
+Neutral 
 great $T$, i love the maths. Andrew Ng explanations are really good. I think i now have a better understanding of the building blocks for Neural Networks, how to vectorized and compute the dimensions of my matrix. 
 course
 Positive
@@ -3418,7 +3394,6 @@ Positive
 Excellent place to start your journey to learn about Neural Networks. Great instructor, excellent course content and layout and reasonably well structured $T$. Was a pleasure learning this course! 
 programming assignments
 Positive
-After completing the Introductory course of Machine learning by Andrew NG this is just the python extention of the course. Really liked the introduction to python numpy and how to implement the deep learning network. 
 For me this $T$ was a review of an already known subject. The material is easy to access and very well explained. I' d recommend it to anybody wanting to learn about deep learning or strengthen their understanding. 
 course
 Neutral
@@ -3755,7 +3730,6 @@ Positive
 It' s a really good $T$ to further learn neural networks. It' s easier to understand and implement the methods. I also took less effort jumping out the stuck of programming compared to other similar courses. Great
 course
 Positive
-Es un curso excelente, muy bien explicado, la?  nica parte que falta m?  s explicaci?? n te?? rica es la construcci?? n del modelo de N capas, me cost?? mucho completar la asignaci?? n pero finalmente lo hice. Muchas gracias! 
 it teaches deep learning and neural network fundamentals in a very efficient and effective way. The methodology of $T$ creates a great environment to learn. Overall a great course for deep learning enthusiasts.
 teaching
 Positive
@@ -3825,7 +3799,6 @@ Positive
 Prof. Andrew N. G. has the uncanny ability to explain some of the most difficult topics in an easy and lucid manner. The quizzes and programing assignments are extremely well designed. Highly recommend this $T$. 
 course
 Positive
-Muy buen curso, lo recomiendo mucho. Seria interesante que incluyan una tarea de programaci?? n m?  s compleja, que sirva de pr?  ctica para aprender m?  s detalladamente. A?  n as??, como curso de introducci?? n es excelente. 
 It was hard in the second week to accept and be familiar at the definition of the words, but after that, my understanding towards deep learning get more faster!! I want to thank $T$ Andrew Ng for hard work!! 
 professor
 Positive
@@ -3868,7 +3841,6 @@ Positive
 I would be very happy to get more visual explanation on the matrix for backpropagation and cache relationship. The $T$ covers every aspect very well and the optional content is also very intriguing. Thank you! 
 course
 Positive
-Extremely interesting. I was able to fully grasp how backpropagation works and how learning actually takes place. I feel that I understand the fundamentals of deep learning quite well after completing the course! 
 The $T$ explained very well, step by step. I loved the course because you understand both theoretical and practical parts. And it' s very good that there are Portuguese legends, I managed to follow the course. 
 teacher
 Positive
@@ -3973,8 +3945,7 @@ tools
 Positive
 The $T$ are really well designed! Even though I' ve already taken a deep learning class at my university and I' m a teaching assistant of the deep learning course, refreshing this knowledge is always good. 
 assignments
-Positive
-Un curso muy bueno, la metodolog?? a implementada facilita la adquisici?? n de conocimientos y motiva a seguir aprendiendo. la secci?? n de tareas ayuda mucho a entender los conceptos te?? ricos mostrados en los v?? deos. 
+Positive 
 everything' s fine! But it will be better if you teach some more $T$ regarding programming in the beginning itself. So it will be easier for the students who are not so good at corresponding programming platform
 basics
 Negative
@@ -4023,7 +3994,6 @@ Negative
 It is not clear enough for a greenhand to understand, especially about $T$ Git on Mac or pushing files to Github. 
 installing
 Negative
-Very light workload if you' re technically competent. I would have liked to have had more to do with the math and such... 
 I found the $T$ fruitful particularly to a person who knows nothing about Data Science, keep up the good work. 
 introduction
 Positive
@@ -4063,9 +4033,7 @@ Negative
 the voice is too low and the level of $T$ are not for beginners, but with a lot of effort you could pass
 instructing
 Negative
-Github exposition is a little complicated. I believe it could be more detailed. But the rest is very well done! 
-Doing this course first doesn t make you anticipate how difficult could this speciality in the next courses: p
-There is practically nothing in this $T$ to learn. It can be termed as a introduction to the specialization
+Github exposition is a little complicated. I believe it could be more detailed. But the rest is very well done! Doing this course first doesn t make you anticipate how difficult could this speciality in the next courses: p There is practically nothing in this $T$ to learn. It can be termed as a introduction to the specialization
 course
 Negative
 The $T$ is too easy to be called a course. Just an easy intro, which you can complete in a couple of days. 
@@ -4079,15 +4047,13 @@ projects
 Neutral
 Easy $T$ into R, maybe a bit too slow though. Course name is a bit misleading and not informative. 
 introduction
-Negative
-Could be completed in a single day but spread across 4 weeks. I could understand a week but 4 seems silly. 
+Negative 
 It was great to know new terms and $T$ used in data science. However, the course is mostly theoretical. 
 tools
 Positive
 It was great to know new terms and tools used in data science. However, the $T$ is mostly theoretical. 
 course
 Negative
-It' s only enter- level for people who don' t know R. For those who already used R, it' s not a good choice. 
 Not a fan of the $T$ since they do not provide rationales or solutions if you got an answer wrong. 
 quizzes
 Negative
@@ -4106,8 +4072,6 @@ Negative
 I don' t feel like I $T$ a ton from this, but hopefully, it prepares me for the next courses. 
 learned
 Negative
-I liked it because it helped me to configured the software that I will use in the next courses. 
-Very basic, may be a bit more use cases on Git would have been useful. But that' s just me
 This $T$ should not be the first module of the specialization. Also, it lacks exercises and the content' s explanation is not that deep and interactive, making the first course of the specialization boring and not caught student attention. 
 course
 Negative
@@ -4216,7 +4180,6 @@ Negative
 Not that useful. There is no need for videos. The $T$ can simply be presented in one single PDF in a time- saving way. 
 content
 Neutral
-Somewhat interesting to get an idea of what can be done with Git/ Github, but I don' t feel prepared to actually use it. 
 $T$ are getting out of date, especially with some of Github' s new features. Instruction not clear in some lessons. 
 Materials
 Negative
@@ -4394,7 +4357,6 @@ Positive
 Great course, however I think it is particularly hard for those who never had programmed in R before. Moreover I think the $T$ were quite hard regarding the topics being discussed during the weeks. 
 Programming Assignments
 Negative
-Much more difficult than the first course. It would be challenfing for those who don' t have programming skills and math background. 
 please take care while framing $T$ and quize question it is very difficult to understand what exactly u want us to do
 assignment
 Negative

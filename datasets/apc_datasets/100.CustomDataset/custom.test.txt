@@ -7,7 +7,7 @@ Negative
 not bad... theres a big mistake in the regex video. $T$ don' t really match the lectures. Without Corey Schafer and Sentdex on youtube I would' ve quit.
 assignments
 Negative
-not bad... theres a big mistake in the regex video. assignments don' t really match the $T$. Without Corey Schafer and Sentdex on youtube I would' ve quit.
+not bad..theres a big mistake in the regex video. assignments don' t really match the $T$. Without Corey Schafer and Sentdex on youtube I would' ve quit.
 lectures
 Negative
 I am an engineer and I use matlab and stata for data analysis and currently taking Machine Learning course by Stanford which is fabulous. I did not like this $T$ for the following reasons: 1- bad course design structure2- so confusing and inappropriate sequence
@@ -166,7 +166,6 @@ Positive
 This is a solid course for beginners in programming. However the course was the fourth course in the IBM Data Science Professional Certificate. The Certificate is addressed to people far from the beginner level. Bad $T$ of the courses
 curation
 Negative
-Was not that good as it should be. The basic part was good and the advanced part was too bad
 $T$ have really bad programming knowledge. ` File. append()` called" attribute, `\ n ` called" Python command", some variables named as ` FileContent`. I really hope all Data Science related courses on this track have better quality. Total disappointment so far
 authors
 Negative
@@ -206,15 +205,12 @@ Positive
 Enjoyed the class especially since Dr. Severance is the best $T$ I' ve had in a very long time. Too bad he was not teaching when I was in college I would have transferred to Univ of Michigan.
 teacher
 Positive
-In contrast to the lousy data science class I took this is excellent. Actually it is excellent period. I almost did not take another online class because the IBM data science class was so bad. 
 This $T$ is so clearly to teach us what is the language of computer and how we to understand the meaning when an error or some bad things happened. I love Chuck. 
 course
 Positive
 This $T$ is really helpful! I' m really bad at computer before. But I' ve learned a lot about programming from this course and I kinda like programming now. 
 course
 Positive
-I loved it, i passed college with the stigma of thinking i was bad at coding but this made me think is just a matter of patience and willing to learn. 
-Trying to withdraw no time to complete to many other things going on to complete in this areas Coursera is really bad it won' t let me withdraw?? 
 Great $T$ for beginners. The professor doesn' t make you feel bad for not knowing things and eases you into programming. 
 course
 Positive
@@ -224,14 +220,12 @@ Positive
 It was so much funBut i have a very bad review on $T$ because its so hard to figure it out what that tool says
 Assignments
 Negative
-Not bad for understanding how to receive data from different datasets. Just for understanding, without deep learning. But you can get feed for your brain for continuous education
 Not as good as the first two courses. The regular expressions section was great but the rest of the sections had $T$ that were bad. I' m talking wrong starter code was posted, or just really easy assignments that required changing one line. Don' t pay for this course. 
 assignments
 Negative
 Not as good as the first two courses. The regular expressions section was great but the rest of the sections had assignments that were bad. I' m talking wrong starter code was posted, or just really easy assignments that required changing one line. Don' t $T$ for this course. 
 pay
 Negative
-The part 1 and 2 is far superior. It is not bad, but it is a lot that was inconcluded. 
 A great introduction to Python. Although this truly is a" crash $T$": you may require self- learning to get through all the material- not that that' s a bad thing, really:). 
 course
 Positive
@@ -301,7 +295,6 @@ Positive
 It' s a very good $T$ for beginners. If you already hace R and gihub it may be a little boring, but remembering the basics is never a bad idea. 
 course
 Positive
-The parts that actually talk about data science are great. Polly' s voice isn' t too bad, almost gives everything an" I am MOTHER" feeling. The parts where Mother... er Polly tells you how to install R Studio and Git should just be left as scripts/ written instructions. Far too pedantic.
 Not bad to start off with! It teaches $T$ of all the required things for starting off R( e. g. RStudio, GitHub), and gives a basic understanding of experimental design too. 
 installation
 Positive
@@ -323,7 +316,6 @@ Negative
 Super basic, each week was only about 30 minutes of video lecture... but I think that was their goal? Bad form on coursera for making you pay to submit assignments that are $T$ to begin with. 
 autograded
 Negative
-The real basics of data analysis. The course is not bad I would just say it may be too simple even for an introductory course
 There just wasn' t much to this $T$. It' s not bad information, but it could have been done in one week. 
 class
 Negative
@@ -435,7 +427,6 @@ Negative
 Video editing is bad and assignments have lots of inconsistent wording and bugs, apart from that knowledge wise really good $T$
 course
 Positive
-it was hard to catch up to all the new stuff, but as a first step, it' s not that bad. 
 The $T$ were not as good as the previous andrew ng. courses, and the exercises were quite bad in all honesty. I do appreciate what I have learned, as the lectures WERE clear enough.
 lectures
 Negative
@@ -682,7 +673,6 @@ Positive
 Thank you for this amazing $T$. There is a lot of information about linear and logistic regression in this course as well as materials on SVM machines and neural networks. Unsupervised learning methods such as k- means and PCA are also covered in detail. Challenges difficulty is just right.
 course
 Positive
-Quite difficult for non- coder but really interesting and practical. I learnt that building a Machine Learning algorithm is not only about Mathematics but also that a practical approach is relevant to invist how to improve the quality, and identify where to spend time. Very clear, thanks!
 The $T$ of the class and the difficulty level were very fitting for me. Prof. Ng explains very well and uses highly useful illustrations on his slides. One small negative point: in some easier lectures the videos could have been shortened for example by reducing redundant explanations. 
 scope
 Positive
@@ -773,7 +763,6 @@ Negative
  The videos are fast forwarded which causes problem while understanding difficult portions of the $T$ please slow it down.
 course
 Neutral
-Some helpful advice here and there, but a lot of it seemed like common sense. It was not that difficult and a tad boring. Would maybe benefit from having us do actually data collection and cleaning tasks, or implement a ML pipeline and monitoring for the pipeline
  This $T$ is full of intuitions that are very difficult to remember at once. The quiz is very hard and mind teasing. For better confidence, I would like if you add one more case study. In general the course is good
 course
 Negative
@@ -831,7 +820,6 @@ Positive
 It ?? s an excellent course, and also a lot more difficult than the previous ones. The only little problem is that in some $T$ there are some fallen links to the web- information of some functions, complicating a little more the exercises. 
 programming exercises
 Neutral
-Hardest of the 4 so far. There' s more autonomy required in programming and shape calculations require really understanding how ConvNets work. But the more difficult it is, the more worthwhile and non- trivial the achievement becomes. :) 
 This is a great $T$ which make me know how to do computing vision and neural style transfer( which is something I thought amazing before). Although the course is a bit difficult, it is interesting and useful. Hope you enjoy too. 
 course
 Positive
@@ -973,7 +961,6 @@ Positive
 Great course. But sometimes it' s a little bit difficult to follow, because the $T$ just listed those Git commands without actually demonstrating how to use Git step by step. 
 instructor
 Neutral
-It' s a good introduction to data science. However, without prior knowledge of statistics, programming, and research methods the course would be fairly difficult to follow. 
 i am little weak at understanding things when taught for the first time. so understanding and learning about $T$ was little difficult due to the computer voice
 toolbox
 Negative
@@ -997,15 +984,13 @@ computer talk
 Negative
 Still difficult for me get to used to listen to the computer talk. But it is very good $T$, easy to follow.
 slides
-Positive
-So far so good, Git was a bit difficult to get going but I' m excited to continue with the specialization. 
+Positive 
 This $T$ stays on the surface and doesn' t delve too deep, probably in order to not scare off people who are new to the subject. From what I' ve seen in the second course, the material becomes a lot more difficult, which I was glad to see. 
 course
 Neutral
 This course stays on the surface and doesn' t delve too deep, probably in order to not scare off people who are new to the subject. From what I' ve seen in the second course, the $T$ becomes a lot more difficult, which I was glad to see. 
 material
 Positive
-I have mixed feelings. It was WAY too easy for me, but my wife did it too and it was about right in difficulty for her. But either way, I felt like it just taught you to install stuff rather than actually teaching meaningful material. 
 Good introduction, but the $T$ could have been more descriptive about how to use git/ github. These are new concepts for people so it may be difficult to grasp right away. 
 professor
 Negative
@@ -1090,7 +1075,6 @@ Positive
 This was a great experiance. this python $T$ is really good but the only week 5 part is some what difficult to understand. 
 course
 Positive
-Somewhat difficult for a total beginner who has no basics in programming at all, but after a lot of hard work seems nice. 
 the difficult curve is a bit sharp during last week. I hope you can provide more $T$ for us to understand
 examples
 Negative
@@ -1232,7 +1216,6 @@ Neutral
 This wasn' t an easy course. It probably took me longer than needed but I wrote each assignment without copying as that is the only way I learn. Thank you for putting together a rather difficult $T$. 
 course
 Positive
-First of all, it was more difficult than I expected, but it worth it. In the end, you will learn some cool stuff, such as how to drag data from the web and how to use them with the help of JSON and XML. 
 This course is obviously more difficult to understand than before. In some places I didn' t figure it out, the $T$ didn' t answer my questions, and I don' t know why. But overall it was a great course! 
 TA
 Negative
@@ -1278,7 +1261,6 @@ Negative
 It' s a great course. I' m actually going to recommend it to at least five separate people. He was intelligent, highly structured/ organized, and went over things multiple times to ensure implant/ imprint. The quizzes and assignments would have been difficult, but not unbearable without prior coding experience. Overall, very good $T$. 
 course
 Positive
- I thought programming is difficult but the way Dr. Chuck taught I think it is easy. I just completed the first module and I think I am now confident to go for advance topics.
 Outstanding! Charles Severance is an extremely dedicated and passionate $T$ who makes you embrace Python3 like an entertaining activity; The rhythm of the lessons is accurate and the difficulty increases gradually from the basic programming skills up to the initial data structure; A must for learning python! 
 professor
 Positive
@@ -1294,17 +1276,16 @@ Positive
 This is an amazing course. Although I am a beginner in programming, and I enjoyed every single video of the course. $T$ sometimes could get difficult, but everybody could overcome these difficulties; however, the satisfaction of running a program made by yourself is indescribable. 
 Homework
 Negative
-Very help explanationa and metaphor for illustrate how a bunch of codes are excuate. When I first started to read a python book to learn things, it was difficult for me to understand how the code runs. Flowchart and real person explantation help me to understand the sequenceso.
 The $T$ is perfect with it' s logic flow( from easy to more difficult, but trust me, you can definitely handle with it), contents and assignments, you can feel your skill on programming is really strengthened little by little, and that gives you a real sense of achievement! 
 course
 Positive
 The course is perfect with it' s logic $T$( from easy to more difficult, but trust me, you can definitely handle with it), contents and assignments, you can feel your skill on programming is really strengthened little by little, and that gives you a real sense of achievement! 
 flow
 Positive
- This was an excellent $T$ that was highly effective in introducing the basics of the Python language and computer programming. It breaks down concepts into very manageable pieces, and progresses gradually in difficulty. Very excited about continuing on to the next course!
+This was an excellent $T$ that was highly effective in introducing the basics of the Python language and computer programming. It breaks down concepts into very manageable pieces, and progresses gradually in difficulty. Very excited about continuing on to the next course!
 course
 Positive
- This was an excellent course that was highly effective in introducing the basics of the Python language and computer programming. It breaks down $T$ into very manageable pieces, and progresses gradually in difficulty. Very excited about continuing on to the next course!
+This was an excellent course that was highly effective in introducing the basics of the Python language and computer programming. It breaks down $T$ into very manageable pieces, and progresses gradually in difficulty. Very excited about continuing on to the next course!
 concepts
 Positive
 Cool introduction to Python! $T$ are short and clear. Professor is nice and funny wearing a choosing hat from HarryPotter and filming blogs around the world with student. + interviews with Techpeople. assignments have deadlines; and are neither too easy nor too difficult. 
@@ -1364,7 +1345,6 @@ Positive
 Very educational course. However, the $T$ on the videos are quite different from that of cognitive labs or IBM Watson. This made site navigation very difficult. All in all, it was a good one. Learnt a lot.
 interface
 Negative
-Didn' t give 5 just because there are some difficulties to login to your Watson account page sometimes. Otherwise it' s really great. 
 $T$ are outdated, so it is difficult to navigate IBM' s website. The overall material is pretty good for a simple introduction. 
 Videos
 Negative

@@ -1,43 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 620,
-    "uniques": 69
+    "count": 518,
+    "uniques": 61
   },
   {
     "referrer": "Google",
-    "count": 122,
-    "uniques": 20
+    "count": 111,
+    "uniques": 17
   },
   {
     "referrer": "hf.space",
-    "count": 60,
-    "uniques": 14
-  },
-  {
-    "referrer": "libraries.io",
-    "count": 42,
-    "uniques": 1
+    "count": 41,
+    "uniques": 10
   },
   {
     "referrer": "huggingface.co",
-    "count": 20,
-    "uniques": 15
-  },
-  {
-    "referrer": "unl2wlq5gw-496ff2e9c6d22116-0-colab.googleusercontent.com",
-    "count": 17,
-    "uniques": 1
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 12,
-    "uniques": 4
-  },
-  {
-    "referrer": "openbase.com",
-    "count": 10,
-    "uniques": 1
+    "count": 15,
+    "uniques": 13
   },
   {
     "referrer": "deepwisdom.feishu.cn",
@@ -45,8 +25,28 @@
     "uniques": 1
   },
   {
-    "referrer": "pypi.org",
-    "count": 6,
+    "referrer": "colab.research.google.com",
+    "count": 7,
+    "uniques": 3
+  },
+  {
+    "referrer": "inspectoriodocs.atlassian.net",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "c6btqd8yn6t-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "pythonlang.dev",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "com.google.android.gm",
+    "count": 1,
     "uniques": 1
   }
 ]

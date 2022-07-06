@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 398,
-    "uniques": 47
+    "count": 337,
+    "uniques": 42
   },
   {
     "referrer": "hf.space",
@@ -11,13 +11,13 @@
   },
   {
     "referrer": "Google",
-    "count": 25,
+    "count": 24,
     "uniques": 10
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 18,
-    "uniques": 2
+    "count": 17,
+    "uniques": 1
   },
   {
     "referrer": "8zrc5k9lj9w-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 10,
-    "uniques": 7
+    "count": 9,
+    "uniques": 6
   },
   {
     "referrer": "yzsam.com",

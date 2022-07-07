@@ -6,6 +6,14 @@
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
 ## To augment your datasets, please refer to [BoostTextAugmentation](https://github.com/yangheng95/BoostTextAugmentation)
+
+## Auto-annoate your datasets via PyABSA!
+There is an experimental feature which allows you to auto-build APC dataset and ATEPC datasets, see the usage here:
+```python3 
+from pyabsa import make_ABSA_dataset 
+# refer to the comments in this function for detailed usage
+make_ABSA_dataset(dataset_name_or_path='integrated_datasets/review', checkpoint='english')
+```
 ## Contribute (prepare) your dataset to ABSADatasets to use it in PyABSA
 
 We hope you can share your custom dataset or an available public dataset. If you are willing to, please follow the

@@ -338,27 +338,23 @@
 
 外 B-ASP Positive
 观 I-ASP Positive
-不 O -999
-错 O -999
+不 I-ASP -999
+错 I-ASP -999
 
-喇 B-ASP Negative
-叭 I-ASP Negative
-声 I-ASP Negative
-音 I-ASP Negative
-不 O -999
-好 O -999
+外 B-ASP Negative
+观 I-ASP Negative
+不 I-ASP Negative
+错 I-ASP Negative
 
-音 B-ASP Negative
-量 I-ASP Negative
-不 O -999
-大 O -999
+外 B-ASP Negative
+观 I-ASP Negative
+不 I-ASP -999
+错 I-ASP -999
 
-键 B-ASP Negative
-盘 I-ASP Negative
-手 I-ASP Negative
-感 I-ASP Negative
-不 O -999
-好 O -999
+外 B-ASP Negative
+观 I-ASP Negative
+不 I-ASP Negative
+错 I-ASP Negative
 
 接 B-ASP Negative
 口 I-ASP Negative
@@ -1379,22 +1375,9 @@
 整 B-ASP Positive
 体 I-ASP Positive
 性 I-ASP Positive
-能 I-ASP Positive
-不 O -999
-错 O -999
-
-集 O -999
-成 O -999
-的 O -999
-显 B-ASP Positive
-卡 I-ASP Positive
-的 I-ASP Positive
-显 I-ASP Positive
-示 I-ASP Positive
-性 I-ASP Positive
-能 I-ASP Positive
-不 O -999
-错 O -999
+能 B-ASP Positive
+不 I-ASP -999
+错 I-ASP -999
 
 的 O -999
 品 B-ASP Positive

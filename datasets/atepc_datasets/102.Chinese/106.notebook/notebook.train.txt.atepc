@@ -4364,10 +4364,14 @@
 较 O -999
 弱 O -999
 
-手 B-ASP Negative
-感 I-ASP Negative
+键 B-ASP Negative
+帽 I-ASP Negative
+支 I-ASP -999
+撑 I-ASP -999
+力 I-ASP -999
+度 I-ASP -999
 较 O -999
-差 O -999
+弱 O -999
 
 散 B-ASP Negative
 热 I-ASP Negative

@@ -1108,10 +1108,11 @@
 很 O -999
 强 O -999
 
-触 B-ASP Positive
-感 I-ASP Positive
+整 B-ASP Positive
+体 I-ASP Positive
+感 I-ASP -999
 很 O -999
-好 O -999
+强 O -999
 
 弧 O -999
 线 O -999
@@ -2043,6 +2044,7 @@
 机 I-ASP Negative
 时 I-ASP Negative
 间 I-ASP Negative
+稍 O -999
 短 O -999
 
 同 O -999
@@ -2829,14 +2831,10 @@
 功 O -999
 能 O -999
 [ O -999
-U O -999
-N O -999
-K O -999
+UNK O -999
 ] O -999
 [ O -999
-U O -999
-N O -999
-K O -999
+UNK O -999
 ] O -999
 内 O -999
 置 O -999
@@ -2873,10 +2871,10 @@ K O -999
 强 O -999
 大 O -999
 
-待 B-ASP Positive
-机 I-ASP Positive
+功 B-ASP Positive
+能 I-ASP Positive
 强 O -999
-悍 O -999
+大 O -999
 
 这 O -999
 也 O -999
@@ -4300,15 +4298,13 @@ K O -999
 
 空 B-ASP Negative
 间 I-ASP Negative
-太 I-ASP -999
+太 B-ASP -999
 小 I-ASP -999
 
-而 O -999
-且 O -999
-耳 B-ASP Negative
-机 I-ASP Negative
-太 O -999
-硬 O -999
+空 B-ASP -999
+间 I-ASP -999
+太 B-ASP Negative
+小 I-ASP Negative
 
 手 O -999
 机 O -999

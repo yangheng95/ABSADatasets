@@ -3047,9 +3047,9 @@
 难 O -999
 看 O -999
 
-车 B-ASP Positive
-尾 I-ASP Positive
-好 O -999
+侧 B-ASP Positive
+面 I-ASP Positive
+难 O -999
 看 O -999
 
 发 B-ASP Positive
@@ -3358,9 +3358,9 @@
 难 O -999
 看 O -999
 
-车 B-ASP Positive
-尾 I-ASP Positive
-好 O -999
+侧 B-ASP Positive
+面 I-ASP Positive
+难 O -999
 看 O -999
 
 发 B-ASP Positive
@@ -6797,15 +6797,12 @@
 大 O -999
 
 油 B-ASP Positive
-耗 I-ASP Positive
-低 O -999
+耗 B-ASP Positive
+低 I-ASP -999
 
-低 O -999
-噪 B-ASP Positive
-音 I-ASP Positive
-的 O -999
-特 O -999
-点 O -999
+油 B-ASP -999
+耗 B-ASP Positive
+低 I-ASP Positive
 
 而 O -999
 且 O -999
@@ -10284,21 +10281,13 @@
 
 油 B-ASP Positive
 耗 I-ASP Positive
-很 O -999
-低 O -999
+很 B-ASP -999
+低 I-ASP -999
 
-提 B-ASP Positive
-速 I-ASP Positive
-很 O -999
-快 O -999
-
-另 O -999
-外 O -999
-舒 B-ASP Positive
-适 I-ASP Positive
-度 I-ASP Positive
-很 O -999
-好 O -999
+油 B-ASP Positive
+耗 I-ASP Positive
+很 B-ASP -999
+低 I-ASP -999
 
 有 O -999
 些 O -999

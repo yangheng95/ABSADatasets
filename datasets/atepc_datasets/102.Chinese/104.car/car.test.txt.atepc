@@ -138,14 +138,13 @@
 
 做 B-ASP Negative
 工 I-ASP Negative
-不 O -999
+不 I-ASP -999
 佳 O -999
 
-密 B-ASP Negative
-封 I-ASP Negative
-性 I-ASP Negative
-不 O -999
-好 O -999
+做 B-ASP Negative
+工 I-ASP Negative
+不 I-ASP Negative
+佳 O -999
 
 声 B-ASP Negative
 噪 I-ASP Negative
@@ -264,15 +263,14 @@
 整 B-ASP Positive
 体 I-ASP Positive
 性 I-ASP Positive
-更 O -999
+更 I-ASP -999
 强 O -999
 
-视 B-ASP Positive
-觉 I-ASP Positive
-效 I-ASP Positive
-果 I-ASP Positive
-更 O -999
-佳 O -999
+整 B-ASP Positive
+体 I-ASP Positive
+性 I-ASP Positive
+更 I-ASP Positive
+强 O -999
 
 在 O -999
 视 B-ASP Positive
@@ -1987,12 +1985,12 @@
 够 O -999
 大 O -999
 
-车 B-ASP Positive
-厢 I-ASP Positive
-视 I-ASP Positive
-线 I-ASP Positive
+后 B-ASP Positive
+坐 I-ASP Positive
+空 I-ASP Positive
+间 I-ASP Positive
 够 O -999
-好 O -999
+大 O -999
 
 音 B-ASP Positive
 响 I-ASP Positive

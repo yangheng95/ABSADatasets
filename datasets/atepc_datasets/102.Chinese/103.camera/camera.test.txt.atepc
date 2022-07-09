@@ -1365,10 +1365,12 @@
 不 O -999
 好 O -999
 
-微 B-ASP Positive
-距 I-ASP Positive
-表 I-ASP Positive
-现 I-ASP Positive
+固 B-ASP Positive
+定 I-ASP Positive
+背 I-ASP Positive
+带 I-ASP Positive
+环 I-ASP -999
+不 O -999
 好 O -999
 
 色 B-ASP Positive
@@ -2515,17 +2517,9 @@
 较 I-ASP Positive
 强 I-ASP Positive
 
-硬 B-ASP Negative
-件 I-ASP Negative
-的 I-ASP -999
-全 I-ASP -999
-局 I-ASP -999
-平 I-ASP -999
-衡 I-ASP -999
-性 I-ASP -999
-比 I-ASP -999
-较 I-ASP -999
-强 I-ASP -999
+延 B-ASP Negative
+时 I-ASP Negative
+长 O -999
 
 的 O -999
 大 O -999

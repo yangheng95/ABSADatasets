@@ -17,7 +17,7 @@ convert_apc_set_to_atepc_set('datasets')
 
 # default set ATEPC augmented datasets invisible
 for f in findfile.find_cwd_files('.ignore.atepc'):
-    os.rename(f, f.replace('.ignore.atepc', 'atepc.ignore'))
+    os.rename(f, f.replace('.ignore.atepc', '.atepc.ignore'))
 
 # remove train and valid inference set, as they are useless
 rm_files(key=['train', 'inference'])

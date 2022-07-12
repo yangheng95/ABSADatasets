@@ -1,17 +1,17 @@
 [
   {
     "referrer": "github.com",
-    "count": 519,
-    "uniques": 57
+    "count": 480,
+    "uniques": 55
   },
   {
     "referrer": "hf.space",
-    "count": 107,
-    "uniques": 18
+    "count": 79,
+    "uniques": 16
   },
   {
     "referrer": "Google",
-    "count": 57,
+    "count": 63,
     "uniques": 15
   },
   {
@@ -40,13 +40,13 @@
     "uniques": 1
   },
   {
-    "referrer": "8zrc5k9lj9w-496ff2e9c6d22116-0-colab.googleusercontent.com",
-    "count": 11,
-    "uniques": 1
-  },
-  {
     "referrer": "3wri0bmp3me-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 7,
     "uniques": 1
+  },
+  {
+    "referrer": "2dis3clo353-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 3,
+    "uniques": 2
   }
 ]

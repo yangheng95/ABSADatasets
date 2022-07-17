@@ -10,6 +10,8 @@ import findfile
 from findfile import rm_files
 from pyabsa.utils.file_utils import generate_inference_set_for_apc, convert_apc_set_to_atepc_set
 
+findfile.rm_files(os.getcwd(),'.ignore.atepc')
+findfile.rm_files(os.getcwd(),'.atepc.ignore')
 
 # batch conversion for all ABSA datasets
 generate_inference_set_for_apc('datasets')

@@ -1,5 +1,11 @@
 # Data Preparation Tool
 
+## Steps to annotate custom datasets for PyABSA
+- 1. Pre-word segmentation
+- 2. Annotate the segmented data
+- 3. convert the apc dataset to atepc dataset
+- 4. merge your custom dataset into integrated_datasets and PR 
+
 ## Pre-word segmentation
 Before annotating non-blank segmented text (e.g., English), you need to segment the data. Run `pre_word_segment_for_non_english_data.py` and
 select the output file `*.seg` to annotate.

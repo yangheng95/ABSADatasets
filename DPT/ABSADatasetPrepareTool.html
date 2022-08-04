@@ -653,7 +653,7 @@
                     blob1 = new Blob([ABSATrainingSet.join("\r\n")], {type: "text/plain"}),
                     blob2 = new Blob([SATrainingSet], {type: "text/csv"}),
                     blob3 = new Blob([JSON.stringify(this.PreABSAData)], {type: "application/json"});
-                saveAs(blob1, "ABSATrainingSet.txt");
+                saveAs(blob1, "custom.apc.train.txt");
                 saveAs(blob2, "SATrainingSet.csv");
                 saveAs(blob3, "ABSADataWorkFile.json");
             }

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# file: test.py.py
+# file: test.py
 # time: 29/01/2022
 # author: yangheng <yangheng@m.scnu.edu.cn>
 # github: https://github.com/yangheng95

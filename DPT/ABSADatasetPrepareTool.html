@@ -2,7 +2,7 @@
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PyABSA Dataset Preparation Tool v1.06</title>
+<title>PyABSA Dataset Preparation Tool v1.07</title>
 <head>
     <script src="https://cdn.jsdelivr.net/npm/jquery"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse"></script>
@@ -515,7 +515,8 @@
                             })
                             .value()
                     );
-                    let wtoken = _.map(this.RawABSAData, (v) => v.split(/\s*\b\s*/));
+                    // let wtoken = _.map(this.RawABSAData, (v) => v.split(/\s*\b\s*/));
+                    let wtoken = _.map(this.RawABSAData, (v) => v.split(' '));
                     this.PreABSAData = _.extend.apply({},
                         _.chain(wtoken)
                             .chunk(100)

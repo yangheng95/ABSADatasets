@@ -1,5 +1,9 @@
 # Data Preparation Tool
 
+## Pre-word segmentation
+Before annotating non-blank segmented text (e.g., English), you need to segment the data. Run `pre_word_segment_for_non_english_data.py` and
+select the output file `*.seg` to annotate.
+
 ## A Stand-alone browser based tool to help process data for the training set
 
 ![image1](https://user-images.githubusercontent.com/4684417/139701633-d77a009b-1a12-4ef2-9663-37d2d36e1af1.JPG)

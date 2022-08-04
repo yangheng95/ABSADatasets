@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 244,
-    "uniques": 49
+    "count": 261,
+    "uniques": 52
   },
   {
     "referrer": "Google",
-    "count": 231,
-    "uniques": 19
+    "count": 216,
+    "uniques": 18
   },
   {
     "referrer": "hf.space",
-    "count": 197,
-    "uniques": 18
+    "count": 211,
+    "uniques": 19
   },
   {
     "referrer": "colab.research.google.com",
@@ -21,18 +21,18 @@
   },
   {
     "referrer": "wrqaqenrt4.feishu.cn",
-    "count": 83,
+    "count": 86,
     "uniques": 4
   },
   {
     "referrer": "huggingface.co",
-    "count": 77,
-    "uniques": 11
+    "count": 78,
+    "uniques": 12
   },
   {
     "referrer": "paperswithcode.com",
-    "count": 68,
-    "uniques": 4
+    "count": 32,
+    "uniques": 3
   },
   {
     "referrer": "DuckDuckGo",

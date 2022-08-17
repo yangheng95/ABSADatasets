@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 223,
-    "uniques": 42
+    "count": 197,
+    "uniques": 39
   },
   {
     "referrer": "hf.space",
-    "count": 145,
-    "uniques": 26
+    "count": 144,
+    "uniques": 28
   },
   {
     "referrer": "Google",
-    "count": 139,
-    "uniques": 17
+    "count": 88,
+    "uniques": 19
   },
   {
     "referrer": "huggingface.co",
@@ -20,14 +20,14 @@
     "uniques": 12
   },
   {
+    "referrer": "DuckDuckGo",
+    "count": 21,
+    "uniques": 2
+  },
+  {
     "referrer": "zhihu.com",
     "count": 13,
     "uniques": 1
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 12,
-    "uniques": 2
   },
   {
     "referrer": "esgh1585gmk-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "youtube.com",
+    "referrer": "arxiv.org",
     "count": 2,
     "uniques": 2
   }

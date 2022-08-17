@@ -39,18 +39,20 @@ It is recommended to assign an id for your dataset, which will avoid some potent
 while PyABSA detects the dataset.
 Merging your datasets into ABSADatasets, please keep the id remained.
 
-- An APC dataset name should be {id}.{dataset name}.{type}.dat,
+- For a custom APC dataset, its name should be **{id}.{dataset name}.{type}.dat.apc**,
 
 ```tree
 datasets
-├── 101.restaurant
-│    ├── restaurant.train.dat  # train_dataset
-│    ├── restaurant.test.dat  # test_dataset
-│    └── restaurant.valid.dat  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
-└── others
+├── apc_datasets
+│     ├── 101.restaurant
+│     │    ├── restaurant.train.dat.apc  # train_dataset
+│     │    ├── restaurant.test.dat.apc  # test_dataset
+│     │    └── restaurant.valid.dat.apc  # valid_dataset, dev set are not recognized in PyASBA, please rename dev-set to valid-set
+│     └── others
+├── atepc_datasets
 ```
 
-- ATEPC dataset files should be {id}.{dataset name}.{type}.dat.atepc,
+- ATEPC dataset files should be **{id}.{dataset name}.{type}.dat.atepc**,
   e.g.,
 
 ```tree

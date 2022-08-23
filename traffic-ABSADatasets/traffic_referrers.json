@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 236,
-    "uniques": 32
+    "count": 248,
+    "uniques": 34
   },
   {
     "referrer": "hf.space",
-    "count": 170,
-    "uniques": 36
+    "count": 164,
+    "uniques": 33
   },
   {
     "referrer": "Google",
-    "count": 108,
-    "uniques": 21
+    "count": 129,
+    "uniques": 22
   },
   {
     "referrer": "pypi.org",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 50,
+    "count": 44,
     "uniques": 13
   },
   {

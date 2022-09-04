@@ -5,19 +5,19 @@
     "uniques": 42
   },
   {
-    "referrer": "Google",
-    "count": 188,
-    "uniques": 25
-  },
-  {
     "referrer": "hf.space",
-    "count": 126,
+    "count": 142,
     "uniques": 26
   },
   {
+    "referrer": "Google",
+    "count": 140,
+    "uniques": 24
+  },
+  {
     "referrer": "huggingface.co",
-    "count": 86,
-    "uniques": 22
+    "count": 67,
+    "uniques": 26
   },
   {
     "referrer": "medium.com",

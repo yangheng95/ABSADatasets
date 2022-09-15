@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 167,
-    "uniques": 31
-  },
-  {
-    "referrer": "hf.space",
-    "count": 139,
-    "uniques": 19
+    "count": 142,
+    "uniques": 30
   },
   {
     "referrer": "Google",
-    "count": 135,
+    "count": 130,
     "uniques": 23
   },
   {
+    "referrer": "hf.space",
+    "count": 125,
+    "uniques": 21
+  },
+  {
     "referrer": "huggingface.co",
-    "count": 18,
-    "uniques": 11
+    "count": 15,
+    "uniques": 9
   },
   {
     "referrer": "link.zhihu.com",
@@ -25,9 +25,9 @@
     "uniques": 1
   },
   {
-    "referrer": "medium.com",
-    "count": 5,
-    "uniques": 3
+    "referrer": "ipwywnubnu-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 6,
+    "uniques": 1
   },
   {
     "referrer": "k9tvyb2ynkp-496ff2e9c6d22116-0-colab.googleusercontent.com",
@@ -35,9 +35,9 @@
     "uniques": 1
   },
   {
-    "referrer": "yzsam.com",
+    "referrer": "medium.com",
     "count": 4,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "referrer": "inc-onenote.officeapps.live.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "pypi.org",
+    "referrer": "arxiv.org",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   }
 ]

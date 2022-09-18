@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 166,
-    "uniques": 34
+    "count": 180,
+    "uniques": 36
   },
   {
     "referrer": "Google",
     "count": 152,
-    "uniques": 29
+    "uniques": 27
   },
   {
     "referrer": "hf.space",
-    "count": 131,
-    "uniques": 22
+    "count": 143,
+    "uniques": 23
   },
   {
     "referrer": "arxiv.org",
@@ -22,7 +22,7 @@
   {
     "referrer": "huggingface.co",
     "count": 20,
-    "uniques": 9
+    "uniques": 11
   },
   {
     "referrer": "link.zhihu.com",
@@ -35,17 +35,17 @@
     "uniques": 1
   },
   {
+    "referrer": "Baidu",
+    "count": 8,
+    "uniques": 1
+  },
+  {
     "referrer": "ipwywnubnu-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 6,
     "uniques": 1
   },
   {
     "referrer": "kkb-production.jupyter-proxy.kaggle.net",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "referrer": "k9tvyb2ynkp-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 5,
     "uniques": 1
   }

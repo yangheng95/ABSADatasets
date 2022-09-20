@@ -8,12 +8,15 @@
 ## To augment your datasets, please refer to [BoostTextAugmentation](https://github.com/yangheng95/BoostTextAugmentation)
 
 ## Auto-annoate your datasets via PyABSA!
+
 There is an experimental feature which allows you to auto-build APC dataset and ATEPC datasets, see the usage here:
+
 ```python3 
 from pyabsa import make_ABSA_dataset 
 # refer to the comments in this function for detailed usage
 make_ABSA_dataset(dataset_name_or_path='integrated_datasets/review', checkpoint='english')
 ```
+
 ## Contribute (prepare) your dataset to ABSADatasets to use it in PyABSA
 
 We hope you can share your custom dataset or an available public dataset. If you are willing to, please follow the
@@ -75,8 +78,8 @@ from pyabsa.functional import APCConfigManager
 from pyabsa.functional import Trainer
 from autocuda import auto_cuda
 
-config = APCConfigManager.get_apc_config_english() # APC task
-dataset = '101.restaurant' 
+config = APCConfigManager.get_apc_config_english()  # APC task
+dataset = '101.restaurant'
 # dataset = '100.CustomDataset'
 Trainer(config=config,
         dataset=dataset,  # train set and test set will be automatically detected

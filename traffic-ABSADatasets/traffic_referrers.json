@@ -1,17 +1,17 @@
 [
   {
     "referrer": "github.com",
-    "count": 228,
-    "uniques": 39
+    "count": 237,
+    "uniques": 41
   },
   {
     "referrer": "hf.space",
-    "count": 173,
-    "uniques": 25
+    "count": 176,
+    "uniques": 26
   },
   {
     "referrer": "Google",
-    "count": 104,
+    "count": 99,
     "uniques": 26
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Baidu",
+    "referrer": "DuckDuckGo",
     "count": 8,
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "Baidu",
     "count": 8,
     "uniques": 1
   }

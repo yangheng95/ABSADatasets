@@ -1,12 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 247,
-    "uniques": 41
+    "count": 259,
+    "uniques": 43
   },
   {
     "referrer": "hf.space",
-    "count": 183,
+    "count": 181,
     "uniques": 24
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 13,
-    "uniques": 3
+    "count": 16,
+    "uniques": 4
   },
   {
     "referrer": "pypi.org",
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Baidu",
+    "referrer": "DuckDuckGo",
     "count": 8,
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "Baidu",
     "count": 8,
     "uniques": 1
   }

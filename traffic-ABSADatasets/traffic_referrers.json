@@ -6,23 +6,23 @@
   },
   {
     "referrer": "Google",
-    "count": 94,
+    "count": 83,
     "uniques": 20
   },
   {
     "referrer": "hf.space",
-    "count": 79,
-    "uniques": 13
+    "count": 60,
+    "uniques": 12
   },
   {
     "referrer": "huggingface.co",
-    "count": 39,
-    "uniques": 15
+    "count": 41,
+    "uniques": 16
   },
   {
     "referrer": "medium.com",
-    "count": 20,
-    "uniques": 5
+    "count": 23,
+    "uniques": 6
   },
   {
     "referrer": "paperswithcode.com",
@@ -45,7 +45,7 @@
     "uniques": 2
   },
   {
-    "referrer": "synthesio.atlassian.net",
+    "referrer": "56th420b0w4-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 3,
     "uniques": 1
   }

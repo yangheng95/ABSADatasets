@@ -1,27 +1,27 @@
 [
   {
     "referrer": "github.com",
-    "count": 211,
-    "uniques": 33
+    "count": 239,
+    "uniques": 31
   },
   {
     "referrer": "Google",
-    "count": 83,
-    "uniques": 20
+    "count": 93,
+    "uniques": 21
   },
   {
     "referrer": "hf.space",
-    "count": 60,
-    "uniques": 12
+    "count": 64,
+    "uniques": 13
   },
   {
     "referrer": "huggingface.co",
-    "count": 41,
-    "uniques": 16
+    "count": 54,
+    "uniques": 18
   },
   {
     "referrer": "medium.com",
-    "count": 23,
+    "count": 24,
     "uniques": 6
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "6kc8zcrj4ws-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "referrer": "56th420b0w4-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 3,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "referrer": "56th420b0w4-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "referrer": "synthesio.atlassian.net",
     "count": 3,
     "uniques": 1
   }

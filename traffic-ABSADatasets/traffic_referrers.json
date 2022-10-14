@@ -1,27 +1,27 @@
 [
   {
     "referrer": "github.com",
-    "count": 266,
-    "uniques": 37
+    "count": 272,
+    "uniques": 40
   },
   {
     "referrer": "Google",
     "count": 93,
-    "uniques": 23
+    "uniques": 22
+  },
+  {
+    "referrer": "hf.space",
+    "count": 70,
+    "uniques": 15
   },
   {
     "referrer": "huggingface.co",
     "count": 69,
-    "uniques": 19
-  },
-  {
-    "referrer": "hf.space",
-    "count": 62,
-    "uniques": 12
+    "uniques": 18
   },
   {
     "referrer": "medium.com",
-    "count": 25,
+    "count": 31,
     "uniques": 7
   },
   {

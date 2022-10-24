@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 332,
-    "uniques": 60
+    "count": 289,
+    "uniques": 57
   },
   {
     "referrer": "huggingface.co",
-    "count": 153,
-    "uniques": 22
+    "count": 146,
+    "uniques": 20
   },
   {
     "referrer": "Google",
     "count": 135,
-    "uniques": 26
+    "uniques": 27
   },
   {
     "referrer": "hf.space",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "medium.com",
-    "count": 20,
+    "count": 21,
     "uniques": 3
   },
   {
@@ -40,13 +40,13 @@
     "uniques": 4
   },
   {
-    "referrer": "colab.research.google.com",
-    "count": 9,
-    "uniques": 1
-  },
-  {
     "referrer": "paperswithcode.com",
     "count": 6,
     "uniques": 3
+  },
+  {
+    "referrer": "gw5om4qomak-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 6,
+    "uniques": 1
   }
 ]

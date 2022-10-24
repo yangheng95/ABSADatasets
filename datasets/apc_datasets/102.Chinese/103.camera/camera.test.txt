@@ -994,9 +994,6 @@ Positive
 提 供 了 更 大 $T$
 曝 光 量
 Positive
-$T$ 使 $T$ 用 $T$ 它 $T$ 的 $T$ 取 $T$ 景 $T$ 十 $T$ 分 $T$ 费 $T$ 力 $T$
-
-Negative
 多 种 $T$ 带 有 多 种 $T$
 测 光 方 式
 Positive
@@ -1506,9 +1503,6 @@ $T$ 艳 丽 逼 真 不 亚 于 胶 片
 Positive
 外 面 的 工 程 塑 料 $T$ 很 好
 手 感
-Positive
-$T$ 超 $T$ 清 $T$
-
 Positive
 $T$ 严 重
 紫 边 现 象

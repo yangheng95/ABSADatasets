@@ -727,12 +727,6 @@
 不 O -999
 错 O -999
 
-寸 O -999
-又 O -999
-大 O -999
-又 O -999
-亮 O -999
-
 体 B-ASP Positive
 积 I-ASP Positive
 不 O -999
@@ -1375,10 +1369,6 @@
 性 I-ASP Positive
 堪 O -999
 忧 O -999
-
-寸 O -999
-够 O -999
-大 O -999
 
 显 B-ASP Negative
 示 I-ASP Negative
@@ -2631,24 +2621,12 @@
 不 O -999
 错 O -999
 
+显 B-ASP Negative
+示 I-ASP Negative
+效 I-ASP Negative
+果 I-ASP Negative
 不 O -999
-过 O -999
-这 O -999
-块 O -999
-看 O -999
-上 O -999
-去 O -999
-不 O -999
-够 O -999
-鲜 O -999
-艳 O -999
-
-可 B-ASP Negative
-视 I-ASP Negative
-角 I-ASP Negative
-度 I-ASP Negative
-不 O -999
-大 O -999
+错 O -999
 
 对 B-ASP Negative
 焦 I-ASP Negative
@@ -4468,11 +4446,6 @@
 然 O -999
 干 O -999
 净 O -999
-
-过 O -999
-于 O -999
-艳 O -999
-丽 O -999
 
 效 B-ASP Positive
 果 I-ASP Positive

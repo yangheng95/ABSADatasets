@@ -232,9 +232,6 @@ Positive
 $T$ 也 不 错
 手 动 功 能
 Positive
-$T$ 寸 $T$ 又 $T$ 大 $T$ 又 $T$ 亮 $T$
-
-Positive
 $T$ 不 大
 体 积
 Positive
@@ -456,9 +453,6 @@ Positive
 Positive
 $T$ 堪 忧
 质 量 稳 定 性
-Positive
-$T$ 寸 $T$ 够 $T$ 大 $T$
-
 Positive
 $T$ 不 敢 恭 维
 显 示 效 果
@@ -850,9 +844,6 @@ Positive
 $T$ 不 错
 显 示 效 果
 Positive
-$T$ 不 $T$ 过 $T$ 这 $T$ 块 $T$ 看 $T$ 上 $T$ 去 $T$ 不 $T$ 够 $T$ 鲜 $T$ 艳 $T$
-
-Negative
 $T$ 不 大
 可 视 角 度
 Negative
@@ -1402,9 +1393,6 @@ Positive
 $T$ 依 然 干 净
 画 面
 Positive
-$T$ 过 $T$ 于 $T$ 艳 $T$ 丽 $T$
-
-Negative
 $T$ 十 分 理 想
 效 果
 Positive

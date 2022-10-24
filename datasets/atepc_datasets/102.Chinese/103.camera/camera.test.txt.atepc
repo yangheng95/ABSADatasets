@@ -4029,17 +4029,6 @@
 光 I-ASP Positive
 量 I-ASP Positive
 
-使 O -999
-用 O -999
-它 O -999
-的 O -999
-取 O -999
-景 O -999
-十 O -999
-分 O -999
-费 O -999
-力 O -999
-
 多 O -999
 种 O -999
 测 B-ASP Positive
@@ -6085,9 +6074,6 @@
 感 I-ASP Positive
 很 O -999
 好 O -999
-
-超 O -999
-清 O -999
 
 紫 B-ASP Negative
 边 I-ASP Negative

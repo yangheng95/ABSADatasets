@@ -3553,9 +3553,6 @@ Negative
 音 乐 我 觉 的 $T$ 还 是 不 错 的
 音 乐 表 示 能 力
 Positive
-$T$ 挺 $T$ 好 $T$ 用 $T$ 的 $T$ 谁 $T$ 用 $T$ 谁 $T$ 知 $T$ 道 $T$ 哦 $T$
-
-Positive
 $T$ 还 是 不 错
 聚 焦 速 度
 Positive
@@ -4359,9 +4356,6 @@ $T$ 比 许 多 机 子 差
 Negative
 $T$ 不 够 锐 利
 成 像
-Negative
-$T$ 较 $T$ 小 $T$
-
 Negative
 出 来 的 $T$ 更 糟
 片 子

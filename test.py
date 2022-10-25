@@ -27,7 +27,7 @@ from pyabsa.utils.file_utils import generate_inference_set_for_apc, convert_apc_
 #                 f.write(label_map[res['sentiment'][0]]+'\n')
 #                 # f.write(label_map[row['label']]+'\n')
 #     return df
-# read_csv_by_pandas('datasets/apc_datasets/122.Kaggle/test.csv')
+# read_csv_by_pandas('datasets/apc_datasets/129.Kaggle/test.csv')
 
 
 

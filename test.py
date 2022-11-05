@@ -8,7 +8,10 @@ import os
 
 import findfile
 from findfile import rm_files
-from pyabsa.utils.file_utils import generate_inference_set_for_apc, convert_apc_set_to_atepc_set
+
+from pyabsa import check_package_version, generate_inference_set_for_apc, convert_apc_set_to_atepc_set
+
+check_package_version(min_version='v2.0.0')
 
 # from pyabsa import APCCheckpointManager
 # classifier = APCCheckpointManager.get_sentiment_classifier('fast')

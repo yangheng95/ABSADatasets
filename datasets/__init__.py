@@ -6,4 +6,4 @@
 # Copyright (C) 2021. All Rights Reserved.
 
 
-__version__ = '2022.10.25'
+__version__ = '2022.11.05'

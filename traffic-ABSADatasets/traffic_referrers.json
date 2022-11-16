@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 239,
+    "count": 245,
     "uniques": 54
   },
   {
     "referrer": "Google",
-    "count": 147,
+    "count": 148,
     "uniques": 29
   },
   {
     "referrer": "huggingface.co",
-    "count": 100,
-    "uniques": 27
+    "count": 99,
+    "uniques": 30
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
@@ -26,7 +26,7 @@
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 20,
+    "count": 19,
     "uniques": 9
   },
   {
@@ -47,6 +47,6 @@
   {
     "referrer": "medium.com",
     "count": 8,
-    "uniques": 4
+    "uniques": 5
   }
 ]

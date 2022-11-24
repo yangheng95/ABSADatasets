@@ -1,28 +1,33 @@
 [
   {
     "referrer": "github.com",
-    "count": 197,
-    "uniques": 38
+    "count": 214,
+    "uniques": 36
   },
   {
     "referrer": "Google",
-    "count": 154,
-    "uniques": 29
-  },
-  {
-    "referrer": "huggingface.co",
-    "count": 88,
-    "uniques": 23
-  },
-  {
-    "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
-    "count": 61,
-    "uniques": 13
+    "count": 138,
+    "uniques": 25
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 38,
+    "count": 76,
     "uniques": 10
+  },
+  {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 63,
+    "uniques": 7
+  },
+  {
+    "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
+    "count": 58,
+    "uniques": 12
+  },
+  {
+    "referrer": "huggingface.co",
+    "count": 53,
+    "uniques": 20
   },
   {
     "referrer": "link.zhihu.com",
@@ -30,14 +35,9 @@
     "uniques": 1
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 23,
-    "uniques": 5
-  },
-  {
     "referrer": "medium.com",
-    "count": 16,
-    "uniques": 8
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "78ada4efd3a293cc-dot-us-east1.notebooks.googleusercontent.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "paperswithcode.com",
+    "referrer": "yangheng-pyabsa.hf.space",
     "count": 9,
-    "uniques": 1
+    "uniques": 2
   }
 ]

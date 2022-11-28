@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 272,
-    "uniques": 44
+    "count": 256,
+    "uniques": 41
   },
   {
     "referrer": "Google",
-    "count": 115,
-    "uniques": 25
+    "count": 125,
+    "uniques": 23
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 83,
-    "uniques": 11
+    "count": 82,
+    "uniques": 10
   },
   {
     "referrer": "notebooks.githubusercontent.com",
@@ -26,13 +26,13 @@
   },
   {
     "referrer": "medium.com",
-    "count": 35,
-    "uniques": 9
+    "count": 31,
+    "uniques": 8
   },
   {
     "referrer": "huggingface.co",
-    "count": 31,
-    "uniques": 21
+    "count": 26,
+    "uniques": 18
   },
   {
     "referrer": "link.zhihu.com",

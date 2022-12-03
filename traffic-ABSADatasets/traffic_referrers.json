@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 255,
+    "count": 268,
     "uniques": 45
   },
   {
     "referrer": "Google",
-    "count": 103,
-    "uniques": 18
-  },
-  {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 69,
-    "uniques": 7
+    "count": 96,
+    "uniques": 19
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 63,
-    "uniques": 8
+    "count": 64,
+    "uniques": 7
+  },
+  {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 60,
+    "uniques": 6
   },
   {
     "referrer": "medium.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 21,
-    "uniques": 14
+    "count": 23,
+    "uniques": 15
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",

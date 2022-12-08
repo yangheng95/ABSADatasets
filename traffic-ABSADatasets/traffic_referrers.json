@@ -1,28 +1,33 @@
 [
   {
     "referrer": "github.com",
-    "count": 245,
-    "uniques": 47
+    "count": 278,
+    "uniques": 49
   },
   {
     "referrer": "Google",
-    "count": 85,
+    "count": 84,
     "uniques": 16
   },
   {
     "referrer": "medium.com",
-    "count": 66,
-    "uniques": 13
+    "count": 69,
+    "uniques": 14
   },
   {
     "referrer": "huggingface.co",
-    "count": 28,
+    "count": 24,
     "uniques": 13
   },
   {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 23,
+    "uniques": 6
+  },
+  {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 25,
-    "uniques": 10
+    "count": 21,
+    "uniques": 9
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
@@ -30,14 +35,9 @@
     "uniques": 4
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 16,
-    "uniques": 5
-  },
-  {
     "referrer": "pypi.org",
-    "count": 8,
-    "uniques": 4
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "link.zhihu.com",

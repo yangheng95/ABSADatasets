@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 269,
+    "count": 262,
     "uniques": 55
   },
   {
@@ -16,13 +16,13 @@
   },
   {
     "referrer": "Google",
-    "count": 73,
-    "uniques": 20
+    "count": 75,
+    "uniques": 21
   },
   {
     "referrer": "huggingface.co",
-    "count": 31,
-    "uniques": 15
+    "count": 35,
+    "uniques": 16
   },
   {
     "referrer": "notebooks.githubusercontent.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
-    "count": 18,
-    "uniques": 4
+    "count": 14,
+    "uniques": 3
   },
   {
     "referrer": "link.zhihu.com",

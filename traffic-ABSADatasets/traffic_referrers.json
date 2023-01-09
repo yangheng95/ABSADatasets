@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 302,
+    "count": 317,
     "uniques": 29
   },
   {
     "referrer": "Google",
-    "count": 74,
-    "uniques": 18
+    "count": 72,
+    "uniques": 17
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 45,
+    "count": 43,
     "uniques": 9
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
-    "count": 42,
-    "uniques": 16
+    "count": 37,
+    "uniques": 15
   },
   {
     "referrer": "notebooks.githubusercontent.com",
@@ -31,13 +31,13 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 32,
-    "uniques": 12
+    "count": 25,
+    "uniques": 11
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 26,
-    "uniques": 5
+    "count": 24,
+    "uniques": 4
   },
   {
     "referrer": "colab.research.google.com",

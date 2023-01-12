@@ -4,7 +4,9 @@
 - 1. Pre-word segmentation
 - 2. Annotate the segmented data
 - 3. convert the apc dataset to atepc dataset
-- 4. merge your custom dataset into integrated_datasets and PR 
+- 4. merge your custom dataset into integrated_datasets and PR
+
+You can find the tool scripts at https://github.com/yangheng95/ABSADatasets/tree/v2.0/DPT
 
 ## Pre-word segmentation
 Before annotating non-blank segmented text (e.g., English), you need to segment the data. Run `pre_word_segment_for_non_english_data.py` and

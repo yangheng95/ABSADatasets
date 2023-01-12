@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PyABSA Dataset Preparation Tool v1.07</title>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/jquery"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash"></script>
+    <script src="https://cdn.jsdelivr.net/npm/file-saver"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Alorel/console-log-html@master/console-log-html.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        .popover {
+            max-width: 300px !important;
+        }
+
+        .popClose {
+            cursor: pointer;
+        }
+
+        .table-responsive {
+            max-width: 95%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .wtoken span:not(.skip):hover {
+            background-color: #f4fb61;
+            opacity: 0.8;
+            font: bold 1.05rem "Segoe UI", Roboto, "Helvetica Neue", Arial;
+            cursor: pointer;
+            transition: 0.2s;
+            padding: 2px 6px;
+            border-radius: 10px;
+        }
+
+        .wtoken span.active {
+            background-color: #f4fb61;
+            opacity: 0.8;
+            font: bold 1.05rem "Segoe UI", Roboto, "Helvetica Neue", Arial;
+            cursor: pointer;
+            transition: 0.2s;
+            padding: 2px 6px;
+            border-radius: 10px;
+        }
+
+        select.OverallMarked {
+            font: bold 0.95rem "Segoe UI", Roboto, "Helvetica Neue", Arial !important;
+        }
+
+        .a-Pos {
+            background-color: #198754 !important;
+            color: white !important;
+        }
+
+        .a-Neu {
+            background-color: #6c757d !important;
+            color: white !important;
+        }
+
+        .a-Neg {
+            background-color: #dc3545 !important;
+            color: white !important;
+        }
+    </style>
+    <script type="module">
+        import {openDB, deleteDB, wrap, unwrap} from 'https://unpkg.com/idb?module';
+    </script>
+</head>
+<body>
+<div id='ABSADPT'>
+    <div class="container">
+        <br>
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <h5 class="card-header">
+                        <span v-show="!DataReady">Load Raw Data</span>
+                        <span v-show="DataReady && !TableReady">Please click Start to extract aspect</span>
+                        <span v-show="TableReady">Save your work</span>
+                    </h5>
+                    <div class="card-body" v-show="!DataReady">
+                        <h5 class="card-title">Please choose CSV file from your local drive
+                            <!--OR Saved Unfinished work file *.json to continue--></h5>
+                        <p class="card-text">CSV Data should be single column without header</p>
+                        <input type="file" id="fileInput" style="display:none"/>
+                        <a href="#\" class="btn btn-primary" v-on:click="LoadCSV()"> Load </a>
+                    </div>
+                    <div class="card-body" v-show="DataReady && !TableReady">
+                        <a href="#\" class="btn btn-primary" v-on:click="DisplayTable()"> Start </a>
+                    </div>
+                    <div class="card-body" v-show="TableReady">
+                        <a href="#\" class="btn btn-success" v-on:click="SaveResult()"> Save </a>
+                    </div>
+                    <div class="card-footer" v-if="vConFooter">
+                        <ul id="vConsole"></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="table-responsive" v-show="TableReady">
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item" :class="{disabled: CurrPagina == 1}">
+                    <a class="page-link" href="#\" aria-label="Previous" v-on:click="CurrPagina--">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li class="page-item" v-for="item in PageNum[CurrPagina]" :class="{active: CurrPage == item}">
+                    <a class="page-link" href="#\" v-on:click="CurrPage=item">
+                        {{item}}
+                    </a>
+                </li>
+                <li class="page-item" :class="{disabled: CurrPagina == MaxPagina}">
+                    <a class="page-link" href="#\" aria-label="Next" v-on:click="CurrPagina++">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <table class="table table-striped table-bordered border-primary">
+            <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Text</th>
+                <th scope="col">Overall</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr v-for="(PageArrays, PageIdx) in PreABSAData[CurrPage]" :key="CurrPage+'-'+PageIdx">
+                <!--<th scope="row" style="width:80px;">{{ index+1+100*(CurrPage-1) }}</th><td> <span class="wtoken" v-html="item"></span> </td>-->
+                <th scope="row" style="width:80px;">{{ PageArrays.rvid }}</th>
+                <td>
+								<span class="wtoken">
+									<span :id="item.tkid"
+                                          :class="TokenClass(item)"
+                                          v-for="(item, index) in PageArrays.rvarr"
+                                          v-on:click="_.size(item.tk.trim())==0 ? void(0) : TokenHighlight(event.target, PageArrays.rvarr, item, index)"
+                                          v-if="item.tk.trim()!==''"
+                                          :key="item.tkid">{{index==0 ? item.tk : !item.tk.match(/\p{P}/gu) ? ' ' + item.tk : item.tk}}</span>
+								</span>
+                </td>
+                <td style="width:130px;">
+                    <select aria-label=".form-select-sm" v-model="PageArrays['Overall']"
+                            :class="OverallClass(PageArrays['Overall'])">
+                        <option value="">Select...</option>
+                        <option class="a-Pos" value="Pos">Positive</option>
+                        <option class="a-Neu" value="Neu">Neutral</option>
+                        <option class="a-Neg" value="Neg">Negative</option>
+                    </select>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item" :class="{disabled: CurrPagina == 1}">
+                    <a class="page-link" href="#\" aria-label="Previous" v-on:click="CurrPagina--">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                <li class="page-item" v-for="item in PageNum[CurrPagina]" :class="{active: CurrPage == item}">
+                    <a class="page-link" href="#\" v-on:click="CurrPage=item">
+                        {{item}}
+                    </a>
+                </li>
+                <li class="page-item" :class="{disabled: CurrPagina == MaxPagina}">
+                    <a class="page-link" href="#\" aria-label="Next" v-on:click="CurrPagina++">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+</div>
+<script>var LZipper = function () {
+    var g, r;
+    return g = String.fromCharCode, r = {
+        compress: function (r) {
+            return r
+        }, decompress: function (r) {
+            return r
+        }
+    }, "function" == typeof Map && (r.compress = function (r) {
+        function t(r, t, e) {
+            for (var o = e ? 0xffffffffffff : 1, n = 0; n < r; n++) C = C << 1 | t & o, 15 === a ? (a = 0, d += g(C), C = 0) : a++, e ? t = 0 : t >>= 1
+        }
+
+        if (null == r || "" === r) return "";
+        for (var e, o, a, n = r.length, f = {}, c = i = "", i = "", h = o = 2, u = 3, d = "", C = a = 0, p = 0; p < n; p += 1) void 0 === f[c = r.charAt(p)] && (f[c] = {
+            size: u++,
+            create: !0
+        }), i = void 0 !== f[e = i + c] ? e : (f[i].create ? (i.charCodeAt(0) < 256 ? (t(o, 0), t(8, i.charCodeAt(0))) : (t(o, 1, !0), t(16, i.charCodeAt(0))), 0 === --h && (h = Math.pow(2, o), o++), f[i].create = !1) : t(o, f[i].size), 0 === --h && (h = Math.pow(2, o), o++), void 0 !== f[e] ? f[e].size = u++ : f[e] = {
+            size: u++,
+            create: !1
+        }, String(c));
+        for ("" !== i && (f[i].create ? (i.charCodeAt(0) < 256 ? (t(o, 0), t(8, i.charCodeAt(0))) : (t(o, 1, !0), t(16, i.charCodeAt(0))), 0 === --h && (h = Math.pow(2, o), o++), f[i].create = !1) : t(o, f[i].size), 0 === --h && (h = Math.pow(2, o), o++)), t(o, 2); ;) {
+            if (C <<= 1, 15 == a) {
+                d += g(C);
+                break
+            }
+            a++
+        }
+        return d
+    }, r.decompress = function (r) {
+        var t, e, o, n, a, f, c, i, h, u, d, C, p, s, A;
+
+        function v(r) {
+            for (var t = 1, e = 0; t != r;) e |= (0 < (p & s) ? 1 : 0) * t, t <<= 1, 0 === (s >>= 1) && (s = 32768, p = C.charCodeAt(A++));
+            return e
+        }
+
+        if (null === r || "" === r || void 0 === r) return "";
+        if (t = [0, 1, 2], e = r.length, o = [256, 65536], c = i = 4, h = 3, u = d = "", p = (C = r).charCodeAt(0), s = 32768, A = 1, 2 === (a = v(4))) return "";
+        for (a < 2 && (a = v(o[a]), f = g(a)), t[3] = n = d = f; ;) {
+            if (e < A) return "";
+            if (f = a = v(Math.pow(2, h)), 2 === a) return d;
+            if (a < 2 && (a = v(o[a]), t[i++] = g(a), f = i - 1, c--), 0 === c && (c = Math.pow(2, h), h++), t[f]) u = t[f]; else {
+                if (f !== i) return "";
+                u = n + n.charAt(0)
+            }
+            d += u, t[i++] = n + u.charAt(0), n = u, 0 === --c && (c = Math.pow(2, h), h++)
+        }
+    }), r.int2Char = function (r) {
+        for (var t, e = "", o = r.length, n = 0; n < o; n++) t = r.charCodeAt(n), e += String.fromCharCode(t >> 8 & 255), e += String.fromCharCode(255 & t);
+        return e
+    }, r.char2Int = function (r) {
+        for (var t, e = "", o = r.length, n = 0; n < o; n++) t = (255 & r.charCodeAt(n)) << 8, ++n < o && (t += 255 & r.charCodeAt(n)), e += String.fromCharCode(t);
+        return e
+    }, r
+}();</script>
+<script>
+    /*
+        to-do: change to Vue reusable component
+        Vue.component('tkspan', {
+            props: ['tk'],
+            template: ``
+        });
+    */
+
+    var ABSADPT = new Vue({
+        el: '#ABSADPT',
+        data: {
+            DataReady: false,
+            TableReady: false,
+            vConFooter: true,
+            CurrPage: 1,
+            MaxPage: 1000,
+            CurrPagina: 1,
+            MaxPagina: 20,
+            PageNum: [],
+            RawABSAData: [],
+            PreABSAData: [],
+            ProcessedABSAData: []
+        },
+        computed: {},
+        mounted() {
+            ConsoleLogHTML.connect(
+                target = $("#vConsole"),
+                appendAtBottom = true
+            );
+        },
+        methods: {
+            Range: (from, to, step = 1) => [...Array(Math.floor((to - from) / step) + 1)].map((_, i) => from + i * step),
+            DisplayTable: function () {
+                this.vConFooter = false;
+                this.TableReady = true;
+                //ABSADPT.ProcessedABSAData = $('.table').tableToJSON();
+                //localStorage.setItem("lastname", "Smith");
+            },
+            OverallClass: function (v) {
+                return "form-select form-select-sm " + (!v ? "" : "OverallMarked a-" + v);
+            },
+            TokenClass: function (item) {
+                let classname = "";
+                if (_.size(item.tk.trim()) == 0) {
+                    classname = "skip";
+                } else if (item.aspect) {
+                    switch (item.sentiment) {
+                        case "Pos":
+                            classname = "active a-Pos";
+                            break;
+                        case "Neu":
+                            classname = "active a-Neu";
+                            break;
+                        case "Neg":
+                            classname = "active a-Neg";
+                            break;
+                    }
+                }
+
+                return classname;
+            },
+            TokenHighlight: function (target, PageArrays, item, index) {
+                var tkspanid = target.id, TkPopover;
+
+                //if has sentiment defined then not toggleClass active
+                if (!$(target).attr('class').match(/a-Pos|a-Neu|a-Neg/)) {
+                    $(target).toggleClass("active");
+                }
+                if (($(target).next("span").hasClass("active") && _.size($(target).next("span").attr("data-id-merged")) < 12) || ($(target).prev("span").hasClass("active") && _.size($(target).prev("span").attr("data-id-merged")) < 12)) {
+                    //prev word or next word is aspect, then ask to merge
+                    TkPopover = bootstrap.Popover.getOrCreateInstance(target, {
+                        placement: "top",
+                        trigger: "manual",
+                        html: true,
+                        sanitize: false,
+                        title: '<div class="float-right popClose"><i class="bi bi-x-square"></i></div>',
+                        content: '<p>Separated aspect or Combined aspect?</p>' +
+                            '<div id="pop_' + tkspanid + '" class="btn-group" role="group">' +
+                            '<button id="Separate" type="button" class="btn btn-warning btn-sm">Separate</button>' +
+                            '<button id="Combine" type="button" class="btn btn-info btn-sm">Combine</button>' +
+                            '</div>'
+                    });
+
+                    TkPopover.show();
+
+                    $(target).one("shown.bs.popover", (e) => {
+                        $(".popClose").on("click", (e) => {
+                            TkPopover.dispose();
+                            if (!$("#" + tkspanid).attr('class').match(/a-Pos|a-Neu|a-Neg/)) {
+                                $("#" + tkspanid).removeClass("active");
+                            }
+                        });
+                        var tkspan = e.target;
+                        $("#pop_" + tkspanid + " .btn").on("click", (e) => {
+                            TkPopover.dispose();
+                            if (e.target.id == 'Combine') {
+                                if ($(tkspan).next("span").hasClass("active") && $(tkspan).prev("span").hasClass("active")) {
+                                    let newStr = PageArrays[index - 1].tk.trim() + " " + item.tk.trim() + " " + PageArrays[index + 1].tk.trim();
+                                    PageArrays[index + 1].tk = newStr;
+                                    PageArrays[index].tk = "";
+                                    _.unset(PageArrays[index], "aspect");
+                                    _.unset(PageArrays[index], "sentiment");
+                                    PageArrays[index - 1].tk = "";
+                                    _.unset(PageArrays[index - 1], "aspect");
+                                    _.unset(PageArrays[index - 1], "sentiment");
+                                    $(tkspan).next("span").text(" " + newStr);
+                                    $(tkspan).prev("span").remove();
+                                } else {
+                                    if ($(tkspan).next("span").hasClass("active")) {
+                                        let pos = parseInt(($(tkspan).next("span").attr("id")).split("_")[1]) - index;
+                                        let newStr = item.tk.trim() + " " + PageArrays[index + pos].tk.trim();
+                                        PageArrays[index + pos].tk = newStr;
+                                        PageArrays[index].tk = "";
+                                        _.unset(PageArrays[index], "aspect");
+                                        _.unset(PageArrays[index], "sentiment");
+                                        $(tkspan).next("span").text(" " + newStr);
+                                        if (_.size($(tkspan).next("span").attr("data-id-merged")) == 0) {
+                                            $(tkspan).next("span").attr("data-id-merged", $(tkspan).attr("id") + "|" + $(tkspan).next("span").attr("id"));
+                                        } else {
+                                            $(tkspan).next("span").attr("data-id-merged", $(tkspan).attr("id") + "|" + $(tkspan).next("span").attr("data-id-merged"));
+                                        }
+
+                                    } else {
+                                        let pos = index - parseInt(($(tkspan).prev("span").attr("id")).split("_")[1]);
+                                        let newStr = PageArrays[index - pos].tk.trim() + " " + item.tk.trim();
+                                        PageArrays[index - pos].tk = newStr;
+                                        PageArrays[index].tk = "";
+                                        _.unset(PageArrays[index], "aspect");
+                                        _.unset(PageArrays[index], "sentiment");
+                                        $(tkspan).prev("span").text(" " + newStr);
+                                        if (_.size($(tkspan).prev("span").attr("data-id-merged")) == 0) {
+                                            $(tkspan).prev("span").attr("data-id-merged", $(tkspan).prev("span").attr("id") + "|" + $(tkspan).attr("id"));
+                                        } else {
+                                            $(tkspan).prev("span").attr("data-id-merged", $(tkspan).prev("span").attr("data-id-merged") + "|" + $(tkspan).attr("id"));
+                                        }
+
+                                    }
+                                }
+                            } else {
+                                TkPopover = bootstrap.Popover.getOrCreateInstance(tkspan, {
+                                    placement: "top",
+                                    trigger: "manual",
+                                    html: true,
+                                    sanitize: false,
+                                    title: '<div class="float-right popClose"><i class="bi bi-x-square"></i></div>',
+                                    content: '<div id="pop_' + tkspanid + '" class="btn-group" role="group">' +
+                                        '<button id="Pos" type="button" class="btn btn-success btn-sm">Positive</button>' +
+                                        '<button id="Neu" type="button" class="btn btn-secondary btn-sm">Neutral</button>' +
+                                        '<button id="Neg" type="button" class="btn btn-danger btn-sm">Negative</button>' +
+                                        '<button id="Del" type="button" class="btn btn-primary btn-sm">Clear</button>' +
+                                        '</div>'
+                                });
+
+                                TkPopover.show();
+
+                                $(tkspan).one("shown.bs.popover", () => {
+                                    $(".popClose").on("click", (e) => {
+                                        TkPopover.dispose();
+                                        if (!$("#" + tkspanid).attr('class').match(/a-Pos|a-Neu|a-Neg/)) {
+                                            $("#" + tkspanid).removeClass("active");
+                                        }
+                                    });
+                                    $("#pop_" + tkspanid + " .btn").on("click", (e) => {
+                                        TkPopover.dispose();
+                                        if (e.target.id === 'Del') {
+                                            $("#" + tkspanid).removeClass(["a-Pos", "a-Neu", "a-Neg", "active"]);
+                                            _.unset(item, "aspect");
+                                            _.unset(item, "sentiment");
+                                        } else {
+                                            $("#" + tkspanid).removeClass(["a-Pos", "a-Neu", "a-Neg"]).addClass("a-" + e.target.id);
+                                            item.aspect = true;
+                                            item.sentiment = e.target.id;
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    });
+                } else {
+                    TkPopover = bootstrap.Popover.getOrCreateInstance(target, {
+                        placement: "top",
+                        trigger: "manual",
+                        html: true,
+                        sanitize: false,
+                        title: '<div class="float-right popClose"><i class="bi bi-x-square"></i></div>',
+                        content: '<div id="pop_' + tkspanid + '" class="btn-group" role="group">' +
+                            '<button id="Pos" type="button" class="btn btn-success btn-sm">Positive</button>' +
+                            '<button id="Neu" type="button" class="btn btn-secondary btn-sm">Neutral</button>' +
+                            '<button id="Neg" type="button" class="btn btn-danger btn-sm">Negative</button>' +
+                            '<button id="Del" type="button" class="btn btn-primary btn-sm">Clear</button>' +
+                            '</div>'
+                    });
+
+                    TkPopover.show();
+
+                    $(target).one("shown.bs.popover", () => {
+                        $(".popClose").on("click", (e) => {
+                            TkPopover.dispose();
+                            if (!$("#" + tkspanid).attr('class').match(/a-Pos|a-Neu|a-Neg/)) {
+                                $("#" + tkspanid).removeClass("active");
+                            }
+                        });
+                        $("#pop_" + tkspanid + " .btn").on("click", (e) => {
+                            TkPopover.dispose();
+                            if (e.target.id === 'Del') {
+                                let id_merged = $("#" + tkspanid).attr("data-id-merged"),
+                                    tkids, tks, vals, tkpos;
+                                if (_.size($("#" + tkspanid).attr("data-id-merged")) == 0) {
+                                    tkids = 0
+                                } else {
+                                    tkids = id_merged.split("|");
+                                    tks = (item.tk).split(/\s*\b\s*/);
+                                    vals = _.zipObject(tkids, tks);
+                                }
+                                if (_.size(tkids) == 2) {
+                                    PageArrays[index].tk = vals[item.tkid];
+                                    $("#" + tkspanid).text(" " + vals[item.tkid]);
+                                    tkpos = _.indexOf(tkids, tkspanid);
+                                    if (tkpos == 1) {
+                                        PageArrays[index - 1].tk = tks[0];
+                                    } else if (tkpos == 0) {
+                                        PageArrays[index + 1].tk = tks[1];
+                                    }
+                                } else if (_.size(tkids) == 3) {
+                                    PageArrays[index].tk = vals[item.tkid];
+                                    $("#" + tkspanid).text(" " + vals[item.tkid]);
+                                    tkpos = _.indexOf(tkids, tkspanid);
+                                    if (tkpos == 0) {
+                                        PageArrays[index + 1].tk = tks[1];
+                                        PageArrays[index + 2].tk = tks[2];
+                                    } else if (tkpos == 1) {
+                                        PageArrays[index - 1].tk = tks[0];
+                                        PageArrays[index + 1].tk = tks[2];
+                                    } else if (tkpos == 2) {
+                                        PageArrays[index - 2].tk = tks[0];
+                                        PageArrays[index - 1].tk = tks[1];
+                                    }
+                                }
+                                $("#" + tkspanid).removeClass(["a-Pos", "a-Neu", "a-Neg", "active"]);
+                                $("#" + tkspanid).removeAttr("data-id-merged");
+                                _.unset(item, "aspect");
+                                _.unset(item, "sentiment");
+                            } else {
+                                $("#" + tkspanid).removeClass(["a-Pos", "a-Neu", "a-Neg"]).addClass("a-" + e.target.id);
+                                item.aspect = true;
+                                item.sentiment = e.target.id;
+                            }
+                        });
+                    });
+                }
+            },
+            ProcessCSV: function (rs) {
+                this.MaxPage = Math.ceil(rs.data.length / 100);
+                this.MaxPagina = Math.ceil(rs.data.length / 1000);
+                console["info"]("Parse complete");
+                console.skipHtml.log(rs);
+                console["info"]("  Row count:", rs.data.length);
+                if (rs.errors.length > 0) {
+                    console["error"]("     Errors:", rs.errors.length);
+                } else {
+                    console["info"]("     Errors:", rs.errors.length);
+                    this.DataReady = true;
+                    this.RawABSAData = Object.freeze(_.flattenDeep(rs.data));
+                    //PageNum is array of objects, key by index of Pagination, each Pagination contain 10 pages, each pages contain 100 rows of table
+                    this.PageNum = _.extend.apply({},
+                        _.chain(this.Range(1, this.MaxPagina))
+                            .map((v, i) => {
+                                if ((v) == this.MaxPagina) {
+                                    return {[v]: this.Range(1 + (i * 10), this.MaxPage)};
+                                } else {
+                                    return {[v]: this.Range(1 + (i * 10), v * 10)};
+                                }
+                            })
+                            .value()
+                    );
+                    // let wtoken = _.map(this.RawABSAData, (v) => v.split(/\s*\b\s*/));
+                    let wtoken = _.map(this.RawABSAData, (v) => v.split(' '));
+                    this.PreABSAData = _.extend.apply({},
+                        _.chain(wtoken)
+                            .chunk(100)
+                            .map((v, i) => {
+                                let rv = _.map(v, (rvarr, rvid) => {
+                                    rvid = rvid + 1 + 100 * i;
+                                    return {
+                                        rvid: rvid,
+                                        rvarr: _.map(rvarr, (tk, tkid) => ({tkid: "R" + rvid + "_" + tkid, tk: tk})),
+                                        Overall: ''
+                                    }
+                                });
+                                return {[i + 1]: rv};
+                            })
+                            .value()
+                    );
+                }
+            },
+            LoadCSV: function () {
+                var configOptions = {
+                    delimiter: ',',
+                    skipEmptyLines: true,
+                    worker: true,
+                    complete: this.ProcessCSV
+                }
+                $('#fileInput').trigger('click');
+                $('#fileInput').change((e) => {
+                    $('#fileInput').parse({
+                        config: configOptions,
+                        before: (file, inputElem) => {
+                            console["debug"]("Parsing file...", file.name);
+                        },
+                        error: (err, file, inputElem, reason) => {
+                            console["error"](err, reason)
+                        },
+                        complete: () => console["debug"]("Data Loaded Successfully!")
+                    });
+                });
+            },
+            SaveResult: function () {
+                let ABSATrainingSet = _.chain(ABSADPT.PreABSAData)
+                    .values()
+                    .flatten()
+                    .map((v) => _.flatten(_.values(_.pick(v, "rvarr"))))
+                    .map((v) => {
+                        let aspectIdx = _.keys(_.pickBy(v, {aspect: true})),
+                            rs = [];
+                        if (_.size(aspectIdx) == 0) {
+                            sentence = (v.map((v, i) => i == 0 || v.tk == "" ? v.tk : !v.tk.match(/\p{P}/gu) ? ' ' + v.tk : v.tk)).join("");
+                            sentiment = [];
+                            rs = {sentence: sentence, sentiment: sentiment};
+                        } else {
+                            let vCopy = _.cloneDeep(v);
+                            _.each(aspectIdx, (aIdx) => {
+                                let temp = _.chain(vCopy)
+                                    .map((wtk, i) => {
+                                        if (wtk.aspect && i == +aIdx) {
+                                            wtk.tkFinal = "$T$";
+                                        } else {
+                                            wtk.tkFinal = wtk.tk;
+                                        }
+                                        return wtk;
+                                    })
+                                    .value();
+                                sentence = (temp.map((v, i) => i == 0 || v.tkFinal == "" ? v.tkFinal : !v.tkFinal.match(/\p{P}/gu) ? ' ' + v.tkFinal : v.tkFinal)).join("");
+                                sentiment = _.chain(temp)
+                                    .pickBy({aspect: true})
+                                    .result(aIdx)
+                                    .pick(["tk", "sentiment"])
+                                    .value();
+                                rs.push({sentence: sentence, sentiment: [sentiment]});
+                            });
+                        }
+
+                        return rs;
+                    })
+                    .flatten()
+                    .map((v) => {
+                        let rs = [];
+                        if (_.size(v.sentiment) == 0) {
+                            rs.push(v.sentence)
+                        } else {
+                            _.each(v.sentiment, (senti) => {
+                                rs.push(v.sentence)
+                                rs.push(senti.tk)
+                                if (senti.sentiment == "Pos")
+                                    rs.push("Positive");
+                                else if (senti.sentiment == "Neu")
+                                    rs.push("Neutral");
+                                else if (senti.sentiment == "Neg")
+                                    rs.push("Negative");
+                            });
+                        }
+                        return rs;
+                    })
+                    .flattenDeep()
+                    .value();
+
+                let SATrainingSet = Papa.unparse(
+                    JSON.stringify(_.chain(ABSADPT.PreABSAData)
+                        .values()
+                        .flatten()
+                        .map((v) => _.flatten(_.values(_.pick(v, ["rvarr", "Overall"]))))
+                        .map((v) => {
+                            sentence = (v.map((v, i) => {
+                                if (_.isObject(v))
+                                    return i == 0 || v.tk == "" ? v.tk : !v.tk.match(/\p{P}/gu) ? ' ' + v.tk : v.tk;
+                            })).join("");
+                            sentiment = _.chain(v)
+                                .reject(_.isObject)
+                                .first()
+                                .value();
+                            if (sentiment == "Pos")
+                                sentiment = "Positive";
+                            else if (sentiment == "Neu")
+                                sentiment = "Neutral";
+                            else if (sentiment == "Neg")
+                                sentiment = "Negative";
+
+                            return {sentence: sentence, overall: sentiment};
+                        })
+                        .value()
+                    ),
+                    {
+                        delimiter: ",",
+                        header: true,
+                        worker: true
+                    }
+                );
+
+                localStorage.setItem("lastsave", LZipper.compress(JSON.stringify(this.PreABSAData)));
+
+                let saveAs = window.saveAs,
+                    blob1 = new Blob([ABSATrainingSet.join("\r\n")], {type: "text/plain"}),
+                    blob2 = new Blob([SATrainingSet], {type: "text/csv"}),
+                    blob3 = new Blob([JSON.stringify(this.PreABSAData)], {type: "application/json"});
+                saveAs(blob1, "custom.apc.train.txt");
+                saveAs(blob2, "SATrainingSet.csv");
+                saveAs(blob3, "ABSADataWorkFile.json");
+            }
+        },
+        watch: {}
+    });
+</script>
+</body>
+</html>   

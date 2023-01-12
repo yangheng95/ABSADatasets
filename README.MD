@@ -5,9 +5,21 @@
 [![total clones](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 [![total clones per week](https://raw.githubusercontent.com/yangheng95/ABSADatasets/traffic/total_clones_per_week.svg)](https://github.com/yangheng95/ABSADatasets/tree/traffic#-total-traffic-data-badge)
 
-## To augment your datasets, please refer to [BoostTextAugmentation](https://github.com/yangheng95/BoostTextAugmentation)
 
-## Auto-annoate your datasets via PyABSA!
+## Need to Annotate Your Own Dataset?
+
+- A Stand-alone browser based tool to help process data for the training
+  set. [here](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT)
+  ![image1](https://user-images.githubusercontent.com/4684417/139701633-d77a009b-1a12-4ef2-9663-37d2d36e1af1.JPG)
+
+  Once data saved, 3 files will be created:
+
+    1. a CSV file training set for classic sentiment analysis
+    2. a TXT file training set for PyABSA
+    3. a JSON file for saving unfinished work
+
+
+### Auto-annoate your datasets via PyABSA!
 
 There is an experimental feature which allows you to auto-build APC dataset and ATEPC datasets, see the usage here:
 
@@ -17,12 +29,11 @@ from pyabsa import make_ABSA_dataset
 make_ABSA_dataset(dataset_name_or_path='integrated_datasets/review', checkpoint='english')
 ```
 
-## Contribute (prepare) your dataset to ABSADatasets to use it in PyABSA
 
-We hope you can share your custom dataset or an available public dataset. If you are willing to, please follow the
-instruction to process your data and open a PR.
+### To augment your datasets, please refer to [BoostTextAugmentation](https://github.com/yangheng95/BoostTextAugmentation)
 
-### Format your dataset to use it in PyABSA
+
+## Format your dataset to use it in PyABSA
 
 - Format your APC dataset according to our dataset format. (**Recommended. Once you finished this step, we can help you
   to finish other steps**)
@@ -90,18 +101,6 @@ Trainer(config=config,
         )
 ```
 
-### Need to Annotate Your Own Dataset?
-
-- A Stand-alone browser based tool to help process data for the training
-  set. [here](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT)
-  ![image1](https://user-images.githubusercontent.com/4684417/139701633-d77a009b-1a12-4ef2-9663-37d2d36e1af1.JPG)
-
-  Once data saved, 3 files will be created:
-
-    1. a CSV file training set for classic sentiment analysis
-    2. a TXT file training set for PyABSA
-    3. a JSON file for saving unfinished work
-
 ## Notice
 
 All datasets provided are for research only, we do not hold any Copyright of any datasets. These datasets follow their
@@ -140,3 +139,10 @@ SemEval2016Task5: [YaxinCui@GitHub](https://github.com/YaxinCui/ABSADataset)
 - Turkish Restaurant Reviews
 
 English-MOOC github: [aparnavalli@GitHub](https://github.com/aparnavalli)
+
+
+
+## Contribute (prepare) your dataset to ABSADatasets to use it in PyABSA
+
+We hope you can share your custom dataset or an available public dataset. If you are willing to, please follow the
+instruction to process your data and open a PR.

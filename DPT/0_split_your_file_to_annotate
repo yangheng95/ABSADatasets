@@ -1,0 +1,4 @@
+Since the annotation tool is out-of-mantainace,
+You are recommended to split the dataset into several parts and annotate them separately.
+Then you can merge the annotations into one file.
+This will alleviate the problem of the annotation tool.

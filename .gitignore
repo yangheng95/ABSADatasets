@@ -22,6 +22,7 @@ __pycache__/
 *.pyc
 *.result.json
 .idea/
+cdd_datasets/
 
 # Embedding
 glove.840B.300d.txt

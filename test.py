@@ -38,8 +38,8 @@ findfile.rm_files(os.getcwd(), '.ignore.atepc')
 findfile.rm_files(os.getcwd(), '.atepc.ignore')
 
 # batch conversion for all ABSA datasets
-generate_inference_set_for_apc('datasets')
-convert_apc_set_to_atepc_set('datasets')
+generate_inference_set_for_apc('apc_datasets')
+convert_apc_set_to_atepc_set('apc_datasets')
 
 # default set ATEPC augmented datasets invisible
 for f in findfile.find_cwd_files('.ignore.atepc'):

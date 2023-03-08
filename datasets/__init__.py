@@ -6,4 +6,4 @@
 # Copyright (C) 2021. All Rights Reserved.
 
 
-__version__ = '2023.03.07'
+__version__ = '2023.03.08'

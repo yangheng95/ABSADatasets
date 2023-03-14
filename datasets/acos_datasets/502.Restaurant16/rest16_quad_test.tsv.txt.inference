@@ -1,0 +1,583 @@
+yum !	-1,-1 FOOD#QUALITY 2 0,1
+serves really good sushi .	3,4 FOOD#QUALITY 2 2,3
+not the biggest portions but adequate .	3,4 FOOD#STYLE_OPTIONS 1 0,3	3,4 FOOD#STYLE_OPTIONS 1 5,6
+green tea creme brulee is a must !	0,4 FOOD#QUALITY 2 6,7
+it has great sushi and even better service .	3,4 FOOD#QUALITY 2 2,3	7,8 SERVICE#GENERAL 2 6,7
+the entire staff was extremely accomodating and tended to my every need .	2,3 SERVICE#GENERAL 2 5,6
+i ' ve been to this restaurant over a dozen times with no complaints to date .	6,7 RESTAURANT#GENERAL 2 12,14
+the owner is belligerent to guests that have a complaint .	1,2 SERVICE#GENERAL 0 3,4
+good food !	1,2 FOOD#QUALITY 2 0,1
+this is a great place to get a delicious meal .	9,10 FOOD#QUALITY 2 8,9	4,5 RESTAURANT#GENERAL 2 3,4
+the staff is pretty friendly .	1,2 SERVICE#GENERAL 2 4,5
+the onion rings are great !	1,3 FOOD#QUALITY 2 4,5
+the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you . . . . . were not good .	1,3 FOOD#QUALITY 0 5,7	10,13 FOOD#QUALITY 0 26,28	10,13 FOOD#STYLE_OPTIONS 0 26,28
+nice ambience , but highly overrated place .	1,2 AMBIENCE#GENERAL 2 0,1	6,7 RESTAURANT#GENERAL 0 5,6
+worst service i ever had	1,2 SERVICE#GENERAL 2 0,1
+everyone that sat in the back outside agreed that it was the worst service we had ever received .	13,14 SERVICE#GENERAL 0 12,13
+our waiter was non - existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .	1,2 SERVICE#GENERAL 0 3,6
+i complained to the manager , but he was not even apologetic .	4,5 SERVICE#GENERAL 0 9,12
+fabulous italian food !	1,3 FOOD#QUALITY 2 0,1
+– i highly recommend mioposto .	4,5 RESTAURANT#GENERAL 2 3,4
+i am so happy to have a wonderful italian restaurant in my neighborhood .	8,10 RESTAURANT#GENERAL 2 7,8	8,10 RESTAURANT#GENERAL 2 3,4
+the wine list is wonderful and the food reminds me of my recent trip to italy .	1,3 DRINKS#STYLE_OPTIONS 2 4,5	7,8 FOOD#QUALITY 2 -1,-1
+i love this restaurant	3,4 RESTAURANT#GENERAL 2 1,2
+– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .	7,8 FOOD#QUALITY 2 6,7	9,10 SERVICE#GENERAL 2 6,7	12,13 AMBIENCE#GENERAL 2 6,7
+the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .	1,3 DRINKS#STYLE_OPTIONS 2 4,5	1,3 DRINKS#STYLE_OPTIONS 2 6,7	1,3 DRINKS#STYLE_OPTIONS 2 8,9	11,12 FOOD#QUALITY 2 14,15	17,18 SERVICE#GENERAL 2 21,22	17,18 SERVICE#GENERAL 2 23,24
+i have not a bad thing to say about this place .	10,11 RESTAURANT#GENERAL 2 2,5
+the food was great !	1,2 FOOD#QUALITY 2 3,4
+it ' s * very * reasonably priced , esp for the quality of the food .	15,16 FOOD#QUALITY 2 6,7	15,16 FOOD#PRICES 2 6,7
+i had the kafta plate and it was perfect .	3,5 FOOD#QUALITY 2 8,9
+– in a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .	28,29 FOOD#QUALITY 2 26,28	31,32 SERVICE#GENERAL 2 30,31
+this is the place to relax and enjoy the finest quality food the industry can offer .	3,4 AMBIENCE#GENERAL 2 5,6	3,4 AMBIENCE#GENERAL 2 7,8	11,12 FOOD#QUALITY 2 9,11
+caution - its real food for people who love the best .	4,5 FOOD#QUALITY 2 3,4	4,5 FOOD#QUALITY 2 10,11
+i liked the atmosphere very much but the food was not worth the price .	3,4 AMBIENCE#GENERAL 2 1,2	8,9 FOOD#QUALITY 0 10,12	8,9 FOOD#PRICES 0 10,12
+i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it .	14,15 FOOD#QUALITY 0 18,19
+rice is too dry , tuna was n ' t so fresh either .	0,1 FOOD#QUALITY 0 3,4	5,6 FOOD#QUALITY 0 7,12
+i have eaten here three times and have found the quality and variety of the fish to be excellent .	15,16 FOOD#QUALITY 2 18,19	15,16 FOOD#STYLE_OPTIONS 2 18,19
+however , the value and service are both severely lacking .	5,6 SERVICE#GENERAL 0 9,10	3,4 RESTAURANT#PRICES 0 9,10
+furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .	4,5 FOOD#QUALITY 2 7,8	9,10 FOOD#QUALITY 0 14,15
+the service ranges from mediocre to offensive .	1,2 SERVICE#GENERAL 0 4,5	1,2 SERVICE#GENERAL 0 6,7
+on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .	6,7 SERVICE#GENERAL 0 9,10	16,18 SERVICE#GENERAL 0 -1,-1
+freshest sushi – i love this restaurant .	1,2 FOOD#QUALITY 2 0,1	6,7 RESTAURANT#GENERAL 2 4,5
+they pay such detail to everything from miso soup to complex rolls .	7,9 FOOD#QUALITY 2 -1,-1	11,12 FOOD#QUALITY 2 10,11
+the sashimi was the freshest and most tender i have ever tasted .	1,2 FOOD#QUALITY 2 4,5	1,2 FOOD#QUALITY 2 7,8
+their apps are all delicious .	1,2 FOOD#QUALITY 2 4,5
+the only drawback is that this place is really expensive and the portions are on the small side .	6,7 RESTAURANT#PRICES 0 9,10	12,13 FOOD#STYLE_OPTIONS 0 16,17
+but the space is small and lovely , and the service is helpful .	2,3 AMBIENCE#GENERAL 2 4,5	2,3 AMBIENCE#GENERAL 2 6,7	10,11 SERVICE#GENERAL 2 12,13
+– the food was not great & the waiters were rude .	2,3 FOOD#QUALITY 0 4,6	8,9 SERVICE#GENERAL 0 10,11
+great service	1,2 SERVICE#GENERAL 2 0,1
+my service was stellar !	1,2 SERVICE#GENERAL 2 3,4
+the bus boy even spotted that my table was shaking a stabilized it for me .	1,3 SERVICE#GENERAL 2 -1,-1
+food was fine , with a some little - tastier - than - normal salsa .	0,1 FOOD#QUALITY 2 2,3	14,15 FOOD#QUALITY 2 2,3
+the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .	1,2 FOOD#QUALITY 2 3,4	6,7 FOOD#QUALITY 2 3,4	10,11 SERVICE#GENERAL 0 13,14
+mama mia – i live in the neighborhood and feel lucky to live by such a great pizza place .	17,19 RESTAURANT#GENERAL 2 16,17
+the only problem is you really have to warm up the pizza before it ' s edible , even when you order ahead .	11,12 FOOD#QUALITY 0 2,3
+but once done , it ' s not too much dough , not too much cheese , not too much sauce .	-1,-1 FOOD#QUALITY 2 -1,-1
+best sushi in town .	1,2 FOOD#QUALITY 2 0,1
+the best calamari in seattle !	2,3 FOOD#QUALITY 2 1,2
+– . . . and the best summertime deck experience - - they will even bring you a blanket if you get cold in the seattle evening weather .	8,9 AMBIENCE#GENERAL 2 6,7	-1,-1 SERVICE#GENERAL 2 6,7
+a perfect place to take out of town guests any time of the year .	2,3 RESTAURANT#GENERAL 2 1,2
+endless fun , awesome music , great staff ! ! !	4,5 AMBIENCE#GENERAL 2 3,4	7,8 SERVICE#GENERAL 2 6,7	-1,-1 RESTAURANT#GENERAL 2 1,2
+– by far the best bar in the east village . . .	5,6 RESTAURANT#GENERAL 2 4,5
+great draft and bottle selection and the pizza rocks .	1,5 DRINKS#STYLE_OPTIONS 2 0,1	7,8 FOOD#QUALITY 2 0,1
+definitely has one of the best jukebox ' s i ' ve seen in a long long time .	6,9 AMBIENCE#GENERAL 2 5,6
+the food is great , the bartenders go that extra mile .	1,2 FOOD#QUALITY 2 3,4	6,7 SERVICE#GENERAL 2 -1,-1
+the owners are great fun and the beer selection is worth staying for .	1,2 SERVICE#GENERAL 2 3,4	1,2 SERVICE#GENERAL 2 4,5	7,9 DRINKS#STYLE_OPTIONS 2 10,13
+and the upstairs is a great place to hang out .	2,3 AMBIENCE#GENERAL 2 5,6
+not alot of smoking places left in new york , but i have found my favorite smoking balconey in the city .	17,18 RESTAURANT#MISCELLANEOUS 2 15,16
+the sushi here is delicious !	1,2 FOOD#QUALITY 2 4,5
+they have a wide variety of fish and they even list which oceans they come from ; atlantic or pacific .	6,7 FOOD#STYLE_OPTIONS 2 3,4
+i ' ve had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .	5,6 FOOD#QUALITY 2 25,26	7,9 FOOD#QUALITY 2 25,26	10,13 FOOD#QUALITY 2 25,26	15,18 FOOD#QUALITY 2 25,26
+my only negative comment is that i wish the pieces were a little bigger .	9,10 FOOD#STYLE_OPTIONS 0 -1,-1
+the decor is rustic , traditional japanese .	1,2 AMBIENCE#GENERAL 1 3,4	1,2 AMBIENCE#GENERAL 1 5,7
+the crowd is mixed yuppies , young and old .	1,2 RESTAURANT#MISCELLANEOUS 1 -1,-1
+the service was courteous and attentive .	1,2 SERVICE#GENERAL 2 3,4	1,2 SERVICE#GENERAL 2 5,6
+mediocre food	1,2 FOOD#QUALITY 1 0,1
+the outside patio area has an abbreviated menu .	7,8 FOOD#STYLE_OPTIONS 1 6,7
+my g / f and i both agreed the food was very mediocre especially considering the price .	9,10 FOOD#QUALITY 0 12,13	9,10 FOOD#PRICES 0 12,13
+we are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one - time customer tourists .	12,13 RESTAURANT#GENERAL 0 -1,-1	17,18 FOOD#QUALITY 0 16,17
+service was decent .	0,1 SERVICE#GENERAL 1 2,3
+drinks were good .	0,1 DRINKS#QUALITY 2 2,3
+excellent food , nice ambience , fairly expensive	1,2 FOOD#QUALITY 2 0,1	4,5 AMBIENCE#GENERAL 2 3,4	-1,-1 RESTAURANT#PRICES 0 7,8
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .	4,6 FOOD#QUALITY 2 2,3	8,11 FOOD#QUALITY 2 2,3	8,11 FOOD#STYLE_OPTIONS 2 -1,-1	31,40 FOOD#QUALITY 2 29,30
+the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney .	1,2 AMBIENCE#GENERAL 2 4,5	1,2 AMBIENCE#GENERAL 2 6,7
+best indian food in l . a .	1,3 FOOD#QUALITY 2 0,1
+the chicken curry and chicken tikka masala are my favorite meat dishes .	1,3 FOOD#QUALITY 2 9,10	4,7 FOOD#QUALITY 2 9,10
+the chana masala ( garbanzo beans ) are also excellent .	1,7 FOOD#QUALITY 2 8,9
+it ' s located in a strip mall near the beverly center , not the greatest location , but the food keeps me coming back for more .	16,17 LOCATION#GENERAL 1 13,16	20,21 FOOD#QUALITY 2 -1,-1
+never too crowded and always great service .	6,7 SERVICE#GENERAL 2 5,6	-1,-1 RESTAURANT#MISCELLANEOUS 2 0,3
+i think i have probably tried each item on their menu at least once it is all excellent .	10,11 FOOD#QUALITY 2 17,18
+i can highly recommend their various saag and paneer and korma .	6,7 FOOD#QUALITY 2 3,4	8,9 FOOD#QUALITY 2 3,4	10,11 FOOD#QUALITY 2 3,4
+i appreciate their delivery too .	3,4 SERVICE#GENERAL 2 1,2
+nice food but no spice !	1,2 FOOD#QUALITY 2 0,1	1,2 FOOD#QUALITY 0 -1,-1
+– i really enjoyed my meal here .	5,6 FOOD#QUALITY 2 3,4
+i had yummy lamb korma , saag paneer , samosas , naan , etc .	3,5 FOOD#QUALITY 2 2,3	6,8 FOOD#QUALITY 2 2,3	9,10 FOOD#QUALITY 2 2,3	11,12 FOOD#QUALITY 2 2,3
+the food was all good but it was way too mild .	1,2 FOOD#QUALITY 2 4,5	1,2 FOOD#QUALITY 0 9,11
+the naan was some of the best i ' ve had and i really enjoyed the bhartha , not too tomatoey .	1,2 FOOD#QUALITY 2 6,7	16,17 FOOD#QUALITY 2 14,15
+even the chickpeas , which i normally find too dry , were good .	2,3 FOOD#QUALITY 2 12,13
+– i do n ' t understand how i was a stranger to this place for so long . . . the fajita salad , the colorado , the fajitas - everything is delicious .	22,24 FOOD#QUALITY 2 33,34	26,27 FOOD#QUALITY 2 33,34	29,30 FOOD#QUALITY 2 33,34	-1,-1 FOOD#QUALITY 2 33,34
+i love the warm & cosy environment .	6,7 AMBIENCE#GENERAL 2 3,4	6,7 AMBIENCE#GENERAL 2 5,6
+i just found out that you can have the place to yourself on nights and weekends for a private party - ca n ' t wait to celebrate my next birthday there .	9,10 RESTAURANT#MISCELLANEOUS 2 -1,-1
+best restaurant in the world , great decor , great customer service , friendly manager	1,2 RESTAURANT#GENERAL 2 0,1	7,8 AMBIENCE#GENERAL 2 6,7	10,12 SERVICE#GENERAL 2 9,10	14,15 SERVICE#GENERAL 2 13,14
+i am never disappointed with there food .	6,7 FOOD#QUALITY 2 2,4
+the atmosphere is great .	1,2 AMBIENCE#GENERAL 2 3,4
+great lunch spot	1,3 RESTAURANT#GENERAL 2 0,1
+– great financial district mexican spot .	4,6 RESTAURANT#GENERAL 2 1,2
+always busy , but they are good at seating you promptly and have quick service .	14,15 SERVICE#GENERAL 2 13,14	-1,-1 SERVICE#GENERAL 2 6,7
+everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .	9,11 FOOD#QUALITY 2 7,8	12,13 FOOD#QUALITY 2 7,8	14,15 FOOD#QUALITY 2 7,8	18,19 RESTAURANT#GENERAL 2 16,17	-1,-1 FOOD#QUALITY 2 7,8
+also have great margaritas !	3,4 DRINKS#QUALITY 2 2,3
+the food is simply unforgettable !	1,2 FOOD#QUALITY 2 4,5
+the presentation of the food was an added bonus , it looked just as great as it tasted !	4,5 FOOD#QUALITY 2 14,15	4,5 FOOD#STYLE_OPTIONS 2 8,9
+my best friend had the chicken shawarma and she still raves about it being the best anywhere !	5,7 FOOD#QUALITY 2 1,2
+the staff are friendly and the decor was ethic and colorful .	1,2 SERVICE#GENERAL 2 3,4	6,7 AMBIENCE#GENERAL 2 8,9	6,7 AMBIENCE#GENERAL 2 10,11
+go to open sesame ! ! !	2,4 RESTAURANT#GENERAL 2 -1,-1
+holy hummus !	1,2 FOOD#QUALITY 2 0,1
+– the food is here is incredible , though the quality is inconsistent during lunch .	2,3 FOOD#QUALITY 2 6,7	14,15 FOOD#QUALITY 0 12,13
+dinners have always been excellent , in terms of food quality .	0,1 FOOD#QUALITY 2 4,5
+the open sesame combo plate is a bargain for the heap of food given .	1,5 FOOD#PRICES 2 7,8	1,5 FOOD#STYLE_OPTIONS 2 -1,-1
+the side of potatoes is to die for , as is the labne ( yogurt dip ) .	1,4 FOOD#QUALITY 2 6,8	12,17 FOOD#QUALITY 2 6,8
+also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !	6,7 FOOD#QUALITY 2 5,6	6,7 FOOD#STYLE_OPTIONS 2 5,6
+the only drawback is the crowded seating and the slow service .	6,7 RESTAURANT#MISCELLANEOUS 0 5,6	10,11 SERVICE#GENERAL 0 9,10
+however , this place is a gem , and i wo n ' t stop going back .	3,4 RESTAURANT#GENERAL 2 6,7
+great beer	1,2 DRINKS#QUALITY 2 0,1
+– my first time to dine at this restaurant was with my son and it was absolutely horrible !	8,9 RESTAURANT#GENERAL 0 17,18
+i swore never to return for a warm beer and mediocre meal .	8,9 DRINKS#QUALITY 0 7,8	11,12 FOOD#QUALITY 0 10,11
+the band was very good and the service was attentive .	1,2 AMBIENCE#GENERAL 2 4,5	7,8 SERVICE#GENERAL 2 9,10
+we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .	11,14 FOOD#QUALITY 2 29,30	15,18 FOOD#QUALITY 2 29,30	19,21 FOOD#QUALITY 2 29,30	22,26 FOOD#QUALITY 2 29,30
+seattle ' s best winelist	4,5 DRINKS#STYLE_OPTIONS 2 3,4
+– ray ' s ( suprisingly ) has the city ' s best & most diverse wine list .	15,17 DRINKS#STYLE_OPTIONS 2 14,15
+the sommelier is fantastic , down - to - earth , & extremely knowlegable .	1,2 SERVICE#GENERAL 2 3,4	1,2 SERVICE#GENERAL 2 5,10	1,2 SERVICE#GENERAL 2 13,14
+i would go back for the wine experience alone .	6,7 DRINKS#QUALITY 0 -1,-1
+not the place it once was	2,3 RESTAURANT#GENERAL 0 -1,-1
+perhaps now , scooner or later falls into the ` ` dive ' ' category .	3,6 RESTAURANT#GENERAL 0 -1,-1
+– it is sad to see a place that was once ` ` the ' ' place to meet and eat for bfast or lunch , now be the place that is a big ` ` dont bother . ' '	7,8 RESTAURANT#GENERAL 0 3,4
+the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .	1,2 FOOD#QUALITY 0 -1,-1	1,2 FOOD#PRICES 0 -1,-1	21,22 SERVICE#GENERAL 0 24,25	22,23 SERVICE#GENERAL 0 25,26
+what may be interesting to most is the worst sevice / attitude comes from the owners of this establishment .	15,16 SERVICE#GENERAL 0 8,9
+this establishment really made a marked decline after ( and this is recurring story ) the airing of food televisions ` ` diners , drive - ins , and dives ' ' hosted by guy fieri , in which schooner or later was subject of .	1,2 RESTAURANT#GENERAL 0 -1,-1
+open & cool place with the best pizza and coffee	3,4 AMBIENCE#GENERAL 2 2,3	7,8 FOOD#QUALITY 2 6,7	9,10 FOOD#QUALITY 2 6,7
+– mioposto has a very creative & delicious pizza menu .	8,10 FOOD#QUALITY 2 7,8	8,10 FOOD#STYLE_OPTIONS 2 5,6
+the coffe is very good , too .	1,2 DRINKS#QUALITY 2 4,5
+great open and friendly ambience .	4,5 AMBIENCE#GENERAL 2 0,1	4,5 AMBIENCE#GENERAL 2 1,2	4,5 AMBIENCE#GENERAL 2 3,4
+this place is charming and relaxing .	1,2 AMBIENCE#GENERAL 2 3,4	1,2 AMBIENCE#GENERAL 2 5,6
+the servers behind the counter are always friendly and helpful .	1,5 SERVICE#GENERAL 2 7,8	1,5 SERVICE#GENERAL 2 9,10
+it ' s a great place to enjoy food and meet friends .	8,9 FOOD#QUALITY 2 7,8	5,6 RESTAURANT#MISCELLANEOUS 2 4,5
+great food , spectacular location , and friendly service keep us coming back year after year .	1,2 FOOD#QUALITY 2 0,1	4,5 LOCATION#GENERAL 2 3,4	8,9 SERVICE#GENERAL 2 7,8
+enjoyed the food	2,3 FOOD#QUALITY 2 0,1
+food was good and cheap .	0,1 FOOD#QUALITY 2 2,3	0,1 FOOD#PRICES 2 4,5
+i had the kafta plate and i enjoyed it .	3,5 FOOD#QUALITY 2 7,8
+atmosphere was nice .	0,1 AMBIENCE#GENERAL 2 2,3
+service was kind of slow , our waitress took forever to give us our check even though it was n ' t that busy .	0,1 SERVICE#GENERAL 0 4,5	7,8 SERVICE#GENERAL 0 -1,-1
+still i would recommend this place .	5,6 RESTAURANT#GENERAL 2 3,4
+what else can you say nice people amazing food wow	8,9 FOOD#QUALITY 2 7,8	6,7 SERVICE#GENERAL 2 5,6	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+great food with an awesome atmosphere !	1,2 FOOD#QUALITY 2 0,1	5,6 AMBIENCE#GENERAL 2 4,5
+– eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .	1,2 FOOD#QUALITY 2 17,18	3,4 FOOD#QUALITY 2 17,18	5,6 FOOD#QUALITY 2 17,18	7,9 FOOD#QUALITY 2 17,18	10,11 FOOD#QUALITY 2 17,18	-1,-1 FOOD#QUALITY 2 17,18
+the best place for a leisure sunday breakfast amidst yachts , then take a stroll through the nearby farmer ' s market .	2,3 RESTAURANT#MISCELLANEOUS 2 1,2
+great meal – the fish on the omikase platter was absolutely decadent - - there was none of the stringiness that sometimes accompanies fair sushi - - this fish was perfect ! ! ! !	1,2 FOOD#QUALITY 2 0,1	4,9 FOOD#QUALITY 2 11,12	4,9 FOOD#QUALITY 2 30,31
+plus , i am allergic to rice , and the waitstaff was unbelievably accomodating - - did n ' t even bat an eye !	10,11 SERVICE#GENERAL 2 13,14
+and the waiter suggested a perfect sake ! !	2,3 SERVICE#GENERAL 2 -1,-1	6,7 DRINKS#QUALITY 2 5,6
+unbeatable sushi !	1,2 FOOD#QUALITY 2 0,1
+melt in your mouth nigiri and sashmi , and very tasty rolls too .	4,5 FOOD#QUALITY 2 -1,-1	6,7 FOOD#QUALITY 2 -1,-1	11,12 FOOD#QUALITY 2 10,11
+be sure to try the oyster roll .	5,7 FOOD#QUALITY 2 3,4
+– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .	6,7 FOOD#QUALITY 2 5,6	6,7 FOOD#QUALITY 2 12,13	6,7 FOOD#QUALITY 2 14,15	6,7 FOOD#QUALITY 2 16,17	6,7 FOOD#QUALITY 2 18,19	6,7 FOOD#QUALITY 2 20,21
+i ca n ' t saybenough good things about this restaurant , and i ca n ' t wait for my next several visits .	10,11 RESTAURANT#GENERAL 2 6,7
+the best chuwam mushi i have ever had .	2,4 FOOD#QUALITY 2 1,2
+good sushi , high price	1,2 FOOD#QUALITY 2 0,1	1,2 FOOD#PRICES 0 3,4
+one of the best sushi place in town .	4,6 RESTAURANT#GENERAL 2 3,4
+the house special roll is really good .	1,4 FOOD#QUALITY 2 6,7
+brunch at murphy ' s is to die for , my specialty . . . egg white omelet , the food is always freshly prepared .	0,1 FOOD#QUALITY 2 -1,-1	15,18 FOOD#QUALITY 2 23,25	20,21 FOOD#QUALITY 2 23,25
+it ' s the perfect spot for a romantic date for 2 or a secret rendezvous !	5,6 RESTAURANT#MISCELLANEOUS 2 4,5	5,6 AMBIENCE#GENERAL 2 4,5
+save room for scrumptious desserts .	4,5 FOOD#QUALITY 2 3,4
+the restaurant offers an extensive wine list and an ambiance you wo n ' t forget !	5,7 DRINKS#STYLE_OPTIONS 2 4,5	9,10 AMBIENCE#GENERAL 2 -1,-1
+– best mexican place for lunch in the financial district .	2,4 RESTAURANT#GENERAL 2 1,2
+love the enchiladas and chicken soup - and be sure to check out their specials .	2,3 FOOD#QUALITY 2 0,1	4,6 FOOD#QUALITY 2 0,1	14,15 FOOD#QUALITY 2 -1,-1
+the cooks have been at the restaurant for years and cook family recipes .	1,2 FOOD#QUALITY 2 -1,-1
+can get busy on fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .	13,14 SERVICE#GENERAL 2 16,17
+the sushi was excellent and the wait staff was quick .	1,2 FOOD#QUALITY 2 3,4	6,8 SERVICE#GENERAL 2 9,10
+the atmosphere was just okay .	1,2 AMBIENCE#GENERAL 1 4,5
+space was limited , but the food made up for it .	0,1 RESTAURANT#MISCELLANEOUS 0 2,3	6,7 FOOD#QUALITY 2 -1,-1
+we stood there for 10 minutes while employees walked back and forth ignoring us .	7,8 SERVICE#GENERAL 0 12,13
+finally , my wife stood face to face in front of one of the staff and she asked , ` ` are you waiting for a table ? ' '	14,15 SERVICE#GENERAL 0 -1,-1
+the caesar salad i ordered had so much lemon i could n ' t eat it .	1,3 FOOD#QUALITY 0 -1,-1
+great food , better margaritas !	1,2 FOOD#QUALITY 2 0,1	4,5 DRINKS#QUALITY 2 3,4
+– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !	11,12 FOOD#STYLE_OPTIONS 2 10,11	14,15 SERVICE#GENERAL 2 13,14	17,18 DRINKS#QUALITY 2 16,17	-1,-1 RESTAURANT#GENERAL 2 6,7
+it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !	31,32 SERVICE#GENERAL 2 33,34
+check out the art on the walls , very colorful !	3,7 AMBIENCE#GENERAL 2 9,10
+i love this place !	3,4 RESTAURANT#GENERAL 2 1,2
+– i have been eating at this place for over 8 years now and i have never had one bad meal .	20,21 FOOD#QUALITY 2 19,20
+i highly recommend this place to all that want to try indain food for the first time .	11,13 FOOD#QUALITY 2 2,3
+the lunch menu is an awesome deal !	1,3 FOOD#PRICES 2 5,6
+plenty of food , trust me .	2,3 FOOD#STYLE_OPTIONS 2 0,2
+fresh ingrediants and super tasty .	1,2 FOOD#QUALITY 2 0,1	-1,-1 FOOD#QUALITY 2 3,4
+best food , phenominal service	1,2 FOOD#QUALITY 2 0,1	4,5 SERVICE#GENERAL 2 3,4
+for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .	18,19 FOOD#QUALITY 2 21,22	24,25 SERVICE#GENERAL 2 26,27
+not only can the selection be innovative , but there ' s a nice balance of traditional sushi as well .	4,5 FOOD#STYLE_OPTIONS 2 6,7	17,18 FOOD#STYLE_OPTIONS 2 13,14
+the nicest waiters in town .	2,3 SERVICE#GENERAL 2 1,2
+– this place is unbelievably over - rated .	2,3 RESTAURANT#GENERAL 0 5,8
+if i want to stand in line on sunday for an hour to get average brunch food , then i would put murphy ' s at the top of the list .	15,17 FOOD#QUALITY 1 14,15	-1,-1 SERVICE#GENERAL 0 -1,-1
+the regular menu here is slightly above average that is not worth the snotty attitude that you receive .	1,3 FOOD#QUALITY 1 6,8	1,3 FOOD#QUALITY 1 10,12	-1,-1 SERVICE#GENERAL 0 13,14
+your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .	2,3 FOOD#QUALITY 2 -1,-1	9,10 FOOD#STYLE_OPTIONS 2 6,7	12,13 DRINKS#QUALITY 2 11,12	16,18 LOCATION#GENERAL 2 15,16	23,24 FOOD#QUALITY 2 -1,-1	25,26 FOOD#QUALITY 2 -1,-1	27,28 FOOD#QUALITY 2 -1,-1	29,31 FOOD#QUALITY 2 -1,-1	32,33 FOOD#QUALITY 2 -1,-1	34,35 FOOD#QUALITY 2 -1,-1	36,37 FOOD#QUALITY 2 -1,-1	38,40 FOOD#QUALITY 2 -1,-1	41,42 FOOD#QUALITY 2 -1,-1	43,44 FOOD#QUALITY 2 -1,-1	45,47 FOOD#QUALITY 2 -1,-1	48,49 FOOD#QUALITY 2 -1,-1	50,52 FOOD#QUALITY 2 -1,-1	53,56 FOOD#QUALITY 2 -1,-1	57,58 FOOD#QUALITY 2 -1,-1	59,60 FOOD#QUALITY 2 -1,-1	61,62 FOOD#QUALITY 2 -1,-1	63,65 FOOD#QUALITY 2 -1,-1	66,67 FOOD#QUALITY 2 -1,-1	68,69 FOOD#QUALITY 2 -1,-1	70,71 FOOD#QUALITY 2 -1,-1	76,77 FOOD#STYLE_OPTIONS 2 -1,-1
+there is only one place on the east coast that has it all , plus a lot more .	4,5 RESTAURANT#GENERAL 2 -1,-1
+bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world : blue ribbon sushi .	21,24 RESTAURANT#GENERAL 2 14,15
+hands down , the best tuna i have ever had .	5,6 FOOD#QUALITY 2 4,5
+blue ribbon lives up to it ' s fantastic reputation .	0,2 RESTAURANT#GENERAL 2 8,9
+great value sushi with high quality & nice setting .	2,3 FOOD#PRICES 2 0,1	2,3 FOOD#PRICES 2 1,2	2,3 FOOD#QUALITY 2 4,5	8,9 AMBIENCE#GENERAL 2 7,8
+try the chef ' s choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .	2,8 FOOD#QUALITY 2 -1,-1	16,17 FOOD#QUALITY 2 19,20	10,12 FOOD#QUALITY 2 13,14
+poor customer service / poor pizza .	1,3 SERVICE#GENERAL 0 0,1	5,6 FOOD#QUALITY 0 4,5
+– as with most restaurants in seattle , mioposto ' s service was bad and the food was overpriced .	11,12 SERVICE#GENERAL 0 13,14	16,17 FOOD#PRICES 0 18,19
+i know many people have their favorite types of pizza and pizza places , but mioposto ' s pizza lacks quality and good taste .	18,19 FOOD#QUALITY 0 19,21
+to be honest , i ' ve had better frozen pizza .	10,11 FOOD#QUALITY 0 8,9
+the only positive thing about mioposto is the nice location .	9,10 LOCATION#GENERAL 2 8,9	5,6 RESTAURANT#GENERAL 0 -1,-1
+i was frankly shocked when i read the bad reviews - this place is fantastic ; it has not let us down in any way , and we ' ve eaten here more than 10 times .	12,13 RESTAURANT#GENERAL 2 14,15
+the food is fantastic , and the waiting staff has been perfect every single time we ' ve been there .	1,2 FOOD#QUALITY 2 3,4	7,9 SERVICE#GENERAL 2 11,12
+the only problem would be the wait , but we usually just have a drink in the front while waiting .	6,7 SERVICE#GENERAL 1 -1,-1
+seabass on lobster risotto was the best .	0,4 FOOD#QUALITY 2 6,7
+caesar salad was superb .	0,2 FOOD#QUALITY 2 3,4
+great bottle of wine .	1,4 DRINKS#QUALITY 2 0,1
+leave room for dessert .	3,4 FOOD#QUALITY 2 -1,-1
+i waited for 10 - 15 minutes for service ordered a beer & was never served again .	8,9 SERVICE#GENERAL 1 -1,-1
+the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .	1,2 FOOD#QUALITY 1 3,4	7,8 SERVICE#GENERAL 0 10,11
+avoid the place	2,3 RESTAURANT#GENERAL 0 0,1
+when i got there i sat up stairs where the atmosphere was cozy & the service was horrible !	10,11 AMBIENCE#GENERAL 2 12,13	15,16 SERVICE#GENERAL 0 17,18
+we left without ever getting service .	5,6 SERVICE#GENERAL 0 -1,-1
+best crab cakes in town	1,3 FOOD#QUALITY 2 0,1
+– thats a big statement considering i ' ve been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time .	16,17 FOOD#QUALITY 2 31,32
+if you can , come to this place by boat and make it a whole evening .	7,8 RESTAURANT#MISCELLANEOUS 2 -1,-1
+great seasonal fish and seafood , with a classy waterfront setting .	1,3 FOOD#QUALITY 2 0,1	4,5 FOOD#QUALITY 2 0,1	9,11 AMBIENCE#GENERAL 2 8,9
+great pizza , poor service	1,2 FOOD#QUALITY 2 0,1	4,5 SERVICE#GENERAL 0 3,4
+– love their pizza , especially the mushroom pizza .	3,4 FOOD#QUALITY 2 1,2	7,9 FOOD#QUALITY 2 1,2
+also love their caeser salad .	3,5 FOOD#QUALITY 2 1,2
+prefer to order it and pick it up though because i do n ' t like the servers , one young woman in particular .	17,18 SERVICE#GENERAL 0 12,16	20,22 SERVICE#GENERAL 0 12,16
+– this place is famous for their breakfast .	7,8 FOOD#QUALITY 2 4,5
+many people talk about the great pizza and poor service , so it ca n ' t just be the rantings of a few dissatisfied customers .	6,7 FOOD#QUALITY 2 5,6	9,10 SERVICE#GENERAL 0 8,9
+it ' s a great little place with tons of potential to be a neighborhood joint if the service were n ' t so impersonal and corporate - like .	6,7 RESTAURANT#GENERAL 2 4,6	18,19 SERVICE#GENERAL 0 20,25
+great breakfast	1,2 FOOD#QUALITY 2 0,1
+the food is great and they make a mean bloody mary .	1,2 FOOD#QUALITY 2 3,4	9,11 DRINKS#QUALITY 2 8,9
+i love breakfast here .	2,3 FOOD#QUALITY 2 1,2
+their crab eggs benedict is addicting .	1,4 FOOD#QUALITY 2 5,6
+all their menu items are a hit , and they serve mimosas .	2,4 FOOD#QUALITY 2 6,7	-1,-1 DRINKS#STYLE_OPTIONS 2 6,7
+best chinese food i have tasted in a long time	1,3 FOOD#QUALITY 2 0,1
+the ambiance of the restaurant was nice and good for fine dinning .	1,2 AMBIENCE#GENERAL 2 6,7	1,2 AMBIENCE#GENERAL 2 8,9
+the staff was very nice and courteous and obviously chinese .	1,2 SERVICE#GENERAL 2 4,5	1,2 SERVICE#GENERAL 2 6,7
+so about the prawns , they were fresh and had a slight crispiness about the batter . . . soooo good . . . the walnuts were cut in smaller pieces and very crunchy and tasty .	3,4 FOOD#QUALITY 2 7,8	15,16 FOOD#QUALITY 2 12,13	25,26 FOOD#QUALITY 2 33,34	25,26 FOOD#QUALITY 2 35,36
+best honey walnyt prawns that we have every tasted .	1,4 FOOD#QUALITY 2 0,1
+the brocollis were so fresh and tasty .	1,2 FOOD#QUALITY 2 4,5	1,2 FOOD#QUALITY 2 6,7
+i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .	6,7 FOOD#QUALITY 2 -1,-1	35,36 FOOD#QUALITY 2 38,39	35,36 FOOD#QUALITY 2 40,42	33,34 FOOD#QUALITY 2 38,39	33,34 FOOD#QUALITY 2 40,42
+chintzy portions	1,2 FOOD#STYLE_OPTIONS 0 0,1
+– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .	2,3 FOOD#QUALITY 0 6,7	2,3 FOOD#STYLE_OPTIONS 0 -1,-1	2,3 FOOD#PRICES 0 -1,-1	36,37 RESTAURANT#PRICES 0 34,36
+terrible service , food ok , pricey	1,2 SERVICE#GENERAL 0 0,1	3,4 FOOD#QUALITY 1 4,5	-1,-1 RESTAURANT#PRICES 0 6,7
+food wise , its ok but a bit pricey for what you get considering the restaurant is n ' t a fancy place .	0,1 FOOD#QUALITY 1 4,5	0,1 FOOD#PRICES 0 8,9	15,16 AMBIENCE#GENERAL 1 17,22
+if i needed to name some they would include the location to the beach or golden gate park .	10,11 LOCATION#GENERAL 0 -1,-1
+another plus is the open feel of the restaurant with glass walls on all sides .	5,6 AMBIENCE#GENERAL 2 1,2
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao - - um um um ) .	1,5 FOOD#QUALITY 2 0,1	7,9 FOOD#QUALITY 2 6,7	10,13 FOOD#QUALITY 2 -1,-1
+as usual the omikase did n ' t disappoint in freshness , although it scored low on creativity and selection .	3,4 FOOD#QUALITY 2 5,9	3,4 FOOD#STYLE_OPTIONS 0 -1,-1
+their specialty rolls are impressive , though i ca n ' t remember what we had .	1,3 FOOD#QUALITY 2 4,5
+green tea creme brulee gets better each time i have it .	0,4 FOOD#QUALITY 2 5,6
+great selection of sakes .	1,4 DRINKS#STYLE_OPTIONS 2 0,1
+it is n ' t the cheapest sushi but has been worth it every time .	7,8 FOOD#PRICES 1 2,7	7,8 FOOD#QUALITY 2 11,12
+very poor customer service .	2,4 SERVICE#GENERAL 0 1,2
+– schooner or later ' s charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .	7,14 LOCATION#GENERAL 2 6,7	16,17 FOOD#QUALITY 1 15,16	27,29 SERVICE#GENERAL 0 26,27
+while this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .	6,7 FOOD#QUALITY 2 5,6	9,11 SERVICE#GENERAL 0 13,14
+the fish was fresh , though it was cut very thin .	1,2 FOOD#QUALITY 2 3,4	1,2 FOOD#QUALITY 0 10,11
+great service .	1,2 SERVICE#GENERAL 2 0,1
+good sake selection .	1,3 DRINKS#STYLE_OPTIONS 2 0,1
+dungeness crabs here !	0,2 FOOD#QUALITY 2 -1,-1
+– ray ' s is the place to go for high quality seafood dinners .	12,14 FOOD#QUALITY 2 10,12
+i love dungeness crabs and at ray ' s you can get them served in about 6 different ways !	2,4 FOOD#STYLE_OPTIONS 2 1,2
+we shared the family platter and i especially enjoyed the black cod in sake kasu .	10,15 FOOD#QUALITY 2 8,9
+i ended the meal with the unusual dessert of a port and chocolate tasting . . . . yummy !	7,14 FOOD#QUALITY 2 6,7	7,14 FOOD#QUALITY 2 18,19
+and the service was simply spendid - quite a delight .	2,3 SERVICE#GENERAL 2 5,6	2,3 SERVICE#GENERAL 2 9,10
+– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .	2,3 DRINKS#QUALITY 2 1,2	4,7 FOOD#QUALITY 2 1,2	8,9 DRINKS#QUALITY 2 1,2	10,13 FOOD#QUALITY 2 1,2	16,17 FOOD#STYLE_OPTIONS 2 1,2
+the service is fantastic at this fun place .	1,2 SERVICE#GENERAL 2 3,4	7,8 RESTAURANT#GENERAL 2 6,7
+if there is a line very day of the week for the entire time a place is open , you know it is great .	15,16 RESTAURANT#GENERAL 2 23,24
+best neighborhood standby .	2,3 RESTAURANT#GENERAL 2 0,1
+in grammercy / union square / east village this is my neighbors and my favorite spot .	15,16 RESTAURANT#GENERAL 2 14,15
+the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .	1,2 AMBIENCE#GENERAL 2 3,4	12,14 DRINKS#STYLE_OPTIONS 2 15,16	23,24 AMBIENCE#GENERAL 2 22,23
+oh , and the cheese fries are awesome !	4,6 FOOD#QUALITY 2 7,8
+good food , great service , average prices ( for the strip )	1,2 FOOD#QUALITY 2 0,1	4,5 SERVICE#GENERAL 2 3,4	-1,-1 RESTAURANT#PRICES 1 6,7
+when i walked in , i was taken aback by their incredible wood decor .	12,14 AMBIENCE#GENERAL 2 11,12
+the music playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .	1,2 AMBIENCE#GENERAL 2 4,5	16,21 AMBIENCE#GENERAL 0 29,30
+i got the shellfish and shrimp appetizer and it was alright .	3,7 FOOD#QUALITY 1 10,11
+it was n ' t the freshest seafood ever , but the taste and presentation was ok .	7,8 FOOD#STYLE_OPTIONS 1 16,17	7,8 FOOD#QUALITY 1 16,17
+i picked the asparagus , which turned out to be incredible and perfectly prepared .	3,4 FOOD#QUALITY 2 10,11	3,4 FOOD#QUALITY 2 12,14
+the 9 oz steak came next and it tasted great , at least initially .	1,4 FOOD#QUALITY 2 9,10
+the steak was done to my exact liking ( medium rare ) and was nice and juicy .	1,2 FOOD#QUALITY 2 14,15	1,2 FOOD#QUALITY 2 16,17
+it ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .	10,13 FOOD#QUALITY 1 17,18	7,9 FOOD#QUALITY 1 17,18
+though , one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the steak .	21,22 FOOD#QUALITY 0 -1,-1
+the desert was the perfect ending to an almost perfect dinner .	1,2 FOOD#QUALITY 2 4,5	10,11 FOOD#QUALITY 2 9,10
+overall , i would go back and eat at the restaurant again .	10,11 RESTAURANT#GENERAL 2 -1,-1
+but the servers were extremely attentive and very friendly .	2,3 SERVICE#GENERAL 2 5,6	2,3 SERVICE#GENERAL 2 8,9
+good sake , good food – i honestly do n ' t know much about japanese food at all .	1,2 DRINKS#QUALITY 2 0,1	4,5 FOOD#QUALITY 2 3,4
+server made several sake suggestions which were very good .	3,4 DRINKS#QUALITY 2 8,9	0,1 SERVICE#GENERAL 2 8,9
+had many dishes but the best was the lobster 3 ways .	8,11 FOOD#QUALITY 2 5,6
+the waiter was a bit unfriendly and the feel of the restaurant was crowded .	1,2 SERVICE#GENERAL 0 5,6	8,9 AMBIENCE#GENERAL 0 13,14
+also , there was only one bathroom stall - probably need more for such big crowds .	6,8 RESTAURANT#MISCELLANEOUS 2 -1,-1
+most importantly , we were so excited about the food after seeing the very creative menu .	15,16 FOOD#STYLE_OPTIONS 2 14,15
+at best , the food was good and definately overpriced .	4,5 FOOD#QUALITY 2 6,7	4,5 FOOD#QUALITY 0 9,10
+for the amount of food we got the prices should have been lower .	4,5 FOOD#PRICES 0 -1,-1	4,5 FOOD#STYLE_OPTIONS 0 -1,-1
+my favortie pizza joint in seattle	2,4 RESTAURANT#GENERAL 2 1,2
+– this is my ` ` must bring out of town guests to ' ' restaurant and they always enjoy and rave about it .	15,16 RESTAURANT#GENERAL 2 19,20	15,16 RESTAURANT#GENERAL 2 21,22
+the pizza is delicious and the salads are fantastic .	1,2 FOOD#QUALITY 2 3,4	6,7 FOOD#QUALITY 2 8,9
+i ' ve always found the wait staff and , if you sit at the bar , the cooks very friendly .	6,8 SERVICE#GENERAL 2 20,21	18,19 SERVICE#GENERAL 2 20,21
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .	8,9 AMBIENCE#GENERAL 2 3,4	8,9 AMBIENCE#GENERAL 2 5,6	11,12 AMBIENCE#GENERAL 2 10,11
+– my husband and i love eating at mioposto cafe .	8,10 RESTAURANT#GENERAL 2 5,6
+we ' re ca n ' t say enough about their delicious gourmet pizza ’ s !	11,12 FOOD#QUALITY 2 13,16
+you won ’ t be disappointed by their menu .	8,9 FOOD#STYLE_OPTIONS 2 2,6
+the pizza ' s are thin crust and the menu offers very creative combinations and toppings .	1,4 FOOD#STYLE_OPTIONS 2 5,6	9,10 FOOD#STYLE_OPTIONS 2 12,13
+try the pizza ensalata !	2,4 FOOD#QUALITY 2 0,1
+the pizza ' s are not huge and the crust is thin … keep that in mind when you ’ re ordering .	1,4 FOOD#STYLE_OPTIONS 2 5,7	9,10 FOOD#STYLE_OPTIONS 2 11,12
+the food is sinful .	1,2 FOOD#QUALITY 2 3,4
+the staff was really friendly .	1,2 SERVICE#GENERAL 2 4,5
+the atmosphere was great .	1,2 AMBIENCE#GENERAL 2 3,4
+the specialty here is decadent pancakes , but i ' ve been back now four times , and i ' ve been wowed every time .	5,6 FOOD#QUALITY 2 4,5
+nothing on the menu is less than amazing .	3,4 FOOD#QUALITY 2 7,8
+good eats .	1,2 FOOD#QUALITY 2 0,1
+i have been to this place , folks and it is bad .	5,6 RESTAURANT#GENERAL 0 11,12
+maybe it is good for that one night once in a blue moon when the chefs decide to use fish that ' s half - way decent .	19,20 FOOD#QUALITY 0 26,27
+i have been here , spent tons of money on a chef special dinner and it was a major dissappointment .	11,14 FOOD#QUALITY 0 19,20	11,14 FOOD#PRICES 0 19,20
+– the atmosphere is great for any special occasion you might want to celebrate .	2,3 AMBIENCE#GENERAL 2 4,5
+the best dish are the honwy walnut prawns - just outstanding .	5,8 FOOD#QUALITY 2 10,11	5,8 FOOD#QUALITY 2 1,2
+fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .	3,5 FOOD#QUALITY 0 -1,-1	3,5 FOOD#STYLE_OPTIONS 0 0,1	10,11 FOOD#PRICES 0 -1,-1
+the service is really attentive and charming .	1,2 SERVICE#GENERAL 2 4,5	1,2 SERVICE#GENERAL 2 6,7
+the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .	1,2 SERVICE#GENERAL 2 3,4	6,7 DRINKS#QUALITY 2 8,9	15,16 FOOD#QUALITY 2 17,18
+– i recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had .	11,12 RESTAURANT#GENERAL 2 10,11
+the food is fantastic , authentic , delicious and very , very affordable .	1,2 FOOD#QUALITY 2 3,4	1,2 FOOD#QUALITY 2 5,6	1,2 FOOD#QUALITY 2 7,8	1,2 FOOD#PRICES 2 12,13
+the decor was beautiful and unique .	1,2 AMBIENCE#GENERAL 2 3,4	1,2 AMBIENCE#GENERAL 2 5,6
+there was a really nice vibe about the place . . . good music , atmosphere and happy looking people .	13,14 AMBIENCE#GENERAL 2 12,13	15,16 AMBIENCE#GENERAL 2 12,13	5,6 AMBIENCE#GENERAL 2 4,5	19,20 RESTAURANT#MISCELLANEOUS 2 17,18
+our server was very professional and friendly .	1,2 SERVICE#GENERAL 2 4,5	1,2 SERVICE#GENERAL 2 6,7
+to the owners of open sesame . . . bravo . . . i ca n ' t wait to come back to dine at your restaurant !	4,6 RESTAURANT#GENERAL 2 -1,-1
+it ' s a tiny place so if you get there before 8pm on a weekend ( thurs ? sun ) you will find it easier to get a table or a seat at the sushi bar .	5,6 RESTAURANT#MISCELLANEOUS 1 4,5
+everything , and i mean everything on the menu is delectable .	8,9 FOOD#QUALITY 2 10,11
+the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .	1,2 SERVICE#GENERAL 2 4,5	1,2 SERVICE#GENERAL 2 6,7
+the sushi is as fresh as it comes ? you ' d think ocean was in their backyard , no joke !	1,2 FOOD#QUALITY 2 4,5
+if you ' re interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place . . .	18,19 FOOD#STYLE_OPTIONS 2 17,18	21,23 FOOD#STYLE_OPTIONS 2 20,21	-1,-1 FOOD#QUALITY 2 6,7
+big thick pepperoni	2,3 FOOD#STYLE_OPTIONS 2 0,1	2,3 FOOD#STYLE_OPTIONS 2 1,2
+– the pepperoni ' s cut real thick - - yum .	2,5 FOOD#STYLE_OPTIONS 2 7,8	2,5 FOOD#STYLE_OPTIONS 2 10,11
+the pizza itself is not exactly the best i ' ve had ever , but still pretty good .	1,2 FOOD#QUALITY 2 17,18
+food was good and appetizing .	0,1 FOOD#QUALITY 2 2,3	0,1 FOOD#QUALITY 2 4,5
+portions was just enough for me , but may not be for a big eater .	0,1 FOOD#STYLE_OPTIONS 1 3,4
+fair menu selection .	1,3 FOOD#STYLE_OPTIONS 1 0,1
+the appetizer was interesting , but the creme brulee was very savory and delicious .	1,2 FOOD#QUALITY 2 3,4	7,9 FOOD#QUALITY 2 11,12	7,9 FOOD#QUALITY 2 13,14
+indoor ambience was modern .	0,2 AMBIENCE#GENERAL 2 3,4
+if it ' s nice outside , request for a table in the balcony .	13,14 AMBIENCE#GENERAL 2 4,5
+it ' s a great place to people watch .	5,6 RESTAURANT#MISCELLANEOUS 2 4,5
+late night dinning with exeptional food .	5,6 FOOD#QUALITY 2 4,5
+we were seated right away , the table was private and nice .	7,8 AMBIENCE#GENERAL 2 9,10	7,8 AMBIENCE#GENERAL 2 11,12	-1,-1 SERVICE#GENERAL 2 -1,-1
+the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .	1,2 SERVICE#GENERAL 2 3,4	19,20 SERVICE#GENERAL 2 18,19
+the food was very good , filet mignon was probably the best i ' ve ever try .	1,2 FOOD#QUALITY 2 4,5	6,8 FOOD#QUALITY 2 11,12
+the portions are big though , so do not order too much .	1,2 FOOD#STYLE_OPTIONS 1 3,4
+groovy music made the dinner casual .	1,2 AMBIENCE#GENERAL 2 5,6
+i have a but here - there was a bathroom attendant in the restroom which was odd .	13,14 RESTAURANT#MISCELLANEOUS 0 16,17
+the bathroom itself is very small with two toilets and only one sink , the girl was staying totally on the way hanging out paper towels from the dispenser .	1,2 RESTAURANT#MISCELLANEOUS 0 5,6
+– mercedes restaurant is so tasty , the service is undeniably awesome !	8,9 SERVICE#GENERAL 2 11,12	-1,-1 FOOD#QUALITY 2 5,6
+the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !	9,13 FOOD#QUALITY 2 13,14	1,2 FOOD#QUALITY 2 3,7
+drinks are suberb , and i feel like i am in a third world country when i walk in the door .	0,1 DRINKS#QUALITY 2 2,3	-1,-1 AMBIENCE#GENERAL 2 -1,-1
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .	3,4 AMBIENCE#GENERAL 0 5,6	3,4 RESTAURANT#PRICES 0 32,33	38,39 FOOD#STYLE_OPTIONS 0 36,38
+to start off , approximately 8 - 10 oz of orange juice will cost you $ 3 .	10,12 DRINKS#PRICES 0 -1,-1
+they serve it in a tall , skinny hour - glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .	23,24 DRINKS#STYLE_OPTIONS 0 22,23	23,24 DRINKS#PRICES 0 22,23
+i should have just asked for the check when i saw that ; but their menu was so unique that i continued .	15,16 FOOD#STYLE_OPTIONS 2 18,19
+the pancakes were certainly inventive but $ 8 . 50 for 3 - 6 ' ' pancakes ( one of them was more like 5 ' ' ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced .	1,2 FOOD#STYLE_OPTIONS 2 4,5	1,2 FOOD#PRICES 0 41,44
+the pancakes should be larger ( at least 8 ' ' ) to justify the expense even with the unique offerings .	1,2 FOOD#STYLE_OPTIONS 0 -1,-1	1,2 FOOD#PRICES 0 -1,-1
+on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n ' t rejected the meal all together .	9,10 FOOD#QUALITY 0 -1,-1	2,3 FOOD#QUALITY 0 -1,-1
+i rejected it because in the process of attempting to fix the eggs they broke something else in the dish and i was too frustrated to continue .	19,20 FOOD#QUALITY 0 24,25
+in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .	12,13 FOOD#STYLE_OPTIONS 0 11,12	12,13 FOOD#PRICES 0 11,12	15,17 FOOD#PRICES 0 11,12	19,21 DRINKS#PRICES 0 11,12	23,25 DRINKS#PRICES 0 11,12
+much more than just a great view !	6,7 LOCATION#GENERAL 2 5,6	-1,-1 RESTAURANT#GENERAL 2 5,6
+– i am exceedingly pleased to report that my dinner at ray ' s boathouse last friday completely exceeded my expectations .	11,15 RESTAURANT#GENERAL 2 4,5
+ray ' s is something of a seattle institution , but given its gorgeous sound views , i had suspected that the accolades were more due to the scenery than to the food and service .	14,16 LOCATION#GENERAL 2 13,14
+imagine my happy surprise upon finding that the views are only the third - best thing about ray ' s !	8,9 LOCATION#GENERAL 2 12,15	17,20 RESTAURANT#GENERAL 2 2,3
+to start things off , our lovely server brooke was quickly on hand to take my drink order .	8,9 SERVICE#GENERAL 2 6,7	8,9 SERVICE#GENERAL 2 10,11
+my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .	24,27 FOOD#STYLE_OPTIONS 2 23,24	36,38 FOOD#QUALITY 2 35,36	46,48 FOOD#QUALITY 2 45,46	59,61 FOOD#QUALITY 2 58,59
+for my entr & eacute ; e , i completely enjoyed the seared alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .	12,16 FOOD#QUALITY 2 10,11	12,16 FOOD#STYLE_OPTIONS 2 10,11
+the scallops are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .	1,2 FOOD#QUALITY 2 19,20	1,2 FOOD#STYLE_OPTIONS 2 14,15
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .	4,8 FOOD#QUALITY 2 2,3	10,14 FOOD#QUALITY 2 9,10	16,18 FOOD#QUALITY 2 15,16
+i had a taste of all three items on her plate , and they were superb .	10,11 FOOD#QUALITY 2 15,16
+our server continued to be attentive throughout the night , but i did remain puzzled by one issue : who thinks that ray ' s is an appropriate place to take young children for dinner ?	1,2 SERVICE#GENERAL 2 5,6	22,25 RESTAURANT#MISCELLANEOUS 1 -1,-1
+while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .	17,18 SERVICE#GENERAL 2 16,17	19,20 FOOD#QUALITY 2 16,17	-1,-1 RESTAURANT#MISCELLANEOUS 0 25,26
+oh yeah . . . the view was good , too .	6,7 LOCATION#GENERAL 2 8,9
+yum !	-1,-1 FOOD#QUALITY 2 0,1
+do n ' t leave the restaurant without it .	-1,-1 FOOD#QUALITY 2 -1,-1
+no comparison	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+– i ca n ' t say enough about this place .	10,11 RESTAURANT#GENERAL 2 -1,-1
+snotty attitude	-1,-1 SERVICE#GENERAL 0 0,1
+– we were treated very rudely here one time for breakfast .	-1,-1 SERVICE#GENERAL 0 5,6
+we never had to wait more than 5 minutes .	-1,-1 SERVICE#GENERAL 2 -1,-1
+they are not greasy or anything .	-1,-1 FOOD#QUALITY 2 2,4
+overrated	-1,-1 RESTAURANT#GENERAL 0 0,1
+– i was highly disappointed in the food at pagoda .	7,8 FOOD#QUALITY 0 4,5
+i will not go back .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+i will never return again .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+it was absolutely amazing .	-1,-1 RESTAURANT#GENERAL 2 3,4
+amazing .	-1,-1 RESTAURANT#GENERAL 2 0,1
+i can not wait to go back again this coming weekend !	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+mmm . . . good !	-1,-1 RESTAURANT#GENERAL 2 4,5
+we ' re going back . : d	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+finally a meal that you will remember for a long time !	2,3 FOOD#QUALITY 2 -1,-1
+very disappointing	-1,-1 RESTAURANT#GENERAL 0 1,2
+– i took my parents here for their anniversary - very very disappointed ! ! !	-1,-1 RESTAURANT#GENERAL 0 12,13
+nothing really came across as outstanding .	-1,-1 FOOD#QUALITY 0 -1,-1
+very disappointed .	-1,-1 RESTAURANT#GENERAL 0 1,2
+we were then charged for their most expensive sake ( $ 20 + per serving ) when we in fact drank a sake of less than half that price .	-1,-1 SERVICE#GENERAL 0 7,8
+you are bound to have a very charming time .	-1,-1 RESTAURANT#GENERAL 2 7,8
+not recommanded ! ! !	-1,-1 RESTAURANT#GENERAL 0 0,2
+it is not worth going at all and spend your money there ! ! !	-1,-1 RESTAURANT#GENERAL 0 2,4
+– pretty cheap for sit down mexican and downtown .	-1,-1 RESTAURANT#PRICES 2 2,3	-1,-1 LOCATION#GENERAL 2 2,3
+if you ' re in the area you should n ' t be disappointed .	-1,-1 RESTAURANT#GENERAL 2 9,14
+ok . . . . – maybe i went in on someone ' s bad day . . . .	-1,-1 RESTAURANT#GENERAL 0 14,15
+took forever to get our order taken , water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention .	-1,-1 SERVICE#GENERAL 0 -1,-1
+i do n ' t know if i ' ll be back . . . .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+everything you want and more , very fresh .	-1,-1 FOOD#QUALITY 2 7,8	-1,-1 FOOD#STYLE_OPTIONS 2 -1,-1
+its worth the wait , especially since they ' ll give you a call when the table is ready .	-1,-1 RESTAURANT#GENERAL 2 1,2	-1,-1 SERVICE#GENERAL 2 1,2
+i went there with some friends one night to play bingo and watch the sox game and it was a blast !	-1,-1 RESTAURANT#GENERAL 2 20,21
+every time ` ` 0 - sixtynine ' ' is called the bartender buys everyone drinks !	12,13 SERVICE#GENERAL 2 -1,-1
+been there lots since and its always a good time .	-1,-1 RESTAURANT#GENERAL 2 8,9
+i found a new home on second avenue ! ! ! ! ! ! ! ! ! ! ! !	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+just go there and see for yourself .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+you need to watch your game , they will have it on for you .	-1,-1 SERVICE#GENERAL 2 -1,-1
+kudos to these guys .	-1,-1 RESTAURANT#GENERAL 2 0,1
+i found a new home and just moved with a long lease .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+unless you are just stopping in for a few drinks i would n ' t recommend going here .	9,10 DRINKS#QUALITY 2 -1,-1	-1,-1 RESTAURANT#GENERAL 0 12,16
+you are likely to be disappointed .	-1,-1 RESTAURANT#GENERAL 0 5,6
+it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .	-1,-1 AMBIENCE#GENERAL 2 2,3	19,20 AMBIENCE#GENERAL 2 -1,-1	21,22 AMBIENCE#GENERAL 2 -1,-1
+i recommend it for a night when you want to splurge ! ( it was a bit expensive )	-1,-1 RESTAURANT#GENERAL 2 1,2	-1,-1 RESTAURANT#PRICES 0 17,18
+the best thing is , the prices are also quite reasonable .	-1,-1 RESTAURANT#PRICES 2 10,11
+hidden little jem	-1,-1 RESTAURANT#GENERAL 2 2,3
+– tucked away over by the beverly center .	-1,-1 LOCATION#GENERAL 1 -1,-1
+you routinely see indian families and friends dining there , which is always a good sign .	-1,-1 RESTAURANT#MISCELLANEOUS 2 14,15
+normally , places ask how hot you want it , but they did n ' t .	-1,-1 SERVICE#GENERAL 0 -1,-1
+i should have thought to bring it up but never expected the food to be that mild .	12,13 FOOD#QUALITY 2 16,17
+and they packaged everything nicely so it did n ' t spill .	-1,-1 SERVICE#GENERAL 2 4,5
+awesome find	-1,-1 RESTAURANT#GENERAL 2 0,1
+you can order to go if you have to get back to the office too !	-1,-1 SERVICE#GENERAL 2 -1,-1
+lebanese food ! yum !	0,2 FOOD#QUALITY 2 3,4
+– i ' ve been to open sesame only once , but i ' m still reeling from the experience ! !	6,8 RESTAURANT#GENERAL 2 -1,-1
+what a tastly , flaky treat !	-1,-1 FOOD#QUALITY 2 2,3	-1,-1 FOOD#QUALITY 2 4,5
+there have been several occasions when we ' ve just not gotten some side dishes we ' ve ordered .	-1,-1 SERVICE#GENERAL 0 -1,-1
+we waited over 30 minutes for our drinks and over 1 1 / 2 hours for our food .	-1,-1 SERVICE#GENERAL 0 -1,-1
+however , one sunday afternoon my husband and i did go ( although with my loud protests ) and were pleasantly surprised .	-1,-1 RESTAURANT#GENERAL 2 20,21
+it was like dining at a completely different restaurant .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .	20,21 DRINKS#QUALITY 2 21,22	20,21 DRINKS#QUALITY 2 23,24	-1,-1 RESTAURANT#GENERAL 2 8,9
+we did have the same waiter the second time , so maybe the service is spotty and our luck is good .	5,6 SERVICE#GENERAL 2 20,21
+sunday afternoons there is a band playing and it is lots of fun .	5,6 AMBIENCE#GENERAL 0 12,13
+nice job !	-1,-1 RESTAURANT#GENERAL 2 0,1
+this is sad for what once was one of the best places you could ever eat .	-1,-1 RESTAURANT#GENERAL 0 2,3
+i hope one day scooner or later returns to what it once was .	4,7 RESTAURANT#GENERAL 0 -1,-1
+untill this happens , my advice is to stay away .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+old reliable	-1,-1 RESTAURANT#GENERAL 2 1,2
+– after 12 years in seattle ray ' s rates as the place we always go back to .	6,9 RESTAURANT#GENERAL 2 -1,-1
+i liked it .	-1,-1 RESTAURANT#GENERAL 2 1,2
+it was so much though that i could barely finish but i did , since it was delicious .	-1,-1 FOOD#STYLE_OPTIONS 1 -1,-1	-1,-1 FOOD#QUALITY 2 17,18
+wow ! ! ! ! ! ! ! !	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+– it cant get any better ! ! ! ! !	-1,-1 RESTAURANT#GENERAL 2 5,6
+absolutely fabulous ! ! !	-1,-1 RESTAURANT#GENERAL 2 1,2
+two thumbs up !	-1,-1 FOOD#QUALITY 2 1,3
+this is right up there with places in tokyo as far as the freshness is concerned .	-1,-1 FOOD#QUALITY 2 -1,-1
+splendid	-1,-1 RESTAURANT#GENERAL 2 0,1
+perfect on a cold day .	-1,-1 FOOD#QUALITY 2 0,1
+$ 6 with tip .	-1,-1 RESTAURANT#PRICES 2 -1,-1
+perfection .	-1,-1 RESTAURANT#GENERAL 2 0,1
+on weekends , you might have to wait for couple hours .	-1,-1 SERVICE#GENERAL 1 -1,-1
+however , they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone .	-1,-1 SERVICE#GENERAL 2 -1,-1
+that ' s a huge compliment , especially in the fickled restaurant business , . . . enough already !	-1,-1 RESTAURANT#GENERAL 2 5,6
+i guarantee you wo n ' t be disappointed , there ' s also valet parking .	-1,-1 RESTAURANT#GENERAL 2 4,9	-1,-1 RESTAURANT#MISCELLANEOUS 2 4,9
+a cozy spot for 2	2,3 AMBIENCE#GENERAL 2 1,2
+– i ca n ' t believe murphy ' s has been around for over 25 years , amazing .	7,10 RESTAURANT#MISCELLANEOUS 2 18,19
+addicting !	-1,-1 RESTAURANT#GENERAL 2 0,1
+i went there with a friend from out of town . . . and we were both very impressed !	-1,-1 RESTAURANT#GENERAL 2 18,19
+the price was right too .	-1,-1 RESTAURANT#PRICES 2 3,4
+i ' d go back there in a heartbeat .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+well i guess it ' s hard to be seated when one is invisible to the staff .	16,17 SERVICE#GENERAL 0 -1,-1
+once seated it took about 30 minutes to finally get the meal .	-1,-1 SERVICE#GENERAL 0 -1,-1
+the prior reviews said kid friendly . . . give me a break with two young children that is light years .	-1,-1 RESTAURANT#MISCELLANEOUS 0 -1,-1
+it was decent but nothing exceptional .	-1,-1 FOOD#QUALITY 2 2,3	-1,-1 FOOD#QUALITY 1 4,6
+the place is the next best thing to my moms cooking .	-1,-1 FOOD#QUALITY 2 5,6
+way over - rated ! ! ! !	-1,-1 RESTAURANT#GENERAL 0 1,4
+10 !	-1,-1 RESTAURANT#GENERAL 2 0,1
+cut to the chase - this is amazing !	-1,-1 RESTAURANT#GENERAL 2 7,8
+it ' s unpretentious and underground .	-1,-1 AMBIENCE#GENERAL 2 3,4
+it ' s fresh , welcoming , delicious , and relaxing .	-1,-1 FOOD#QUALITY 2 3,4	-1,-1 FOOD#QUALITY 2 7,8	-1,-1 AMBIENCE#GENERAL 2 5,6	-1,-1 AMBIENCE#GENERAL 2 10,11
+i went here on a recommendation and will surely return time and time again .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+what a find !	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+well worth it	-1,-1 RESTAURANT#GENERAL 2 1,2
+good for late night dining ( last minute planning ) without reservations .	-1,-1 RESTAURANT#MISCELLANEOUS 2 -1,-1
+love it every time	-1,-1 RESTAURANT#GENERAL 2 0,1
+never had one single problem there .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+seafood plus	0,1 FOOD#QUALITY 2 1,2
+– this was great dining experience .	-1,-1 RESTAURANT#GENERAL 2 3,4
+if you ' re going to see danny gans or just staying at the mirage , do n ' t miss this one .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+completely over rated !	-1,-1 RESTAURANT#GENERAL 0 1,3
+even then , the order was not correct and we were still waiting for a couple items .	-1,-1 SERVICE#GENERAL 0 -1,-1
+we had a very hard time getting the waitress ' attention and finally had to get up and go inside to speak to a manager .	8,9 SERVICE#GENERAL 0 -1,-1
+as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill .	5,6 SERVICE#GENERAL 0 24,25
+when the bill came , he only took the discount off the food and not the drinks .	-1,-1 SERVICE#GENERAL 0 -1,-1
+it was clear he didn ’ t really care .	-1,-1 SERVICE#GENERAL 0 -1,-1
+– save yourself the waste of time & do not visit .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+after sitting there with my empty glass for over 20 minutes i left .	-1,-1 SERVICE#GENERAL 0 -1,-1
+i went home & looked them up online again where i discovered there is a link for a give away that does n ' t work so emailed the restaurant about the non existent service & deceptive link .	29,30 RESTAURANT#MISCELLANEOUS 0 -1,-1
+i never heard back from anyone more than a month ago .	-1,-1 RESTAURANT#MISCELLANEOUS 0 -1,-1
+after sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she ' d be right with us .	10,12 SERVICE#GENERAL 0 -1,-1
+as of writing this i just tried their give away a link again & it still does n ' t work .	-1,-1 RESTAURANT#MISCELLANEOUS 0 -1,-1
+always a winner .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+she does n ' t make you feel welcome and treats you like an annoyance .	-1,-1 SERVICE#GENERAL 0 14,15
+but she is very friendly with certain people , making it even more annoying .	-1,-1 SERVICE#GENERAL 0 13,14
+management should really take notice and train their waitstaff and teach them some proper manners .	0,1 SERVICE#GENERAL 0 -1,-1	8,9 SERVICE#GENERAL 0 -1,-1
+they have been featured on the food network and they deserve it .	-1,-1 RESTAURANT#MISCELLANEOUS 2 -1,-1
+does n ' t get any better than that .	-1,-1 RESTAURANT#GENERAL 2 6,7
+you can easily hear him though so it was a pleasant sound and not overbearing .	-1,-1 AMBIENCE#GENERAL 2 10,11
+not too fine thought that you feel uncomfortable and have to dress up .	-1,-1 AMBIENCE#GENERAL 2 -1,-1
+first off , the food came fast and all together : ) i like that . . . i hate the pretentiousness of things coming in one after the other .	-1,-1 SERVICE#GENERAL 2 6,7
+yummy .	-1,-1 FOOD#QUALITY 2 0,1
+not chewy at all .	-1,-1 FOOD#QUALITY 2 0,2
+for desert we had the mango ginger creme brulee . . . oh la la yummy ! ! !	5,9 FOOD#QUALITY 2 15,16
+melt in your mouth .	-1,-1 FOOD#QUALITY 2 -1,-1
+we are for sure coming back to this restaurant .	8,9 RESTAURANT#GENERAL 2 -1,-1
+it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel . . . but they are definitely one you dont want to miss , esp if your in downtown san jose .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+we easily spent more than $ 40 per person ( not including alcohol ) and were still hungry .	-1,-1 RESTAURANT#PRICES 0 -1,-1	-1,-1 FOOD#STYLE_OPTIONS 0 -1,-1
+i ' m astonished that this restaurant is categorized as $ $ $ rather than $ $ $ $ .	6,7 RESTAURANT#PRICES 0 3,4
+we put out name down and although there were open tables we were told that it ' d be a 30 minute wait .	-1,-1 SERVICE#GENERAL 0 -1,-1
+we went back to the restaurant and low and behold , we were seated at one of the tables that was available 30 minutes ago ! !	-1,-1 SERVICE#GENERAL 0 -1,-1
+none that i can think of .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+we put in our order and although we ordered 4 appetizers , the food did n ' t arrive until 45 minutes later . . . with our main course .	-1,-1 SERVICE#GENERAL 0 -1,-1
+um so now what are appetizers for ? ? ?	-1,-1 SERVICE#GENERAL 0 -1,-1
+oh i forgot to mention that they do n ' t have bread service .	-1,-1 SERVICE#GENERAL 0 -1,-1
+my wife also ordered a teapot of hot water ( she had a sore throat ) and i guess that since it was only water , it was n ' t a priority for them to actually bring it .	-1,-1 SERVICE#GENERAL 0 -1,-1
+in other words , if they are n ' t making $ $ off of you then you do n ' t rate high on their ' service scale ' .	27,28 SERVICE#GENERAL 0 -1,-1
+its great if you spent the day there and did n ' t want to drive to eat .	-1,-1 LOCATION#GENERAL 2 1,2
+parking is reasonably good , they have their own lot and you can park in the park nearby .	-1,-1 RESTAURANT#MISCELLANEOUS 2 3,4
+always good .	-1,-1 RESTAURANT#GENERAL 2 1,2
+6pm on a sat before a broadway play and we were quickly seated and served .	-1,-1 SERVICE#GENERAL 2 -1,-1
+as part of a small party of four , our food was dropped off without comment ;	-1,-1 SERVICE#GENERAL 0 -1,-1
+any further needs we may have had could not have been met since no one stopped by the table .	-1,-1 SERVICE#GENERAL 0 -1,-1
+when we finally were able to flag someone down , it was someone entirely different from the person who had dropped off the food , who was also not the same person who had taken our order .	-1,-1 SERVICE#GENERAL 0 -1,-1
+a brief conversation with the manager at the end of the meal was the greatest disappointment - - to say we had been ` ` blown off ' ' would be an understatement .	5,6 SERVICE#GENERAL 0 15,16
+the manager continually interrupted with ` ` is there anything else i can do for you ? ` ` , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .	1,2 SERVICE#GENERAL 0 36,37
+she promised to speak to the waitress who had flown off in a rage , but we could hardly take her promise seriously , seeing as she had n ' t bothered to get the waitresses name .	-1,-1 SERVICE#GENERAL 0 -1,-1
+in short , schooner or later could n ' t have cared less about our being at their establishment .	-1,-1 SERVICE#GENERAL 0 -1,-1
+you are with a hot date and he / she has an urge for sushi . . . then this might be the place .	14,15 FOOD#QUALITY 2 -1,-1
+and they give good quantity for the price .	-1,-1 FOOD#STYLE_OPTIONS 2 3,4	-1,-1 FOOD#PRICES 2 -1,-1
+we were only in seattle for one night and i ' m so glad we picked rays for dinner !	16,17 RESTAURANT#GENERAL 2 13,14
+this is the case at this gem .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+you ca n ' t go wrong here .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+seriously , you ca n ' t go wrong , if it is unpretentious local fun you seek .	-1,-1 AMBIENCE#GENERAL 2 15,16
+my mouth felt very dry afterwards and i had that signature ? msg ? taste lingering in my throat after i left the restaurant .	-1,-1 FOOD#QUALITY 0 -1,-1
+they came in their own nifty take out box and with some homemade frosting ; very light and not - too - sweet .	-1,-1 FOOD#QUALITY 2 16,17	-1,-1 FOOD#QUALITY 2 18,23
+the dinner only took us about an hour and the prices were alright for the strip , almost $ 50 / pp after tax and tip ( about average ) .	-1,-1 RESTAURANT#PRICES 1 12,13	-1,-1 SERVICE#GENERAL 2 -1,-1
+just remember to dress a little urban - chic so you don ? t look too far out of place .	-1,-1 RESTAURANT#MISCELLANEOUS 1 -1,-1
+very good !	-1,-1 RESTAURANT#GENERAL 2 1,2
+overpriced	-1,-1 RESTAURANT#PRICES 0 0,1
+waited 35 minutes for a table for 8 which was ok for such a big crowd .	-1,-1 SERVICE#GENERAL 1 10,11
+not sure if i would go back .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+in fact , many want to return a second time during their visit .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+they are n ' t the most talkative , but everytime i ' ve been there they have been very busy , which probably accounts for the lack of conversation .	-1,-1 SERVICE#GENERAL 1 -1,-1
+it ' s just the right size for the menu .	-1,-1 RESTAURANT#MISCELLANEOUS 2 5,6
+excellent	-1,-1 RESTAURANT#GENERAL 2 0,1
+you never feel icky and stuffed after you eat there .	-1,-1 FOOD#QUALITY 2 -1,-1
+the pizza ' s are light and scrumptious .	1,4 FOOD#QUALITY 2 5,6	1,4 FOOD#QUALITY 2 7,8
+worth the wait	-1,-1 RESTAURANT#GENERAL 2 0,1
+– had to wait thirty minutes to get in the door on a tuesday morning , but it was so worth it .	-1,-1 RESTAURANT#MISCELLANEOUS 0 -1,-1	-1,-1 RESTAURANT#GENERAL 2 20,21
+go with some friends , wait the half hour or so with a cup of joe , and enjoy more than your average breakfast .	-1,-1 RESTAURANT#GENERAL 2 -1,-1	23,24 FOOD#QUALITY 2 18,19
+i do n ' t know why anyone would want to write a great review about this place .	17,18 RESTAURANT#GENERAL 0 -1,-1
+donot go !	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+delicious	-1,-1 FOOD#QUALITY 2 0,1
+we waited for an hour to be seated .	-1,-1 SERVICE#GENERAL 0 -1,-1
+it was worth the wait .	-1,-1 RESTAURANT#GENERAL 2 2,3
+plan on waiting 30 - 70 minutes .	-1,-1 SERVICE#GENERAL 1 -1,-1
+will definitely be back .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+delicious . . . !	-1,-1 FOOD#QUALITY 2 0,1
+delectable	-1,-1 FOOD#QUALITY 2 0,1
+once you ' re inside , the real experience begins .	-1,-1 RESTAURANT#GENERAL 2 -1,-1
+i probably would n ' t go back though ' cuz i do n ' t know if it ' s worth it .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+maybe i ' ll go back once more many years from now when i ' ve forgotten i went there already .	-1,-1 RESTAURANT#GENERAL 0 -1,-1
+sit in the balcony	3,4 AMBIENCE#GENERAL 1 -1,-1
+– not bad .	-1,-1 RESTAURANT#GENERAL 1 1,3
+although the service could be improved considering the money you put in .	-1,-1 RESTAURANT#PRICES 0 -1,-1	2,3 SERVICE#GENERAL 0 -1,-1
+our drinks kept coming but our server came by a couple times .	-1,-1 SERVICE#GENERAL 2 -1,-1	6,7 SERVICE#GENERAL 0 -1,-1
+should check - up on us more frequently , do n ' t you think ?	-1,-1 SERVICE#GENERAL 0 -1,-1
+the most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places .	-1,-1 RESTAURANT#PRICES 2 2,3
+i felt ackward and next time went to the casino bathroom .	-1,-1 RESTAURANT#MISCELLANEOUS 0 2,3
+this place rocks ! !	1,2 RESTAURANT#GENERAL 2 2,3
+the chips and salsa are so yummy , and the prices are fabulous .	1,2 FOOD#QUALITY 2 6,7	3,4 FOOD#QUALITY 2 6,7	-1,-1 RESTAURANT#PRICES 2 12,13
+the atmosphere is aspiring , and the decor is festive and amazing . .	1,2 AMBIENCE#GENERAL 2 3,4	7,8 AMBIENCE#GENERAL 2 9,10	7,8 AMBIENCE#GENERAL 2 11,12
+insultingly overpriced	-1,-1 RESTAURANT#PRICES 0 1,2
+- mediocre service / quality	2,3 SERVICE#GENERAL 1 1,2
+to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .	13,14 SERVICE#GENERAL 0 -1,-1	-1,-1 SERVICE#GENERAL 2 0,3
+two rascally kids were seated near us for the first part of our dinner . . . they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table .	-1,-1 RESTAURANT#MISCELLANEOUS 0 -1,-1
+all considered , i have to say that ray ' s boathouse is deserving of its title as a seattle institution .	8,12 RESTAURANT#GENERAL 2 -1,-1

@@ -6,6 +6,6 @@
 # GScholar: https://scholar.google.com/citations?user=NPq5a_0AAAAJ&hl=en
 # ResearchGate: https://www.researchgate.net/profile/Heng-Yang-17/research
 # Copyright (C) 2021. All Rights Reserved.
-from pyabsa.utils.file_utils import convert_apc_set_to_atepc_set
+from pyabsa import convert_apc_set_to_atepc_set
 
 convert_apc_set_to_atepc_set('custom.apc.train.txt')  # for custom datasets, absolute path recommended for this function

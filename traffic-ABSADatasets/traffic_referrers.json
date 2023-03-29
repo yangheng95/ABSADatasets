@@ -1,52 +1,52 @@
 [
   {
     "referrer": "github.com",
-    "count": 352,
-    "uniques": 53
+    "count": 449,
+    "uniques": 56
   },
   {
     "referrer": "Google",
-    "count": 236,
-    "uniques": 27
+    "count": 248,
+    "uniques": 28
   },
   {
     "referrer": "huggingface.co",
-    "count": 149,
-    "uniques": 32
+    "count": 118,
+    "uniques": 28
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 105,
-    "uniques": 18
+    "count": 111,
+    "uniques": 19
   },
   {
     "referrer": "medium.com",
-    "count": 93,
-    "uniques": 30
+    "count": 90,
+    "uniques": 31
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 82,
-    "uniques": 9
-  },
-  {
-    "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
-    "count": 61,
-    "uniques": 9
+    "count": 81,
+    "uniques": 8
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentim-6aa230e.hf.space",
-    "count": 52,
-    "uniques": 14
+    "count": 57,
+    "uniques": 12
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 43,
+    "count": 40,
+    "uniques": 5
+  },
+  {
+    "referrer": "gradio-blocks-multilingual-aspect-based-sentim-c04f821.hf.space",
+    "count": 38,
     "uniques": 6
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
+    "referrer": "Baidu",
     "count": 37,
-    "uniques": 7
+    "uniques": 3
   }
 ]

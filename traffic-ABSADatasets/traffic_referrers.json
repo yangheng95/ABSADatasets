@@ -1,52 +1,52 @@
 [
   {
     "referrer": "medium.com",
-    "count": 216,
-    "uniques": 26
+    "count": 190,
+    "uniques": 25
   },
   {
     "referrer": "github.com",
-    "count": 199,
-    "uniques": 19
+    "count": 183,
+    "uniques": 18
   },
   {
     "referrer": "huggingface.co",
-    "count": 142,
-    "uniques": 21
+    "count": 155,
+    "uniques": 25
   },
   {
     "referrer": "Google",
-    "count": 95,
-    "uniques": 20
+    "count": 84,
+    "uniques": 17
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 73,
-    "uniques": 16
-  },
-  {
-    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 52,
-    "uniques": 3
+    "count": 77,
+    "uniques": 17
   },
   {
     "referrer": "pypi.org",
-    "count": 47,
-    "uniques": 5
+    "count": 48,
+    "uniques": 6
   },
   {
-    "referrer": "yangheng-pyabsa.hf.space",
-    "count": 16,
-    "uniques": 4
-  },
-  {
-    "referrer": "euc-word-view.officeapps.live.com",
-    "count": 7,
+    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
+    "count": 30,
     "uniques": 2
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 6,
-    "uniques": 3
+    "referrer": "yangheng-pyabsa.hf.space",
+    "count": 18,
+    "uniques": 5
+  },
+  {
+    "referrer": "2tbatd3ywow-496ff2e9c6d22116-0-colab.googleusercontent.com",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "referrer": "euc-word-view.officeapps.live.com",
+    "count": 9,
+    "uniques": 2
   }
 ]

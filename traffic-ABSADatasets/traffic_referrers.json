@@ -1,33 +1,38 @@
 [
   {
-    "referrer": "github.com",
-    "count": 284,
-    "uniques": 23
+    "referrer": "huggingface.co",
+    "count": 268,
+    "uniques": 24
   },
   {
-    "referrer": "huggingface.co",
-    "count": 224,
+    "referrer": "Google",
+    "count": 223,
+    "uniques": 19
+  },
+  {
+    "referrer": "github.com",
+    "count": 197,
     "uniques": 24
   },
   {
     "referrer": "medium.com",
-    "count": 187,
-    "uniques": 22
-  },
-  {
-    "referrer": "Google",
-    "count": 86,
-    "uniques": 15
+    "count": 105,
+    "uniques": 19
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 66,
+    "count": 71,
     "uniques": 15
   },
   {
     "referrer": "pypi.org",
-    "count": 62,
-    "uniques": 9
+    "count": 58,
+    "uniques": 8
+  },
+  {
+    "referrer": "colab.research.google.com",
+    "count": 44,
+    "uniques": 1
   },
   {
     "referrer": "linkedin.com",
@@ -36,17 +41,12 @@
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 30,
-    "uniques": 2
+    "count": 31,
+    "uniques": 3
   },
   {
     "referrer": "2tbatd3ywow-496ff2e9c6d22116-0-colab.googleusercontent.com",
     "count": 11,
     "uniques": 1
-  },
-  {
-    "referrer": "euc-word-view.officeapps.live.com",
-    "count": 9,
-    "uniques": 2
   }
 ]

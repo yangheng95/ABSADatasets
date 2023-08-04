@@ -1,37 +1,37 @@
 [
   {
     "referrer": "github.com",
-    "count": 304,
-    "uniques": 33
-  },
-  {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 232,
-    "uniques": 16
+    "count": 303,
+    "uniques": 35
   },
   {
     "referrer": "medium.com",
-    "count": 202,
-    "uniques": 24
+    "count": 249,
+    "uniques": 27
+  },
+  {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 238,
+    "uniques": 17
   },
   {
     "referrer": "huggingface.co",
-    "count": 149,
-    "uniques": 30
+    "count": 154,
+    "uniques": 33
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 99,
-    "uniques": 9
+    "count": 132,
+    "uniques": 10
   },
   {
     "referrer": "Google",
-    "count": 98,
+    "count": 105,
     "uniques": 14
   },
   {
     "referrer": "yangheng-multilingual-aspect-based-sentiment-analysis.hf.space",
-    "count": 33,
+    "count": 55,
     "uniques": 6
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 18,
-    "uniques": 3
+    "count": 20,
+    "uniques": 4
   },
   {
     "referrer": "notebooks.githubusercontent.com",

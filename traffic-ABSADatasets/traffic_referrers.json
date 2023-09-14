@@ -1,38 +1,43 @@
 [
   {
     "referrer": "Google",
-    "count": 605,
-    "uniques": 23
+    "count": 594,
+    "uniques": 25
   },
   {
     "referrer": "github.com",
-    "count": 483,
-    "uniques": 24
-  },
-  {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 228,
-    "uniques": 21
+    "count": 441,
+    "uniques": 25
   },
   {
     "referrer": "huggingface.co",
-    "count": 195,
-    "uniques": 30
+    "count": 241,
+    "uniques": 31
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 143,
-    "uniques": 11
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 232,
+    "uniques": 20
   },
   {
     "referrer": "medium.com",
-    "count": 132,
+    "count": 93,
     "uniques": 19
   },
   {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 75,
+    "uniques": 8
+  },
+  {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 85,
-    "uniques": 6
+    "count": 45,
+    "uniques": 5
+  },
+  {
+    "referrer": "yangheng-pyabsa.hf.space",
+    "count": 31,
+    "uniques": 4
   },
   {
     "referrer": "seller-polling-nbz3.notebook.us-east-1.sagemaker.aws",
@@ -40,13 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "yangheng-pyabsa.hf.space",
-    "count": 27,
-    "uniques": 3
-  },
-  {
-    "referrer": "Bing",
-    "count": 22,
-    "uniques": 3
+    "referrer": "reddit.com",
+    "count": 14,
+    "uniques": 1
   }
 ]

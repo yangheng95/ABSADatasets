@@ -1,17 +1,17 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 360,
-    "uniques": 41
+    "count": 354,
+    "uniques": 37
   },
   {
     "referrer": "Google",
-    "count": 281,
-    "uniques": 21
+    "count": 262,
+    "uniques": 22
   },
   {
     "referrer": "github.com",
-    "count": 246,
+    "count": 247,
     "uniques": 31
   },
   {
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 84,
-    "uniques": 23
+    "count": 61,
+    "uniques": 24
   },
   {
     "referrer": "pypi.org",
@@ -30,14 +30,14 @@
     "uniques": 7
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 18,
-    "uniques": 7
+    "referrer": "yangheng-multilingual-aspect-based-sentiment-analysis.hf.space",
+    "count": 40,
+    "uniques": 4
   },
   {
-    "referrer": "yangheng-multilingual-aspect-based-sentiment-analysis.hf.space",
-    "count": 16,
-    "uniques": 3
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 17,
+    "uniques": 6
   },
   {
     "referrer": "arxiv.org",

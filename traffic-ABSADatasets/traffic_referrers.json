@@ -1,33 +1,43 @@
 [
   {
+    "referrer": "Google",
+    "count": 363,
+    "uniques": 22
+  },
+  {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 370,
+    "count": 362,
     "uniques": 15
   },
   {
     "referrer": "github.com",
-    "count": 252,
+    "count": 265,
     "uniques": 32
   },
   {
-    "referrer": "Google",
-    "count": 248,
-    "uniques": 21
-  },
-  {
     "referrer": "huggingface.co",
-    "count": 113,
+    "count": 139,
     "uniques": 22
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 108,
-    "uniques": 13
+    "count": 105,
+    "uniques": 12
   },
   {
     "referrer": "medium.com",
-    "count": 77,
+    "count": 87,
     "uniques": 16
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 69,
+    "uniques": 1
+  },
+  {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 41,
+    "uniques": 2
   },
   {
     "referrer": "cn.bing.com",
@@ -38,15 +48,5 @@
     "referrer": "Bing",
     "count": 23,
     "uniques": 2
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 20,
-    "uniques": 2
-  },
-  {
-    "referrer": "manojkumart-aspect-based-sentiment-analysis.hf.space",
-    "count": 6,
-    "uniques": 1
   }
 ]

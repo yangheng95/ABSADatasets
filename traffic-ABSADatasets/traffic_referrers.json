@@ -1,28 +1,28 @@
 [
   {
     "referrer": "github.com",
-    "count": 445,
-    "uniques": 27
+    "count": 407,
+    "uniques": 26
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 233,
-    "uniques": 25
+    "count": 245,
+    "uniques": 26
   },
   {
     "referrer": "medium.com",
-    "count": 200,
+    "count": 198,
     "uniques": 22
   },
   {
     "referrer": "Google",
-    "count": 178,
-    "uniques": 12
+    "count": 188,
+    "uniques": 13
   },
   {
     "referrer": "huggingface.co",
-    "count": 121,
-    "uniques": 29
+    "count": 144,
+    "uniques": 31
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",

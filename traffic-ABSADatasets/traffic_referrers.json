@@ -1,38 +1,38 @@
 [
   {
     "referrer": "github.com",
-    "count": 670,
-    "uniques": 22
-  },
-  {
-    "referrer": "Google",
-    "count": 190,
-    "uniques": 15
-  },
-  {
-    "referrer": "huggingface.co",
-    "count": 133,
+    "count": 661,
     "uniques": 23
   },
   {
+    "referrer": "Google",
+    "count": 199,
+    "uniques": 17
+  },
+  {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 109,
+    "count": 180,
     "uniques": 10
   },
   {
+    "referrer": "huggingface.co",
+    "count": 145,
+    "uniques": 24
+  },
+  {
     "referrer": "medium.com",
-    "count": 93,
-    "uniques": 16
+    "count": 130,
+    "uniques": 19
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 67,
+    "count": 68,
     "uniques": 3
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 22,
-    "uniques": 3
+    "count": 20,
+    "uniques": 2
   },
   {
     "referrer": "colab.research.google.com",
@@ -40,13 +40,13 @@
     "uniques": 2
   },
   {
+    "referrer": "sourcegraph.com",
+    "count": 11,
+    "uniques": 1
+  },
+  {
     "referrer": "pypi.org",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "referrer": "Bing",
-    "count": 3,
-    "uniques": 1
   }
 ]

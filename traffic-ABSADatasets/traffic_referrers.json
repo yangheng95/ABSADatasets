@@ -1,28 +1,28 @@
 [
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 275,
-    "uniques": 19
+    "count": 227,
+    "uniques": 17
   },
   {
     "referrer": "huggingface.co",
-    "count": 175,
-    "uniques": 16
+    "count": 172,
+    "uniques": 13
   },
   {
     "referrer": "github.com",
-    "count": 158,
-    "uniques": 22
+    "count": 119,
+    "uniques": 20
   },
   {
     "referrer": "Google",
-    "count": 85,
+    "count": 79,
     "uniques": 17
   },
   {
     "referrer": "notebooks.githubusercontent.com",
-    "count": 64,
-    "uniques": 3
+    "count": 39,
+    "uniques": 2
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 13,
-    "uniques": 12
+    "count": 17,
+    "uniques": 13
   },
   {
     "referrer": "pypi.org",

@@ -1,38 +1,38 @@
 [
   {
     "referrer": "Google",
-    "count": 273,
-    "uniques": 23
+    "count": 277,
+    "uniques": 25
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 205,
-    "uniques": 24
+    "count": 277,
+    "uniques": 23
   },
   {
     "referrer": "github.com",
-    "count": 172,
+    "count": 212,
     "uniques": 21
   },
   {
     "referrer": "huggingface.co",
     "count": 113,
-    "uniques": 38
+    "uniques": 35
   },
   {
     "referrer": "8e1b1677a097e93-dot-europe-west1.notebooks.googleusercontent.com",
-    "count": 70,
-    "uniques": 4
+    "count": 79,
+    "uniques": 5
+  },
+  {
+    "referrer": "medium.com",
+    "count": 59,
+    "uniques": 16
   },
   {
     "referrer": "pypi.org",
     "count": 51,
     "uniques": 1
-  },
-  {
-    "referrer": "medium.com",
-    "count": 38,
-    "uniques": 16
   },
   {
     "referrer": "libraries.io",

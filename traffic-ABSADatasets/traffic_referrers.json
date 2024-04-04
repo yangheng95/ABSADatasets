@@ -1,28 +1,28 @@
 [
   {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 352,
-    "uniques": 23
+    "referrer": "github.com",
+    "count": 418,
+    "uniques": 30
   },
   {
-    "referrer": "github.com",
-    "count": 329,
-    "uniques": 28
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 315,
+    "uniques": 19
   },
   {
     "referrer": "Google",
-    "count": 230,
-    "uniques": 28
+    "count": 311,
+    "uniques": 31
   },
   {
     "referrer": "huggingface.co",
-    "count": 208,
-    "uniques": 32
+    "count": 220,
+    "uniques": 29
   },
   {
     "referrer": "medium.com",
-    "count": 137,
-    "uniques": 15
+    "count": 135,
+    "uniques": 14
   },
   {
     "referrer": "8e1b1677a097e93-dot-europe-west1.notebooks.googleusercontent.com",
@@ -37,7 +37,7 @@
   {
     "referrer": "notebooks.githubusercontent.com",
     "count": 4,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "youtube.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "dev.azure.com",
-    "count": 4,
-    "uniques": 1
+    "referrer": "kkb-production.jupyter-proxy.kaggle.net",
+    "count": 2,
+    "uniques": 2
   }
 ]

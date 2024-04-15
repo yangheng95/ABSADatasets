@@ -1,32 +1,32 @@
 [
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 458,
+    "count": 463,
     "uniques": 39
   },
   {
     "referrer": "Google",
-    "count": 435,
-    "uniques": 38
+    "count": 429,
+    "uniques": 37
   },
   {
     "referrer": "github.com",
-    "count": 375,
-    "uniques": 31
+    "count": 374,
+    "uniques": 32
   },
   {
     "referrer": "huggingface.co",
-    "count": 256,
-    "uniques": 25
+    "count": 273,
+    "uniques": 26
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 246,
+    "count": 248,
     "uniques": 9
   },
   {
     "referrer": "medium.com",
-    "count": 66,
+    "count": 108,
     "uniques": 17
   },
   {
@@ -40,13 +40,13 @@
     "uniques": 5
   },
   {
+    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
+    "count": 29,
+    "uniques": 5
+  },
+  {
     "referrer": "copilot.microsoft.com",
     "count": 25,
     "uniques": 1
-  },
-  {
-    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 19,
-    "uniques": 2
   }
 ]

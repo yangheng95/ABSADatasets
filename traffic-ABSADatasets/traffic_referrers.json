@@ -1,28 +1,28 @@
 [
   {
-    "referrer": "Google",
-    "count": 298,
-    "uniques": 36
-  },
-  {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 269,
-    "uniques": 24
-  },
-  {
     "referrer": "huggingface.co",
-    "count": 259,
+    "count": 274,
     "uniques": 30
   },
   {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 261,
+    "uniques": 24
+  },
+  {
+    "referrer": "Google",
+    "count": 236,
+    "uniques": 29
+  },
+  {
     "referrer": "github.com",
-    "count": 254,
-    "uniques": 25
+    "count": 173,
+    "uniques": 24
   },
   {
     "referrer": "medium.com",
-    "count": 127,
-    "uniques": 16
+    "count": 101,
+    "uniques": 13
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "kkb-production.jupyter-proxy.kaggle.net",
-    "count": 39,
-    "uniques": 3
+    "count": 37,
+    "uniques": 2
   },
   {
     "referrer": "tensorflow.org",

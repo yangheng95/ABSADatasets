@@ -1,8 +1,8 @@
 [
   {
-    "referrer": "huggingface.co",
-    "count": 202,
-    "uniques": 27
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 226,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
@@ -10,24 +10,24 @@
     "uniques": 26
   },
   {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 166,
-    "uniques": 19
-  },
-  {
-    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 118,
-    "uniques": 11
+    "referrer": "huggingface.co",
+    "count": 163,
+    "uniques": 22
   },
   {
     "referrer": "Google",
-    "count": 104,
-    "uniques": 27
+    "count": 101,
+    "uniques": 24
   },
   {
     "referrer": "medium.com",
-    "count": 86,
-    "uniques": 15
+    "count": 81,
+    "uniques": 14
+  },
+  {
+    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
+    "count": 78,
+    "uniques": 10
   },
   {
     "referrer": "kkb-production.jupyter-proxy.kaggle.net",
@@ -36,7 +36,7 @@
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 29,
+    "count": 28,
     "uniques": 4
   },
   {

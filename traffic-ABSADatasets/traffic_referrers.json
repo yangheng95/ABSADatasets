@@ -1,42 +1,42 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 303,
-    "uniques": 27
+    "count": 256,
+    "uniques": 25
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 223,
-    "uniques": 17
+    "count": 203,
+    "uniques": 15
   },
   {
     "referrer": "github.com",
-    "count": 173,
+    "count": 156,
     "uniques": 26
   },
   {
     "referrer": "medium.com",
-    "count": 101,
+    "count": 107,
     "uniques": 18
   },
   {
-    "referrer": "Google",
-    "count": 94,
-    "uniques": 23
-  },
-  {
-    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 75,
-    "uniques": 10
-  },
-  {
-    "referrer": "kkb-production.jupyter-proxy.kaggle.net",
-    "count": 36,
+    "referrer": "arxiv.org",
+    "count": 86,
     "uniques": 1
   },
   {
+    "referrer": "Google",
+    "count": 81,
+    "uniques": 21
+  },
+  {
+    "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
+    "count": 72,
+    "uniques": 9
+  },
+  {
     "referrer": "colab.research.google.com",
-    "count": 26,
+    "count": 25,
     "uniques": 4
   },
   {
@@ -45,8 +45,8 @@
     "uniques": 4
   },
   {
-    "referrer": "cn.bing.com",
-    "count": 16,
+    "referrer": "reddit.com",
+    "count": 22,
     "uniques": 1
   }
 ]

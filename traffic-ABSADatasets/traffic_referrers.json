@@ -1,23 +1,23 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 256,
-    "uniques": 25
-  },
-  {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 203,
-    "uniques": 15
-  },
-  {
-    "referrer": "github.com",
-    "count": 156,
+    "count": 333,
     "uniques": 26
   },
   {
-    "referrer": "medium.com",
-    "count": 107,
-    "uniques": 18
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 206,
+    "uniques": 16
+  },
+  {
+    "referrer": "github.com",
+    "count": 168,
+    "uniques": 26
+  },
+  {
+    "referrer": "Google",
+    "count": 104,
+    "uniques": 26
   },
   {
     "referrer": "arxiv.org",
@@ -25,28 +25,28 @@
     "uniques": 1
   },
   {
-    "referrer": "Google",
-    "count": 81,
-    "uniques": 21
+    "referrer": "medium.com",
+    "count": 85,
+    "uniques": 14
   },
   {
     "referrer": "gradio-blocks-multilingual-aspect-based-sentimen-c04f821.hf.space",
-    "count": 72,
-    "uniques": 9
+    "count": 55,
+    "uniques": 8
   },
   {
     "referrer": "colab.research.google.com",
-    "count": 25,
-    "uniques": 4
-  },
-  {
-    "referrer": "yangheng-pyabsa.hf.space",
-    "count": 22,
-    "uniques": 4
+    "count": 23,
+    "uniques": 3
   },
   {
     "referrer": "reddit.com",
     "count": 22,
     "uniques": 1
+  },
+  {
+    "referrer": "yangheng-pyabsa.hf.space",
+    "count": 21,
+    "uniques": 3
   }
 ]

@@ -1,33 +1,33 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 367,
-    "uniques": 28
+    "count": 375,
+    "uniques": 31
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 231,
-    "uniques": 20
+    "count": 251,
+    "uniques": 18
   },
   {
     "referrer": "Google",
-    "count": 179,
-    "uniques": 30
+    "count": 214,
+    "uniques": 34
   },
   {
     "referrer": "github.com",
-    "count": 101,
-    "uniques": 28
+    "count": 99,
+    "uniques": 27
   },
   {
     "referrer": "arxiv.org",
-    "count": 87,
+    "count": 88,
     "uniques": 1
   },
   {
     "referrer": "medium.com",
-    "count": 69,
-    "uniques": 15
+    "count": 62,
+    "uniques": 12
   },
   {
     "referrer": "Bing",
@@ -46,7 +46,7 @@
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 18,
-    "uniques": 3
+    "count": 14,
+    "uniques": 2
   }
 ]

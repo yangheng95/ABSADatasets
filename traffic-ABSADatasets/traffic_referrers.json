@@ -1,52 +1,52 @@
 [
   {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 303,
-    "uniques": 13
-  },
-  {
     "referrer": "huggingface.co",
-    "count": 290,
-    "uniques": 25
+    "count": 374,
+    "uniques": 29
   },
   {
     "referrer": "github.com",
-    "count": 180,
-    "uniques": 22
+    "count": 194,
+    "uniques": 21
+  },
+  {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 161,
+    "uniques": 13
   },
   {
     "referrer": "Google",
-    "count": 150,
-    "uniques": 22
+    "count": 151,
+    "uniques": 23
+  },
+  {
+    "referrer": "Bing",
+    "count": 100,
+    "uniques": 5
   },
   {
     "referrer": "medium.com",
     "count": 97,
-    "uniques": 14
-  },
-  {
-    "referrer": "Bing",
-    "count": 93,
-    "uniques": 4
+    "uniques": 16
   },
   {
     "referrer": "yangheng-pyabsa.hf.space",
-    "count": 55,
-    "uniques": 3
-  },
-  {
-    "referrer": "pypi.org",
-    "count": 8,
-    "uniques": 5
-  },
-  {
-    "referrer": "colab.research.google.com",
-    "count": 5,
-    "uniques": 1
+    "count": 44,
+    "uniques": 2
   },
   {
     "referrer": "notebooks.githubusercontent.com",
-    "count": 4,
-    "uniques": 3
+    "count": 22,
+    "uniques": 4
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "referrer": "yangheng95.github.io",
+    "count": 2,
+    "uniques": 1
   }
 ]

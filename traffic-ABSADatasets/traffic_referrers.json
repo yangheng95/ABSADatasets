@@ -1,28 +1,28 @@
 [
   {
     "referrer": "github.com",
-    "count": 339,
+    "count": 428,
     "uniques": 24
   },
   {
+    "referrer": "Google",
+    "count": 280,
+    "uniques": 18
+  },
+  {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 248,
+    "count": 214,
     "uniques": 21
   },
   {
-    "referrer": "Google",
-    "count": 214,
+    "referrer": "huggingface.co",
+    "count": 137,
     "uniques": 16
   },
   {
-    "referrer": "huggingface.co",
-    "count": 135,
-    "uniques": 15
-  },
-  {
     "referrer": "medium.com",
-    "count": 107,
-    "uniques": 20
+    "count": 105,
+    "uniques": 18
   },
   {
     "referrer": "gluon-wwde-science-chefang.notebook.us-east-1.sagemaker.aws",
@@ -40,7 +40,7 @@
     "uniques": 1
   },
   {
-    "referrer": "pypi.org",
+    "referrer": "ieeexplore.ieee.org",
     "count": 4,
     "uniques": 2
   },

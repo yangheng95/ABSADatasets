@@ -1,28 +1,28 @@
 [
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 384,
-    "uniques": 12
+    "count": 372,
+    "uniques": 10
   },
   {
     "referrer": "github.com",
-    "count": 299,
-    "uniques": 19
+    "count": 258,
+    "uniques": 17
   },
   {
     "referrer": "Google",
-    "count": 209,
-    "uniques": 22
+    "count": 187,
+    "uniques": 23
   },
   {
     "referrer": "huggingface.co",
-    "count": 153,
-    "uniques": 37
+    "count": 131,
+    "uniques": 38
   },
   {
     "referrer": "medium.com",
-    "count": 86,
-    "uniques": 14
+    "count": 88,
+    "uniques": 15
   },
   {
     "referrer": "colab.research.google.com",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "notebooks.githubusercontent.com",
-    "count": 20,
-    "uniques": 4
+    "count": 19,
+    "uniques": 3
   },
   {
     "referrer": "gluon-wwde-science-chefang.notebook.us-east-1.sagemaker.aws",
@@ -46,7 +46,7 @@
   },
   {
     "referrer": "youtube.com",
-    "count": 13,
+    "count": 2,
     "uniques": 1
   }
 ]

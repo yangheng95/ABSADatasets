@@ -6,7 +6,7 @@
   },
   {
     "referrer": "medium.com",
-    "count": 122,
+    "count": 132,
     "uniques": 25
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "referrer": "huggingface.co",
-    "count": 88,
-    "uniques": 17
+    "count": 92,
+    "uniques": 16
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 82,
+    "count": 80,
     "uniques": 11
   },
   {

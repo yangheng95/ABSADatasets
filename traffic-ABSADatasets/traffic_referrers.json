@@ -1,12 +1,7 @@
 [
   {
-    "referrer": "github.com",
-    "count": 149,
-    "uniques": 18
-  },
-  {
     "referrer": "medium.com",
-    "count": 145,
+    "count": 143,
     "uniques": 28
   },
   {
@@ -26,13 +21,18 @@
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 99,
+    "count": 101,
     "uniques": 12
   },
   {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 56,
-    "uniques": 5
+    "referrer": "github.com",
+    "count": 86,
+    "uniques": 15
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 23,
+    "uniques": 1
   },
   {
     "referrer": "confluence.oci.oraclecorp.com",

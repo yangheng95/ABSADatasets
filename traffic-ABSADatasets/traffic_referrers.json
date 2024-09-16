@@ -1,23 +1,23 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 273,
-    "uniques": 26
+    "count": 271,
+    "uniques": 25
   },
   {
     "referrer": "Google",
-    "count": 202,
-    "uniques": 19
+    "count": 236,
+    "uniques": 22
   },
   {
     "referrer": "github.com",
-    "count": 181,
-    "uniques": 6
+    "count": 183,
+    "uniques": 7
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 153,
-    "uniques": 9
+    "count": 154,
+    "uniques": 10
   },
   {
     "referrer": "medium.com",
@@ -27,6 +27,11 @@
   {
     "referrer": "Bing",
     "count": 6,
+    "uniques": 2
+  },
+  {
+    "referrer": "youtube.com",
+    "count": 5,
     "uniques": 2
   },
   {
@@ -41,11 +46,6 @@
   },
   {
     "referrer": "woolworths-agile.atlassian.net",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "youtube.com",
     "count": 2,
     "uniques": 1
   }

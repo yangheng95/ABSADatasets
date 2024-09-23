@@ -1,13 +1,13 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 257,
-    "uniques": 21
+    "count": 188,
+    "uniques": 19
   },
   {
     "referrer": "Google",
-    "count": 186,
-    "uniques": 21
+    "count": 174,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
@@ -16,13 +16,13 @@
   },
   {
     "referrer": "medium.com",
-    "count": 121,
-    "uniques": 21
+    "count": 111,
+    "uniques": 20
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 95,
-    "uniques": 11
+    "count": 39,
+    "uniques": 9
   },
   {
     "referrer": "notebooks.githubusercontent.com",
@@ -31,13 +31,13 @@
   },
   {
     "referrer": "Bing",
-    "count": 11,
-    "uniques": 3
+    "count": 10,
+    "uniques": 2
   },
   {
     "referrer": "youtube.com",
-    "count": 5,
-    "uniques": 2
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "perplexity.ai",

@@ -1,32 +1,32 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 120,
-    "uniques": 29
+    "count": 130,
+    "uniques": 31
   },
   {
     "referrer": "medium.com",
-    "count": 96,
-    "uniques": 30
+    "count": 93,
+    "uniques": 31
   },
   {
     "referrer": "pyabsa.readthedocs.io",
     "count": 87,
-    "uniques": 23
+    "uniques": 19
   },
   {
     "referrer": "github.com",
-    "count": 73,
-    "uniques": 10
+    "count": 81,
+    "uniques": 12
   },
   {
     "referrer": "Google",
-    "count": 65,
-    "uniques": 22
+    "count": 68,
+    "uniques": 21
   },
   {
     "referrer": "Bing",
-    "count": 11,
+    "count": 34,
     "uniques": 3
   },
   {

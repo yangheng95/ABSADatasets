@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 134,
-    "uniques": 19
-  },
-  {
-    "referrer": "huggingface.co",
-    "count": 115,
-    "uniques": 24
+    "count": 154,
+    "uniques": 20
   },
   {
     "referrer": "github.com",
-    "count": 108,
-    "uniques": 16
+    "count": 110,
+    "uniques": 17
+  },
+  {
+    "referrer": "huggingface.co",
+    "count": 104,
+    "uniques": 22
   },
   {
     "referrer": "pyabsa.readthedocs.io",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "medium.com",
-    "count": 89,
+    "count": 90,
     "uniques": 24
   },
   {

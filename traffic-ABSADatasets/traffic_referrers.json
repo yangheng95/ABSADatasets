@@ -1,28 +1,33 @@
 [
   {
-    "referrer": "Google",
-    "count": 155,
-    "uniques": 22
-  },
-  {
-    "referrer": "huggingface.co",
-    "count": 112,
-    "uniques": 30
-  },
-  {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 104,
+    "count": 139,
     "uniques": 17
   },
   {
+    "referrer": "Google",
+    "count": 125,
+    "uniques": 23
+  },
+  {
+    "referrer": "huggingface.co",
+    "count": 90,
+    "uniques": 29
+  },
+  {
     "referrer": "github.com",
-    "count": 74,
-    "uniques": 20
+    "count": 77,
+    "uniques": 22
   },
   {
     "referrer": "medium.com",
-    "count": 60,
-    "uniques": 22
+    "count": 53,
+    "uniques": 24
+  },
+  {
+    "referrer": "Bing",
+    "count": 35,
+    "uniques": 2
   },
   {
     "referrer": "chatgpt.com",
@@ -30,7 +35,7 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
+    "referrer": "dongaigc.com",
     "count": 1,
     "uniques": 1
   },
@@ -40,12 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "medium-com.translate.goog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "woolworths-agile.atlassian.net",
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   }

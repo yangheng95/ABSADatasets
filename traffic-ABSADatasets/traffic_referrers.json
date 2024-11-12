@@ -1,23 +1,23 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 137,
-    "uniques": 27
+    "count": 120,
+    "uniques": 25
   },
   {
     "referrer": "Google",
-    "count": 103,
-    "uniques": 20
+    "count": 97,
+    "uniques": 19
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 90,
-    "uniques": 9
+    "count": 91,
+    "uniques": 10
   },
   {
     "referrer": "medium.com",
-    "count": 62,
-    "uniques": 29
+    "count": 61,
+    "uniques": 25
   },
   {
     "referrer": "Bing",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 34,
-    "uniques": 14
+    "count": 26,
+    "uniques": 10
   },
   {
     "referrer": "cn.bing.com",
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "tigeranalytics-code-templates.readthedocs-hosted.com",
-    "count": 1,
+    "referrer": "search.brave.com",
+    "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "dongaigc.com",
+    "referrer": "tigeranalytics-code-templates.readthedocs-hosted.com",
     "count": 1,
     "uniques": 1
   }

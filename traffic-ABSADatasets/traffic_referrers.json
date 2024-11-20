@@ -1,33 +1,38 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 89,
-    "uniques": 16
-  },
-  {
-    "referrer": "Google",
-    "count": 87,
-    "uniques": 24
+    "count": 99,
+    "uniques": 17
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 65,
-    "uniques": 10
+    "count": 97,
+    "uniques": 12
+  },
+  {
+    "referrer": "Google",
+    "count": 84,
+    "uniques": 23
   },
   {
     "referrer": "medium.com",
-    "count": 60,
-    "uniques": 24
+    "count": 62,
+    "uniques": 25
   },
   {
     "referrer": "Bing",
-    "count": 28,
-    "uniques": 7
+    "count": 30,
+    "uniques": 8
   },
   {
     "referrer": "github.com",
-    "count": 10,
-    "uniques": 8
+    "count": 17,
+    "uniques": 10
+  },
+  {
+    "referrer": "tigeranalytics-code-templates.readthedocs-hosted.com",
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "search.brave.com",
@@ -37,11 +42,6 @@
   {
     "referrer": "pypi.org",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "cn.bing.com",
-    "count": 1,
     "uniques": 1
   }
 ]

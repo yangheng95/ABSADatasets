@@ -7,12 +7,12 @@
   {
     "referrer": "medium.com",
     "count": 94,
-    "uniques": 25
+    "uniques": 24
   },
   {
     "referrer": "Google",
-    "count": 88,
-    "uniques": 22
+    "count": 93,
+    "uniques": 24
   },
   {
     "referrer": "github.com",
@@ -26,13 +26,13 @@
   },
   {
     "referrer": "Bing",
-    "count": 20,
+    "count": 31,
     "uniques": 5
   },
   {
     "referrer": "pyabsa.readthedocs.io",
     "count": 19,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "referrer": "vn.search.yahoo.com",

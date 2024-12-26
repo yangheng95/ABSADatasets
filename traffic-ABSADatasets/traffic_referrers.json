@@ -1,18 +1,18 @@
 [
   {
-    "referrer": "huggingface.co",
-    "count": 94,
-    "uniques": 25
-  },
-  {
     "referrer": "Google",
-    "count": 88,
-    "uniques": 18
+    "count": 102,
+    "uniques": 23
   },
   {
     "referrer": "medium.com",
     "count": 81,
-    "uniques": 17
+    "uniques": 16
+  },
+  {
+    "referrer": "huggingface.co",
+    "count": 78,
+    "uniques": 24
   },
   {
     "referrer": "github.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 30,
-    "uniques": 4
+    "count": 16,
+    "uniques": 3
   },
   {
     "referrer": "vn.search.yahoo.com",
@@ -35,14 +35,14 @@
     "uniques": 1
   },
   {
+    "referrer": "search.brave.com",
+    "count": 8,
+    "uniques": 1
+  },
+  {
     "referrer": "chatgpt.com",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "freegpt.tech",

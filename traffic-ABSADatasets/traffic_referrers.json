@@ -1,8 +1,8 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 52,
-    "uniques": 12
+    "count": 70,
+    "uniques": 11
   },
   {
     "referrer": "Google",
@@ -11,18 +11,23 @@
   },
   {
     "referrer": "github.com",
-    "count": 39,
+    "count": 35,
     "uniques": 12
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 31,
-    "uniques": 7
+    "count": 32,
+    "uniques": 8
   },
   {
     "referrer": "medium.com",
-    "count": 21,
-    "uniques": 6
+    "count": 22,
+    "uniques": 7
+  },
+  {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 8,
+    "uniques": 1
   },
   {
     "referrer": "lab-ubda.polyu.edu.hk",
@@ -38,11 +43,6 @@
     "referrer": "Bing",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "kkb-production.jupyter-proxy.kaggle.net",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "paperswithcode.com",

@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 174,
-    "uniques": 13
+    "count": 173,
+    "uniques": 12
   },
   {
     "referrer": "Google",
-    "count": 107,
-    "uniques": 26
+    "count": 106,
+    "uniques": 25
   },
   {
     "referrer": "huggingface.co",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 31,
-    "uniques": 17
+    "count": 32,
+    "uniques": 18
   },
   {
     "referrer": "notebooks.githubusercontent.com",

@@ -6,13 +6,13 @@
   },
   {
     "referrer": "Google",
-    "count": 120,
-    "uniques": 28
+    "count": 82,
+    "uniques": 27
   },
   {
     "referrer": "huggingface.co",
-    "count": 77,
-    "uniques": 17
+    "count": 46,
+    "uniques": 16
   },
   {
     "referrer": "notebooks.githubusercontent.com",
@@ -31,13 +31,13 @@
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 17,
-    "uniques": 7
+    "count": 21,
+    "uniques": 8
   },
   {
     "referrer": "Bing",
-    "count": 4,
-    "uniques": 3
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "m.facebook.com",

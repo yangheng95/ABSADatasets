@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 134,
-    "uniques": 16
+    "count": 102,
+    "uniques": 15
   },
   {
     "referrer": "Google",
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 96,
+    "count": 88,
     "uniques": 16
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 53,
+    "count": 37,
     "uniques": 6
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "referrer": "Bing",
-    "count": 34,
+    "count": 35,
     "uniques": 4
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "notebooks.githubusercontent.com",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 4,
-    "uniques": 1
   }
 ]

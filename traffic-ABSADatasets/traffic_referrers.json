@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 197,
-    "uniques": 35
+    "count": 193,
+    "uniques": 34
   },
   {
     "referrer": "pyabsa.readthedocs.io",
     "count": 115,
-    "uniques": 15
+    "uniques": 16
   },
   {
     "referrer": "medium.com",
-    "count": 94,
-    "uniques": 17
+    "count": 92,
+    "uniques": 15
   },
   {
     "referrer": "huggingface.co",
-    "count": 70,
-    "uniques": 24
+    "count": 68,
+    "uniques": 23
   },
   {
     "referrer": "link.gitcode.com",
@@ -27,12 +27,12 @@
   {
     "referrer": "github.com",
     "count": 28,
-    "uniques": 14
+    "uniques": 13
   },
   {
     "referrer": "Bing",
-    "count": 21,
-    "uniques": 7
+    "count": 20,
+    "uniques": 6
   },
   {
     "referrer": "dongaigc.com",
@@ -45,8 +45,8 @@
     "uniques": 3
   },
   {
-    "referrer": "doubao.com",
-    "count": 9,
+    "referrer": "selectdataset.com",
+    "count": 5,
     "uniques": 1
   }
 ]

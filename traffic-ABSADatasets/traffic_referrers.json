@@ -1,7 +1,7 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 143,
+    "count": 136,
     "uniques": 33
   },
   {
@@ -16,18 +16,28 @@
   },
   {
     "referrer": "medium.com",
-    "count": 38,
-    "uniques": 13
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 35,
-    "uniques": 6
+    "count": 45,
+    "uniques": 14
   },
   {
     "referrer": "Google",
-    "count": 34,
-    "uniques": 15
+    "count": 40,
+    "uniques": 16
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 25,
+    "uniques": 7
+  },
+  {
+    "referrer": "claude.ai",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "referrer": "dongaigc.com",
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "Bing",
@@ -35,18 +45,8 @@
     "uniques": 3
   },
   {
-    "referrer": "dongaigc.com",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "referrer": "paperswithcode.com",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "claude.ai",
-    "count": 1,
     "uniques": 1
   }
 ]

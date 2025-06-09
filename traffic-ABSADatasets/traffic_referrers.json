@@ -1,13 +1,13 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 127,
-    "uniques": 23
+    "count": 126,
+    "uniques": 22
   },
   {
     "referrer": "Google",
-    "count": 97,
-    "uniques": 24
+    "count": 102,
+    "uniques": 22
   },
   {
     "referrer": "pyabsa.readthedocs.io",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 20,
-    "uniques": 15
+    "count": 19,
+    "uniques": 14
   },
   {
     "referrer": "demo.aidaxue.link",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 3,
-    "uniques": 3
+    "referrer": "gemini.google.com",
+    "count": 4,
+    "uniques": 1
   }
 ]

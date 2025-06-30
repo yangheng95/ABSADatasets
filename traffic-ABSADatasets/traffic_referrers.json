@@ -1,8 +1,8 @@
 [
   {
     "referrer": "huggingface.co",
-    "count": 114,
-    "uniques": 26
+    "count": 115,
+    "uniques": 27
   },
   {
     "referrer": "github.com",
@@ -12,21 +12,21 @@
   {
     "referrer": "pyabsa.readthedocs.io",
     "count": 81,
-    "uniques": 15
+    "uniques": 16
   },
   {
     "referrer": "Google",
-    "count": 66,
-    "uniques": 23
+    "count": 62,
+    "uniques": 21
   },
   {
     "referrer": "medium.com",
     "count": 53,
-    "uniques": 15
+    "uniques": 16
   },
   {
     "referrer": "chatgpt.com",
-    "count": 45,
+    "count": 46,
     "uniques": 9
   },
   {
@@ -45,7 +45,7 @@
     "uniques": 2
   },
   {
-    "referrer": "search.brave.com",
+    "referrer": "researchgate.net",
     "count": 1,
     "uniques": 1
   }

@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 122,
-    "uniques": 18
+    "count": 124,
+    "uniques": 20
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 48,
-    "uniques": 9
+    "count": 52,
+    "uniques": 10
   },
   {
     "referrer": "github.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 29,
-    "uniques": 9
+    "count": 30,
+    "uniques": 10
   },
   {
     "referrer": "huggingface.co",
@@ -25,22 +25,22 @@
     "uniques": 15
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 7,
-    "uniques": 2
-  },
-  {
     "referrer": "Bing",
-    "count": 5,
+    "count": 6,
     "uniques": 4
   },
   {
-    "referrer": "link.gitcode.com",
+    "referrer": "chatgpt.com",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "referrer": "freedium.cfd",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "freedium.cfd",
+    "referrer": "link.gitcode.com",
     "count": 2,
     "uniques": 1
   },

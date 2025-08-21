@@ -1,18 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 116,
-    "uniques": 16
+    "count": 109,
+    "uniques": 15
   },
   {
     "referrer": "github.com",
-    "count": 72,
-    "uniques": 11
-  },
-  {
-    "referrer": "medium.com",
-    "count": 16,
-    "uniques": 8
+    "count": 69,
+    "uniques": 10
   },
   {
     "referrer": "pyabsa.readthedocs.io",
@@ -23,6 +18,11 @@
     "referrer": "Yahoo",
     "count": 12,
     "uniques": 1
+  },
+  {
+    "referrer": "medium.com",
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "pypi.org",

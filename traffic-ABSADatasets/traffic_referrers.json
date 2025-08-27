@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 72,
-    "uniques": 10
+    "count": 55,
+    "uniques": 5
   },
   {
     "referrer": "github.com",
@@ -11,27 +11,22 @@
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 12,
-    "uniques": 3
-  },
-  {
-    "referrer": "pypi.org",
     "count": 11,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "referrer": "medium.com",
-    "count": 8,
-    "uniques": 5
-  },
-  {
-    "referrer": "tongyi.com",
-    "count": 4,
-    "uniques": 1
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "claude.ai",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 1,
     "uniques": 1
   },
   {

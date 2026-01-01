@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "referrer": "github.com",
+    "count": 87,
+    "uniques": 15
+  },
+  {
+    "referrer": "medium.com",
+    "count": 49,
+    "uniques": 9
+  },
+  {
+    "referrer": "Google",
+    "count": 27,
+    "uniques": 10
+  },
+  {
+    "referrer": "Bing",
+    "count": 25,
+    "uniques": 4
+  },
+  {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 19,
+    "uniques": 3
+  },
+  {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 13,
+    "uniques": 1
+  },
+  {
+    "referrer": "zoo.bimant.com",
+    "count": 12,
+    "uniques": 1
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 10,
+    "uniques": 4
+  },
+  {
+    "referrer": "arxiv.org",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 4,
+    "uniques": 1
+  }
+]

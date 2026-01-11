@@ -1,18 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 79,
+    "count": 119,
     "uniques": 12
   },
   {
     "referrer": "github.com",
-    "count": 46,
-    "uniques": 12
+    "count": 52,
+    "uniques": 14
   },
   {
     "referrer": "chatgpt.com",
-    "count": 46,
-    "uniques": 9
+    "count": 40,
+    "uniques": 8
+  },
+  {
+    "referrer": "notebooks.githubusercontent.com",
+    "count": 25,
+    "uniques": 3
   },
   {
     "referrer": "medium.com",
@@ -23,11 +28,6 @@
     "referrer": "pyabsa.readthedocs.io",
     "count": 12,
     "uniques": 4
-  },
-  {
-    "referrer": "notebooks.githubusercontent.com",
-    "count": 12,
-    "uniques": 2
   },
   {
     "referrer": "arxiv.org",

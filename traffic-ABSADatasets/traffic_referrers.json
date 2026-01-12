@@ -30,11 +30,6 @@
     "uniques": 4
   },
   {
-    "referrer": "arxiv.org",
-    "count": 7,
-    "uniques": 1
-  },
-  {
     "referrer": "doubao.com",
     "count": 5,
     "uniques": 1
@@ -48,5 +43,10 @@
     "referrer": "pypi.org",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "gitee.com",
+    "count": 1,
+    "uniques": 1
   }
 ]

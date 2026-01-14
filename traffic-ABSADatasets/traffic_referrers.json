@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 119,
-    "uniques": 12
+    "count": 121,
+    "uniques": 14
   },
   {
     "referrer": "github.com",
-    "count": 51,
-    "uniques": 13
+    "count": 52,
+    "uniques": 14
   },
   {
     "referrer": "chatgpt.com",
@@ -17,11 +17,6 @@
   {
     "referrer": "notebooks.githubusercontent.com",
     "count": 25,
-    "uniques": 3
-  },
-  {
-    "referrer": "medium.com",
-    "count": 20,
     "uniques": 3
   },
   {
@@ -35,14 +30,19 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "referrer": "pypi.org",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "medium.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "gitee.com",

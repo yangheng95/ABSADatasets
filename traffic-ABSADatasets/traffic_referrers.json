@@ -1,28 +1,28 @@
 [
   {
     "referrer": "github.com",
-    "count": 101,
+    "count": 98,
     "uniques": 16
   },
   {
     "referrer": "Google",
-    "count": 81,
-    "uniques": 14
+    "count": 58,
+    "uniques": 13
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 49,
-    "uniques": 9
+    "count": 48,
+    "uniques": 8
   },
   {
     "referrer": "notebooks.githubusercontent.com",
-    "count": 38,
-    "uniques": 3
+    "count": 37,
+    "uniques": 2
   },
   {
     "referrer": "medium.com",
-    "count": 29,
-    "uniques": 6
+    "count": 34,
+    "uniques": 7
   },
   {
     "referrer": "chatgpt.com",

@@ -1,18 +1,18 @@
 [
   {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 58,
-    "uniques": 9
-  },
-  {
     "referrer": "Google",
-    "count": 53,
-    "uniques": 13
+    "count": 88,
+    "uniques": 15
   },
   {
     "referrer": "github.com",
-    "count": 45,
-    "uniques": 10
+    "count": 65,
+    "uniques": 12
+  },
+  {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 53,
+    "uniques": 9
   },
   {
     "referrer": "chatgpt.com",

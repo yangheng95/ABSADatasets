@@ -1,33 +1,33 @@
 [
   {
     "referrer": "Google",
-    "count": 88,
-    "uniques": 15
+    "count": 90,
+    "uniques": 16
   },
   {
     "referrer": "github.com",
-    "count": 65,
-    "uniques": 12
+    "count": 84,
+    "uniques": 14
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 53,
-    "uniques": 9
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 29,
-    "uniques": 4
+    "count": 83,
+    "uniques": 12
   },
   {
     "referrer": "medium.com",
-    "count": 16,
-    "uniques": 9
+    "count": 28,
+    "uniques": 12
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 28,
+    "uniques": 4
   },
   {
     "referrer": "youtube.com",
-    "count": 12,
-    "uniques": 3
+    "count": 21,
+    "uniques": 4
   },
   {
     "referrer": "selectdataset.com",

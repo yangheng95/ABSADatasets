@@ -1,18 +1,18 @@
 [
   {
     "referrer": "chatgpt.com",
-    "count": 113,
+    "count": 124,
     "uniques": 11
   },
   {
     "referrer": "github.com",
-    "count": 109,
+    "count": 111,
     "uniques": 23
   },
   {
     "referrer": "medium.com",
-    "count": 57,
-    "uniques": 13
+    "count": 54,
+    "uniques": 12
   },
   {
     "referrer": "pyabsa.readthedocs.io",
@@ -36,11 +36,6 @@
   },
   {
     "referrer": "chat.qwen.ai",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "notebooks.githubusercontent.com",
     "count": 1,
     "uniques": 1
   }

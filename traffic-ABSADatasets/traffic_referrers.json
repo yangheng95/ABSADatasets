@@ -6,32 +6,27 @@
   },
   {
     "referrer": "github.com",
-    "count": 117,
+    "count": 119,
     "uniques": 19
   },
   {
     "referrer": "Google",
-    "count": 62,
+    "count": 66,
     "uniques": 10
   },
   {
     "referrer": "medium.com",
-    "count": 29,
-    "uniques": 9
+    "count": 27,
+    "uniques": 8
+  },
+  {
+    "referrer": "Bing",
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "pyabsa.readthedocs.io",
     "count": 8,
     "uniques": 3
-  },
-  {
-    "referrer": "Bing",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "referrer": "chat.qwen.ai",
-    "count": 1,
-    "uniques": 1
   }
 ]

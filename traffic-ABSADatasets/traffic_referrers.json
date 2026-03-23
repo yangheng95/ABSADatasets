@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "chatgpt.com",
-    "count": 99,
-    "uniques": 10
+    "referrer": "github.com",
+    "count": 85,
+    "uniques": 18
   },
   {
-    "referrer": "github.com",
-    "count": 83,
-    "uniques": 19
+    "referrer": "chatgpt.com",
+    "count": 71,
+    "uniques": 10
   },
   {
     "referrer": "Google",
@@ -16,17 +16,17 @@
   },
   {
     "referrer": "medium.com",
-    "count": 12,
-    "uniques": 7
+    "count": 30,
+    "uniques": 9
   },
   {
     "referrer": "Bing",
-    "count": 10,
+    "count": 11,
     "uniques": 4
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 10,
+    "count": 9,
     "uniques": 4
   },
   {

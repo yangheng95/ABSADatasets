@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 125,
-    "uniques": 27
+    "count": 140,
+    "uniques": 29
   },
   {
     "referrer": "chatgpt.com",
-    "count": 67,
-    "uniques": 7
-  },
-  {
-    "referrer": "medium.com",
-    "count": 41,
-    "uniques": 10
+    "count": 66,
+    "uniques": 6
   },
   {
     "referrer": "Google",
-    "count": 39,
-    "uniques": 7
+    "count": 40,
+    "uniques": 8
+  },
+  {
+    "referrer": "medium.com",
+    "count": 37,
+    "uniques": 9
   },
   {
     "referrer": "doubao.com",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "Yahoo",

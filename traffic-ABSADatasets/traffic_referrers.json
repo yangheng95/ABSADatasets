@@ -6,8 +6,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 46,
-    "uniques": 15
+    "count": 47,
+    "uniques": 16
   },
   {
     "referrer": "search.brave.com",
@@ -16,22 +16,12 @@
   },
   {
     "referrer": "medium.com",
-    "count": 22,
-    "uniques": 11
-  },
-  {
-    "referrer": "Bing",
-    "count": 14,
-    "uniques": 3
+    "count": 18,
+    "uniques": 9
   },
   {
     "referrer": "relatedrepos.com",
     "count": 6,
-    "uniques": 1
-  },
-  {
-    "referrer": "chatgpt.com",
-    "count": 5,
     "uniques": 1
   },
   {
@@ -40,12 +30,22 @@
     "uniques": 3
   },
   {
-    "referrer": "doubao.com",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "link.gitcode.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }

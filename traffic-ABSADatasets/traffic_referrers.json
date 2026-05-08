@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 76,
+    "count": 81,
     "uniques": 13
   },
   {
@@ -15,14 +15,14 @@
     "uniques": 1
   },
   {
-    "referrer": "medium.com",
-    "count": 9,
-    "uniques": 6
-  },
-  {
     "referrer": "relatedrepos.com",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "referrer": "medium.com",
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "pyabsa.readthedocs.io",

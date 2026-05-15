@@ -1,18 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 112,
-    "uniques": 17
+    "count": 91,
+    "uniques": 15
   },
   {
     "referrer": "Google",
     "count": 48,
     "uniques": 8
-  },
-  {
-    "referrer": "relatedrepos.com",
-    "count": 6,
-    "uniques": 1
   },
   {
     "referrer": "doubao.com",
@@ -21,7 +16,12 @@
   },
   {
     "referrer": "Bing",
-    "count": 2,
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -31,16 +31,6 @@
   },
   {
     "referrer": "chatgpt.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "pypi.org",
     "count": 1,
     "uniques": 1
   },

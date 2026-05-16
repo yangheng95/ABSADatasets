@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 91,
+    "count": 90,
     "uniques": 15
   },
   {
@@ -10,19 +10,24 @@
     "uniques": 8
   },
   {
+    "referrer": "Bing",
+    "count": 13,
+    "uniques": 3
+  },
+  {
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 9,
+    "uniques": 3
+  },
+  {
     "referrer": "doubao.com",
     "count": 5,
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "referrer": "pyabsa.readthedocs.io",
-    "count": 3,
-    "uniques": 2
+    "referrer": "link.gitcode.com",
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "medium.com",

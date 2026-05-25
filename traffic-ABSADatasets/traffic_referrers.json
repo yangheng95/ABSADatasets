@@ -15,14 +15,14 @@
     "uniques": 3
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 11,
-    "uniques": 3
-  },
-  {
     "referrer": "pyabsa.readthedocs.io",
     "count": 10,
     "uniques": 3
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 10,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",

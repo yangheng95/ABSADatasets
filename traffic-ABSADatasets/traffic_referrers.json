@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 51,
-    "uniques": 13
+    "count": 44,
+    "uniques": 12
   },
   {
     "referrer": "github.com",
@@ -20,6 +20,11 @@
     "uniques": 5
   },
   {
+    "referrer": "arxiv.org",
+    "count": 12,
+    "uniques": 1
+  },
+  {
     "referrer": "DuckDuckGo",
     "count": 8,
     "uniques": 1
@@ -28,11 +33,6 @@
     "referrer": "Bing",
     "count": 7,
     "uniques": 2
-  },
-  {
-    "referrer": "perplexity.ai",
-    "count": 5,
-    "uniques": 1
   },
   {
     "referrer": "Yahoo",

@@ -5,19 +5,24 @@
     "uniques": 14
   },
   {
-    "referrer": "github.com",
-    "count": 21,
-    "uniques": 9
-  },
-  {
     "referrer": "Bing",
     "count": 21,
     "uniques": 2
   },
   {
+    "referrer": "github.com",
+    "count": 20,
+    "uniques": 8
+  },
+  {
     "referrer": "medium.com",
     "count": 8,
     "uniques": 6
+  },
+  {
+    "referrer": "perplexity.ai",
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "Yahoo",

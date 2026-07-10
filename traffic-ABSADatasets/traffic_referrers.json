@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 51,
-    "uniques": 13
+    "count": 49,
+    "uniques": 11
   },
   {
     "referrer": "github.com",
@@ -15,14 +15,14 @@
     "uniques": 3
   },
   {
+    "referrer": "medium.com",
+    "count": 5,
+    "uniques": 4
+  },
+  {
     "referrer": "perplexity.ai",
     "count": 5,
     "uniques": 1
-  },
-  {
-    "referrer": "medium.com",
-    "count": 4,
-    "uniques": 3
   },
   {
     "referrer": "Yahoo",
@@ -30,12 +30,12 @@
     "uniques": 1
   },
   {
-    "referrer": "huggingface.co",
-    "count": 1,
-    "uniques": 1
+    "referrer": "pyabsa.readthedocs.io",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "pyabsa.readthedocs.io",
+    "referrer": "huggingface.co",
     "count": 1,
     "uniques": 1
   },

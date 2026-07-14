@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 39,
-    "uniques": 9
+    "count": 35,
+    "uniques": 10
   },
   {
     "referrer": "Bing",
-    "count": 22,
-    "uniques": 3
+    "count": 23,
+    "uniques": 4
   },
   {
     "referrer": "github.com",
-    "count": 10,
-    "uniques": 5
+    "count": 9,
+    "uniques": 4
   },
   {
     "referrer": "medium.com",
-    "count": 8,
-    "uniques": 6
+    "count": 7,
+    "uniques": 5
   },
   {
     "referrer": "perplexity.ai",

@@ -10,14 +10,14 @@
     "uniques": 5
   },
   {
-    "referrer": "Bing",
-    "count": 23,
-    "uniques": 4
-  },
-  {
     "referrer": "medium.com",
     "count": 7,
     "uniques": 5
+  },
+  {
+    "referrer": "Bing",
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "perplexity.ai",
@@ -25,8 +25,8 @@
     "uniques": 1
   },
   {
-    "referrer": "Yahoo",
-    "count": 4,
+    "referrer": "chatgpt.com",
+    "count": 2,
     "uniques": 1
   },
   {

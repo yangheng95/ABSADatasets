@@ -6,8 +6,8 @@
   },
   {
     "referrer": "Google",
-    "count": 25,
-    "uniques": 8
+    "count": 27,
+    "uniques": 9
   },
   {
     "referrer": "medium.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 6,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
   },
   {
     "referrer": "Bing",
@@ -27,6 +27,11 @@
   {
     "referrer": "chatgpt.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 1,
     "uniques": 1
   }
 ]

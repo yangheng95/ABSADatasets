@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 31,
+    "count": 33,
     "uniques": 10
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "medium.com",
-    "count": 13,
+    "count": 14,
     "uniques": 5
   },
   {
@@ -25,13 +25,13 @@
     "uniques": 3
   },
   {
-    "referrer": "chatgpt.com",
+    "referrer": "pypi.org",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "pypi.org",
-    "count": 1,
+    "referrer": "chatgpt.com",
+    "count": 2,
     "uniques": 1
   }
 ]

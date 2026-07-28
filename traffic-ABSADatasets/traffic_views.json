@@ -8718,11 +8718,6 @@
       "uniques": 2
     },
     {
-      "timestamp": "2026-07-13T00:00:00Z",
-      "count": 48,
-      "uniques": 8
-    },
-    {
       "timestamp": "2026-07-12T00:00:00Z",
       "count": 7,
       "uniques": 3
@@ -8731,6 +8726,11 @@
       "timestamp": "2026-07-14T00:00:00Z",
       "count": 6,
       "uniques": 4
+    },
+    {
+      "timestamp": "2026-07-13T00:00:00Z",
+      "count": 48,
+      "uniques": 8
     },
     {
       "timestamp": "2026-07-15T00:00:00Z",
@@ -8786,6 +8786,11 @@
       "timestamp": "2026-07-25T00:00:00Z",
       "count": 6,
       "uniques": 4
+    },
+    {
+      "timestamp": "2026-07-26T00:00:00Z",
+      "count": 0,
+      "uniques": 0
     }
   ]
 }

@@ -6,8 +6,8 @@
   },
   {
     "referrer": "medium.com",
-    "count": 15,
-    "uniques": 5
+    "count": 16,
+    "uniques": 6
   },
   {
     "referrer": "github.com",
@@ -20,14 +20,14 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "referrer": "pypi.org",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "Bing",
+    "count": 2,
+    "uniques": 1
   },
   {
     "referrer": "huggingface.co",

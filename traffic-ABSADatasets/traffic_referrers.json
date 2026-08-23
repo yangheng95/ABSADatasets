@@ -1,18 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 56,
-    "uniques": 12
+    "count": 54,
+    "uniques": 10
   },
   {
     "referrer": "Google",
-    "count": 33,
+    "count": 32,
     "uniques": 5
-  },
-  {
-    "referrer": "medium.com",
-    "count": 13,
-    "uniques": 7
   },
   {
     "referrer": "notebooks.githubusercontent.com",
@@ -20,18 +15,23 @@
     "uniques": 2
   },
   {
+    "referrer": "medium.com",
+    "count": 12,
+    "uniques": 6
+  },
+  {
     "referrer": "DuckDuckGo",
     "count": 6,
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "chatgpt.com",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 1,
+    "referrer": "Bing",
+    "count": 3,
     "uniques": 1
   },
   {

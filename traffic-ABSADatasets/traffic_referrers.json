@@ -16,7 +16,7 @@
   },
   {
     "referrer": "medium.com",
-    "count": 12,
+    "count": 11,
     "uniques": 6
   },
   {
@@ -25,14 +25,14 @@
     "uniques": 1
   },
   {
-    "referrer": "chatgpt.com",
-    "count": 3,
+    "referrer": "Bing",
+    "count": 4,
     "uniques": 2
   },
   {
-    "referrer": "Bing",
+    "referrer": "chatgpt.com",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "referrer": "pyabsa.readthedocs.io",

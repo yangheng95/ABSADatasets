@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 17,
-    "uniques": 6
-  },
-  {
-    "referrer": "medium.com",
-    "count": 14,
-    "uniques": 6
+    "count": 25,
+    "uniques": 5
   },
   {
     "referrer": "Google",
-    "count": 11,
-    "uniques": 4
+    "count": 22,
+    "uniques": 5
+  },
+  {
+    "referrer": "medium.com",
+    "count": 15,
+    "uniques": 6
   },
   {
     "referrer": "notebooks.githubusercontent.com",

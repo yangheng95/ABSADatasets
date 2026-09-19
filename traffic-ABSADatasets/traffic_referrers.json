@@ -5,19 +5,14 @@
     "uniques": 2
   },
   {
-    "referrer": "medium.com",
-    "count": 13,
-    "uniques": 6
-  },
-  {
     "referrer": "Yahoo",
     "count": 12,
     "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 8,
-    "uniques": 1
+    "referrer": "medium.com",
+    "count": 11,
+    "uniques": 4
   },
   {
     "referrer": "github.com",

@@ -16,7 +16,12 @@
   },
   {
     "referrer": "github.com",
-    "count": 7,
-    "uniques": 4
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "referrer": "doubao.com",
+    "count": 1,
+    "uniques": 1
   }
 ]

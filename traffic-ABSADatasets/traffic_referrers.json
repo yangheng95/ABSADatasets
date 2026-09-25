@@ -7,7 +7,7 @@
   {
     "referrer": "medium.com",
     "count": 11,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "referrer": "github.com",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "doubao.com",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   }
 ]

@@ -5,14 +5,14 @@
     "uniques": 5
   },
   {
-    "referrer": "medium.com",
-    "count": 5,
-    "uniques": 5
-  },
-  {
     "referrer": "copilot.microsoft.com",
     "count": 5,
     "uniques": 3
+  },
+  {
+    "referrer": "medium.com",
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "doubao.com",

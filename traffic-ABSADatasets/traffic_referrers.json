@@ -18,5 +18,10 @@
     "referrer": "doubao.com",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "referrer": "pypi.org",
+    "count": 1,
+    "uniques": 1
   }
 ]

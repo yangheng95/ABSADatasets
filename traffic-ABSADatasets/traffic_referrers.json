@@ -1,18 +1,18 @@
 [
   {
-    "referrer": "Google",
-    "count": 8,
-    "uniques": 6
+    "referrer": "github.com",
+    "count": 6,
+    "uniques": 4
   },
   {
-    "referrer": "github.com",
-    "count": 8,
-    "uniques": 6
+    "referrer": "Google",
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "medium.com",
-    "count": 6,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "pyabsa.readthedocs.io",

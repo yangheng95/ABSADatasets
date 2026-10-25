@@ -2,14 +2,14 @@
   {
     "path": "/yangheng95/ABSADatasets",
     "title": "Overview",
-    "count": 42,
-    "uniques": 29
+    "count": 35,
+    "uniques": 25
   },
   {
     "path": "/yangheng95/ABSADatasets/tree/v2.0/datasets",
     "title": "/tree/v2.0/datasets",
-    "count": 17,
-    "uniques": 11
+    "count": 18,
+    "uniques": 12
   },
   {
     "path": "/yangheng95/ABSADatasets/blob/v2.0/README.MD",
@@ -42,12 +42,6 @@
     "uniques": 3
   },
   {
-    "path": "/yangheng95/ABSADatasets/tree/v1.2/DPT",
-    "title": "/tree/v1.2/DPT",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yangheng95/ABSADatasets/blob/v2.0/datasets/apc_datasets/102.Chinese/104.car/car.train.txt",
     "title": "/blob/v2.0/datasets/apc_datasets/102.Chinese/104.car/car.train.txt",
     "count": 3,
@@ -58,5 +52,11 @@
     "title": "/tree/v2.0/datasets/atepc_datasets",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yangheng95/ABSADatasets/tree/v1.2/DPT",
+    "title": "/tree/v1.2/DPT",
+    "count": 2,
+    "uniques": 2
   }
 ]

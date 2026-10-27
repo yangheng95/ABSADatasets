@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 6,
-    "uniques": 4
+    "count": 8,
+    "uniques": 6
   },
   {
     "referrer": "medium.com",
@@ -15,7 +15,7 @@
     "uniques": 2
   },
   {
-    "referrer": "pyabsa.readthedocs.io",
+    "referrer": "aocr.org",
     "count": 2,
     "uniques": 2
   },
@@ -25,12 +25,7 @@
     "uniques": 1
   },
   {
-    "referrer": "aocr.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "pypi.org",
+    "referrer": "pyabsa.readthedocs.io",
     "count": 1,
     "uniques": 1
   }

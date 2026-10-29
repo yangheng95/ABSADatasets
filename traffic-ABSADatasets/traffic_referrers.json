@@ -2,7 +2,7 @@
   {
     "referrer": "github.com",
     "count": 8,
-    "uniques": 6
+    "uniques": 7
   },
   {
     "referrer": "medium.com",
@@ -20,7 +20,7 @@
     "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "huggingface.co",
     "count": 1,
     "uniques": 1
   },

@@ -11,11 +11,16 @@
   },
   {
     "referrer": "Bing",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "huggingface.co",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "medium.com",
     "count": 1,
     "uniques": 1
   },

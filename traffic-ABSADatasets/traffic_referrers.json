@@ -1,12 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 9,
-    "uniques": 7
+    "count": 10,
+    "uniques": 8
   },
   {
     "referrer": "Google",
-    "count": 5,
+    "count": 7,
     "uniques": 5
   },
   {
@@ -21,11 +21,6 @@
   },
   {
     "referrer": "pyabsa.readthedocs.io",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "zenodo.org",
     "count": 1,
     "uniques": 1
   }
